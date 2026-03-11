@@ -13922,5 +13922,101 @@
         }
       ]
     }
+  },
+  {
+    "id": "one-piece-a-serie",
+    "tipo": "serie",
+    "categoria": "Séries",
+    "titulo": "ONE PIECE: A Série 🌀",
+    "logo": "https://image.tmdb.org/t/p/w1280/8wW3fV7ld4O4mx8gIYzdtrW6Q9K.jpg",
+    "sinopse": "O jovem pirata Monkey D. Luffy veste o chapéu de palha e, com sua tripulação atrapalhada, zarpa em uma jornada épica nesta adaptação em live-action do popular mangá.",
+    "avaliacao": "8.1",
+    "classificacao": "16",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "S01E01 🌀",
+          "linkFisico": "v/one-piece-a-serie-s01e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/8wW3fV7ld4O4mx8gIYzdtrW6Q9K.jpg"
+        },
+        {
+          "tit": "S01E02 🌀",
+          "linkFisico": "v/one-piece-a-serie-s01e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/8wW3fV7ld4O4mx8gIYzdtrW6Q9K.jpg"
+        },
+        {
+          "tit": "S01E03 🌀",
+          "linkFisico": "v/one-piece-a-serie-s01e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/8wW3fV7ld4O4mx8gIYzdtrW6Q9K.jpg"
+        },
+        {
+          "tit": "S01E04 🌀",
+          "linkFisico": "v/one-piece-a-serie-s01e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/8wW3fV7ld4O4mx8gIYzdtrW6Q9K.jpg"
+        },
+        {
+          "tit": "S01E05 🌀",
+          "linkFisico": "v/one-piece-a-serie-s01e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/8wW3fV7ld4O4mx8gIYzdtrW6Q9K.jpg"
+        },
+        {
+          "tit": "S01E06 🌀",
+          "linkFisico": "v/one-piece-a-serie-s01e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/8wW3fV7ld4O4mx8gIYzdtrW6Q9K.jpg"
+        },
+        {
+          "tit": "S01E07 🌀",
+          "linkFisico": "v/one-piece-a-serie-s01e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/8wW3fV7ld4O4mx8gIYzdtrW6Q9K.jpg"
+        },
+        {
+          "tit": "S01E08 🌀",
+          "linkFisico": "v/one-piece-a-serie-s01e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/8wW3fV7ld4O4mx8gIYzdtrW6Q9K.jpg"
+        }
+      ],
+      "2": [
+        {
+          "tit": "S02E01 🌀",
+          "linkFisico": "v/one-piece-a-serie-s02e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/8wW3fV7ld4O4mx8gIYzdtrW6Q9K.jpg"
+        },
+        {
+          "tit": "S02E02 🌀",
+          "linkFisico": "v/one-piece-a-serie-s02e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/8wW3fV7ld4O4mx8gIYzdtrW6Q9K.jpg"
+        },
+        {
+          "tit": "S02E03 🌀",
+          "linkFisico": "v/one-piece-a-serie-s02e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/8wW3fV7ld4O4mx8gIYzdtrW6Q9K.jpg"
+        },
+        {
+          "tit": "S02E04 🌀",
+          "linkFisico": "v/one-piece-a-serie-s02e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/8wW3fV7ld4O4mx8gIYzdtrW6Q9K.jpg"
+        },
+        {
+          "tit": "S02E05 🌀",
+          "linkFisico": "v/one-piece-a-serie-s02e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/8wW3fV7ld4O4mx8gIYzdtrW6Q9K.jpg"
+        },
+        {
+          "tit": "S02E06 🌀",
+          "linkFisico": "v/one-piece-a-serie-s02e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/8wW3fV7ld4O4mx8gIYzdtrW6Q9K.jpg"
+        },
+        {
+          "tit": "S02E07 🌀",
+          "linkFisico": "v/one-piece-a-serie-s02e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/8wW3fV7ld4O4mx8gIYzdtrW6Q9K.jpg"
+        },
+        {
+          "tit": "S02E08 🌀",
+          "linkFisico": "v/one-piece-a-serie-s02e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/8wW3fV7ld4O4mx8gIYzdtrW6Q9K.jpg"
+        }
+      ]
+    }
   }
 ]
