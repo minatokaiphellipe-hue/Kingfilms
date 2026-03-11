@@ -13864,5 +13864,23 @@
         }
       ]
     }
+  },
+  {
+    "id": "o-telefone-preto",
+    "tipo": "filme",
+    "categoria": "Terror",
+    "titulo": "O Telefone Preto 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/aAdnNifQo2qxDYnuDD3blsxinH1.jpg",
+    "sinopse": "Após ser raptado por um assassino de crianças, Finney Shaw começa a receber chamadas de vítimas anteriores do assassino. Elas estão determinadas a garantir que o que lhes aconteceu não aconteça com Finney.",
+    "avaliacao": "7.5",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/o-telefone-preto.html",
+          "logoEp": "https://image.tmdb.org/t/p/w780/aAdnNifQo2qxDYnuDD3blsxinH1.jpg"
+        }
+      ]
+    }
   }
 ]
