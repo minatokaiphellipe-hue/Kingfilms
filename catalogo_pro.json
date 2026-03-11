@@ -14355,5 +14355,24 @@
         }
       ]
     }
+  },
+  {
+    "id": "fantasia",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Fantasia 🌀",
+    "logo": "https://image.tmdb.org/t/p/w1280/lyzI5uFJC2E7sIYCCdaU0oZkDw2.jpg",
+    "sinopse": "A integração das grandes obras da música clássica com visuais extremamente criativos e originais da animação. São as seguintes composições que fazem parte do filme: \"Toccata e Fuga em Ré Menor\", de Johann Sebastian Bach; \"Suíte Quebra-Nozes\", de Peter Llich Tchaikovsky; \"O Aprendiz de Feiticeiro\", de Paul Dukas; \"Sagração da Primavera\", de Igor Stravinsky; \"Sinfonia Pastoral\", de Ludwing Van Beethoven; \"Dança das Horas\", de Almicare Ponchielli; \"Noite no Monte Calvo\", de Modest Mussorgsky; e \"Ave Maria\", de Franz Schubert.",
+    "avaliacao": "7.3",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/fantasia.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/lyzI5uFJC2E7sIYCCdaU0oZkDw2.jpg"
+        }
+      ]
+    }
   }
 ]
