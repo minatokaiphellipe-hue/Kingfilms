@@ -13922,5 +13922,101 @@
         }
       ]
     }
+  },
+  {
+    "id": "the-beauty-lindos-de-morrer",
+    "tipo": "serie",
+    "categoria": "Séries",
+    "titulo": "The Beauty: Lindos de Morrer 🌀",
+    "logo": "https://image.tmdb.org/t/p/w1280/sR6vlXCKgyzZE6porJBqcGlEfuF.jpg",
+    "sinopse": "Quando supermodelos internacionais começam a morrer de forma brutal e misteriosa, dois agentes do FBI são enviados a Paris, Veneza, Roma e Nova York para descobrir a verdade. No entanto, a investigação revela uma conspiração que ameaça o futuro da humanidade.",
+    "avaliacao": "6.2",
+    "classificacao": "18",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "S01E01 🌀",
+          "linkFisico": "v/the-beauty-lindos-de-morrer-s01e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/sR6vlXCKgyzZE6porJBqcGlEfuF.jpg"
+        },
+        {
+          "tit": "S01E02 🌀",
+          "linkFisico": "v/the-beauty-lindos-de-morrer-s01e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/sR6vlXCKgyzZE6porJBqcGlEfuF.jpg"
+        },
+        {
+          "tit": "S01E03 🌀",
+          "linkFisico": "v/the-beauty-lindos-de-morrer-s01e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/sR6vlXCKgyzZE6porJBqcGlEfuF.jpg"
+        },
+        {
+          "tit": "S01E04 🌀",
+          "linkFisico": "v/the-beauty-lindos-de-morrer-s01e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/sR6vlXCKgyzZE6porJBqcGlEfuF.jpg"
+        },
+        {
+          "tit": "S01E05 🌀",
+          "linkFisico": "v/the-beauty-lindos-de-morrer-s01e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/sR6vlXCKgyzZE6porJBqcGlEfuF.jpg"
+        },
+        {
+          "tit": "S01E06 🌀",
+          "linkFisico": "v/the-beauty-lindos-de-morrer-s01e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/sR6vlXCKgyzZE6porJBqcGlEfuF.jpg"
+        },
+        {
+          "tit": "S01E07 🌀",
+          "linkFisico": "v/the-beauty-lindos-de-morrer-s01e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/sR6vlXCKgyzZE6porJBqcGlEfuF.jpg"
+        },
+        {
+          "tit": "S01E08 🌀",
+          "linkFisico": "v/the-beauty-lindos-de-morrer-s01e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/sR6vlXCKgyzZE6porJBqcGlEfuF.jpg"
+        }
+      ],
+      "2": [
+        {
+          "tit": "S02E01 🌀",
+          "linkFisico": "v/the-beauty-lindos-de-morrer-s02e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/sR6vlXCKgyzZE6porJBqcGlEfuF.jpg"
+        },
+        {
+          "tit": "S02E02 🌀",
+          "linkFisico": "v/the-beauty-lindos-de-morrer-s02e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/sR6vlXCKgyzZE6porJBqcGlEfuF.jpg"
+        },
+        {
+          "tit": "S02E03 🌀",
+          "linkFisico": "v/the-beauty-lindos-de-morrer-s02e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/sR6vlXCKgyzZE6porJBqcGlEfuF.jpg"
+        },
+        {
+          "tit": "S02E04 🌀",
+          "linkFisico": "v/the-beauty-lindos-de-morrer-s02e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/sR6vlXCKgyzZE6porJBqcGlEfuF.jpg"
+        },
+        {
+          "tit": "S02E05 🌀",
+          "linkFisico": "v/the-beauty-lindos-de-morrer-s02e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/sR6vlXCKgyzZE6porJBqcGlEfuF.jpg"
+        },
+        {
+          "tit": "S02E06 🌀",
+          "linkFisico": "v/the-beauty-lindos-de-morrer-s02e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/sR6vlXCKgyzZE6porJBqcGlEfuF.jpg"
+        },
+        {
+          "tit": "S02E07 🌀",
+          "linkFisico": "v/the-beauty-lindos-de-morrer-s02e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/sR6vlXCKgyzZE6porJBqcGlEfuF.jpg"
+        },
+        {
+          "tit": "S02E08 🌀",
+          "linkFisico": "v/the-beauty-lindos-de-morrer-s02e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/sR6vlXCKgyzZE6porJBqcGlEfuF.jpg"
+        }
+      ]
+    }
   }
 ]
