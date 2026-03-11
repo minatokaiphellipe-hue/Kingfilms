@@ -14336,5 +14336,24 @@
         }
       ]
     }
+  },
+  {
+    "id": "o-bom-dinossauro",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "O Bom Dinossauro 🌀",
+    "logo": "https://image.tmdb.org/t/p/original/iKlhpykoy5QxTWSZ0cWACjt7ZUt.jpg",
+    "sinopse": "Num mundo onde os dinossauros não foram extintos, um jovem Apatossauro chamado Arlo faz uma improvável amizade com um rapaz humano enquanto viajam através de uma paisagem misteriosa e perigosa.",
+    "avaliacao": "6.7",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir Filme 🌀",
+          "linkFisico": "v/o-bom-dinossauro.html",
+          "logoEp": "https://image.tmdb.org/t/p/original/iKlhpykoy5QxTWSZ0cWACjt7ZUt.jpg"
+        }
+      ]
+    }
   }
 ]
