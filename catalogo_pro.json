@@ -14317,5 +14317,24 @@
         }
       ]
     }
+  },
+  {
+    "id": "o-castelo-animado",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "O Castelo Animado 🌀",
+    "logo": "https://image.tmdb.org/t/p/w1280/jbMvgQfiVh0O76tSdLEYUfGCxry.jpg",
+    "sinopse": "Sophie, uma jovem chapeleira, é transformada em uma mulher idosa por uma bruxa que entra em sua loja e a amaldiçoa. Ela encontra um mago chamado Howl e se vê envolvida em sua resistência em lutar pelo rei.",
+    "avaliacao": "8.4",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/o-castelo-animado.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/jbMvgQfiVh0O76tSdLEYUfGCxry.jpg"
+        }
+      ]
+    }
   }
 ]
