@@ -14037,5 +14037,285 @@
         }
       ]
     }
+  },
+  {
+    "id": "super-choque",
+    "tipo": "serie",
+    "categoria": "Séries",
+    "titulo": "Super Choque 🌀",
+    "logo": "https://image.tmdb.org/t/p/w1280/f07mB0TSJbaVqLtSagCsvSTP2kk.jpg",
+    "sinopse": "Virgil é um jovem esperto, inteligente, atlético, vivaz e muito bem-humorado. Ele foi exposto acidentalmente a um gás desconhecido. Ele ganhou superpoderes eletrostáticos, e os usou para tornar-se um super-herói chamado Super Choque.",
+    "avaliacao": "8.0",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "S01E01 🌀",
+          "linkFisico": "v/super-choque-s01e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/f07mB0TSJbaVqLtSagCsvSTP2kk.jpg"
+        },
+        {
+          "tit": "S01E02 🌀",
+          "linkFisico": "v/super-choque-s01e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/f07mB0TSJbaVqLtSagCsvSTP2kk.jpg"
+        },
+        {
+          "tit": "S01E03 🌀",
+          "linkFisico": "v/super-choque-s01e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/f07mB0TSJbaVqLtSagCsvSTP2kk.jpg"
+        },
+        {
+          "tit": "S01E04 🌀",
+          "linkFisico": "v/super-choque-s01e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/f07mB0TSJbaVqLtSagCsvSTP2kk.jpg"
+        },
+        {
+          "tit": "S01E05 🌀",
+          "linkFisico": "v/super-choque-s01e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/f07mB0TSJbaVqLtSagCsvSTP2kk.jpg"
+        },
+        {
+          "tit": "S01E06 🌀",
+          "linkFisico": "v/super-choque-s01e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/f07mB0TSJbaVqLtSagCsvSTP2kk.jpg"
+        },
+        {
+          "tit": "S01E07 🌀",
+          "linkFisico": "v/super-choque-s01e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/f07mB0TSJbaVqLtSagCsvSTP2kk.jpg"
+        },
+        {
+          "tit": "S01E08 🌀",
+          "linkFisico": "v/super-choque-s01e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/f07mB0TSJbaVqLtSagCsvSTP2kk.jpg"
+        },
+        {
+          "tit": "S01E09 🌀",
+          "linkFisico": "v/super-choque-s01e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/f07mB0TSJbaVqLtSagCsvSTP2kk.jpg"
+        },
+        {
+          "tit": "S01E10 🌀",
+          "linkFisico": "v/super-choque-s01e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/f07mB0TSJbaVqLtSagCsvSTP2kk.jpg"
+        },
+        {
+          "tit": "S01E11 🌀",
+          "linkFisico": "v/super-choque-s01e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/f07mB0TSJbaVqLtSagCsvSTP2kk.jpg"
+        },
+        {
+          "tit": "S01E12 🌀",
+          "linkFisico": "v/super-choque-s01e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/f07mB0TSJbaVqLtSagCsvSTP2kk.jpg"
+        },
+        {
+          "tit": "S01E13 🌀",
+          "linkFisico": "v/super-choque-s01e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/f07mB0TSJbaVqLtSagCsvSTP2kk.jpg"
+        }
+      ],
+      "2": [
+        {
+          "tit": "S02E01 🌀",
+          "linkFisico": "v/super-choque-s02e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/f07mB0TSJbaVqLtSagCsvSTP2kk.jpg"
+        },
+        {
+          "tit": "S02E02 🌀",
+          "linkFisico": "v/super-choque-s02e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/f07mB0TSJbaVqLtSagCsvSTP2kk.jpg"
+        },
+        {
+          "tit": "S02E03 🌀",
+          "linkFisico": "v/super-choque-s02e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/f07mB0TSJbaVqLtSagCsvSTP2kk.jpg"
+        },
+        {
+          "tit": "S02E04 🌀",
+          "linkFisico": "v/super-choque-s02e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/f07mB0TSJbaVqLtSagCsvSTP2kk.jpg"
+        },
+        {
+          "tit": "S02E05 🌀",
+          "linkFisico": "v/super-choque-s02e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/f07mB0TSJbaVqLtSagCsvSTP2kk.jpg"
+        },
+        {
+          "tit": "S02E06 🌀",
+          "linkFisico": "v/super-choque-s02e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/f07mB0TSJbaVqLtSagCsvSTP2kk.jpg"
+        },
+        {
+          "tit": "S02E07 🌀",
+          "linkFisico": "v/super-choque-s02e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/f07mB0TSJbaVqLtSagCsvSTP2kk.jpg"
+        },
+        {
+          "tit": "S02E08 🌀",
+          "linkFisico": "v/super-choque-s02e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/f07mB0TSJbaVqLtSagCsvSTP2kk.jpg"
+        },
+        {
+          "tit": "S02E09 🌀",
+          "linkFisico": "v/super-choque-s02e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/f07mB0TSJbaVqLtSagCsvSTP2kk.jpg"
+        },
+        {
+          "tit": "S02E10 🌀",
+          "linkFisico": "v/super-choque-s02e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/f07mB0TSJbaVqLtSagCsvSTP2kk.jpg"
+        },
+        {
+          "tit": "S02E11 🌀",
+          "linkFisico": "v/super-choque-s02e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/f07mB0TSJbaVqLtSagCsvSTP2kk.jpg"
+        },
+        {
+          "tit": "S02E12 🌀",
+          "linkFisico": "v/super-choque-s02e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/f07mB0TSJbaVqLtSagCsvSTP2kk.jpg"
+        },
+        {
+          "tit": "S02E13 🌀",
+          "linkFisico": "v/super-choque-s02e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/f07mB0TSJbaVqLtSagCsvSTP2kk.jpg"
+        }
+      ],
+      "3": [
+        {
+          "tit": "S03E01 🌀",
+          "linkFisico": "v/super-choque-s03e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/f07mB0TSJbaVqLtSagCsvSTP2kk.jpg"
+        },
+        {
+          "tit": "S03E02 🌀",
+          "linkFisico": "v/super-choque-s03e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/f07mB0TSJbaVqLtSagCsvSTP2kk.jpg"
+        },
+        {
+          "tit": "S03E03 🌀",
+          "linkFisico": "v/super-choque-s03e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/f07mB0TSJbaVqLtSagCsvSTP2kk.jpg"
+        },
+        {
+          "tit": "S03E04 🌀",
+          "linkFisico": "v/super-choque-s03e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/f07mB0TSJbaVqLtSagCsvSTP2kk.jpg"
+        },
+        {
+          "tit": "S03E05 🌀",
+          "linkFisico": "v/super-choque-s03e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/f07mB0TSJbaVqLtSagCsvSTP2kk.jpg"
+        },
+        {
+          "tit": "S03E06 🌀",
+          "linkFisico": "v/super-choque-s03e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/f07mB0TSJbaVqLtSagCsvSTP2kk.jpg"
+        },
+        {
+          "tit": "S03E07 🌀",
+          "linkFisico": "v/super-choque-s03e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/f07mB0TSJbaVqLtSagCsvSTP2kk.jpg"
+        },
+        {
+          "tit": "S03E08 🌀",
+          "linkFisico": "v/super-choque-s03e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/f07mB0TSJbaVqLtSagCsvSTP2kk.jpg"
+        },
+        {
+          "tit": "S03E09 🌀",
+          "linkFisico": "v/super-choque-s03e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/f07mB0TSJbaVqLtSagCsvSTP2kk.jpg"
+        },
+        {
+          "tit": "S03E10 🌀",
+          "linkFisico": "v/super-choque-s03e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/f07mB0TSJbaVqLtSagCsvSTP2kk.jpg"
+        },
+        {
+          "tit": "S03E11 🌀",
+          "linkFisico": "v/super-choque-s03e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/f07mB0TSJbaVqLtSagCsvSTP2kk.jpg"
+        },
+        {
+          "tit": "S03E12 🌀",
+          "linkFisico": "v/super-choque-s03e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/f07mB0TSJbaVqLtSagCsvSTP2kk.jpg"
+        },
+        {
+          "tit": "S03E13 🌀",
+          "linkFisico": "v/super-choque-s03e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/f07mB0TSJbaVqLtSagCsvSTP2kk.jpg"
+        }
+      ],
+      "4": [
+        {
+          "tit": "S04E01 🌀",
+          "linkFisico": "v/super-choque-s04e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/f07mB0TSJbaVqLtSagCsvSTP2kk.jpg"
+        },
+        {
+          "tit": "S04E02 🌀",
+          "linkFisico": "v/super-choque-s04e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/f07mB0TSJbaVqLtSagCsvSTP2kk.jpg"
+        },
+        {
+          "tit": "S04E03 🌀",
+          "linkFisico": "v/super-choque-s04e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/f07mB0TSJbaVqLtSagCsvSTP2kk.jpg"
+        },
+        {
+          "tit": "S04E04 🌀",
+          "linkFisico": "v/super-choque-s04e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/f07mB0TSJbaVqLtSagCsvSTP2kk.jpg"
+        },
+        {
+          "tit": "S04E05 🌀",
+          "linkFisico": "v/super-choque-s04e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/f07mB0TSJbaVqLtSagCsvSTP2kk.jpg"
+        },
+        {
+          "tit": "S04E06 🌀",
+          "linkFisico": "v/super-choque-s04e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/f07mB0TSJbaVqLtSagCsvSTP2kk.jpg"
+        },
+        {
+          "tit": "S04E07 🌀",
+          "linkFisico": "v/super-choque-s04e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/f07mB0TSJbaVqLtSagCsvSTP2kk.jpg"
+        },
+        {
+          "tit": "S04E08 🌀",
+          "linkFisico": "v/super-choque-s04e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/f07mB0TSJbaVqLtSagCsvSTP2kk.jpg"
+        },
+        {
+          "tit": "S04E09 🌀",
+          "linkFisico": "v/super-choque-s04e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/f07mB0TSJbaVqLtSagCsvSTP2kk.jpg"
+        },
+        {
+          "tit": "S04E10 🌀",
+          "linkFisico": "v/super-choque-s04e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/f07mB0TSJbaVqLtSagCsvSTP2kk.jpg"
+        },
+        {
+          "tit": "S04E11 🌀",
+          "linkFisico": "v/super-choque-s04e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/f07mB0TSJbaVqLtSagCsvSTP2kk.jpg"
+        },
+        {
+          "tit": "S04E12 🌀",
+          "linkFisico": "v/super-choque-s04e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/f07mB0TSJbaVqLtSagCsvSTP2kk.jpg"
+        },
+        {
+          "tit": "S04E13 🌀",
+          "linkFisico": "v/super-choque-s04e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/f07mB0TSJbaVqLtSagCsvSTP2kk.jpg"
+        }
+      ]
+    }
   }
 ]
