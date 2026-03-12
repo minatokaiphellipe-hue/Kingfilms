@@ -15506,5 +15506,43 @@
         }
       ]
     }
+  },
+  {
+    "id": "pantera-negra",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "Pantera Negra 🌀",
+    "logo": "https://image.tmdb.org/t/p/w1280/vJnGmCSt9aKiSmla663xv9MSnp3.jpg",
+    "sinopse": "O príncipe T'Challa retorna a Wakanda para ser coroado rei. Assumindo o manto de Pantera Negra, ele vai à caça de um vilão que roubou um precioso metal de seu país.",
+    "avaliacao": "7.4",
+    "classificacao": "14",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/pantera-negra.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/vJnGmCSt9aKiSmla663xv9MSnp3.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "pantera-negra-wakanda-para-sempre",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "Pantera Negra: Wakanda para Sempre 🌀",
+    "logo": "https://image.tmdb.org/t/p/w1280/d9KKavb1puNUjU9HACV6rQ8jYso.jpg",
+    "sinopse": "A rainha Ramonda, Shuri, M'Baku, Okoye e as poderosas Dora Milaje lutam para proteger sua nação após a morte do rei T'Challa. Com a ajuda da Cão de Guerra Nakia e de Everett Ross, eles tentam encontrar um novo caminho para Wakanda.",
+    "avaliacao": "7.0",
+    "classificacao": "12",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/pantera-negra-wakanda-para-sempre.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/d9KKavb1puNUjU9HACV6rQ8jYso.jpg"
+        }
+      ]
+    }
   }
 ]
