@@ -14606,5 +14606,24 @@
         }
       ]
     }
+  },
+  {
+    "id": "thunderbolts",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "Thunderbolts* 🌀",
+    "logo": "https://image.tmdb.org/t/p/w1280/d3Bg0OTEr42eOJ9oEypdeeRrMmJ.jpg",
+    "sinopse": "Depois de se verem presos em uma armadilha mortal, uma equipe não convencional de sete anti-heróis deve embarcar em uma missão perigosa que os forçará a confrontar os cantos mais sombrios de seus passados.",
+    "avaliacao": "7.3",
+    "classificacao": "14",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/thunderbolts.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/d3Bg0OTEr42eOJ9oEypdeeRrMmJ.jpg"
+        }
+      ]
+    }
   }
 ]
