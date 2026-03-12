@@ -14846,5 +14846,79 @@
         }
       ]
     }
+  },
+  {
+    "id": "the-case-study-of-vanitas",
+    "tipo": "serie",
+    "categoria": "Animes",
+    "titulo": "The Case Study of Vanitas 🌀",
+    "logo": "https://image.tmdb.org/t/p/w1280/u8QlDE78tI6ValBADKa4NEOWihQ.jpg",
+    "sinopse": "É Paris, século XIX, e o jovem vampiro Noé caça o Livro de Vanitas. Atacado por um vampiro levado à loucura, um humano intercede, resgata Noé, e cura a criatura doente. Comandando o livro e chamando a si mesmo de Vanitas, este médico seduz Noé com uma louca cruzada para \"curar\" toda a raça vampira. Aliar-se a alguém que exerce tão facilmente o poder arcano pode ser perigoso, mas será que ele tem escolha?",
+    "avaliacao": "8.3",
+    "classificacao": "14",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "S01E01 🌀",
+          "linkFisico": "v/the-case-study-of-vanitas-s01e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/u8QlDE78tI6ValBADKa4NEOWihQ.jpg"
+        },
+        {
+          "tit": "S01E02 🌀",
+          "linkFisico": "v/the-case-study-of-vanitas-s01e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/u8QlDE78tI6ValBADKa4NEOWihQ.jpg"
+        },
+        {
+          "tit": "S01E03 🌀",
+          "linkFisico": "v/the-case-study-of-vanitas-s01e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/u8QlDE78tI6ValBADKa4NEOWihQ.jpg"
+        },
+        {
+          "tit": "S01E04 🌀",
+          "linkFisico": "v/the-case-study-of-vanitas-s01e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/u8QlDE78tI6ValBADKa4NEOWihQ.jpg"
+        },
+        {
+          "tit": "S01E05 🌀",
+          "linkFisico": "v/the-case-study-of-vanitas-s01e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/u8QlDE78tI6ValBADKa4NEOWihQ.jpg"
+        },
+        {
+          "tit": "S01E06 🌀",
+          "linkFisico": "v/the-case-study-of-vanitas-s01e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/u8QlDE78tI6ValBADKa4NEOWihQ.jpg"
+        },
+        {
+          "tit": "S01E07 🌀",
+          "linkFisico": "v/the-case-study-of-vanitas-s01e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/u8QlDE78tI6ValBADKa4NEOWihQ.jpg"
+        },
+        {
+          "tit": "S01E08 🌀",
+          "linkFisico": "v/the-case-study-of-vanitas-s01e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/u8QlDE78tI6ValBADKa4NEOWihQ.jpg"
+        },
+        {
+          "tit": "S01E09 🌀",
+          "linkFisico": "v/the-case-study-of-vanitas-s01e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/u8QlDE78tI6ValBADKa4NEOWihQ.jpg"
+        },
+        {
+          "tit": "S01E10 🌀",
+          "linkFisico": "v/the-case-study-of-vanitas-s01e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/u8QlDE78tI6ValBADKa4NEOWihQ.jpg"
+        },
+        {
+          "tit": "S01E11 🌀",
+          "linkFisico": "v/the-case-study-of-vanitas-s01e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/u8QlDE78tI6ValBADKa4NEOWihQ.jpg"
+        },
+        {
+          "tit": "S01E12 🌀",
+          "linkFisico": "v/the-case-study-of-vanitas-s01e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/u8QlDE78tI6ValBADKa4NEOWihQ.jpg"
+        }
+      ]
+    }
   }
 ]
