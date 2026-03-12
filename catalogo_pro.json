@@ -15544,5 +15544,24 @@
         }
       ]
     }
+  },
+  {
+    "id": "harry-potter-e-o-enigma-do-principe",
+    "tipo": "filme",
+    "categoria": "=\"Fantasia\"",
+    "titulo": "Harry Potter e o Enigma do Príncipe 🌀",
+    "logo": "https://image.tmdb.org/t/p/w1280/jQPZqILOrVfQLuonSnePWCHDEdT.jpg",
+    "sinopse": "À medida que Lord Voldemort aumenta seu controle sobre o mundo Trouxa e bruxo, Hogwarts não é mais um local seguro. Harry suspeita que haja perigos dentro do castelo, mas Dumbledore está mais empenhado em prepará-lo para a batalha final que se aproxima rapidamente. Juntos, eles trabalham para encontrar a chave para desbloquear as defesas de Voldemort e, para esse fim, Dumbledore recruta seu velho amigo e colega Horácio Slughorn, que ele acredita possuir informações cruciais. Mesmo quando o confronto decisivo se aproxima, o romance floresce para Harry, Ron, Hermione e seus colegas de classe. O amor está no ar, mas o perigo está por vir e Hogwarts pode nunca mais ser a mesma.",
+    "avaliacao": "7.7",
+    "classificacao": "12",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/harry-potter-e-o-enigma-do-principe.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/jQPZqILOrVfQLuonSnePWCHDEdT.jpg"
+        }
+      ]
+    }
   }
 ]
