@@ -15449,5 +15449,24 @@
         }
       ]
     }
+  },
+  {
+    "id": "tragedia-su-tre-carte",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "Tragedia su tre carte 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780null",
+    "sinopse": "Assista no KINGFILMS.",
+    "avaliacao": "7.5",
+    "classificacao": "12",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/tragedia-su-tre-carte.html",
+          "logoEp": "https://image.tmdb.org/t/p/w780null"
+        }
+      ]
+    }
   }
 ]
