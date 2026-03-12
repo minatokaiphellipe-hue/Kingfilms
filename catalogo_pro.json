@@ -15449,5 +15449,24 @@
         }
       ]
     }
+  },
+  {
+    "id": "petrolineide",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "Petrolineide 🌀",
+    "logo": "https://image.tmdb.org/t/p/w1280/c4a1zpUmE3Y4fLfKYujLgsWXs5t.jpg",
+    "sinopse": "Assista no KINGFILMS.",
+    "avaliacao": "7.5",
+    "classificacao": "12",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/petrolineide.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/c4a1zpUmE3Y4fLfKYujLgsWXs5t.jpg"
+        }
+      ]
+    }
   }
 ]
