@@ -15715,5 +15715,43 @@
         }
       ]
     }
+  },
+  {
+    "id": "a-fuga-das-galinhas-a-ameaca-dos-nuggets",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "A Fuga das Galinhas - A Ameaça dos Nuggets 🌀",
+    "logo": "https://image.tmdb.org/t/p/w1280/blS4zDPEO0eWuzlInhh2RvBMUQU.jpg",
+    "sinopse": "Um grupo de galinhas destemidas se une para enfrentar uma nova ameaça: uma fazenda muito suspeita, com cheiro de fritura no ar.",
+    "avaliacao": "6.9",
+    "classificacao": "10",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/a-fuga-das-galinhas-a-ameaca-dos-nuggets.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/blS4zDPEO0eWuzlInhh2RvBMUQU.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "os-vingadores-the-avengers",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "Os Vingadores: The Avengers 🌀",
+    "logo": "https://image.tmdb.org/t/p/w1280/82aFchvDc8iOeXZAAbDvTqitcDk.jpg",
+    "sinopse": "Loki, o irmão de Thor, ganha acesso ao poder ilimitado do cubo cósmico ao roubá-lo de dentro das instalações da S.H.I.E.L.D. Nick Fury, o diretor desta agência internacional que mantém a paz, logo reúne os únicos super-heróis que serão capazes de defender a Terra de ameaças sem precedentes. Homem de Ferro, Capitão América, Hulk, Thor, Viúva Negra e Gavião Arqueiro formam o time dos sonhos de Fury, mas eles precisam aprender a colocar os egos de lado e agir como um grupo em prol da humanidade.",
+    "avaliacao": "8.0",
+    "classificacao": "12",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/os-vingadores-the-avengers.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/82aFchvDc8iOeXZAAbDvTqitcDk.jpg"
+        }
+      ]
+    }
   }
 ]
