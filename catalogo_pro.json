@@ -7294,25 +7294,6 @@
     }
   },
   {
-    "id": "o-bom-dinossauro",
-    "tipo": "filme",
-    "categoria": "Animações",
-    "titulo": "O Bom Dinossauro 🌀",
-    "logo": "https://image.tmdb.org/t/p/original/iKlhpykoy5QxTWSZ0cWACjt7ZUt.jpg",
-    "sinopse": "Num mundo onde os dinossauros não foram extintos, um jovem Apatossauro chamado Arlo faz uma improvável amizade com um rapaz humano enquanto viajam através de uma paisagem misteriosa e perigosa.",
-    "avaliacao": "6.7",
-    "classificacao": "Livre",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "Assistir Filme 🌀",
-          "linkFisico": "v/o-bom-dinossauro.html",
-          "logoEp": "https://image.tmdb.org/t/p/original/iKlhpykoy5QxTWSZ0cWACjt7ZUt.jpg"
-        }
-      ]
-    }
-  },
-  {
     "id": "o-castelo-animado",
     "tipo": "filme",
     "categoria": "Animações",
@@ -15826,6 +15807,25 @@
           "tit": "Assistir 🌀",
           "linkFisico": "v/vingadores-ultimato.html",
           "logoEp": "https://image.tmdb.org/t/p/w1280/775qnT1C54RJvXFgkTfC4ttaxok.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "o-bom-dinossauro",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "O Bom Dinossauro 🌀",
+    "logo": "https://image.tmdb.org/t/p/w1280/iKlhpykoy5QxTWSZ0cWACjt7ZUt.jpg",
+    "sinopse": "Em um mundo onde os dinossauros e os humanos coexistem, um jovem apatossauro e um garoto neandertal criam uma amizade única e vivem aventuras inesquecíveis.",
+    "avaliacao": "6.7",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/o-bom-dinossauro.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/iKlhpykoy5QxTWSZ0cWACjt7ZUt.jpg"
         }
       ]
     }
