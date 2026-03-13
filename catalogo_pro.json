@@ -15696,5 +15696,24 @@
         }
       ]
     }
+  },
+  {
+    "id": "a-fuga-das-galinhas",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "A Fuga das Galinhas 🌀",
+    "logo": "https://image.tmdb.org/t/p/w1280/e3wzfErsS9Ynehl3COgA55QUQyl.jpg",
+    "sinopse": "No galinheiro de uma fazenda inglesa dos anos 1950, galinhas cumprem sua função e vivem pacatamente sonhando com uma vida melhor. Uma delas, Ginger, sonha com a liberdade e planeja sair voando dali junto com suas companheiras.",
+    "avaliacao": "6.8",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/a-fuga-das-galinhas.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/e3wzfErsS9Ynehl3COgA55QUQyl.jpg"
+        }
+      ]
+    }
   }
 ]
