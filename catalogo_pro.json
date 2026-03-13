@@ -15848,5 +15848,62 @@
         }
       ]
     }
+  },
+  {
+    "id": "harry-potter-e-a-pedra-filosofal",
+    "tipo": "filme",
+    "categoria": "Fantasia",
+    "titulo": "Harry Potter e a Pedra Filosofal 🌀",
+    "logo": "https://image.tmdb.org/t/p/w1280/4TaB2QPBaaK5JItEcNDpD8ySNNo.jpg",
+    "sinopse": "Harry Potter é um garoto órfão que vive infeliz com seus tios, os Dursley. Em seu aniversário de 11 anos ele recebe uma carta que mudará sua vida: um convite para ingressar em Hogwarts.",
+    "avaliacao": "7.9",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/harry-potter-e-a-pedra-filosofal.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/4TaB2QPBaaK5JItEcNDpD8ySNNo.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "harry-potter-e-a-camara-secreta",
+    "tipo": "filme",
+    "categoria": "Fantasia",
+    "titulo": "Harry Potter e a Câmara Secreta 🌀",
+    "logo": "https://image.tmdb.org/t/p/w1280/mD33fciFvkBx7tM3aVRSa0eBLO7.jpg",
+    "sinopse": "Carros voadores, árvores que lutam e um misterioso elfo, com um aviso ainda mais misterioso. Harry Potter está pronto para dar início ao segundo ano de sua maravilhosa jornada no mundo da bruxaria. Em Hogwarts nesse ano, aranhas falam, cartas dão broncas e a habilidade de Harry para falar com cobras voltará contra ele. De clubes de duelo a jogadores de quadribol desonestos, esse será um ano de aventura e perigo para todos. Quando a mensagem sangrenta na parede anuncia que a Câmara Secreta foi aberta, Harry, Rony e Hermione percebem que para salvar Hogwarts será preciso muita mágica e coragem.",
+    "avaliacao": "7.7",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/harry-potter-e-a-camara-secreta.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mD33fciFvkBx7tM3aVRSa0eBLO7.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "harry-potter-e-o-prisioneiro-de-azkaban",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "Harry Potter e o Prisioneiro de Azkaban 🌀",
+    "logo": "https://image.tmdb.org/t/p/w1280/ktj07Eajol5Y2aTQpvTADiQZXJV.jpg",
+    "sinopse": "É o início do terceiro ano na escola de magia e bruxaria de Hogwarts. Harry, Ron e Hermione têm muito o que aprender. Mas uma ameaça ronda a escola e ela se chama Sirius Black. Após doze anos encarcerado na prisão de Azkaban, ele consegue escapar e volta para vingar seu mestre, Lord Voldemort. Para piorar, os Dementores, guardas supostamente enviados para proteger Hogwarts e seguir os passos de Black, parecem ser ameaças ainda mais perigosas.",
+    "avaliacao": "8.0",
+    "classificacao": "12",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/harry-potter-e-o-prisioneiro-de-azkaban.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/ktj07Eajol5Y2aTQpvTADiQZXJV.jpg"
+        }
+      ]
+    }
   }
 ]
