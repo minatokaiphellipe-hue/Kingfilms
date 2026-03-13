@@ -16000,5 +16000,59 @@
         }
       ]
     }
+  },
+  {
+    "id": "alien-earth",
+    "tipo": "serie",
+    "categoria": "Séries",
+    "titulo": "Alien: Earth 🌀",
+    "logo": "https://image.tmdb.org/t/p/w1280/lwDRRZLaAEd83EoUaj7H0D1V5Dc.jpg",
+    "sinopse": "Quando uma misteriosa nave espacial cai na Terra, uma jovem e um grupo desorganizado de soldados táticos fazem uma descoberta fatídica que os coloca cara a cara com a maior ameaça ao planeta.",
+    "avaliacao": "7.3",
+    "classificacao": "16",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "S01E01 🌀",
+          "linkFisico": "v/alien-earth-s01e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/lwDRRZLaAEd83EoUaj7H0D1V5Dc.jpg"
+        },
+        {
+          "tit": "S01E02 🌀",
+          "linkFisico": "v/alien-earth-s01e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/lwDRRZLaAEd83EoUaj7H0D1V5Dc.jpg"
+        },
+        {
+          "tit": "S01E03 🌀",
+          "linkFisico": "v/alien-earth-s01e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/lwDRRZLaAEd83EoUaj7H0D1V5Dc.jpg"
+        },
+        {
+          "tit": "S01E04 🌀",
+          "linkFisico": "v/alien-earth-s01e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/lwDRRZLaAEd83EoUaj7H0D1V5Dc.jpg"
+        },
+        {
+          "tit": "S01E05 🌀",
+          "linkFisico": "v/alien-earth-s01e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/lwDRRZLaAEd83EoUaj7H0D1V5Dc.jpg"
+        },
+        {
+          "tit": "S01E06 🌀",
+          "linkFisico": "v/alien-earth-s01e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/lwDRRZLaAEd83EoUaj7H0D1V5Dc.jpg"
+        },
+        {
+          "tit": "S01E07 🌀",
+          "linkFisico": "v/alien-earth-s01e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/lwDRRZLaAEd83EoUaj7H0D1V5Dc.jpg"
+        },
+        {
+          "tit": "S01E08 🌀",
+          "linkFisico": "v/alien-earth-s01e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/lwDRRZLaAEd83EoUaj7H0D1V5Dc.jpg"
+        }
+      ]
+    }
   }
 ]
