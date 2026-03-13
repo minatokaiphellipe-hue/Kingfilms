@@ -17024,5 +17024,43 @@
         }
       ]
     }
+  },
+  {
+    "id": "rio",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Rio 🌀",
+    "logo": "https://image.tmdb.org/t/p/w1280/uhV4UtLSPdrUYEzWUCmkUNZE9m5.jpg",
+    "sinopse": "Capturada por contrabandistas de animais quando tinha acabado de nascer, a arara Blu nunca aprendeu a voar e vive uma vida domesticada feliz em Minnesota, nos Estados Unidos, com sua dona, Linda. Blu pensa que é a última arara de sua espécie. Mas quando descobrem que Jade, uma fêmea, vive no Rio de Janeiro, Blu e Linda vão ao seu encontro em para recuperar a espécie.",
+    "avaliacao": "6.8",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/rio.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/uhV4UtLSPdrUYEzWUCmkUNZE9m5.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "rio-2",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Rio 2 🌀",
+    "logo": "https://image.tmdb.org/t/p/w1280/5CVEXEiHHL21e1xfbJZNk64TSuH.jpg",
+    "sinopse": "As araras Blu e Jade vivem felizes com seus filhos no Rio de Janeiro. Quando seus donos, Túlio e Linda, encontram pássaros de sua espécie na Amazônia, eles decidem partir para novas aventuras na região Norte do país. Só que nem tudo é perfeito: Nigel, o velho inimigo de Blu e Jade, está de volta para se vingar.",
+    "avaliacao": "6.5",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/rio-2.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/5CVEXEiHHL21e1xfbJZNk64TSuH.jpg"
+        }
+      ]
+    }
   }
 ]
