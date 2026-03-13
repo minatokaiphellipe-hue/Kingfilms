@@ -15772,5 +15772,62 @@
         }
       ]
     }
+  },
+  {
+    "id": "vingadores-era-de-ultron",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "Vingadores: Era de Ultron 🌀",
+    "logo": "https://image.tmdb.org/t/p/w1280/6YwkGolwdOMNpbTOmLjoehlVWs5.jpg",
+    "sinopse": "Ao tentar proteger o planeta de ameaças, Tony Stark constrói um sistema de inteligência artificial que cuidaria da paz mundial. O projeto acaba dando errado e gera o nascimento do Ultron. Com o destino da Terra em jogo, os Vingadores terão que se unir para mais uma vez salvar a raça humana da extinção.",
+    "avaliacao": "7.3",
+    "classificacao": "12",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/vingadores-era-de-ultron.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/6YwkGolwdOMNpbTOmLjoehlVWs5.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "vingadores-guerra-infinita",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "Vingadores: Guerra Infinita 🌀",
+    "logo": "https://image.tmdb.org/t/p/w1280/566hWfsfyR9zQF0nY3oBUtghfKb.jpg",
+    "sinopse": "Homem de Ferro, Thor, Hulk e os Vingadores se unem para combater seu inimigo mais poderoso, o maligno Thanos. Em uma missão para coletar todas as seis pedras infinitas, Thanos planeja usá-las para infligir sua vontade maléfica sobre a realidade.",
+    "avaliacao": "8.2",
+    "classificacao": "12",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/vingadores-guerra-infinita.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/566hWfsfyR9zQF0nY3oBUtghfKb.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "vingadores-ultimato",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "Vingadores: Ultimato 🌀",
+    "logo": "https://image.tmdb.org/t/p/w1280/775qnT1C54RJvXFgkTfC4ttaxok.jpg",
+    "sinopse": "Após os eventos devastadores de \"Vingadores: Guerra Infinita\", o universo está em ruínas devido aos esforços do Titã Louco, Thanos. Com a ajuda de aliados remanescentes, os Vingadores devem se reunir mais uma vez a fim de desfazer as ações de Thanos e restaurar a ordem no universo de uma vez por todas, não importando as consequências.",
+    "avaliacao": "8.2",
+    "classificacao": "12",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/vingadores-ultimato.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/775qnT1C54RJvXFgkTfC4ttaxok.jpg"
+        }
+      ]
+    }
   }
 ]
