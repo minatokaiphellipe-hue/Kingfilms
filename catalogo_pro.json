@@ -17100,5 +17100,43 @@
         }
       ]
     }
+  },
+  {
+    "id": "gato-de-botas",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Gato de Botas 🌀",
+    "logo": "https://image.tmdb.org/t/p/w1280/sAwE57kT5pLHlMQb3mETgh42lS2.jpg",
+    "sinopse": "Anos antes de conhecer Shrek e Burro, o adorável, porém astuto, Gato de Botas precisa limpar seu nome de todas as acusações que o tornam um fugitivo procurado. Ao tentar roubar feijões mágicos dos infames criminosos João e Maria, o herói cruza o caminho de sua companheira, Kitty Patas Macias, que o leva até seu velho amigo, mas agora inimigo, Humpty Dumpty. Memórias de amizade e traição aumentam as dúvidas do Gato de Botas, mas ele finalmente concorda em ajudar o ovo a conseguir os feijões mágicos. Juntos, os três planejam roubar os feijões, chegar ao castelo do Gigante, capturar a galinha dos ovos de ouro e limpar o nome do Gato.",
+    "avaliacao": "6.6",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/gato-de-botas.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/sAwE57kT5pLHlMQb3mETgh42lS2.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "gato-de-botas-2-o-ultimo-pedido",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Gato de Botas 2: O Último Pedido 🌀",
+    "logo": "https://image.tmdb.org/t/p/w1280/5BvXyvZYSLmlfZZSAKcj9UD8yl9.jpg",
+    "sinopse": "O Gato de Botas descobre que sua paixão pela aventura cobrou seu preço: ele queimou oito de suas nove vidas, deixando-o com apenas uma vida restante. Gato parte em uma jornada épica para encontrar o mítico Último Desejo e restaurar suas nove vidas.",
+    "avaliacao": "8.2",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/gato-de-botas-2-o-ultimo-pedido.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/5BvXyvZYSLmlfZZSAKcj9UD8yl9.jpg"
+        }
+      ]
+    }
   }
 ]
