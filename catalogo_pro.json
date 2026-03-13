@@ -17062,5 +17062,43 @@
         }
       ]
     }
+  },
+  {
+    "id": "os-croods",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Os Croods 🌀",
+    "logo": "https://image.tmdb.org/t/p/w1280/1MjN3sZb7jSSyR7ESbc2K1Th62w.jpg",
+    "sinopse": "Um terremoto destrói a caverna de uma família pré-histórica, que vive novas experiências em terras desconhecidas em sua busca por um novo lar.",
+    "avaliacao": "6.9",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/os-croods.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1MjN3sZb7jSSyR7ESbc2K1Th62w.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "os-croods-2-uma-nova-era",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Os Croods 2: Uma Nova Era 🌀",
+    "logo": "https://image.tmdb.org/t/p/w1280/4fA8ig0zsUmsr5EnDeZQfxzOib7.jpg",
+    "sinopse": "A família Crood se muda para um lugar seguro, onde encontram seus novos vizinhos, os Bettermans. À medida que as tensões aumentam, uma nova ameaça impulsiona os dois clãs em uma aventura épica que os força a se unirem e sobreviverem juntos.",
+    "avaliacao": "7.4",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/os-croods-2-uma-nova-era.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/4fA8ig0zsUmsr5EnDeZQfxzOib7.jpg"
+        }
+      ]
+    }
   }
 ]
