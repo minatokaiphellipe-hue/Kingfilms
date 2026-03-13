@@ -16494,5 +16494,535 @@
         }
       ]
     }
+  },
+  {
+    "id": "coragem-o-cao-covarde",
+    "tipo": "serie",
+    "categoria": "Séries",
+    "titulo": "Coragem, o Cão Covarde 🌀",
+    "logo": "https://image.tmdb.org/t/p/w1280/quPgIrbaXZ1YDSfpOKsGUGvp2H9.jpg",
+    "sinopse": "Coragem é um cão incrivelmente tímido e muito fácil de assustar que precisa defender um velho casal de aposentados de acontecimentos paranormais que ameaçam a segurança e a estabilidade da sua casa.",
+    "avaliacao": "8.2",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "S01E01 🌀",
+          "linkFisico": "v/coragem-o-cao-covarde-s01e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/quPgIrbaXZ1YDSfpOKsGUGvp2H9.jpg"
+        },
+        {
+          "tit": "S01E02 🌀",
+          "linkFisico": "v/coragem-o-cao-covarde-s01e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/quPgIrbaXZ1YDSfpOKsGUGvp2H9.jpg"
+        },
+        {
+          "tit": "S01E03 🌀",
+          "linkFisico": "v/coragem-o-cao-covarde-s01e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/quPgIrbaXZ1YDSfpOKsGUGvp2H9.jpg"
+        },
+        {
+          "tit": "S01E04 🌀",
+          "linkFisico": "v/coragem-o-cao-covarde-s01e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/quPgIrbaXZ1YDSfpOKsGUGvp2H9.jpg"
+        },
+        {
+          "tit": "S01E05 🌀",
+          "linkFisico": "v/coragem-o-cao-covarde-s01e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/quPgIrbaXZ1YDSfpOKsGUGvp2H9.jpg"
+        },
+        {
+          "tit": "S01E06 🌀",
+          "linkFisico": "v/coragem-o-cao-covarde-s01e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/quPgIrbaXZ1YDSfpOKsGUGvp2H9.jpg"
+        },
+        {
+          "tit": "S01E07 🌀",
+          "linkFisico": "v/coragem-o-cao-covarde-s01e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/quPgIrbaXZ1YDSfpOKsGUGvp2H9.jpg"
+        },
+        {
+          "tit": "S01E08 🌀",
+          "linkFisico": "v/coragem-o-cao-covarde-s01e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/quPgIrbaXZ1YDSfpOKsGUGvp2H9.jpg"
+        },
+        {
+          "tit": "S01E09 🌀",
+          "linkFisico": "v/coragem-o-cao-covarde-s01e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/quPgIrbaXZ1YDSfpOKsGUGvp2H9.jpg"
+        },
+        {
+          "tit": "S01E10 🌀",
+          "linkFisico": "v/coragem-o-cao-covarde-s01e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/quPgIrbaXZ1YDSfpOKsGUGvp2H9.jpg"
+        },
+        {
+          "tit": "S01E11 🌀",
+          "linkFisico": "v/coragem-o-cao-covarde-s01e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/quPgIrbaXZ1YDSfpOKsGUGvp2H9.jpg"
+        },
+        {
+          "tit": "S01E12 🌀",
+          "linkFisico": "v/coragem-o-cao-covarde-s01e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/quPgIrbaXZ1YDSfpOKsGUGvp2H9.jpg"
+        },
+        {
+          "tit": "S01E13 🌀",
+          "linkFisico": "v/coragem-o-cao-covarde-s01e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/quPgIrbaXZ1YDSfpOKsGUGvp2H9.jpg"
+        },
+        {
+          "tit": "S01E14 🌀",
+          "linkFisico": "v/coragem-o-cao-covarde-s01e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/quPgIrbaXZ1YDSfpOKsGUGvp2H9.jpg"
+        },
+        {
+          "tit": "S01E15 🌀",
+          "linkFisico": "v/coragem-o-cao-covarde-s01e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/quPgIrbaXZ1YDSfpOKsGUGvp2H9.jpg"
+        },
+        {
+          "tit": "S01E16 🌀",
+          "linkFisico": "v/coragem-o-cao-covarde-s01e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/quPgIrbaXZ1YDSfpOKsGUGvp2H9.jpg"
+        },
+        {
+          "tit": "S01E17 🌀",
+          "linkFisico": "v/coragem-o-cao-covarde-s01e17.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/quPgIrbaXZ1YDSfpOKsGUGvp2H9.jpg"
+        },
+        {
+          "tit": "S01E18 🌀",
+          "linkFisico": "v/coragem-o-cao-covarde-s01e18.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/quPgIrbaXZ1YDSfpOKsGUGvp2H9.jpg"
+        },
+        {
+          "tit": "S01E19 🌀",
+          "linkFisico": "v/coragem-o-cao-covarde-s01e19.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/quPgIrbaXZ1YDSfpOKsGUGvp2H9.jpg"
+        },
+        {
+          "tit": "S01E20 🌀",
+          "linkFisico": "v/coragem-o-cao-covarde-s01e20.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/quPgIrbaXZ1YDSfpOKsGUGvp2H9.jpg"
+        },
+        {
+          "tit": "S01E21 🌀",
+          "linkFisico": "v/coragem-o-cao-covarde-s01e21.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/quPgIrbaXZ1YDSfpOKsGUGvp2H9.jpg"
+        },
+        {
+          "tit": "S01E22 🌀",
+          "linkFisico": "v/coragem-o-cao-covarde-s01e22.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/quPgIrbaXZ1YDSfpOKsGUGvp2H9.jpg"
+        },
+        {
+          "tit": "S01E23 🌀",
+          "linkFisico": "v/coragem-o-cao-covarde-s01e23.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/quPgIrbaXZ1YDSfpOKsGUGvp2H9.jpg"
+        },
+        {
+          "tit": "S01E24 🌀",
+          "linkFisico": "v/coragem-o-cao-covarde-s01e24.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/quPgIrbaXZ1YDSfpOKsGUGvp2H9.jpg"
+        },
+        {
+          "tit": "S01E25 🌀",
+          "linkFisico": "v/coragem-o-cao-covarde-s01e25.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/quPgIrbaXZ1YDSfpOKsGUGvp2H9.jpg"
+        },
+        {
+          "tit": "S01E26 🌀",
+          "linkFisico": "v/coragem-o-cao-covarde-s01e26.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/quPgIrbaXZ1YDSfpOKsGUGvp2H9.jpg"
+        }
+      ],
+      "2": [
+        {
+          "tit": "S02E01 🌀",
+          "linkFisico": "v/coragem-o-cao-covarde-s02e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/quPgIrbaXZ1YDSfpOKsGUGvp2H9.jpg"
+        },
+        {
+          "tit": "S02E02 🌀",
+          "linkFisico": "v/coragem-o-cao-covarde-s02e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/quPgIrbaXZ1YDSfpOKsGUGvp2H9.jpg"
+        },
+        {
+          "tit": "S02E03 🌀",
+          "linkFisico": "v/coragem-o-cao-covarde-s02e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/quPgIrbaXZ1YDSfpOKsGUGvp2H9.jpg"
+        },
+        {
+          "tit": "S02E04 🌀",
+          "linkFisico": "v/coragem-o-cao-covarde-s02e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/quPgIrbaXZ1YDSfpOKsGUGvp2H9.jpg"
+        },
+        {
+          "tit": "S02E05 🌀",
+          "linkFisico": "v/coragem-o-cao-covarde-s02e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/quPgIrbaXZ1YDSfpOKsGUGvp2H9.jpg"
+        },
+        {
+          "tit": "S02E06 🌀",
+          "linkFisico": "v/coragem-o-cao-covarde-s02e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/quPgIrbaXZ1YDSfpOKsGUGvp2H9.jpg"
+        },
+        {
+          "tit": "S02E07 🌀",
+          "linkFisico": "v/coragem-o-cao-covarde-s02e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/quPgIrbaXZ1YDSfpOKsGUGvp2H9.jpg"
+        },
+        {
+          "tit": "S02E08 🌀",
+          "linkFisico": "v/coragem-o-cao-covarde-s02e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/quPgIrbaXZ1YDSfpOKsGUGvp2H9.jpg"
+        },
+        {
+          "tit": "S02E09 🌀",
+          "linkFisico": "v/coragem-o-cao-covarde-s02e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/quPgIrbaXZ1YDSfpOKsGUGvp2H9.jpg"
+        },
+        {
+          "tit": "S02E10 🌀",
+          "linkFisico": "v/coragem-o-cao-covarde-s02e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/quPgIrbaXZ1YDSfpOKsGUGvp2H9.jpg"
+        },
+        {
+          "tit": "S02E11 🌀",
+          "linkFisico": "v/coragem-o-cao-covarde-s02e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/quPgIrbaXZ1YDSfpOKsGUGvp2H9.jpg"
+        },
+        {
+          "tit": "S02E12 🌀",
+          "linkFisico": "v/coragem-o-cao-covarde-s02e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/quPgIrbaXZ1YDSfpOKsGUGvp2H9.jpg"
+        },
+        {
+          "tit": "S02E13 🌀",
+          "linkFisico": "v/coragem-o-cao-covarde-s02e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/quPgIrbaXZ1YDSfpOKsGUGvp2H9.jpg"
+        },
+        {
+          "tit": "S02E14 🌀",
+          "linkFisico": "v/coragem-o-cao-covarde-s02e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/quPgIrbaXZ1YDSfpOKsGUGvp2H9.jpg"
+        },
+        {
+          "tit": "S02E15 🌀",
+          "linkFisico": "v/coragem-o-cao-covarde-s02e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/quPgIrbaXZ1YDSfpOKsGUGvp2H9.jpg"
+        },
+        {
+          "tit": "S02E16 🌀",
+          "linkFisico": "v/coragem-o-cao-covarde-s02e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/quPgIrbaXZ1YDSfpOKsGUGvp2H9.jpg"
+        },
+        {
+          "tit": "S02E17 🌀",
+          "linkFisico": "v/coragem-o-cao-covarde-s02e17.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/quPgIrbaXZ1YDSfpOKsGUGvp2H9.jpg"
+        },
+        {
+          "tit": "S02E18 🌀",
+          "linkFisico": "v/coragem-o-cao-covarde-s02e18.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/quPgIrbaXZ1YDSfpOKsGUGvp2H9.jpg"
+        },
+        {
+          "tit": "S02E19 🌀",
+          "linkFisico": "v/coragem-o-cao-covarde-s02e19.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/quPgIrbaXZ1YDSfpOKsGUGvp2H9.jpg"
+        },
+        {
+          "tit": "S02E20 🌀",
+          "linkFisico": "v/coragem-o-cao-covarde-s02e20.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/quPgIrbaXZ1YDSfpOKsGUGvp2H9.jpg"
+        },
+        {
+          "tit": "S02E21 🌀",
+          "linkFisico": "v/coragem-o-cao-covarde-s02e21.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/quPgIrbaXZ1YDSfpOKsGUGvp2H9.jpg"
+        },
+        {
+          "tit": "S02E22 🌀",
+          "linkFisico": "v/coragem-o-cao-covarde-s02e22.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/quPgIrbaXZ1YDSfpOKsGUGvp2H9.jpg"
+        },
+        {
+          "tit": "S02E23 🌀",
+          "linkFisico": "v/coragem-o-cao-covarde-s02e23.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/quPgIrbaXZ1YDSfpOKsGUGvp2H9.jpg"
+        },
+        {
+          "tit": "S02E24 🌀",
+          "linkFisico": "v/coragem-o-cao-covarde-s02e24.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/quPgIrbaXZ1YDSfpOKsGUGvp2H9.jpg"
+        },
+        {
+          "tit": "S02E25 🌀",
+          "linkFisico": "v/coragem-o-cao-covarde-s02e25.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/quPgIrbaXZ1YDSfpOKsGUGvp2H9.jpg"
+        }
+      ],
+      "3": [
+        {
+          "tit": "S03E01 🌀",
+          "linkFisico": "v/coragem-o-cao-covarde-s03e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/quPgIrbaXZ1YDSfpOKsGUGvp2H9.jpg"
+        },
+        {
+          "tit": "S03E02 🌀",
+          "linkFisico": "v/coragem-o-cao-covarde-s03e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/quPgIrbaXZ1YDSfpOKsGUGvp2H9.jpg"
+        },
+        {
+          "tit": "S03E03 🌀",
+          "linkFisico": "v/coragem-o-cao-covarde-s03e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/quPgIrbaXZ1YDSfpOKsGUGvp2H9.jpg"
+        },
+        {
+          "tit": "S03E04 🌀",
+          "linkFisico": "v/coragem-o-cao-covarde-s03e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/quPgIrbaXZ1YDSfpOKsGUGvp2H9.jpg"
+        },
+        {
+          "tit": "S03E05 🌀",
+          "linkFisico": "v/coragem-o-cao-covarde-s03e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/quPgIrbaXZ1YDSfpOKsGUGvp2H9.jpg"
+        },
+        {
+          "tit": "S03E06 🌀",
+          "linkFisico": "v/coragem-o-cao-covarde-s03e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/quPgIrbaXZ1YDSfpOKsGUGvp2H9.jpg"
+        },
+        {
+          "tit": "S03E07 🌀",
+          "linkFisico": "v/coragem-o-cao-covarde-s03e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/quPgIrbaXZ1YDSfpOKsGUGvp2H9.jpg"
+        },
+        {
+          "tit": "S03E08 🌀",
+          "linkFisico": "v/coragem-o-cao-covarde-s03e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/quPgIrbaXZ1YDSfpOKsGUGvp2H9.jpg"
+        },
+        {
+          "tit": "S03E09 🌀",
+          "linkFisico": "v/coragem-o-cao-covarde-s03e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/quPgIrbaXZ1YDSfpOKsGUGvp2H9.jpg"
+        },
+        {
+          "tit": "S03E10 🌀",
+          "linkFisico": "v/coragem-o-cao-covarde-s03e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/quPgIrbaXZ1YDSfpOKsGUGvp2H9.jpg"
+        },
+        {
+          "tit": "S03E11 🌀",
+          "linkFisico": "v/coragem-o-cao-covarde-s03e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/quPgIrbaXZ1YDSfpOKsGUGvp2H9.jpg"
+        },
+        {
+          "tit": "S03E12 🌀",
+          "linkFisico": "v/coragem-o-cao-covarde-s03e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/quPgIrbaXZ1YDSfpOKsGUGvp2H9.jpg"
+        },
+        {
+          "tit": "S03E13 🌀",
+          "linkFisico": "v/coragem-o-cao-covarde-s03e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/quPgIrbaXZ1YDSfpOKsGUGvp2H9.jpg"
+        },
+        {
+          "tit": "S03E14 🌀",
+          "linkFisico": "v/coragem-o-cao-covarde-s03e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/quPgIrbaXZ1YDSfpOKsGUGvp2H9.jpg"
+        },
+        {
+          "tit": "S03E15 🌀",
+          "linkFisico": "v/coragem-o-cao-covarde-s03e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/quPgIrbaXZ1YDSfpOKsGUGvp2H9.jpg"
+        },
+        {
+          "tit": "S03E16 🌀",
+          "linkFisico": "v/coragem-o-cao-covarde-s03e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/quPgIrbaXZ1YDSfpOKsGUGvp2H9.jpg"
+        },
+        {
+          "tit": "S03E17 🌀",
+          "linkFisico": "v/coragem-o-cao-covarde-s03e17.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/quPgIrbaXZ1YDSfpOKsGUGvp2H9.jpg"
+        },
+        {
+          "tit": "S03E18 🌀",
+          "linkFisico": "v/coragem-o-cao-covarde-s03e18.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/quPgIrbaXZ1YDSfpOKsGUGvp2H9.jpg"
+        },
+        {
+          "tit": "S03E19 🌀",
+          "linkFisico": "v/coragem-o-cao-covarde-s03e19.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/quPgIrbaXZ1YDSfpOKsGUGvp2H9.jpg"
+        },
+        {
+          "tit": "S03E20 🌀",
+          "linkFisico": "v/coragem-o-cao-covarde-s03e20.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/quPgIrbaXZ1YDSfpOKsGUGvp2H9.jpg"
+        },
+        {
+          "tit": "S03E21 🌀",
+          "linkFisico": "v/coragem-o-cao-covarde-s03e21.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/quPgIrbaXZ1YDSfpOKsGUGvp2H9.jpg"
+        },
+        {
+          "tit": "S03E22 🌀",
+          "linkFisico": "v/coragem-o-cao-covarde-s03e22.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/quPgIrbaXZ1YDSfpOKsGUGvp2H9.jpg"
+        },
+        {
+          "tit": "S03E23 🌀",
+          "linkFisico": "v/coragem-o-cao-covarde-s03e23.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/quPgIrbaXZ1YDSfpOKsGUGvp2H9.jpg"
+        },
+        {
+          "tit": "S03E24 🌀",
+          "linkFisico": "v/coragem-o-cao-covarde-s03e24.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/quPgIrbaXZ1YDSfpOKsGUGvp2H9.jpg"
+        },
+        {
+          "tit": "S03E25 🌀",
+          "linkFisico": "v/coragem-o-cao-covarde-s03e25.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/quPgIrbaXZ1YDSfpOKsGUGvp2H9.jpg"
+        },
+        {
+          "tit": "S03E26 🌀",
+          "linkFisico": "v/coragem-o-cao-covarde-s03e26.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/quPgIrbaXZ1YDSfpOKsGUGvp2H9.jpg"
+        }
+      ],
+      "4": [
+        {
+          "tit": "S04E01 🌀",
+          "linkFisico": "v/coragem-o-cao-covarde-s04e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/quPgIrbaXZ1YDSfpOKsGUGvp2H9.jpg"
+        },
+        {
+          "tit": "S04E02 🌀",
+          "linkFisico": "v/coragem-o-cao-covarde-s04e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/quPgIrbaXZ1YDSfpOKsGUGvp2H9.jpg"
+        },
+        {
+          "tit": "S04E03 🌀",
+          "linkFisico": "v/coragem-o-cao-covarde-s04e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/quPgIrbaXZ1YDSfpOKsGUGvp2H9.jpg"
+        },
+        {
+          "tit": "S04E04 🌀",
+          "linkFisico": "v/coragem-o-cao-covarde-s04e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/quPgIrbaXZ1YDSfpOKsGUGvp2H9.jpg"
+        },
+        {
+          "tit": "S04E05 🌀",
+          "linkFisico": "v/coragem-o-cao-covarde-s04e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/quPgIrbaXZ1YDSfpOKsGUGvp2H9.jpg"
+        },
+        {
+          "tit": "S04E06 🌀",
+          "linkFisico": "v/coragem-o-cao-covarde-s04e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/quPgIrbaXZ1YDSfpOKsGUGvp2H9.jpg"
+        },
+        {
+          "tit": "S04E07 🌀",
+          "linkFisico": "v/coragem-o-cao-covarde-s04e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/quPgIrbaXZ1YDSfpOKsGUGvp2H9.jpg"
+        },
+        {
+          "tit": "S04E08 🌀",
+          "linkFisico": "v/coragem-o-cao-covarde-s04e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/quPgIrbaXZ1YDSfpOKsGUGvp2H9.jpg"
+        },
+        {
+          "tit": "S04E09 🌀",
+          "linkFisico": "v/coragem-o-cao-covarde-s04e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/quPgIrbaXZ1YDSfpOKsGUGvp2H9.jpg"
+        },
+        {
+          "tit": "S04E10 🌀",
+          "linkFisico": "v/coragem-o-cao-covarde-s04e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/quPgIrbaXZ1YDSfpOKsGUGvp2H9.jpg"
+        },
+        {
+          "tit": "S04E11 🌀",
+          "linkFisico": "v/coragem-o-cao-covarde-s04e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/quPgIrbaXZ1YDSfpOKsGUGvp2H9.jpg"
+        },
+        {
+          "tit": "S04E12 🌀",
+          "linkFisico": "v/coragem-o-cao-covarde-s04e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/quPgIrbaXZ1YDSfpOKsGUGvp2H9.jpg"
+        },
+        {
+          "tit": "S04E13 🌀",
+          "linkFisico": "v/coragem-o-cao-covarde-s04e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/quPgIrbaXZ1YDSfpOKsGUGvp2H9.jpg"
+        },
+        {
+          "tit": "S04E14 🌀",
+          "linkFisico": "v/coragem-o-cao-covarde-s04e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/quPgIrbaXZ1YDSfpOKsGUGvp2H9.jpg"
+        },
+        {
+          "tit": "S04E15 🌀",
+          "linkFisico": "v/coragem-o-cao-covarde-s04e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/quPgIrbaXZ1YDSfpOKsGUGvp2H9.jpg"
+        },
+        {
+          "tit": "S04E16 🌀",
+          "linkFisico": "v/coragem-o-cao-covarde-s04e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/quPgIrbaXZ1YDSfpOKsGUGvp2H9.jpg"
+        },
+        {
+          "tit": "S04E17 🌀",
+          "linkFisico": "v/coragem-o-cao-covarde-s04e17.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/quPgIrbaXZ1YDSfpOKsGUGvp2H9.jpg"
+        },
+        {
+          "tit": "S04E18 🌀",
+          "linkFisico": "v/coragem-o-cao-covarde-s04e18.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/quPgIrbaXZ1YDSfpOKsGUGvp2H9.jpg"
+        },
+        {
+          "tit": "S04E19 🌀",
+          "linkFisico": "v/coragem-o-cao-covarde-s04e19.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/quPgIrbaXZ1YDSfpOKsGUGvp2H9.jpg"
+        },
+        {
+          "tit": "S04E20 🌀",
+          "linkFisico": "v/coragem-o-cao-covarde-s04e20.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/quPgIrbaXZ1YDSfpOKsGUGvp2H9.jpg"
+        },
+        {
+          "tit": "S04E21 🌀",
+          "linkFisico": "v/coragem-o-cao-covarde-s04e21.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/quPgIrbaXZ1YDSfpOKsGUGvp2H9.jpg"
+        },
+        {
+          "tit": "S04E22 🌀",
+          "linkFisico": "v/coragem-o-cao-covarde-s04e22.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/quPgIrbaXZ1YDSfpOKsGUGvp2H9.jpg"
+        },
+        {
+          "tit": "S04E23 🌀",
+          "linkFisico": "v/coragem-o-cao-covarde-s04e23.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/quPgIrbaXZ1YDSfpOKsGUGvp2H9.jpg"
+        },
+        {
+          "tit": "S04E24 🌀",
+          "linkFisico": "v/coragem-o-cao-covarde-s04e24.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/quPgIrbaXZ1YDSfpOKsGUGvp2H9.jpg"
+        },
+        {
+          "tit": "S04E25 🌀",
+          "linkFisico": "v/coragem-o-cao-covarde-s04e25.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/quPgIrbaXZ1YDSfpOKsGUGvp2H9.jpg"
+        }
+      ]
+    }
   }
 ]
