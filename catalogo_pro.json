@@ -15658,5 +15658,24 @@
         }
       ]
     }
+  },
+  {
+    "id": "os-incriveis-2",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "Os Incríveis 2 🌀",
+    "logo": "https://image.tmdb.org/t/p/w1280/nJbu3xpE9mz0MrvuhG9dc4lzemK.jpg",
+    "sinopse": "Helena é chamada para liderar uma campanha para trazer os superheróis de volta. Enquanto Roberto deve enfrentar os desafios heroicos do dia a dia da vida doméstica. Mas quando um novo vilão aparece com um plano brilhante e perigoso, a família Pêra enfrenta o desafio juntos  com Gelado do lado deles.",
+    "avaliacao": "7.5",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/os-incriveis-2.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/nJbu3xpE9mz0MrvuhG9dc4lzemK.jpg"
+        }
+      ]
+    }
   }
 ]
