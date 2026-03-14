@@ -17138,5 +17138,24 @@
         }
       ]
     }
+  },
+  {
+    "id": "pecadores",
+    "tipo": "filme",
+    "categoria": "Terror",
+    "titulo": "Pecadores 🌀",
+    "logo": "https://image.tmdb.org/t/p/w1280/pHAni2ykU4bjTc7HEFvfifJ3aWL.jpg",
+    "sinopse": "Dispostos a deixar suas vidas conturbadas para trás, irmãos gêmeos retornam à sua cidade natal para recomeçar suas vidas do zero, quando descobrem que um mal ainda maior está à espera deles para recebê-los de volta.",
+    "avaliacao": "7.5",
+    "classificacao": "16",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/pecadores.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/pHAni2ykU4bjTc7HEFvfifJ3aWL.jpg"
+        }
+      ]
+    }
   }
 ]
