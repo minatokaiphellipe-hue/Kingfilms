@@ -17549,5 +17549,25 @@
         }
       ]
     }
+  },
+  {
+    "id": "homem-formiga",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "Homem-Formiga 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/lsiy4IcnbtChkayPMxLda2fq4xM.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/dx9jWLC0zuOnWhwrUjosn4DBZRB.jpg",
+    "sinopse": "Dr. Hank Pym, o inventor da fórmula/traje que permite o encolhimento, precisa impedir que seu ex-pupilo Darren Cross consiga replicar o feito e vender a tecnologia para uma organização do mal. Depois de sair da cadeia, o trambiqueiro Scott Lang está disposto a reconquistar o respeito da ex-mulher, Maggie e, principalmente, da filha. Com dificuldades de arrumar um emprego honesto, ele aceita praticar um último golpe. O que ele não sabia era que tudo não passava de um plano do Dr. Pym que, depois de anos observando o hábil ladrão, o escolhe para vestir o traje do Homem-Formiga.",
+    "avaliacao": "7.1",
+    "classificacao": "12",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/homem-formiga.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/dx9jWLC0zuOnWhwrUjosn4DBZRB.jpg"
+        }
+      ]
+    }
   }
 ]
