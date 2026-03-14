@@ -17449,5 +17449,85 @@
         }
       ]
     }
+  },
+  {
+    "id": "meu-malvado-favorito-4",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Meu Malvado Favorito 4 🌀",
+    "logo": "https://image.tmdb.org/t/p/original/jCuIBFlBkVAxwdMCxrAklnqn719.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/1rJRADq7kzP3grWWOGjXW5u8xin.jpg",
+    "sinopse": "Nesta sequência, o vilão mais amado do planeta retorna e agora Gru, Lucy, Margo, Edith e Agnes dão as boas-vindas a um novo membro da família: Gru Jr., que pretende atormentar seu pai. Enquanto se adapta com o pequeno, Gru enfrenta um novo inimigo, Maxime Le Mal, forçando sua namorada Valentina e a família a fugir do perigo.",
+    "avaliacao": "7.0",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/meu-malvado-favorito-4.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1rJRADq7kzP3grWWOGjXW5u8xin.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "meu-malvado-favorito",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Meu Malvado Favorito 🌀",
+    "logo": "https://image.tmdb.org/t/p/original/rh59uhffSeCGnVKKncSBZJHXf8R.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/l538TtaY6OgZmaFO7XHTfTMd65J.jpg",
+    "sinopse": "Um homem que adora todas as coisas diabólicas, o supervilão Gru traça um plano para roubar a lua. Rodeado de um exército de pequenos ajudantes e seu arsenal de armas e máquinas de guerra, Gru se prepara para destruir quem atravessar seu caminho. Mas ele não esperava pelo seu maior desafio: três adoráveis órfãs que querem ter Gru como pai.",
+    "avaliacao": "7.3",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/meu-malvado-favorito.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/l538TtaY6OgZmaFO7XHTfTMd65J.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "meu-malvado-favorito-2",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Meu Malvado Favorito 2 🌀",
+    "logo": "https://image.tmdb.org/t/p/original/ktMYeIIePvOsThT1hhGT1pOfyZZ.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/xncLDjW0PE9hZUpXDGJujpSUnS5.jpg",
+    "sinopse": "Gru mudou radicalmente sua vida e se dedica às filhotas Agnes, Edith e Margo, deixando de lado os tempos de vilão. Ele só não contava que seu passado fosse responsável pelo seu recrutamento pela Liga Antivilões para salvar o mundo na companhia da agente Lucy. Juntos, eles precisam localizar o criminoso que roubou a fórmula PX41 e Gru desconfia que seu antigo concorrente El Macho possa ser o responsável.",
+    "avaliacao": "6.9",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/meu-malvado-favorito-2.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/xncLDjW0PE9hZUpXDGJujpSUnS5.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "meu-malvado-favorito-3",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Meu Malvado Favorito 3 🌀",
+    "logo": "https://image.tmdb.org/t/p/original/vXVVRvVPLIXThFrYYaBSQwsQxQo.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/3OKCHwcXPwTonW6hFYEiJuazCMY.jpg",
+    "sinopse": "O ex-ator mirim e astro de TV, Balthazar Bratt, foi um típico malvado bem-sucedido nos anos 80 e agora está de volta à ativa. Ele vai aterrorizar a vida de Gru, Agnes, Margo, Edith, Dr. Nefario e os atrapalhados Minions. Em meio a tudo isso, Gru também vai encontrar o seu irmão gêmeo, Drew.",
+    "avaliacao": "6.5",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/meu-malvado-favorito-3.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/3OKCHwcXPwTonW6hFYEiJuazCMY.jpg"
+        }
+      ]
+    }
   }
 ]
