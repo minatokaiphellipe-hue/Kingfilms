@@ -11750,26 +11750,6 @@
     "logo_horizontal": "https://image.tmdb.org/t/p/w1280/40Wtp7kMG6mZ4d5T1jfrd8qrvD4.jpg"
   },
   {
-    "id": "shrek-2",
-    "tipo": "filme",
-    "categoria": "Animações",
-    "titulo": "Shrek 2 🌀",
-    "logo": "https://image.tmdb.org/t/p/w780/2yYP0PQjG8zVqturh1BAqu2Tixl.jpg",
-    "sinopse": "Após se casar com a Princesa Fiona, Shrek vive feliz em seu pântano. Ao retornar de sua lua-de-mel Fiona recebe uma carta de seus pais, que não sabem que ela agora é um ogro, convidando-a para um jantar juntamente com seu grande amor, na intenção de conhecê-lo. A muito custo Fiona consegue convencer Shrek a ir visitá-los, tendo ainda a companhia do Burro. Porém os problemas começam quando os pais de Fiona descobrem que ela não se casou com o Príncipe, a quem havia sido prometida, e enviam o Gato de Botas para separá-los.",
-    "avaliacao": "7.3",
-    "classificacao": "Livre",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "Assistir Filme 🌀",
-          "linkFisico": "v/shrek-2.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/qKkUCwpK5A8Szu2XlNjmy9t0972.jpg"
-        }
-      ]
-    },
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/8ohobj5lAIbl5XWw11FywS3IRrS.jpg"
-  },
-  {
     "id": "shrek-4",
     "tipo": "filme",
     "categoria": "Animações",
@@ -17446,6 +17426,26 @@
           "tit": "Assistir 🌀",
           "linkFisico": "v/toy-story-4.html",
           "logoEp": "https://image.tmdb.org/t/p/w1280/iG3Gu0T0AkL4D8T8ci2PcufuLyX.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "shrek-2",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Shrek 2 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/2yYP0PQjG8zVqturh1BAqu2Tixl.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/qKkUCwpK5A8Szu2XlNjmy9t0972.jpg",
+    "sinopse": "Após se casar com a Princesa Fiona, Shrek vive feliz em seu pântano. Ao retornar de sua lua-de-mel Fiona recebe uma carta de seus pais, que não sabem que ela agora é um ogro, convidando-a para um jantar juntamente com seu grande amor, na intenção de conhecê-lo. A muito custo Fiona consegue convencer Shrek a ir visitá-los, tendo ainda a companhia do Burro. Porém os problemas começam quando os pais de Fiona descobrem que ela não se casou com o Príncipe, a quem havia sido prometida, e enviam o Gato de Botas para separá-los.",
+    "avaliacao": "7.3",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/shrek-2.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/qKkUCwpK5A8Szu2XlNjmy9t0972.jpg"
         }
       ]
     }
