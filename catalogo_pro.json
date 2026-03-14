@@ -17451,26 +17451,6 @@
     }
   },
   {
-    "id": "meu-malvado-favorito-3",
-    "tipo": "filme",
-    "categoria": "Animações",
-    "titulo": "Meu Malvado Favorito 3 🌀",
-    "logo": "https://image.tmdb.org/t/p/original/vXVVRvVPLIXThFrYYaBSQwsQxQo.jpg",
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/3OKCHwcXPwTonW6hFYEiJuazCMY.jpg",
-    "sinopse": "O ex-ator mirim e astro de TV, Balthazar Bratt, foi um típico malvado bem-sucedido nos anos 80 e agora está de volta à ativa. Ele vai aterrorizar a vida de Gru, Agnes, Margo, Edith, Dr. Nefario e os atrapalhados Minions. Em meio a tudo isso, Gru também vai encontrar o seu irmão gêmeo, Drew.",
-    "avaliacao": "6.5",
-    "classificacao": "Livre",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "Assistir 🌀",
-          "linkFisico": "v/meu-malvado-favorito-3.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/3OKCHwcXPwTonW6hFYEiJuazCMY.jpg"
-        }
-      ]
-    }
-  },
-  {
     "id": "meu-malvado-favorito-4",
     "tipo": "filme",
     "categoria": "Animações",
@@ -17526,6 +17506,26 @@
           "tit": "Assistir 🌀",
           "linkFisico": "v/meu-malvado-favorito-2.html",
           "logoEp": "https://image.tmdb.org/t/p/w1280/xncLDjW0PE9hZUpXDGJujpSUnS5.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "meu-malvado-favorito-3",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Meu Malvado Favorito 3 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/6z0KlRIrXfkgNz3IJOCAQxdVXAg.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/3OKCHwcXPwTonW6hFYEiJuazCMY.jpg",
+    "sinopse": "O ex-ator mirim e astro de TV, Balthazar Bratt, foi um típico malvado bem-sucedido nos anos 80 e agora está de volta à ativa. Ele vai aterrorizar a vida de Gru, Agnes, Margo, Edith, Dr. Nefario e os atrapalhados Minions. Em meio a tudo isso, Gru também vai encontrar o seu irmão gêmeo, Drew.",
+    "avaliacao": "6.5",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/meu-malvado-favorito-3.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/3OKCHwcXPwTonW6hFYEiJuazCMY.jpg"
         }
       ]
     }
