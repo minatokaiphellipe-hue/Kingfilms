@@ -17157,5 +17157,24 @@
         }
       ]
     }
+  },
+  {
+    "id": "a-morte-do-demonio-a-ascensao",
+    "tipo": "filme",
+    "categoria": "Terror",
+    "titulo": "A Morte do Demônio: A Ascensão 🌀",
+    "logo": "https://image.tmdb.org/t/p/w1280/wYc6SDvKMOTIbSZLeiibsgn5YQg.jpg",
+    "sinopse": "Duas irmãs distantes cujo reencontro é interrompido por demônios devoradores de carne que aparecem de repente, levando-as a uma batalha primal pela sobrevivência, enfrentando a versão mais assustadora que se possa imaginar de uma família.",
+    "avaliacao": "6.9",
+    "classificacao": "18",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/a-morte-do-demonio-a-ascensao.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/wYc6SDvKMOTIbSZLeiibsgn5YQg.jpg"
+        }
+      ]
+    }
   }
 ]
