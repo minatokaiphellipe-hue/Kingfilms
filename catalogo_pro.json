@@ -17349,5 +17349,25 @@
       ]
     },
     "logo_horizontal": "https://image.tmdb.org/t/p/w1280/hfdds27YL5nTAhiOtjfNNxD3bJe.jpg"
+  },
+  {
+    "id": "horton-e-o-mundo-dos-quem",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Horton e o Mundo dos Quem! 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/ccbrPygrecMP2QnGcC6taskeiNS.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/fY9AoSe1krgUBjFvYbD1T6x0SOP.jpg",
+    "sinopse": "Horton é um elefante que, um dia, ouve um pedido de socorro vindo de uma partícula de poeira que flutua no ar. Surpreso, ele passa a desconfiar que possa existir vida dentro daquela partícula. Trata-se dos Quem, seres que ignoram a existência de vida fora da cidade em que vivem, a Quemlândia. Mesmo com todos à sua volta acreditando que perdeu o juízo, Horton decide ajudar os moradores de Quemlândia.",
+    "avaliacao": "6.5",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/horton-e-o-mundo-dos-quem.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fY9AoSe1krgUBjFvYbD1T6x0SOP.jpg"
+        }
+      ]
+    }
   }
 ]
