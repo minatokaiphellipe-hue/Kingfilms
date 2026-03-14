@@ -17529,5 +17529,25 @@
         }
       ]
     }
+  },
+  {
+    "id": "homem-de-ferro",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "Homem de Ferro 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/mqN7RxojEiPoh3FTSTwOtwg7KAu.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/uu82iyWC38j4V4plb32Mbk16NFN.jpg",
+    "sinopse": "Tony Stark é um industrial bilionário, que também é um brilhante inventor. Ao ser sequestrado ele é obrigado por terroristas a construir uma arma devastadora mas, ao invés disto, constrói uma armadura de alta tecnologia que permite que fuja de seu cativeiro. A partir de então ele passa a usá-la para combater o crime, sob o alter ego do Homem de Ferro.",
+    "avaliacao": "7.7",
+    "classificacao": "12",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/homem-de-ferro.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/uu82iyWC38j4V4plb32Mbk16NFN.jpg"
+        }
+      ]
+    }
   }
 ]
