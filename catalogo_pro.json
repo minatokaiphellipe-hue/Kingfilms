@@ -17451,46 +17451,6 @@
     }
   },
   {
-    "id": "meu-malvado-favorito",
-    "tipo": "filme",
-    "categoria": "Animações",
-    "titulo": "Meu Malvado Favorito 🌀",
-    "logo": "https://image.tmdb.org/t/p/original/rh59uhffSeCGnVKKncSBZJHXf8R.jpg",
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/l538TtaY6OgZmaFO7XHTfTMd65J.jpg",
-    "sinopse": "Um homem que adora todas as coisas diabólicas, o supervilão Gru traça um plano para roubar a lua. Rodeado de um exército de pequenos ajudantes e seu arsenal de armas e máquinas de guerra, Gru se prepara para destruir quem atravessar seu caminho. Mas ele não esperava pelo seu maior desafio: três adoráveis órfãs que querem ter Gru como pai.",
-    "avaliacao": "7.3",
-    "classificacao": "Livre",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "Assistir 🌀",
-          "linkFisico": "v/meu-malvado-favorito.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/l538TtaY6OgZmaFO7XHTfTMd65J.jpg"
-        }
-      ]
-    }
-  },
-  {
-    "id": "meu-malvado-favorito-2",
-    "tipo": "filme",
-    "categoria": "Animações",
-    "titulo": "Meu Malvado Favorito 2 🌀",
-    "logo": "https://image.tmdb.org/t/p/original/ktMYeIIePvOsThT1hhGT1pOfyZZ.jpg",
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/xncLDjW0PE9hZUpXDGJujpSUnS5.jpg",
-    "sinopse": "Gru mudou radicalmente sua vida e se dedica às filhotas Agnes, Edith e Margo, deixando de lado os tempos de vilão. Ele só não contava que seu passado fosse responsável pelo seu recrutamento pela Liga Antivilões para salvar o mundo na companhia da agente Lucy. Juntos, eles precisam localizar o criminoso que roubou a fórmula PX41 e Gru desconfia que seu antigo concorrente El Macho possa ser o responsável.",
-    "avaliacao": "6.9",
-    "classificacao": "Livre",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "Assistir 🌀",
-          "linkFisico": "v/meu-malvado-favorito-2.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/xncLDjW0PE9hZUpXDGJujpSUnS5.jpg"
-        }
-      ]
-    }
-  },
-  {
     "id": "meu-malvado-favorito-3",
     "tipo": "filme",
     "categoria": "Animações",
@@ -17526,6 +17486,46 @@
           "tit": "Assistir 🌀",
           "linkFisico": "v/meu-malvado-favorito-4.html",
           "logoEp": "https://image.tmdb.org/t/p/w1280/1rJRADq7kzP3grWWOGjXW5u8xin.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "meu-malvado-favorito",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Meu Malvado Favorito 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/rYZzutMXxvirK9gK01iLo3Blaj3.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/l538TtaY6OgZmaFO7XHTfTMd65J.jpg",
+    "sinopse": "Um homem que adora todas as coisas diabólicas, o supervilão Gru traça um plano para roubar a lua. Rodeado de um exército de pequenos ajudantes e seu arsenal de armas e máquinas de guerra, Gru se prepara para destruir quem atravessar seu caminho. Mas ele não esperava pelo seu maior desafio: três adoráveis órfãs que querem ter Gru como pai.",
+    "avaliacao": "7.3",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/meu-malvado-favorito.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/l538TtaY6OgZmaFO7XHTfTMd65J.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "meu-malvado-favorito-2",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Meu Malvado Favorito 2 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/7mYMq6OQyum1wAiUI7i6w78YKEO.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/xncLDjW0PE9hZUpXDGJujpSUnS5.jpg",
+    "sinopse": "Gru mudou radicalmente sua vida e se dedica às filhotas Agnes, Edith e Margo, deixando de lado os tempos de vilão. Ele só não contava que seu passado fosse responsável pelo seu recrutamento pela Liga Antivilões para salvar o mundo na companhia da agente Lucy. Juntos, eles precisam localizar o criminoso que roubou a fórmula PX41 e Gru desconfia que seu antigo concorrente El Macho possa ser o responsável.",
+    "avaliacao": "6.9",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/meu-malvado-favorito-2.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/xncLDjW0PE9hZUpXDGJujpSUnS5.jpg"
         }
       ]
     }
