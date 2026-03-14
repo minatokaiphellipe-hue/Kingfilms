@@ -17176,5 +17176,24 @@
         }
       ]
     }
+  },
+  {
+    "id": "o-demonio-dos-mares",
+    "tipo": "filme",
+    "categoria": "Terror",
+    "titulo": "O Demônio dos Mares 🌀",
+    "logo": "https://image.tmdb.org/t/p/w1280/tW2onBy5hAudjYiCKuyr13jKHiX.jpg",
+    "sinopse": "O petroleiro Paul Sturges leva sua família de férias para a Bahia Azul. Lá, ele percebe que a cidade costeira desmoronou misteriosamente. Paul começa o dia com uma visita de rotina, com sua família, para inspecionar uma plataforma de petróleo nas proximidades. A situação se torna um pesadelo quando, das profundezas do oceano, um tubarão gigante surge: o demônio negro. Sob a ameaça constante do tubarão primitivo, Paul terá que encontrar um jeito de levar sua família de volta para a costa de forma segura.",
+    "avaliacao": "5.9",
+    "classificacao": "16",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/o-demonio-dos-mares.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/tW2onBy5hAudjYiCKuyr13jKHiX.jpg"
+        }
+      ]
+    }
   }
 ]
