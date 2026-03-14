@@ -7313,25 +7313,6 @@
     }
   },
   {
-    "id": "o-telefone-preto",
-    "tipo": "filme",
-    "categoria": "Terror",
-    "titulo": "O Telefone Preto 🌀",
-    "logo": "https://image.tmdb.org/t/p/original/tdPT27ofGFHy4iEDO1SYpwgrNuQ.jpg",
-    "sinopse": "Após ser raptado por um assassino de crianças, Finney Shaw começa a receber chamadas de vítimas anteriores do assassino. Elas estão determinadas a garantir que o que lhes aconteceu não aconteça com Finney.",
-    "avaliacao": "7.5",
-    "classificacao": "16",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "Assistir 🌀",
-          "linkFisico": "v/o-telefone-preto.html",
-          "logoEp": "https://image.tmdb.org/t/p/original/tdPT27ofGFHy4iEDO1SYpwgrNuQ.jpg"
-        }
-      ]
-    }
-  },
-  {
     "id": "one-piece-a-serie",
     "tipo": "serie",
     "categoria": "Séries",
@@ -17211,6 +17192,25 @@
           "tit": "Assistir 🌀",
           "linkFisico": "v/aguas-rasas.html",
           "logoEp": "https://image.tmdb.org/t/p/w1280/3OWhVKGVCsuBLcXWbrzV7JhTTWF.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "o-telefone-preto",
+    "tipo": "filme",
+    "categoria": "Terror",
+    "titulo": "O Telefone Preto 🌀",
+    "logo": "https://image.tmdb.org/t/p/w1280/tdPT27ofGFHy4iEDO1SYpwgrNuQ.jpg",
+    "sinopse": "Após ser raptado por um assassino de crianças, Finney Shaw começa a receber chamadas de vítimas anteriores do assassino. Elas estão determinadas a garantir que o que lhes aconteceu não aconteça com Finney.",
+    "avaliacao": "7.5",
+    "classificacao": "16",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/o-telefone-preto.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/tdPT27ofGFHy4iEDO1SYpwgrNuQ.jpg"
         }
       ]
     }
