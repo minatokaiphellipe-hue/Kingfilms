@@ -17369,5 +17369,85 @@
         }
       ]
     }
+  },
+  {
+    "id": "toy-story-um-mundo-de-aventuras",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Toy Story: Um Mundo de Aventuras 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/6AafgfifXkFS4g2xGJZIwsPQK6P.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/dLUvaPD1WHXFLBTiQoJodGyrkkk.jpg",
+    "sinopse": "Buzz Lightyear é o novo e sofisticado astronauta de brinquedo do garoto Andy. Buzz não imaginava que encontraria um rival: Woody, um cowboy de brinquedo que, dominado pelo ciúme, acredita ter perdido um lugar precioso no coração do seu dono. Os dois brinquedos vivem brigando até que vão parar nas garras do vizinho, um verdadeiro destruidor de brinquedos. Agora, mais do que nunca, Buzz e Woody precisam precisam se unir para escapar do perigo. Com a ajuda de seus amigos da caixa de brinquedos, eles vão viver uma incrível aventura.",
+    "avaliacao": "8.0",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/toy-story-um-mundo-de-aventuras.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/dLUvaPD1WHXFLBTiQoJodGyrkkk.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "toy-story-2",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Toy Story 2 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/xVhEI1WCgNCCa5I86AqiwuZoog3.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/zeAmGUzY1LUHF9YdvTXsck4HkQe.jpg",
+    "sinopse": "Quando Andy viaja para um acampamento de verão, Woody é sequestrado por Al, um ambiocioso colecionador, que precisa do brinquedo favorito de Andy para completar sua coleção da Gangue do Rodeio. Junto com Jessie, Bala no Alvo e Mineiro, Woody corre o risco de ter que passar o resto de sua vida em exposição num museu. Agora, Buzz, Sr. Cabeça de Batata, Porquinho, Rex e Slinky terão que salvar seu amigo e trazê-lo de volta à vida de brinquedos.",
+    "avaliacao": "7.6",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/toy-story-2.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/zeAmGUzY1LUHF9YdvTXsck4HkQe.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "toy-story-3",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Toy Story 3 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/rf67AeS9nP8DD7dZYbvhjEVoIBf.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/6HguugAxjC9qwRu8B7nVGXhuLsu.jpg",
+    "sinopse": "Woody, Buzz e o resto dos brinquedos de Andy não são usados há anos. Com Andy prestes a ir para a faculdade, o grupo acaba por ser deixado acidentalmente numa creche. Os brinquedos devem se unir para escapar e voltar para casa de Andy.",
+    "avaliacao": "7.8",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/toy-story-3.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/6HguugAxjC9qwRu8B7nVGXhuLsu.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "toy-story-4",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Toy Story 4 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/csiyO6q8rR74pfgJDjwINzhoick.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/iG3Gu0T0AkL4D8T8ci2PcufuLyX.jpg",
+    "sinopse": "Agora morando na casa da pequena Bonnie, Woody apresenta aos amigos o novo brinquedo construído por ela: Garfinho, baseado em um garfo de verdade. O novo posto de brinquedo não o agrada nem um pouco, o que faz com que Garfinho fuja de casa. Decidido a trazer de volta o atual brinquedo favorito de Bonnie, Woody parte em seu encalço e, no caminho, reencontra Bo Peep, que agora vive em um parque de diversões.",
+    "avaliacao": "7.5",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/toy-story-4.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/iG3Gu0T0AkL4D8T8ci2PcufuLyX.jpg"
+        }
+      ]
+    }
   }
 ]
