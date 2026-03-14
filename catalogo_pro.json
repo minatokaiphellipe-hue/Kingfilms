@@ -17569,5 +17569,25 @@
         }
       ]
     }
+  },
+  {
+    "id": "shrek-terceiro",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Shrek Terceiro 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/jtsu9H1mZ3ecRTXAB0WhrTUiut2.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/s7aqetR77HTeQuIjffcQRrra4nu.jpg",
+    "sinopse": "O rei Harold, pai de Fiona, morre repentinamente. Com isto Shrek precisa ser coroado rei, algo que ele jamais pensou em ser. Juntamente com o Burro e o Gato de Botas, ele precisa encontrar alguém que possa substituí-lo no cargo de soberano do Reino de Tão, Tão Distante. O principal candidato é Artie, um jovem desprezado por todos em sua escola, que é primo de Fiona.",
+    "avaliacao": "6.3",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/shrek-terceiro.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/s7aqetR77HTeQuIjffcQRrra4nu.jpg"
+        }
+      ]
+    }
   }
 ]
