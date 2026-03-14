@@ -17195,5 +17195,24 @@
         }
       ]
     }
+  },
+  {
+    "id": "aguas-rasas",
+    "tipo": "filme",
+    "categoria": "Terror",
+    "titulo": "Águas Rasas 🌀",
+    "logo": "https://image.tmdb.org/t/p/w1280/3OWhVKGVCsuBLcXWbrzV7JhTTWF.jpg",
+    "sinopse": "Nancy (Blake Lively) é uma jovem médica que está tendo de lidar com a recente perda da mãe. Seguindo uma dica sua, ela vai surfar em uma paradisíaca praia isolada, onde acaba sendo atacada por um enorme tubarão. Desesperada e ferida, ela consegue se proteger temporariamente em um recife de corais, mas precisa encontrar logo uma maneira de sair da água.",
+    "avaliacao": "6.4",
+    "classificacao": "14",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/aguas-rasas.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/3OWhVKGVCsuBLcXWbrzV7JhTTWF.jpg"
+        }
+      ]
+    }
   }
 ]
