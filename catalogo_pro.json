@@ -17589,5 +17589,25 @@
         }
       ]
     }
+  },
+  {
+    "id": "que-horas-eu-te-pego",
+    "tipo": "filme",
+    "categoria": "Comédia",
+    "titulo": "Que Horas Eu Te Pego? 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/n4nKD8ZzZf1NxdBBxWBKq32VxNd.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/bSRSmuZx1jGAiHkjQYJdqk2zAxN.jpg",
+    "sinopse": "Uma jovem falida é contratada para namorar um adolescente introvertido e socialmente desajeitado, que está se preparando para a faculdade.",
+    "avaliacao": "6.7",
+    "classificacao": "16",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/que-horas-eu-te-pego.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSRSmuZx1jGAiHkjQYJdqk2zAxN.jpg"
+        }
+      ]
+    }
   }
 ]
