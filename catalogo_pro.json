@@ -18223,5 +18223,65 @@
         }
       ]
     }
+  },
+  {
+    "id": "x-men-primeira-classe",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "X-Men: Primeira Classe 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/hMVzCXh2vmCMzZS2mM2QvMqQZZs.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/guQGoRYHj8kbhfno1Qwb8hFdu2w.jpg",
+    "sinopse": "No início dos anos 1960, durante o auge da Guerra Fria, um mutante chamado Charles Xavier conhece um mutante chamado Erik Lehnsherr. Apesar de suas origens muito diferentes - Charles cresceu em uma família rica enquanto Erik perdeu seus pais em Auschwitz -, os dois se tornam grandes amigos. Enquanto o mundo oscila à beira de uma guerra nuclear, Charles e Erik unem forças com outros mutantes para salvar a humanidade. No entanto, um acontecimento separa os dois amigos.",
+    "avaliacao": "7.3",
+    "classificacao": "12",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/x-men-primeira-classe.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/guQGoRYHj8kbhfno1Qwb8hFdu2w.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "x-men-dias-de-um-futuro-esquecido",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "X-Men: Dias de um Futuro Esquecido 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/cAGrjXVQoNyqHgxPoXr68JGqmp0.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/8UMOWGKdLtFW45wd26di72uCF4G.jpg",
+    "sinopse": "O Dr. Bolivar Trask acredita que os mutantes são uma ameaça para a humanidade. Ele desenvolve gigantescos robôs chamados Sentinelas, que perseguem impiedosamente os mutantes. Os poucos sobreviventes precisam viver escondidos. Wolverine viaja no tempo para procurar os jovens Xavier e Magneto e impedir que eles sejam caçados e aniquilados no futuro.",
+    "avaliacao": "7.5",
+    "classificacao": "12",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/x-men-dias-de-um-futuro-esquecido.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/8UMOWGKdLtFW45wd26di72uCF4G.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "x-men-apocalipse",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "X-Men: Apocalipse 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/avAUyU5cXk0ASy5yR8FMtO78LRS.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/4JAwkkzrH0BWPoh59tUmbRDCTu7.jpg",
+    "sinopse": "Apocalipse, o primeiro mutante de todos, consegue retornar à vida após milhares de anos. Agora, ele sai à procura de seguidores para dominar o mundo. Caberá aos X-Men se unirem para impedir os planos do vilão e evitar uma catástofre mundial.",
+    "avaliacao": "6.5",
+    "classificacao": "12",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/x-men-apocalipse.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/4JAwkkzrH0BWPoh59tUmbRDCTu7.jpg"
+        }
+      ]
+    }
   }
 ]
