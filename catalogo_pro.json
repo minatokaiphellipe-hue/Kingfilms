@@ -17769,5 +17769,70 @@
         }
       ]
     }
+  },
+  {
+    "id": "spartacus-house-of-ashur",
+    "tipo": "serie",
+    "categoria": "Séries",
+    "titulo": "Spartacus: House of Ashur 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/yJQGiHcHWofZEL5mDvSgbVMUMUK.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/vQrCtWkkoPSuRuVtsYCAFZUP1dw.jpg",
+    "sinopse": "A trama se passa em um universo onde Ashur não morreu no Monte Vesúvio. Em vez disso, ele traiu a rebelião, entregou Spartacus para a morte e ajudou a acabar com a guerra dos escravos. Como recompensa por seus \"serviços\", os romanos lhe deram a propriedade da antiga Casa de Batiatus. Agora, Ashur é o Dominus do ludus onde um dia foi escravo e tenta a todo custo ganhar o respeito da elite romana e limpar seu nome, enquanto treina novos gladiadores em um jogo político perigoso e sangrento.",
+    "avaliacao": "6.9",
+    "classificacao": "16",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "S01E01 🌀",
+          "linkFisico": "v/spartacus-house-of-ashur-s01e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/vQrCtWkkoPSuRuVtsYCAFZUP1dw.jpg"
+        },
+        {
+          "tit": "S01E02 🌀",
+          "linkFisico": "v/spartacus-house-of-ashur-s01e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/vQrCtWkkoPSuRuVtsYCAFZUP1dw.jpg"
+        },
+        {
+          "tit": "S01E03 🌀",
+          "linkFisico": "v/spartacus-house-of-ashur-s01e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/vQrCtWkkoPSuRuVtsYCAFZUP1dw.jpg"
+        },
+        {
+          "tit": "S01E04 🌀",
+          "linkFisico": "v/spartacus-house-of-ashur-s01e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/vQrCtWkkoPSuRuVtsYCAFZUP1dw.jpg"
+        },
+        {
+          "tit": "S01E05 🌀",
+          "linkFisico": "v/spartacus-house-of-ashur-s01e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/vQrCtWkkoPSuRuVtsYCAFZUP1dw.jpg"
+        },
+        {
+          "tit": "S01E06 🌀",
+          "linkFisico": "v/spartacus-house-of-ashur-s01e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/vQrCtWkkoPSuRuVtsYCAFZUP1dw.jpg"
+        },
+        {
+          "tit": "S01E07 🌀",
+          "linkFisico": "v/spartacus-house-of-ashur-s01e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/vQrCtWkkoPSuRuVtsYCAFZUP1dw.jpg"
+        },
+        {
+          "tit": "S01E08 🌀",
+          "linkFisico": "v/spartacus-house-of-ashur-s01e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/vQrCtWkkoPSuRuVtsYCAFZUP1dw.jpg"
+        },
+        {
+          "tit": "S01E09 🌀",
+          "linkFisico": "v/spartacus-house-of-ashur-s01e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/vQrCtWkkoPSuRuVtsYCAFZUP1dw.jpg"
+        },
+        {
+          "tit": "S01E10 🌀",
+          "linkFisico": "v/spartacus-house-of-ashur-s01e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/vQrCtWkkoPSuRuVtsYCAFZUP1dw.jpg"
+        }
+      ]
+    }
   }
 ]
