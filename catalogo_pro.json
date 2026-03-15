@@ -17629,5 +17629,85 @@
         }
       ]
     }
+  },
+  {
+    "id": "piratas-do-caribe-o-bau-da-morte",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "Piratas do Caribe: O Baú da Morte 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/yvD1G41HwHgj8afCjmfGbyRmBBR.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/s4LxEZyFjuW9yEqc8Dp2nszFlO5.jpg",
+    "sinopse": "Will e Elizabeth estão prestes a se casar quando o lendário pirata Davy Jones, comandante do invencível navio assombrado O Holandês Voador, aparece para cobrar uma dívida do capitão Jack Sparrow, amigo do casal. A única chance de Sparrow se livrar de uma maldição de Jones é encontrando o baú da morte.",
+    "avaliacao": "7.4",
+    "classificacao": "12",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/piratas-do-caribe-o-bau-da-morte.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/s4LxEZyFjuW9yEqc8Dp2nszFlO5.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "piratas-do-caribe-no-fim-do-mundo",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "Piratas do Caribe: No Fim do Mundo 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/j15lZasREutscon6e61LSSNJoN7.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/A2V6uIYACMQZuwWvL5KAu19q5CO.jpg",
+    "sinopse": "Will Turner e Elizabeth Swann unem forças com o Capitão Barbossa para libertarem Jack Sparrow da prisão de Davy Jones. Enquanto isso, a tripulação do barco fantasma O Holandês Voador causa estragos nos Sete Mares. Os amigos devem navegar através de águas perigosas para enfrentarem o pirata chinês São Feng e, finalmente, eles devem escolher em que lado ficar na batalha, pois a vida do pirata está em jogo.",
+    "avaliacao": "7.3",
+    "classificacao": "12",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/piratas-do-caribe-no-fim-do-mundo.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/A2V6uIYACMQZuwWvL5KAu19q5CO.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "piratas-do-caribe-navegando-em-aguas-misteriosas",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "Piratas do Caribe: Navegando em Águas Misteriosas 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/blt7kBXEk1HgJjCTusaUMQ7BCTY.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/2B17Bo3JR8XJOldGozWq5mzmMiG.jpg",
+    "sinopse": "O passado do capitão Jack Sparrow volta a alcançá-lo quando ele cruza com Angelica, uma bonita pirata que Jack, um dia, amou e depois abandonou. Ela, então, o força a acompanhá-la ao navio Vingança da Rainha Ana, do famoso Barba Negra. Junto com uma tripulação de zumbis, o trio parte em busca da lendária Fonte da Juventude. Mas o rival de Jack, Barbossa, também cobiça a fonte, assim como um navio espanhol.",
+    "avaliacao": "6.6",
+    "classificacao": "12",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/piratas-do-caribe-navegando-em-aguas-misteriosas.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/2B17Bo3JR8XJOldGozWq5mzmMiG.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "piratas-do-caribe-a-vinganca-de-salazar",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "Piratas do Caribe: A Vingança de Salazar 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/1bXv1lIkXE1TXYsyd6HHQr4dfw4.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/w4CPjdoluwyPXPzdMCJUKJD7gtt.jpg",
+    "sinopse": "O Capitão Jack, que anda passando por uma onda de azar, sente os ventos da má sorte soprando com muita força quando os marinheiros fantasmas assassinos, liderados pelo aterrorizante Capitão Salazar, escapam do triângulo do diabo decididos a matar todos os piratas em seu caminho, especialmente Jack.",
+    "avaliacao": "6.7",
+    "classificacao": "12",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/piratas-do-caribe-a-vinganca-de-salazar.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/w4CPjdoluwyPXPzdMCJUKJD7gtt.jpg"
+        }
+      ]
+    }
   }
 ]
