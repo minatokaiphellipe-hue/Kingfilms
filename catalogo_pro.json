@@ -17709,5 +17709,25 @@
         }
       ]
     }
+  },
+  {
+    "id": "o-refugio",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "O Refúgio 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/49b7CTeJqugnpBboT6D5xGy3h4H.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/ino3uEkamdS64Yj7maMGfL2rtxf.jpg",
+    "sinopse": "Quando a vida tranquila numa ilha remota chega ao fim com a volta de um ex-capitão vingativo, uma habilidosa ex-pirata precisa confrontar seu passado sangrento e usar seu talento mortal para salvar a família de um cerco implacável.",
+    "avaliacao": "6.3",
+    "classificacao": "18",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/o-refugio.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/ino3uEkamdS64Yj7maMGfL2rtxf.jpg"
+        }
+      ]
+    }
   }
 ]
