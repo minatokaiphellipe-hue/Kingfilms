@@ -18383,5 +18383,45 @@
         }
       ]
     }
+  },
+  {
+    "id": "a-orfa",
+    "tipo": "filme",
+    "categoria": "Terror",
+    "titulo": "A Órfã 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/9tdcvT3ZyPBluzmQTevgn503jpg.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/jdHo3DKO6uOqVTT6h84HTIikuKQ.jpg",
+    "sinopse": "Kate e John Coleman ficam arrasados devido a um trágico aborto. Apesar de já ter 2filhos, o casal decide adotar uma criança. Eles se encantam pela pequena Esther e optam rapidamente por sua adoção. O que eles não sabiam é que estranhos acontecimentos fazem parte do histórico da menina que passa a se tornar, dia após dia, mais misteriosa. Intrigada, Kate desconfia que Esther não é quem aparenta ser, mas devido ao alcoolismo tem dificuldades de provar sua teoria.",
+    "avaliacao": "7.0",
+    "classificacao": "18",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/a-orfa.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/jdHo3DKO6uOqVTT6h84HTIikuKQ.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "orfa-2-a-origem",
+    "tipo": "filme",
+    "categoria": "Terror",
+    "titulo": "Órfã 2: A Origem 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/okgBTByIqwRotmfg3ljUBAyVmcW.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/mdO4dw3glMA5aqRMRFQjDFztDv5.jpg",
+    "sinopse": "Lena Klammer orquestra uma fuga brilhante de uma unidade psiquiátrica russa e viaja para os Estados Unidos, representando a filha desaparecida de uma família rica. Mas a nova vida de Lena como \"Esther\" vem com uma ruga inesperada e a coloca contra uma mãe que protegerá sua família a qualquer custo.",
+    "avaliacao": "6.6",
+    "classificacao": "16",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/orfa-2-a-origem.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mdO4dw3glMA5aqRMRFQjDFztDv5.jpg"
+        }
+      ]
+    }
   }
 ]
