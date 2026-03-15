@@ -18305,26 +18305,6 @@
     }
   },
   {
-    "id": "deadpool",
-    "tipo": "filme",
-    "categoria": "Ação",
-    "titulo": "Deadpool 🌀",
-    "logo": "https://image.tmdb.org/t/p/w780/tekExNqal2kcHp8BKiHX5jjxK9J.jpg",
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/lL5Jn3cjWw7vTBVleU4o212AcqA.jpg",
-    "sinopse": "Baseado no anti-herói não convencional da Marvel Comics, Deadpool conta a história da origem do ex-agente das Forças Especiais que se tornou o mercenário Wade Wilson. Depois de ser submetido a um desonesto experimento que o deixa com poderes de cura acelerada, Wade adota o alter ego de Deadpool. Armado com suas novas habilidades e um senso de humor negro e distorcido, Deadpool persegue o homem que quase destruiu sua vida.",
-    "avaliacao": "7.6",
-    "classificacao": "16",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "Assistir 🌀",
-          "linkFisico": "v/deadpool.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/lL5Jn3cjWw7vTBVleU4o212AcqA.jpg"
-        }
-      ]
-    }
-  },
-  {
     "id": "deadpool-2",
     "tipo": "filme",
     "categoria": "Ação",
@@ -18360,6 +18340,26 @@
           "tit": "Assistir 🌀",
           "linkFisico": "v/deadpool-wolverine.html",
           "logoEp": "https://image.tmdb.org/t/p/w1280/wNa8cZp4fjF5Fa1oE5HhF6Km7kK.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "deadpool",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "Deadpool 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/tekExNqal2kcHp8BKiHX5jjxK9J.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/lL5Jn3cjWw7vTBVleU4o212AcqA.jpg",
+    "sinopse": "Baseado no anti-herói não convencional da Marvel Comics, Deadpool conta a história da origem do ex-agente das Forças Especiais que se tornou o mercenário Wade Wilson. Depois de ser submetido a um desonesto experimento que o deixa com poderes de cura acelerada, Wade adota o alter ego de Deadpool. Armado com suas novas habilidades e um senso de humor negro e distorcido, Deadpool persegue o homem que quase destruiu sua vida.",
+    "avaliacao": "7.6",
+    "classificacao": "16",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/deadpool.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/lL5Jn3cjWw7vTBVleU4o212AcqA.jpg"
         }
       ]
     }
