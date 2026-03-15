@@ -18083,5 +18083,65 @@
         }
       ]
     }
+  },
+  {
+    "id": "x-men-origens-wolverine",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "X-Men Origens: Wolverine 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/a3V6xhrI4gpMv4MI5RKj9AtK3Nf.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/v3thidJkydXrjYBFuOuE9aMXm3t.jpg",
+    "sinopse": "Tentando esquecer seu passado sombrio, Logan, mais conhecido como Wolverine, parece ter encontrado o amor e a felicidade com Kayla Silverfox. Mas a paz de Logan é abalada quando Victor Creed, seu irmão cruel, assassina brutalmente Kayla. A sede de vingança de Logan o leva ao programa Arma X. Ele passa por um processo doloroso para fortalecer seus ossos com adamantium, o que o torna praticamente indestrutível.",
+    "avaliacao": "6.3",
+    "classificacao": "14",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/x-men-origens-wolverine.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/v3thidJkydXrjYBFuOuE9aMXm3t.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "wolverine-imortal",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "Wolverine: Imortal 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/3J5TdW9sqDeZQYOSynJyDopGgZn.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/nNOEcNENnxvLtRFSMc5Yj0MZw4u.jpg",
+    "sinopse": "Após matar Jean Grey para salvar a humanidade, Logan passou a viver na selva. Deprimido, ele é encontrado em um bar pela jovem Yukio, filha de Yashida, que foi salvo por Logan em Nagasaki na época da bomba atômica. Yashima deseja reencontrar Logan para fazer-lhe uma proposta: transferir seu fator de cura para ele, de forma que Logan possa, enfim, se tornar mortal e levar uma vida como uma pessoa qualquer. Ele recusa o convite, mas acaba infectado por uma mutante imune a venenos de todo tipo.",
+    "avaliacao": "6.4",
+    "classificacao": "14",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/wolverine-imortal.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/nNOEcNENnxvLtRFSMc5Yj0MZw4u.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "logan",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "Logan 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/f0CtZbae9cXj8bkWdCHzUHx5lsR.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/45KTkpV6G3qfv0dQtj20cPZMCNY.jpg",
+    "sinopse": "Em um futuro próximo, um cansado Logan cuida do doente Professor Xavier em um esconderijo na fronteira mexicana. Mas as tentativas de Logan de se esconder do mundo e de seu legado são interrompidas com a chegada de uma jovem mutante, perseguida por forças sombrias.",
+    "avaliacao": "7.8",
+    "classificacao": "16",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/logan.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/45KTkpV6G3qfv0dQtj20cPZMCNY.jpg"
+        }
+      ]
+    }
   }
 ]
