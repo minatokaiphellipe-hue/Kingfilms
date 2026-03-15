@@ -18143,5 +18143,25 @@
         }
       ]
     }
+  },
+  {
+    "id": "animais-perigosos",
+    "tipo": "filme",
+    "categoria": "Terror",
+    "titulo": "Animais Perigosos 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/vgMYt20P7ws2CfB5LaAo1PjD90i.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/xRatYlZRrp7smB87sXcfHB6mYBl.jpg",
+    "sinopse": "A vida da surfista Zephyr transforma-se em um pesadelo ao ser sequestrada por Tucker, um assassino em série obcecado por tubarões. Mantida em cativeiro em uma embarcação junto a outra vítima, ela é forçada a testemunhar horrores inimagináveis enquanto o psicopata utiliza predadores marinhos para executar seus alvos e filmar cada ataque brutal. Em uma luta desesperada contra o tempo, Zephyr precisa encontrar uma maneira de escapar antes de se tornar a próxima atração do espetáculo macabro de Tucker.",
+    "avaliacao": "6.4",
+    "classificacao": "18",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/animais-perigosos.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/xRatYlZRrp7smB87sXcfHB6mYBl.jpg"
+        }
+      ]
+    }
   }
 ]
