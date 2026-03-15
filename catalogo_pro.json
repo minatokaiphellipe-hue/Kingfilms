@@ -17834,5 +17834,25 @@
         }
       ]
     }
+  },
+  {
+    "id": "invocacao-do-mal-4-o-ultimo-ritual",
+    "tipo": "filme",
+    "categoria": "Terror",
+    "titulo": "Invocação do Mal 4: O Último Ritual 🌀",
+    "logo": "https://image.tmdb.org/t/p/original/fsdxqtCgbHtQHTukh5OwRFSzTNz.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/iRezV54qSeu64xULAAPsYE3SGO2.jpg",
+    "sinopse": "O casal de investigadores Ed e Lorraine Warren assume um novo caso de horror sobrenatural que os força a um confronto derradeiro. Para vencer esta batalha final contra as forças malignas, eles são obrigados a encarar seus medos mais profundos, colocando suas vidas em extremo risco.",
+    "avaliacao": "6.9",
+    "classificacao": "16",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/invocacao-do-mal-4-o-ultimo-ritual.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/iRezV54qSeu64xULAAPsYE3SGO2.jpg"
+        }
+      ]
+    }
   }
 ]
