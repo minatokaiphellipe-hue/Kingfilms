@@ -17729,5 +17729,45 @@
         }
       ]
     }
+  },
+  {
+    "id": "it-a-coisa",
+    "tipo": "filme",
+    "categoria": "Terror",
+    "titulo": "It: A Coisa 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/uYxz0lIiNgErrPhQbSjUdwYxtFc.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/cHbSjL1KQLBzEOVwRJ07V693MuA.jpg",
+    "sinopse": "Na cidade de Derry, no Maine, sete jovens se juntam para combater uma criatura sobrenatural que está assombrando a sua cidade por séculos. Chamado de Pennywise – O Palhaço Dançarino, a Coisa é um monstro de força absoluta que toma a forma dos medos mais horrorosos das pessoas. Ameaçados por seus piores pesadelos, a única maneira dos jovens amigos sobreviverem à Coisa é se continuarem juntos.",
+    "avaliacao": "7.2",
+    "classificacao": "16",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/it-a-coisa.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/cHbSjL1KQLBzEOVwRJ07V693MuA.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "it-capitulo-dois",
+    "tipo": "filme",
+    "categoria": "Terror",
+    "titulo": "IT: Capítulo Dois 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/qjKvLv6Z2D9QWEOdnsrffguazHk.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/o5f666THjrVw9wzGOD3a7QZ0BVq.jpg",
+    "sinopse": "Vinte e sete anos após o Clube dos Otários derrotar Pennywise, It está de volta. Agora adultos Os Otários seguiram com suas vidas, mas com os recentes desaparecimentos em Derry, Mike resolve reunir o grupo novamente. Perturbados pelo passado, eles precisam vencer seus medos para destruir Pennywise, que está ainda mais perigoso, de uma vez por todas.",
+    "avaliacao": "6.8",
+    "classificacao": "16",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/it-capitulo-dois.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/o5f666THjrVw9wzGOD3a7QZ0BVq.jpg"
+        }
+      ]
+    }
   }
 ]
