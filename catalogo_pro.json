@@ -18423,5 +18423,25 @@
         }
       ]
     }
+  },
+  {
+    "id": "isca",
+    "tipo": "filme",
+    "categoria": "Terror",
+    "titulo": "Isca 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/lpDbjUc6RawYC4UJj1YAn9OW802.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/wOY7dDzMf2unmzyM2gv5dq5jQ1W.jpg",
+    "sinopse": "Acompanha um grupo de cinco amigas que precisam lutar por suas vidas em águas abertas depois que um casamento dos sonhos se transforma em um pesadelo.",
+    "avaliacao": "5.6",
+    "classificacao": "16",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/isca.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/wOY7dDzMf2unmzyM2gv5dq5jQ1W.jpg"
+        }
+      ]
+    }
   }
 ]
