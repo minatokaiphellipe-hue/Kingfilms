@@ -17609,5 +17609,25 @@
         }
       ]
     }
+  },
+  {
+    "id": "piratas-do-caribe-a-maldicao-do-perola-negra",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "Piratas do Caribe: A Maldição do Pérola Negra 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/9Xcg7Ar4ketv4rl8yeK32yp9zQA.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/sTDgBMr66hFcLakZwkWrLfI0uiR.jpg",
+    "sinopse": "O pirata Jack Sparrow tem seu navio saqueado e roubado pelo capitão Barbossa e sua tripulação. Com o navio de Sparrow, Barbossa invade a cidade de Port Royal, levando consigo Elizabeth Swann, filha do governador. Para recuperar sua embarcação, Sparrow recebe a ajuda de Will Turner, um grande amigo de Elizabeth. Eles desbravam os mares em direção à misteriosa Ilha da Morte, tentando impedir que os piratas-esqueleto derramem o sangue de Elizabeth para desfazer a maldição que os assola.",
+    "avaliacao": "7.8",
+    "classificacao": "14",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/piratas-do-caribe-a-maldicao-do-perola-negra.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/sTDgBMr66hFcLakZwkWrLfI0uiR.jpg"
+        }
+      ]
+    }
   }
 ]
