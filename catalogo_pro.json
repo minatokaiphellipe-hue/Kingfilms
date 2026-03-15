@@ -18283,5 +18283,25 @@
         }
       ]
     }
+  },
+  {
+    "id": "x-men-fenix-negra",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "X-Men: Fênix Negra 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/w4mvEKtjawXdYaq1bORuodLX6ti.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/1wJafZSiQ55h0W86mhmFxGLEpdN.jpg",
+    "sinopse": "Ambientado em 1992, Charles Xavier está lidando com o fato dos mutantes serem considerados heróis nacionais. Com o orgulho a flor da pele, ele envia sua equipe para perigosas missões, mas a primeira tarefa dos X-Men no espaço gera uma explosão solar, que acende uma força malévola e faminta por poder dentro de Jean Grey.",
+    "avaliacao": "6.0",
+    "classificacao": "12",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/x-men-fenix-negra.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1wJafZSiQ55h0W86mhmFxGLEpdN.jpg"
+        }
+      ]
+    }
   }
 ]
