@@ -17854,5 +17854,65 @@
         }
       ]
     }
+  },
+  {
+    "id": "maze-runner-correr-ou-morrer",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "Maze Runner: Correr ou Morrer 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/efAJzIyjYlgdO7fzfMBJcFZqI5v.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/auHDsrJrtwq1vsAkkuzwgtKDMEJ.jpg",
+    "sinopse": "Num cenário pós-apocalíptico, uma comunidade de rapazes descobre que estão presos num labirinto misterioso. Juntos, terão de descobrir como escapar, resolver o enigma e revelar o arrepiante segredo acerca de quem os colocou ali e por que razão.",
+    "avaliacao": "7.2",
+    "classificacao": "14",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/maze-runner-correr-ou-morrer.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/auHDsrJrtwq1vsAkkuzwgtKDMEJ.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "maze-runner-prova-de-fogo",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "Maze Runner: Prova de Fogo 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/zpdGT57Rn3mAZsNOkeDeINB6L9v.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/jZiXp2GZyv3eIAyLknWoutSSxyk.jpg",
+    "sinopse": "Após escapar do labirinto, Thomas e os garotos que o acompanharam em sua fuga da Clareira precisam agora lidar com uma realidade bem diferente: a superfície da Terra foi queimada pelo sol e eles precisam lidar com criaturas disformes chamadas Cranks, que desejam devorá-los vivos.",
+    "avaliacao": "6.7",
+    "classificacao": "14",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/maze-runner-prova-de-fogo.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/jZiXp2GZyv3eIAyLknWoutSSxyk.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "maze-runner-a-cura-mortal",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "Maze Runner: A Cura Mortal 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/uBEpWurzTOiz520d1tRNhBXN7h9.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/pZEOKJpZdxMznyjGg7pwoBLgkoQ.jpg",
+    "sinopse": "No terceiro filme da saga, Thomas (Dylan O' Brien) embarca em uma missão para encontrar a cura para uma doença mortal e descobre que os planos da C.R.U.E.L podem trazer consequências catastróficas para a humanidade. Agora, ele tem que decidir se vai se entregar para a C.R.U.E.L e confiar na promessa da organização de que esse será seu último experimento.",
+    "avaliacao": "7.1",
+    "classificacao": "12",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/maze-runner-a-cura-mortal.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/pZEOKJpZdxMznyjGg7pwoBLgkoQ.jpg"
+        }
+      ]
+    }
   }
 ]
