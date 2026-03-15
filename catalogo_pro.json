@@ -18363,5 +18363,25 @@
         }
       ]
     }
+  },
+  {
+    "id": "juntos",
+    "tipo": "filme",
+    "categoria": "Terror",
+    "titulo": "Juntos 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/m9jfOWLuyYejyJX17wRFUQGtUji.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/zcj6rJATjwaF2Hyxwjtj9IhN9k9.jpg",
+    "sinopse": "O que poderia ser uma oportunidade para recomeçar logo se transforma em um verdadeiro pesadelo, quando uma força sobrenatural começa a corromper sua relação, suas mentes e seus corpos. À medida que se afastam de tudo o que conheciam, o casal descobre que, para permanecerem juntos, terão que enfrentar um horror muito maior do que o que os separava.",
+    "avaliacao": "7.0",
+    "classificacao": "16",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/juntos.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/zcj6rJATjwaF2Hyxwjtj9IhN9k9.jpg"
+        }
+      ]
+    }
   }
 ]
