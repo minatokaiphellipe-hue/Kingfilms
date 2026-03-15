@@ -18163,5 +18163,65 @@
         }
       ]
     }
+  },
+  {
+    "id": "x-men-o-filme",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "X-Men: O Filme 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/eTAK1gU8vTaHt0W9I6PFYQsdhKP.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/nPXzhv2hQ44NPQzqAYBMkV8kQM2.jpg",
+    "sinopse": "Eles são filhos do átomo superior, o próximo elo na corrente da evolução. Cada um nasceu com uma mutação genética rara, que na puberdade se manifestou em poderes extraordinários. Em um mundo cheio de ódio e preconceito, eles são temidos por aqueles que não podem aceitar suas diferenças. Liderados por Xavier, os X-Men lutam para proteger um mundo que os teme. Eles estão presos em uma batalha contra um ex-colega e amigo, Magneto, que acredita que os humanos e os mutantes não devem viver juntos.",
+    "avaliacao": "7.0",
+    "classificacao": "12",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/x-men-o-filme.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/nPXzhv2hQ44NPQzqAYBMkV8kQM2.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "x-men-2",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "X-Men 2 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/pwQo1ehiPBqAbiVqD6rfNM8GCFE.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/lKfARtv3DefT6iYuAf2k4g4P8Hs.jpg",
+    "sinopse": "Stryker, um ex-comandante perverso do exército, tem a chave para o passado de Wolverine e o futuro dos X-Men. Esta ameaça reacende a chamada para um ato de registro mutante. Stryker inicia um ataque à mansão e escola do Professor Xavier. Depois de escapar de sua cela de plástico, Magneto propõe uma parceria com Xavier e os X-Men para combater esse novo inimigo que ambos têm em comum.",
+    "avaliacao": "7.0",
+    "classificacao": "12",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/x-men-2.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/lKfARtv3DefT6iYuAf2k4g4P8Hs.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "x-men-o-confronto-final",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "X-Men: O Confronto Final 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/rcPewUA6Lszt25wIa1nkW3A82JX.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/e6axZUKtweHm5fUnrVIKnILiSOI.jpg",
+    "sinopse": "A descoberta de uma cura para as mutações leva os mutantes a um ponto decisivo. Eles podem escolher entre abandonar seus poderes e se tornarem humanos ou continuar com os poderes e permanecerem excluídos. Uma batalha é travada entre os simpatizantes de Charles Xavier, que prega a tolerância, e os seguidores de Magneto, que defende a sobrevivência dos mais fortes.",
+    "avaliacao": "6.4",
+    "classificacao": "12",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/x-men-o-confronto-final.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/e6axZUKtweHm5fUnrVIKnILiSOI.jpg"
+        }
+      ]
+    }
   }
 ]
