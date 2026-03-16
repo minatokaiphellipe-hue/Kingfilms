@@ -19207,5 +19207,25 @@
         }
       ]
     }
+  },
+  {
+    "id": "o-homem-de-aco",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "O Homem de Aço 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/cheo9jDPfyW1GevfPjXtnO91KNe.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/iByowgAznTSMh0pDBkmY2aCioJM.jpg",
+    "sinopse": "Um garoto descobre que não é deste planeta e que tem poderes extraordinários. Quando se torna adolescente, viaja para descobrir de onde veio e para o quê foi enviado a fazer. Mas o herói nele deve emergir se quiser salvar o mundo da aniquilação e se tornar o símbolo de esperança para toda a humanidade.",
+    "avaliacao": "6.6",
+    "classificacao": "12",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/o-homem-de-aco.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/iByowgAznTSMh0pDBkmY2aCioJM.jpg"
+        }
+      ]
+    }
   }
 ]
