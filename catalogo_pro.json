@@ -19895,5 +19895,65 @@
         }
       ]
     }
+  },
+  {
+    "id": "hotel-transilvania",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Hotel Transilvânia 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/i9kAWShk7qrqril2dLboP0hi8I2.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/gj2xirQCqXJEUFgWoww4R5D7xIu.jpg",
+    "sinopse": "O Hotel Transilvânia é um resort cinco estrelas que serve de refúgio para que os monstros possam descansar do árduo trabalho de perseguir e assustar os humanos. O local é comandado pelo Conde Drácula, que resolve convidar os amigos para comemorar o 118º aniversário de sua filha, Mavis. O que ele não esperava era que Jonathan, um humano sem noção, fosse aparecer no local justo quando o hotel está repleto de convidados e, ainda por cima, se apaixonasse por Mavis.",
+    "avaliacao": "7.0",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/hotel-transilvania.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gj2xirQCqXJEUFgWoww4R5D7xIu.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "hotel-transilvania-2",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Hotel Transilvânia 2 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/prBkRebn3rgLVboyxmEpjKaDJ1x.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/7uT2L76Mt0xMTWii8gAosW0Cjl4.jpg",
+    "sinopse": "Drácula percebe que seu neto, que é metade humano, não está mostrando seu lado vampiro. O avô preocupado, ao lado de seus amigos, decide colocar o menino em um treinamento especial enquanto Mavis e Johnny estão fora. Para piorar, o pai de Drácula aparece para uma visita.",
+    "avaliacao": "6.8",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/hotel-transilvania-2.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/7uT2L76Mt0xMTWii8gAosW0Cjl4.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "hotel-transilvania-3-ferias-monstruosas",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Hotel Transilvânia 3: Férias Monstruosas 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/3ji1aJB052iPLnnzL082It683Nr.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/AkdMlTbG6FPZ4kmQnw6eFEfpf5N.jpg",
+    "sinopse": "Solitário e infeliz, buscando um novo amor na internet, Drácula é surpreendido com um presente da querida filha: férias em um cruzeiro. Inicialmente resistente à ideia, ele acaba engajado no passeio ao se encantar pela comandante, que, no entanto, esconde um segredo nada amigável.",
+    "avaliacao": "6.9",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/hotel-transilvania-3-ferias-monstruosas.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/AkdMlTbG6FPZ4kmQnw6eFEfpf5N.jpg"
+        }
+      ]
+    }
   }
 ]
