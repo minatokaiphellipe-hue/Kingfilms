@@ -19617,5 +19617,25 @@
         }
       ]
     }
+  },
+  {
+    "id": "natureza-violenta",
+    "tipo": "filme",
+    "categoria": "Terror",
+    "titulo": "Natureza Violenta 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/7YYUlCEY97nv5g5EfH7WoxZeXAF.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/twm3VGI0z1A3GNwjyag0lwJ8XqF.jpg",
+    "sinopse": "Após 60 anos, o assassino Johnny volta à vida graças a um incêndio na floresta. Para se manter vivo, começa a perseguir um grupo de jovens que passa férias na região.",
+    "avaliacao": "5.6",
+    "classificacao": "18",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/natureza-violenta.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/twm3VGI0z1A3GNwjyag0lwJ8XqF.jpg"
+        }
+      ]
+    }
   }
 ]
