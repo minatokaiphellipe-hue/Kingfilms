@@ -19267,5 +19267,355 @@
         }
       ]
     }
+  },
+  {
+    "id": "cobra-kai",
+    "tipo": "serie",
+    "categoria": "Séries",
+    "titulo": "Cobra Kai 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/6POBWybSBDBKjSs1VAQcnQC1qyt.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/mZTieenHNFppEnFwVGDe7JHG90V.jpg",
+    "sinopse": "Nesta aclamada série que é continuação dos filmes Karatê Kid, Daniel e Johnny retomam a rivalidade dos tempos de escola.",
+    "avaliacao": "8.2",
+    "classificacao": "14",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "S01E01 🌀",
+          "linkFisico": "v/cobra-kai-s01e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mZTieenHNFppEnFwVGDe7JHG90V.jpg"
+        },
+        {
+          "tit": "S01E02 🌀",
+          "linkFisico": "v/cobra-kai-s01e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mZTieenHNFppEnFwVGDe7JHG90V.jpg"
+        },
+        {
+          "tit": "S01E03 🌀",
+          "linkFisico": "v/cobra-kai-s01e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mZTieenHNFppEnFwVGDe7JHG90V.jpg"
+        },
+        {
+          "tit": "S01E04 🌀",
+          "linkFisico": "v/cobra-kai-s01e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mZTieenHNFppEnFwVGDe7JHG90V.jpg"
+        },
+        {
+          "tit": "S01E05 🌀",
+          "linkFisico": "v/cobra-kai-s01e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mZTieenHNFppEnFwVGDe7JHG90V.jpg"
+        },
+        {
+          "tit": "S01E06 🌀",
+          "linkFisico": "v/cobra-kai-s01e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mZTieenHNFppEnFwVGDe7JHG90V.jpg"
+        },
+        {
+          "tit": "S01E07 🌀",
+          "linkFisico": "v/cobra-kai-s01e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mZTieenHNFppEnFwVGDe7JHG90V.jpg"
+        },
+        {
+          "tit": "S01E08 🌀",
+          "linkFisico": "v/cobra-kai-s01e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mZTieenHNFppEnFwVGDe7JHG90V.jpg"
+        },
+        {
+          "tit": "S01E09 🌀",
+          "linkFisico": "v/cobra-kai-s01e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mZTieenHNFppEnFwVGDe7JHG90V.jpg"
+        },
+        {
+          "tit": "S01E10 🌀",
+          "linkFisico": "v/cobra-kai-s01e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mZTieenHNFppEnFwVGDe7JHG90V.jpg"
+        }
+      ],
+      "2": [
+        {
+          "tit": "S02E01 🌀",
+          "linkFisico": "v/cobra-kai-s02e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mZTieenHNFppEnFwVGDe7JHG90V.jpg"
+        },
+        {
+          "tit": "S02E02 🌀",
+          "linkFisico": "v/cobra-kai-s02e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mZTieenHNFppEnFwVGDe7JHG90V.jpg"
+        },
+        {
+          "tit": "S02E03 🌀",
+          "linkFisico": "v/cobra-kai-s02e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mZTieenHNFppEnFwVGDe7JHG90V.jpg"
+        },
+        {
+          "tit": "S02E04 🌀",
+          "linkFisico": "v/cobra-kai-s02e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mZTieenHNFppEnFwVGDe7JHG90V.jpg"
+        },
+        {
+          "tit": "S02E05 🌀",
+          "linkFisico": "v/cobra-kai-s02e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mZTieenHNFppEnFwVGDe7JHG90V.jpg"
+        },
+        {
+          "tit": "S02E06 🌀",
+          "linkFisico": "v/cobra-kai-s02e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mZTieenHNFppEnFwVGDe7JHG90V.jpg"
+        },
+        {
+          "tit": "S02E07 🌀",
+          "linkFisico": "v/cobra-kai-s02e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mZTieenHNFppEnFwVGDe7JHG90V.jpg"
+        },
+        {
+          "tit": "S02E08 🌀",
+          "linkFisico": "v/cobra-kai-s02e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mZTieenHNFppEnFwVGDe7JHG90V.jpg"
+        },
+        {
+          "tit": "S02E09 🌀",
+          "linkFisico": "v/cobra-kai-s02e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mZTieenHNFppEnFwVGDe7JHG90V.jpg"
+        },
+        {
+          "tit": "S02E10 🌀",
+          "linkFisico": "v/cobra-kai-s02e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mZTieenHNFppEnFwVGDe7JHG90V.jpg"
+        }
+      ],
+      "3": [
+        {
+          "tit": "S03E01 🌀",
+          "linkFisico": "v/cobra-kai-s03e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mZTieenHNFppEnFwVGDe7JHG90V.jpg"
+        },
+        {
+          "tit": "S03E02 🌀",
+          "linkFisico": "v/cobra-kai-s03e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mZTieenHNFppEnFwVGDe7JHG90V.jpg"
+        },
+        {
+          "tit": "S03E03 🌀",
+          "linkFisico": "v/cobra-kai-s03e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mZTieenHNFppEnFwVGDe7JHG90V.jpg"
+        },
+        {
+          "tit": "S03E04 🌀",
+          "linkFisico": "v/cobra-kai-s03e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mZTieenHNFppEnFwVGDe7JHG90V.jpg"
+        },
+        {
+          "tit": "S03E05 🌀",
+          "linkFisico": "v/cobra-kai-s03e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mZTieenHNFppEnFwVGDe7JHG90V.jpg"
+        },
+        {
+          "tit": "S03E06 🌀",
+          "linkFisico": "v/cobra-kai-s03e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mZTieenHNFppEnFwVGDe7JHG90V.jpg"
+        },
+        {
+          "tit": "S03E07 🌀",
+          "linkFisico": "v/cobra-kai-s03e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mZTieenHNFppEnFwVGDe7JHG90V.jpg"
+        },
+        {
+          "tit": "S03E08 🌀",
+          "linkFisico": "v/cobra-kai-s03e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mZTieenHNFppEnFwVGDe7JHG90V.jpg"
+        },
+        {
+          "tit": "S03E09 🌀",
+          "linkFisico": "v/cobra-kai-s03e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mZTieenHNFppEnFwVGDe7JHG90V.jpg"
+        },
+        {
+          "tit": "S03E10 🌀",
+          "linkFisico": "v/cobra-kai-s03e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mZTieenHNFppEnFwVGDe7JHG90V.jpg"
+        }
+      ],
+      "4": [
+        {
+          "tit": "S04E01 🌀",
+          "linkFisico": "v/cobra-kai-s04e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mZTieenHNFppEnFwVGDe7JHG90V.jpg"
+        },
+        {
+          "tit": "S04E02 🌀",
+          "linkFisico": "v/cobra-kai-s04e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mZTieenHNFppEnFwVGDe7JHG90V.jpg"
+        },
+        {
+          "tit": "S04E03 🌀",
+          "linkFisico": "v/cobra-kai-s04e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mZTieenHNFppEnFwVGDe7JHG90V.jpg"
+        },
+        {
+          "tit": "S04E04 🌀",
+          "linkFisico": "v/cobra-kai-s04e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mZTieenHNFppEnFwVGDe7JHG90V.jpg"
+        },
+        {
+          "tit": "S04E05 🌀",
+          "linkFisico": "v/cobra-kai-s04e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mZTieenHNFppEnFwVGDe7JHG90V.jpg"
+        },
+        {
+          "tit": "S04E06 🌀",
+          "linkFisico": "v/cobra-kai-s04e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mZTieenHNFppEnFwVGDe7JHG90V.jpg"
+        },
+        {
+          "tit": "S04E07 🌀",
+          "linkFisico": "v/cobra-kai-s04e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mZTieenHNFppEnFwVGDe7JHG90V.jpg"
+        },
+        {
+          "tit": "S04E08 🌀",
+          "linkFisico": "v/cobra-kai-s04e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mZTieenHNFppEnFwVGDe7JHG90V.jpg"
+        },
+        {
+          "tit": "S04E09 🌀",
+          "linkFisico": "v/cobra-kai-s04e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mZTieenHNFppEnFwVGDe7JHG90V.jpg"
+        },
+        {
+          "tit": "S04E10 🌀",
+          "linkFisico": "v/cobra-kai-s04e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mZTieenHNFppEnFwVGDe7JHG90V.jpg"
+        }
+      ],
+      "5": [
+        {
+          "tit": "S05E01 🌀",
+          "linkFisico": "v/cobra-kai-s05e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mZTieenHNFppEnFwVGDe7JHG90V.jpg"
+        },
+        {
+          "tit": "S05E02 🌀",
+          "linkFisico": "v/cobra-kai-s05e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mZTieenHNFppEnFwVGDe7JHG90V.jpg"
+        },
+        {
+          "tit": "S05E03 🌀",
+          "linkFisico": "v/cobra-kai-s05e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mZTieenHNFppEnFwVGDe7JHG90V.jpg"
+        },
+        {
+          "tit": "S05E04 🌀",
+          "linkFisico": "v/cobra-kai-s05e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mZTieenHNFppEnFwVGDe7JHG90V.jpg"
+        },
+        {
+          "tit": "S05E05 🌀",
+          "linkFisico": "v/cobra-kai-s05e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mZTieenHNFppEnFwVGDe7JHG90V.jpg"
+        },
+        {
+          "tit": "S05E06 🌀",
+          "linkFisico": "v/cobra-kai-s05e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mZTieenHNFppEnFwVGDe7JHG90V.jpg"
+        },
+        {
+          "tit": "S05E07 🌀",
+          "linkFisico": "v/cobra-kai-s05e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mZTieenHNFppEnFwVGDe7JHG90V.jpg"
+        },
+        {
+          "tit": "S05E08 🌀",
+          "linkFisico": "v/cobra-kai-s05e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mZTieenHNFppEnFwVGDe7JHG90V.jpg"
+        },
+        {
+          "tit": "S05E09 🌀",
+          "linkFisico": "v/cobra-kai-s05e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mZTieenHNFppEnFwVGDe7JHG90V.jpg"
+        },
+        {
+          "tit": "S05E10 🌀",
+          "linkFisico": "v/cobra-kai-s05e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mZTieenHNFppEnFwVGDe7JHG90V.jpg"
+        }
+      ],
+      "6": [
+        {
+          "tit": "S06E01 🌀",
+          "linkFisico": "v/cobra-kai-s06e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mZTieenHNFppEnFwVGDe7JHG90V.jpg"
+        },
+        {
+          "tit": "S06E02 🌀",
+          "linkFisico": "v/cobra-kai-s06e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mZTieenHNFppEnFwVGDe7JHG90V.jpg"
+        },
+        {
+          "tit": "S06E03 🌀",
+          "linkFisico": "v/cobra-kai-s06e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mZTieenHNFppEnFwVGDe7JHG90V.jpg"
+        },
+        {
+          "tit": "S06E04 🌀",
+          "linkFisico": "v/cobra-kai-s06e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mZTieenHNFppEnFwVGDe7JHG90V.jpg"
+        },
+        {
+          "tit": "S06E05 🌀",
+          "linkFisico": "v/cobra-kai-s06e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mZTieenHNFppEnFwVGDe7JHG90V.jpg"
+        },
+        {
+          "tit": "S06E06 🌀",
+          "linkFisico": "v/cobra-kai-s06e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mZTieenHNFppEnFwVGDe7JHG90V.jpg"
+        },
+        {
+          "tit": "S06E07 🌀",
+          "linkFisico": "v/cobra-kai-s06e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mZTieenHNFppEnFwVGDe7JHG90V.jpg"
+        },
+        {
+          "tit": "S06E08 🌀",
+          "linkFisico": "v/cobra-kai-s06e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mZTieenHNFppEnFwVGDe7JHG90V.jpg"
+        },
+        {
+          "tit": "S06E09 🌀",
+          "linkFisico": "v/cobra-kai-s06e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mZTieenHNFppEnFwVGDe7JHG90V.jpg"
+        },
+        {
+          "tit": "S06E10 🌀",
+          "linkFisico": "v/cobra-kai-s06e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mZTieenHNFppEnFwVGDe7JHG90V.jpg"
+        },
+        {
+          "tit": "S06E11 🌀",
+          "linkFisico": "v/cobra-kai-s06e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mZTieenHNFppEnFwVGDe7JHG90V.jpg"
+        },
+        {
+          "tit": "S06E12 🌀",
+          "linkFisico": "v/cobra-kai-s06e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mZTieenHNFppEnFwVGDe7JHG90V.jpg"
+        },
+        {
+          "tit": "S06E13 🌀",
+          "linkFisico": "v/cobra-kai-s06e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mZTieenHNFppEnFwVGDe7JHG90V.jpg"
+        },
+        {
+          "tit": "S06E14 🌀",
+          "linkFisico": "v/cobra-kai-s06e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mZTieenHNFppEnFwVGDe7JHG90V.jpg"
+        },
+        {
+          "tit": "S06E15 🌀",
+          "linkFisico": "v/cobra-kai-s06e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mZTieenHNFppEnFwVGDe7JHG90V.jpg"
+        }
+      ]
+    }
   }
 ]
