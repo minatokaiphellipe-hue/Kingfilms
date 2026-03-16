@@ -19955,5 +19955,25 @@
         }
       ]
     }
+  },
+  {
+    "id": "hotel-transilvania-transformonstrao",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Hotel Transilvânia: Transformonstrão 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/9PbtCo5IIkd26WPQfZUpPyn6fTz.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/uxn7MiSTlZdCuF8WyCXRW9DN8kr.jpg",
+    "sinopse": "Drac e sua turma acabam sendo transformados em humanos após uma invenção de Van Helsing. Agora, eles precisam viajar até a Floresta Amazônica para encontrar o que pode ser a única solução para reverter a transformação, antes que seus poderes se percam para sempre.",
+    "avaliacao": "7.0",
+    "classificacao": "10",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/hotel-transilvania-transformonstrao.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/uxn7MiSTlZdCuF8WyCXRW9DN8kr.jpg"
+        }
+      ]
+    }
   }
 ]
