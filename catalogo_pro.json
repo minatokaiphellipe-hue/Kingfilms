@@ -19637,5 +19637,25 @@
         }
       ]
     }
+  },
+  {
+    "id": "oddity-objetos-obscuros",
+    "tipo": "filme",
+    "categoria": "Terror",
+    "titulo": "Oddity: Objetos Obscuros 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/zwphX6D0pFzb6SI95wwVkIQzxZJ.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/zCY56nrCD6x5rKwrzm5qVabPy5z.jpg",
+    "sinopse": "Dani e seu marido Ted estavam reformando uma casa de campo remota, quando ela é assassinada. O único suspeito, um paciente do sanatório, foi inocentado, sendo assassinado pouco tempo depois. Um ano depois, a irmã gêmea e cega de Dani decide voltar ao local e faz uma visita inesperada a Ted e sua nova namorada. Decidida a se vingar por achar que algo foi escondido sobre a morte da irmã, ela leva consigo os itens mais perigosos de uma coleção amaldiçoada.",
+    "avaliacao": "6.7",
+    "classificacao": "16",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/oddity-objetos-obscuros.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/zCY56nrCD6x5rKwrzm5qVabPy5z.jpg"
+        }
+      ]
+    }
   }
 ]
