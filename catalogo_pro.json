@@ -20015,5 +20015,25 @@
         }
       ]
     }
+  },
+  {
+    "id": "os-sem-floresta",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Os Sem-Floresta 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/cNPhs8Gkm1SJ4vuZDnytZnj1EsY.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/qMN4mkZQoPLLBz84OhZRsGG2yIm.jpg",
+    "sinopse": "A primavera chegou, o que faz com que os animais da floresta despertem da hibernação. Ao acordar eles logo têm uma surpresa: surgiu ao redor de seu habitat natural uma grande cerca verde. Inicialmente eles temem o que há por detrás da cerca, até que RJ revela que foi construída uma cidade ao redor da floresta em que vivem, que agora ocupa apenas um pequeno espaço. RJ diz ainda que no mundo dos humanos há as mais diversas guloseimas, convencendo os demais a atravessar a cerca. Entretanto esta atitude desagrada o cauteloso Verne, que achava melhor permanecer onde estavam inicialmente.",
+    "avaliacao": "6.6",
+    "classificacao": "16",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/os-sem-floresta.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/qMN4mkZQoPLLBz84OhZRsGG2yIm.jpg"
+        }
+      ]
+    }
   }
 ]
