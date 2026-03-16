@@ -19875,5 +19875,25 @@
         }
       ]
     }
+  },
+  {
+    "id": "lego-ninjago-o-filme",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Lego Ninjago: O Filme 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/49aJiVFvPGB4rD2s0hNhqdXUfT7.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/kP243lVtmjqEpEzIRjZtBPvxuR.jpg",
+    "sinopse": "Pai e filho entram em um confronto épico para testar uma equipe indisciplinada de ninjas modernos. Agora, o grupo precisa aprender a controlar o ego e se unir para libertar seu verdadeiro poder.",
+    "avaliacao": "6.5",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/lego-ninjago-o-filme.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kP243lVtmjqEpEzIRjZtBPvxuR.jpg"
+        }
+      ]
+    }
   }
 ]
