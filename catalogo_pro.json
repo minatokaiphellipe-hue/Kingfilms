@@ -18443,5 +18443,45 @@
         }
       ]
     }
+  },
+  {
+    "id": "a-hora-do-mal",
+    "tipo": "filme",
+    "categoria": "Oscar 2026",
+    "titulo": "A Hora do Mal 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/psEJSjQr6I9GSJTdW28CKC4Kffs.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/n3sFx2xhIhdi2nKUIo6t2kdsnxd.jpg",
+    "sinopse": "Quando todas as crianças de uma mesma classe, exceto uma, somem misteriosamente, na mesma noite e exatamente ao mesmo tempo, todos da cidade começam a se questionar quem ou o que está por trás deste estranho desaparecimento.",
+    "avaliacao": "7.3",
+    "classificacao": "18",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/a-hora-do-mal.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/n3sFx2xhIhdi2nKUIo6t2kdsnxd.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "guerreiras-do-k-pop",
+    "tipo": "filme",
+    "categoria": "Oscar 2026",
+    "titulo": "Guerreiras do K-Pop 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/gbdMa7woiuF7IiEB5Spwv5od4oo.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/1JEP5gLuDGCs686d2Yi6DMJP9XI.jpg",
+    "sinopse": "Quando não estão lotando estádios, as estrelas do K-pop Rumi, Mira e Zoey usam seus poderes secretos para proteger os fãs contra ameaças sobrenaturais.",
+    "avaliacao": "8.1",
+    "classificacao": "10",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/guerreiras-do-k-pop.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1JEP5gLuDGCs686d2Yi6DMJP9XI.jpg"
+        }
+      ]
+    }
   }
 ]
