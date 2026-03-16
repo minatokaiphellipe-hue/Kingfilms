@@ -17171,26 +17171,6 @@
     "logo_horizontal": "https://image.tmdb.org/t/p/w1280/jr8tSoJGj33XLgFBy6lmZhpGQNu.jpg"
   },
   {
-    "id": "pecadores",
-    "tipo": "filme",
-    "categoria": "Terror",
-    "titulo": "Pecadores 🌀",
-    "logo": "https://image.tmdb.org/t/p/w780/v0Ljeti537c6cNKweuEN0iaU3x4.jpg",
-    "sinopse": "Dispostos a deixar suas vidas conturbadas para trás, irmãos gêmeos retornam à sua cidade natal para recomeçar suas vidas do zero, quando descobrem que um mal ainda maior está à espera deles para recebê-los de volta.",
-    "avaliacao": "7.5",
-    "classificacao": "16",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "Assistir 🌀",
-          "linkFisico": "v/pecadores.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/pHAni2ykU4bjTc7HEFvfifJ3aWL.jpg"
-        }
-      ]
-    },
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/nAxGnGHOsfzufThz20zgmRwKur3.jpg"
-  },
-  {
     "id": "a-morte-do-demonio-a-ascensao",
     "tipo": "filme",
     "categoria": "Terror",
@@ -18440,6 +18420,26 @@
           "tit": "Assistir 🌀",
           "linkFisico": "v/isca.html",
           "logoEp": "https://image.tmdb.org/t/p/w1280/wOY7dDzMf2unmzyM2gv5dq5jQ1W.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "pecadores",
+    "tipo": "filme",
+    "categoria": "Oscar 2026",
+    "titulo": "Pecadores 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/v0Ljeti537c6cNKweuEN0iaU3x4.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/pHAni2ykU4bjTc7HEFvfifJ3aWL.jpg",
+    "sinopse": "Dispostos a deixar suas vidas conturbadas para trás, irmãos gêmeos retornam à sua cidade natal para recomeçar suas vidas do zero, quando descobrem que um mal ainda maior está à espera deles para recebê-los de volta.",
+    "avaliacao": "7.5",
+    "classificacao": "16",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/pecadores.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/pHAni2ykU4bjTc7HEFvfifJ3aWL.jpg"
         }
       ]
     }
