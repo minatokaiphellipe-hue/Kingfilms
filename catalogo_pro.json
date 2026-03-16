@@ -19227,5 +19227,45 @@
         }
       ]
     }
+  },
+  {
+    "id": "batman-vs-superman-a-origem-da-justica",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "Batman vs Superman: A Origem da Justiça 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/vh6pjeGH0GQupLepPCZn5PylcRg.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/b90strzEW8gCnoIMpxGbRYxiS8x.jpg",
+    "sinopse": "Temendo que as ações de um super-herói divino não tenham sido controladas, o formidável e vigoroso vigilante de Gotham City enfrenta o salvador mais reverenciado e moderno de Metrópolis, enquanto o mundo luta com o tipo de herói que realmente precisa. E com Batman e Superman em guerra um contra o outro, uma nova ameaça rapidamente surge, colocando a humanidade em maior perigo do que nunca antes.",
+    "avaliacao": "6.0",
+    "classificacao": "12",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/batman-vs-superman-a-origem-da-justica.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/b90strzEW8gCnoIMpxGbRYxiS8x.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "liga-da-justica",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "Liga da Justiça 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/vQIwxoGxW46Skq5ipu0pBFKZTKd.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/y6IF3Yuw779rR8Qihez8RJb9JrV.jpg",
+    "sinopse": "Impulsionado pela restauração de sua fé na humanidade e inspirado pelo ato altruísta do Superman, Bruce Wayne convoca sua nova aliada Diana Prince para o combate contra um inimigo ainda maior, recém-despertado. Juntos, Batman e Mulher-Maravilha buscam e recrutam com agilidade um time de meta-humanos, mas mesmo com a formação da liga de heróis sem precedentes, poderá ser tarde demais para salvar o planeta de um catastrófico ataque.",
+    "avaliacao": "6.1",
+    "classificacao": "12",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/liga-da-justica.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/y6IF3Yuw779rR8Qihez8RJb9JrV.jpg"
+        }
+      ]
+    }
   }
 ]
