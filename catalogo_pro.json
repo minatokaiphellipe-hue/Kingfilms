@@ -18503,5 +18503,45 @@
         }
       ]
     }
+  },
+  {
+    "id": "f1-o-filme",
+    "tipo": "filme",
+    "categoria": "Oscar 2026",
+    "titulo": "F1: O Filme 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/fMcY5hpVZQ0cLKHvFM1mo6GrAr0.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/kUOdpZS7dvhr0As22NIgzZjDotp.jpg",
+    "sinopse": "Sonny Hayes, a lenda do automobilismo, é persuadido a deixar a aposentadoria para liderar uma equipe de Fórmula 1 em dificuldades—e ser mentor de um jovem piloto famoso—enquanto busca mais uma oportunidade de glória.",
+    "avaliacao": "7.8",
+    "classificacao": "12",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/f1-o-filme.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kUOdpZS7dvhr0As22NIgzZjDotp.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "uma-batalha-apos-a-outra",
+    "tipo": "filme",
+    "categoria": "Oscar 2026",
+    "titulo": "Uma Batalha Após a Outra 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/a1a2JYoBTchMy1stqpSHxS5MMle.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/oxe8sg3gV0DaKidTr52PD7X7ZmG.jpg",
+    "sinopse": "Bob, um revolucionário fracassado, vive chapado e em um estado de paranoia, sobrevivendo isolado com Willa, sua filha espirituosa e independente. Quando seu perverso arqui-inimigo ressurge após 16 anos e ela desaparece, o ex-radical corre para encontrá-la, pai e filha tendo que enfrentar as consequências do passado dele.",
+    "avaliacao": "7.4",
+    "classificacao": "16",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/uma-batalha-apos-a-outra.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/oxe8sg3gV0DaKidTr52PD7X7ZmG.jpg"
+        }
+      ]
+    }
   }
 ]
