@@ -20454,5 +20454,45 @@
         }
       ]
     }
+  },
+  {
+    "id": "malevola",
+    "tipo": "filme",
+    "categoria": "Fantasia",
+    "titulo": "Malévola 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/ga1I9MwWnqXpbVBwE5NO1xTrpZS.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/bRHAb5YcpcUT15PV87xYBHliT22.jpg",
+    "sinopse": "Motivada por vingança e o desejo feroz de proteger seu reino, Malévola cruelmente coloca uma maldição irrevogável na filha recém-nascida do rei dos humanos, Aurora. Conforme cresce, Aurora enfrenta um conflito fervente entre o reino da floresta, local onde ela cresceu e ama, e o reino humano, que mantém o seu legado. Malévola percebe que Aurora pode ser a chave para a paz no reino e é forçada a tomar medidas drásticas que mudarão para sempre os dois mundos.",
+    "avaliacao": "7.1",
+    "classificacao": "10",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/malevola.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bRHAb5YcpcUT15PV87xYBHliT22.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "malevola-dona-do-mal",
+    "tipo": "filme",
+    "categoria": "Fantasia",
+    "titulo": "Malévola: Dona do Mal 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/llHTFUeUCWmkW5fR4J9kpa6Asep.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/gl0jOhNOvYegEEgZ3KQQeqKEFno.jpg",
+    "sinopse": "Os anos foram gentis com Malévola e Aurora. Seu relacionamento, nascido pelo desgosto, vingança e finalmente amor, floresceu. No entanto, o ódio entre o homem e as fadas ainda existe. O iminente casamento de Aurora com o príncipe Phillip é motivo de comemoração no reino de Ulstead e no reino dos Moors, pois o casamento servirá para unir os dois mundos. Quando um encontro inesperado introduz uma nova e poderosa aliança, Malévola e Aurora são separadas para lados opostos em uma Grande Guerra, testando sua lealdade e fazendo com que elas questionem se podem ser verdadeiramente familiares.",
+    "avaliacao": "7.3",
+    "classificacao": "10",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/malevola-dona-do-mal.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gl0jOhNOvYegEEgZ3KQQeqKEFno.jpg"
+        }
+      ]
+    }
   }
 ]
