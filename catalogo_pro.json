@@ -20055,5 +20055,25 @@
         }
       ]
     }
+  },
+  {
+    "id": "thor-o-mundo-sombrio",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "Thor: O Mundo Sombrio 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/9qdqXIx2neypuT1kWKCTI2vsO4q.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/29v34vaeBZmcVdOTrlsPSXpCsN1.jpg",
+    "sinopse": "Thor precisa contar com a ajuda de seus companheiros e até de seu traiçoeiro irmão Loki em um plano audacioso para salvar o universo. Entretanto, os caminhos de Thor se cruzam com Jane Foster e, dessa vez, a vida dela está realmente em perigo.",
+    "avaliacao": "6.5",
+    "classificacao": "10",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/thor-o-mundo-sombrio.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/29v34vaeBZmcVdOTrlsPSXpCsN1.jpg"
+        }
+      ]
+    }
   }
 ]
