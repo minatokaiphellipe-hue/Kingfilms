@@ -21059,5 +21059,25 @@
         }
       ]
     }
+  },
+  {
+    "id": "absolutamente-impossivel",
+    "tipo": "filme",
+    "categoria": "Comédia",
+    "titulo": "Absolutamente Impossível 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/oA1mYOT5RFPPOAw5JEKhEu717e7.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/9dLDHrWFcgRdSM1gIiftHI7COBg.jpg",
+    "sinopse": "Neil (Simon Pegg), um professor desiludido com a vida, vê sua vida mudar após ser atropelado por uma van e ser atingido por um raio alienígena que lhe dá poderes mágicos. Com eles, Neil pode fazer tudo que quiser: desde calar a boca de seus alunos até ressuscitar pessoas! O problema é saber utilizar as palavras certas para conseguir o que ele quer. O uso dessas novas habilidades vai gerar uma série de confusões.",
+    "avaliacao": "5.9",
+    "classificacao": "14",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/absolutamente-impossivel.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/9dLDHrWFcgRdSM1gIiftHI7COBg.jpg"
+        }
+      ]
+    }
   }
 ]
