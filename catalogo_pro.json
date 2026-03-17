@@ -20115,5 +20115,45 @@
         }
       ]
     }
+  },
+  {
+    "id": "up-altas-aventuras",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Up: Altas Aventuras 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/oo5gvGDIiPwbXc3R0snZIuOc517.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/hvWql5xveDxTP4yJiF1XwlXGZvz.jpg",
+    "sinopse": "Carl Fredricksen é um vendedor de balões que, aos 78 anos, está prestes a perder a casa em que sempre viveu com sua esposa, a falecida Ellie. Após um incidente, Carl é considerado uma ameaça pública e forçado a ser internado. Para evitar que isto aconteça, ele põe balões em sua casa, fazendo com que ela levante voo. Carl quer viajar para uma floresta na América do Sul, onde ele e Ellie sempre desejaram morar, mas descobre que um problema embarcou junto: Russell, um menino de 8 anos.",
+    "avaliacao": "8.0",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/up-altas-aventuras.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/hvWql5xveDxTP4yJiF1XwlXGZvz.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "elementos",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Elementos 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/tsfaRkZfUl5Ve9GMV8oY0UuLH52.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/a3XKvRQHGOojh6v4gQieRsNAhT1.jpg",
+    "sinopse": "Em uma cidade onde moradores do fogo, da água, da terra e do ar vivem juntos, uma jovem impetuosa e um homem tranquilo estão prestes a descobrir algo elementar: o quanto realmente têm em comum.",
+    "avaliacao": "7.6",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/elementos.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/a3XKvRQHGOojh6v4gQieRsNAhT1.jpg"
+        }
+      ]
+    }
   }
 ]
