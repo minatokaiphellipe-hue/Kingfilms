@@ -20035,5 +20035,25 @@
         }
       ]
     }
+  },
+  {
+    "id": "thor",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "Thor 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/aEV9QmgBqjRTdjsvdCgdK89tavQ.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/DJ05KEWIf3KdMmoj7qhU4wYxRv.jpg",
+    "sinopse": "Como filho de Odin, rei dos deuses nórdicos, Thor logo herdará o trono de Asgard de seu idoso pai. Porém, no dia de sua coroação, Thor reage com brutalidade quando os inimigos dos deuses entram no palácio violando o tratado. Como punição, Odin manda Thor para a Terra. Enquanto seu irmão Loki conspira em Asgard, Thor, agora sem seus poderes, enfrenta sua maior ameaça.",
+    "avaliacao": "6.8",
+    "classificacao": "10",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/thor.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/DJ05KEWIf3KdMmoj7qhU4wYxRv.jpg"
+        }
+      ]
+    }
   }
 ]
