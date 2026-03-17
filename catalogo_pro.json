@@ -21039,5 +21039,25 @@
         }
       ]
     }
+  },
+  {
+    "id": "casamento-sangrento",
+    "tipo": "filme",
+    "categoria": "Terror",
+    "titulo": "Casamento Sangrento 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/vWMXRFvpxxs5p0IKZdqWph10jIn.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/nAlCAinDpeqX7fQr9ZViDPXfTMD.jpg",
+    "sinopse": "Grace acaba de se casar com o herdeiro milionário de uma família especializada em jogos de tabuleiro. Antes de realmente integrar a família, no entanto, ela é obrigada a participar de uma tradição familiar: um jogo de esconde-esconde pela mansão dos Le Domas. Aos poucos, Grace percebe que a brincadeira inocente é na verdade uma caçada sangrenta contra a recém-casada, em que todas as armas e golpes são permitidos para assassiná-la. A jovem terá a difícil missão de sobreviver aos ataques até o amanhecer.",
+    "avaliacao": "7.0",
+    "classificacao": "16",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/casamento-sangrento.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/nAlCAinDpeqX7fQr9ZViDPXfTMD.jpg"
+        }
+      ]
+    }
   }
 ]
