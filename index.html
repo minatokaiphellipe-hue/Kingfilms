@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KINGFILMS - O Melhor do Streaming</title>
+    <meta name="description" content="Assista séries, filmes e animes online em HD no KINGFILMS.">
+    
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🌀</text></svg>">
+
+    <style>
+        /* Estilos Gerais Premium - FUNDO AZUL ESCURO DEGRADÊ */
+        * { box-sizing: border-box; margin: 0; padding: 0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; }
+        body { background: linear-gradient(135deg, #071022 0%, #000000 100%); background-attachment: fixed; min-height: 100vh; color: #ffffff; overflow-x: hidden; }
+
+        /* --- TELA DE LOGIN / PERFIS / EMAIL --- */
+        .login-overlay { position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(7, 16, 34, 0.95); backdrop-filter: blur(10px); z-index: 9999; display: flex; flex-direction: column; align-items: center; justify-content: center; transition: opacity 0.5s, visibility 0.5s; overflow-y: auto; padding: 20px; }
+        .login-overlay.hidden { opacity: 0; visibility: hidden; }
+        .login-title { font-size: 28px; font-weight: 800; color: #fff; margin-bottom: 20px; letter-spacing: 1px; text-align: center; }
+        
+        /* Formulário de E-mail */
+        .auth-form { display: flex; flex-direction: column; gap: 15px; width: 100%; max-width: 320px; margin: 0 auto; }
+        .auth-input { background: rgba(0,0,0,0.7); border: 1px solid rgba(255,255,255,0.2); color: #fff; padding: 15px; border-radius: 6px; font-size: 16px; outline: none; transition: 0.3s; width: 100%; }
+        .auth-input:focus { border-color: #e50914; background: rgba(0,0,0,0.9); }
+        .btn-auth { background: #e50914; color: #fff; border: none; padding: 15px; border-radius: 6px; font-size: 16px; font-weight: bold; cursor: pointer; transition: 0.3s; width: 100%; }
+        .btn-auth:hover { background: #b30000; }
+        .auth-msg { color: #ff4b4b; font-size: 14px; text-align: center; margin-top: 10px; min-height: 20px; font-weight: bold; }
+        .view-toggle { color: #aaa; text-align: center; margin-top: 20px; cursor: pointer; font-size: 14px; text-decoration: underline; transition: 0.3s; }
+        .view-toggle:hover { color: #fff; }
+
+        /* Cartões de Perfil Local */
+        .profile-container { display: flex; gap: 30px; flex-wrap: wrap; justify-content: center; margin-top: 20px; }
+        .profile-card { cursor: pointer; text-align: center; transition: 0.3s; width: 100px; }
+        .profile-card:hover { transform: scale(1.1); }
+        .profile-card img { width: 90px; height: 90px; border-radius: 10px; border: 3px solid transparent; transition: 0.3s; object-fit: cover; }
+        .profile-card:hover img { border-color: #fff; }
+        .profile-card p { color: #888; margin-top: 12px; font-weight: bold; font-size: 14px; transition: 0.3s; }
+        .profile-card:hover p { color: #fff; }
+        
+        .btn-skip { margin-top: 30px; background: transparent; color: #aaa; border: 1px solid #555; padding: 10px 25px; border-radius: 20px; font-size: 14px; font-weight: bold; cursor: pointer; transition: 0.3s; text-transform: uppercase; letter-spacing: 1px; }
+        .btn-skip:hover { background: rgba(255,255,255,0.1); color: #fff; border-color: #fff; }
+
+        /* --- CABEÇALHO PREMIUM & AVATAR --- */
+        .header-premium { display: flex; justify-content: space-between; align-items: center; padding: 12px 5%; background: linear-gradient(to bottom, rgba(7, 16, 34, 0.95) 0%, rgba(2, 5, 10, 0.8) 100%); backdrop-filter: blur(15px); border-bottom: 1px solid rgba(255,255,255,0.05); position: sticky; top: 0; z-index: 1000; box-shadow: 0 4px 20px rgba(0,0,0,0.6); }
+        .header-left { display: flex; align-items: center; gap: 15px; }
+        .header-right { display: flex; align-items: center; gap: 20px; }
+        .menu-btn { font-size: 26px; color: #fff; cursor: pointer; transition: 0.3s; user-select: none; }
+        .menu-btn:hover { color: #e50914; }
+        .header-profile { display: flex; align-items: center; gap: 10px; cursor: pointer; transition: 0.3s; }
+        .header-profile:hover { opacity: 0.8; }
+        .header-profile img { width: 35px; height: 35px; border-radius: 6px; border: 1px solid rgba(255,255,255,0.2); object-fit: cover; }
+        .header-profile span { font-weight: bold; font-size: 14px; color: #fff; display: none; }
+
+        /* --- TÍTULO PREMIUM (ESTILO HBO MAX / CLEAN) --- */
+        .logo-premium { font-size: 26px; font-weight: 900; font-family: 'Inter', 'Segoe UI', sans-serif; text-transform: uppercase; letter-spacing: -1px; cursor: pointer; margin: 0; background: linear-gradient(to right, #ffffff 40%, #e50914 90%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; transition: opacity 0.3s ease; display: inline-block; }
+        .logo-premium:hover { opacity: 0.7; }
+
+        /* --- BARRA DE PESQUISA ESTILOSA NÉON --- */
+        .search-container { position: relative; display: flex; align-items: center; }
+        .search-input { background: rgba(0,0,0,0.6); border: 2px solid rgba(229,9,20,0.4); color: #fff; padding: 10px 15px 10px 40px; border-radius: 25px; font-size: 14px; outline: none; transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1); width: 160px; box-shadow: inset 0 0 10px rgba(0,0,0,0.5); backdrop-filter: blur(5px); }
+        .search-input:focus { border-color: #ff1e2a; width: 230px; box-shadow: 0 0 15px rgba(229,9,20,0.6), inset 0 0 10px rgba(0,0,0,0.5); background: rgba(20,0,0,0.8); }
+        .search-icon { position: absolute; left: 15px; font-size: 15px; color: #e50914; filter: drop-shadow(0 0 5px rgba(229,9,20,0.5)); }
+        /* --- MENU LATERAL --- */
+        .sidebar-overlay { position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.7); backdrop-filter: blur(2px); z-index: 1001; opacity: 0; visibility: hidden; transition: 0.3s; }
+        .sidebar-overlay.open { opacity: 1; visibility: visible; }
+        .sidebar { position: fixed; top: 0; left: -280px; width: 260px; height: 100%; background: linear-gradient(to bottom, #071022, #02050a); z-index: 1002; transition: left 0.3s cubic-bezier(0.4, 0, 0.2, 1); box-shadow: 4px 0 20px rgba(0,0,0,0.8); display: flex; flex-direction: column; border-right: 1px solid rgba(255,255,255,0.05); }
+        .sidebar.open { left: 0; }
+        .sidebar-header { padding: 20px; display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid rgba(255,255,255,0.05); }
+        .sidebar-header h2 { color: #fff; font-size: 18px; font-weight: 800; letter-spacing: 1px; background: linear-gradient(45deg, #fff, #aaa); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+        .close-btn { color: #aaa; font-size: 24px; cursor: pointer; transition: 0.3s; }
+        .close-btn:hover { color: #e50914; transform: rotate(90deg); }
+        .sidebar-content { padding: 15px 0; overflow-y: auto; flex-grow: 1; }
+        .sidebar-content::-webkit-scrollbar { width: 4px; }
+        .sidebar-content::-webkit-scrollbar-thumb { background: #e50914; border-radius: 4px; }
+        .sidebar-item { padding: 14px 25px; color: #ccc; font-size: 15px; font-weight: 700; cursor: pointer; transition: all 0.3s; display: flex; align-items: center; gap: 12px; border-left: 4px solid transparent; }
+        .sidebar-item:hover { background: linear-gradient(90deg, rgba(229, 9, 20, 0.15) 0%, transparent 100%); color: #fff; border-left: 4px solid #e50914; }
+
+        /* --- HERO SLIDER --- */
+        .hero-slider { position: relative; width: 100%; height: 65vh; min-height: 450px; max-height: 700px; margin-bottom: 5px; overflow: hidden; background: #000; touch-action: pan-y; }
+        .hero-slide { position: absolute; top: 0; left: 0; right: 0; bottom: 0; background-size: cover; background-position: center top; opacity: 0; transition: opacity 0.8s ease-in-out; display: flex; align-items: flex-end; z-index: 0; }
+        .hero-slide.active { opacity: 1; z-index: 1; }
+        .hero-overlay { position: absolute; top: 0; left: 0; right: 0; bottom: 0; background: linear-gradient(to top, #071022 0%, rgba(7, 16, 34, 0.7) 20%, rgba(0,0,0,0.2) 100%); z-index: 1; pointer-events: none; }
+        .hero-content { position: relative; z-index: 2; padding: 40px 5%; width: 100%; max-width: 900px; padding-bottom: 50px; pointer-events: auto; }
+        .hero-title { font-size: 3.2rem; font-weight: 900; margin-bottom: 12px; text-shadow: 2px 2px 10px rgba(0,0,0,0.9); line-height: 1.1; }
+        .hero-meta { display: flex; align-items: center; gap: 15px; margin-bottom: 15px; font-size: 14px; font-weight: 700; text-shadow: 1px 1px 4px rgba(0,0,0,0.8); }
+        .hero-synopsis { font-size: 16px; color: #e0e0e0; margin-bottom: 25px; line-height: 1.5; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; text-shadow: 1px 1px 4px rgba(0,0,0,0.8); max-width: 600px; }
+        .hero-buttons { display: flex; gap: 15px; flex-wrap: wrap; }
+        .btn-hero-play { background: linear-gradient(45deg, #ff0a16, #8b0000); color: #fff; padding: 12px 28px; border-radius: 6px; font-weight: 700; font-size: 16px; cursor: pointer; border: 0; display: flex; align-items: center; gap: 8px; transition: 0.3s; box-shadow: 0 4px 15px rgba(229, 9, 20, 0.5); }
+        .btn-hero-play:hover { transform: scale(1.05); background: linear-gradient(45deg, #ff1e2a, #b30000); box-shadow: 0 6px 20px rgba(229, 9, 20, 0.7); }
+        .btn-hero-info { background: rgba(100, 100, 100, 0.4); backdrop-filter: blur(8px); color: #fff; padding: 12px 28px; border-radius: 6px; font-weight: 700; font-size: 16px; cursor: pointer; border: 1px solid rgba(255,255,255,0.2); transition: 0.3s; display: flex; align-items: center; gap: 8px; }
+        .btn-hero-info:hover { background: rgba(255, 255, 255, 0.2); transform: scale(1.05); }
+        .slider-dots { position: absolute; bottom: 20px; left: 5%; z-index: 3; display: flex; gap: 8px; }
+        .dot { width: 10px; height: 10px; border-radius: 50%; background: rgba(255,255,255,0.3); cursor: pointer; transition: all 0.4s ease; }
+        .dot.active { background: #e50914; width: 30px; border-radius: 5px; box-shadow: 0 0 10px rgba(229,9,20,0.5); }
+
+        /* --- CATEGORIAS RÁPIDAS (PÍLULA) --- */
+        .quick-categories { display: flex; overflow-x: auto; gap: 15px; padding: 10px 5% 40px 5%; scrollbar-width: none; }
+        .quick-categories::-webkit-scrollbar { display: none; }
+        .quick-cat-card { background: rgba(20, 25, 35, 0.6); backdrop-filter: blur(10px); border: 1px solid rgba(255,255,255,0.05); border-radius: 30px; padding: 10px 22px; text-align: center; cursor: pointer; transition: all 0.3s ease; display: flex; flex-direction: row; align-items: center; justify-content: center; box-shadow: 0 4px 10px rgba(0,0,0,0.3); flex: 0 0 auto; }
+        .quick-cat-card:hover { transform: translateY(-3px); background: linear-gradient(135deg, rgba(229, 9, 20, 0.3), rgba(139, 0, 0, 0.5)); border-color: #e50914; box-shadow: 0 8px 20px rgba(229, 9, 20, 0.4); }
+        .quick-cat-icon { font-size: 18px; margin-bottom: 0; margin-right: 8px; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.5)); }
+        .quick-cat-title { font-size: 13px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 0.5px; }
+
+        /* --- TELEGRAM --- */
+        .telegram-banner { background: linear-gradient(135deg, #0088cc 0%, #004466 100%); border-radius: 12px; padding: 20px 25px; margin: 10px 5% 35px 5%; display: flex; align-items: center; justify-content: space-between; box-shadow: 0 5px 20px rgba(0, 136, 204, 0.4); border: 1px solid #00aaff; flex-wrap: wrap; gap: 15px; transition: 0.3s; }
+        .telegram-banner:hover { transform: translateY(-3px); box-shadow: 0 8px 25px rgba(0, 136, 204, 0.6); }
+        .tg-text { flex: 1; min-width: 200px; }
+        .tg-title { font-size: 20px; font-weight: 900; color: #fff; margin-bottom: 5px; display: flex; align-items: center; gap: 10px; text-transform: uppercase; letter-spacing: 0.5px; }
+        .tg-desc { font-size: 14px; color: #ccebff; font-weight: 600; line-height: 1.4; }
+        .tg-btn { background: #fff; color: #006699; padding: 12px 25px; border-radius: 8px; font-weight: 900; text-decoration: none; text-transform: uppercase; font-size: 14px; transition: 0.3s; display: inline-block; text-align: center; box-shadow: 0 4px 10px rgba(0,0,0,0.2); }
+        .tg-btn:hover { transform: scale(1.05); box-shadow: 0 6px 15px rgba(255,255,255,0.4); background: #e6f5ff; color: #0088cc; }
+
+        /* --- TOP 10 MODERNIZADO --- */
+        .top10-section { margin-bottom: 50px; }
+        .top10-row { display: flex; overflow-x: auto; gap: 30px; padding: 10px 5% 30px 5%; scroll-snap-type: x mandatory; scrollbar-width: none; }
+        .top10-row::-webkit-scrollbar { display: none; }
+        .top10-card { flex: 0 0 200px; position: relative; display: flex; align-items: center; justify-content: flex-end; cursor: pointer; scroll-snap-align: start; transition: transform 0.3s; }
+        .top10-card:hover { transform: scale(1.05); z-index: 10; }
+        .top10-number { position: absolute; left: -25px; bottom: -12px; font-size: 160px; font-weight: 900; font-family: 'Arial Black', sans-serif; color: #0b0f19; -webkit-text-stroke: 1px rgba(255,255,255,0.05); z-index: 1; line-height: 1; transition: 0.3s; letter-spacing: -10px; text-shadow: 8px 0 15px rgba(0,0,0,0.8); }
+        .top10-card:hover .top10-number { color: #111; -webkit-text-stroke: 1px #e50914; }
+        .top10-card:nth-child(10) .top10-number { letter-spacing: -18px; left: -50px; }
+        .top10-img-box { width: 85%; aspect-ratio: 2/3; border-radius: 8px; overflow: hidden; z-index: 2; box-shadow: 5px 0 15px rgba(0,0,0,0.8); border: 2px solid #222; transition: 0.3s; }
+        .top10-img-box img { width: 100%; height: 100%; object-fit: cover; filter: brightness(85%); transition: 0.3s; }
+        .top10-card:hover .top10-img-box { border-color: #e50914; }
+        .top10-card:hover .top10-img-box img { filter: brightness(110%); }
+
+        /* --- ABAS DE TEMPORADAS --- */
+        .season-tabs-container { display: flex; overflow-x: auto; gap: 12px; margin-bottom: 25px; padding-bottom: 5px; scrollbar-width: none; }
+        .season-tabs-container::-webkit-scrollbar { display: none; }
+        .season-btn { background: rgba(255, 255, 255, 0.05); color: #aaa; border: 1px solid rgba(255,255,255,0.1); padding: 10px 20px; border-radius: 8px; font-size: 14px; font-weight: 700; cursor: pointer; white-space: nowrap; transition: all 0.3s ease; backdrop-filter: blur(5px); outline: 0; }
+        .season-btn:hover { background: rgba(255, 255, 255, 0.15); color: #fff; }
+        .season-btn.active { background: linear-gradient(45deg, #e50914, #ff4b4b); color: #fff; border-color: transparent; box-shadow: 0 4px 15px rgba(229, 9, 20, 0.4); }
+
+        /* --- OSCAR SECTION LUXO --- */
+        .oscar-section { background: linear-gradient(135deg, rgba(212, 175, 55, 0.05) 0%, rgba(0, 0, 0, 0.8) 100%); border-top: 1px solid rgba(212, 175, 55, 0.3); border-bottom: 1px solid rgba(212, 175, 55, 0.3); padding: 35px 0 45px 0; margin-bottom: 50px; box-shadow: 0 0 30px rgba(212, 175, 55, 0.1); }
+        .oscar-title { font-size: 22px; margin: 0 5% 25px 5%; font-weight: 900; color: #FFF; text-transform: uppercase; letter-spacing: 1px; display: flex; align-items: center; gap: 10px; text-shadow: 0 2px 10px rgba(212, 175, 55, 0.5); border-left: 4px solid #D4AF37; padding-left: 12px; }
+        .oscar-icon { font-size: 32px; filter: drop-shadow(0 0 10px #D4AF37); }
+        .oscar-section .content-card { border: 1px solid #D4AF37; box-shadow: 0 4px 15px rgba(212, 175, 55, 0.1); }
+        .oscar-section .content-card:hover { box-shadow: 0 8px 25px rgba(212, 175, 55, 0.3); border-color: #FFDF00; }
+        .oscar-section .content-card img { border-bottom: 2px solid #D4AF37; }
+        .oscar-section .btn-assista { background: rgba(0, 0, 0, 0.8); color: #D4AF37; border: 1px solid rgba(212, 175, 55, 0.5); box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5); }
+        .oscar-section .content-card:hover .btn-assista { background: linear-gradient(45deg, #D4AF37, #8A6300); color: #000; border-color: transparent; box-shadow: 0 6px 15px rgba(212, 175, 55, 0.6); }
+
+        /* --- CATEGORIAS NORMAIS E CARTÕES --- */
+        .categoria-section { margin-bottom: 50px; }
+        .categoria-title { font-size: 20px; margin: 0 5% 20px 5%; font-weight: 800; color: #f1f1f1; letter-spacing: 0.5px; border-left: 4px solid #e50914; padding-left: 12px; text-shadow: 0 2px 5px rgba(0,0,0,0.5); text-transform: uppercase; }
+        .content-row { display: flex; overflow-x: auto; gap: 15px; padding: 0 5% 15px 5%; scroll-snap-type: x mandatory; scrollbar-width: none; }
+        .content-row::-webkit-scrollbar { display: none; }
+        .content-card { flex: 0 0 170px; background: rgba(20, 20, 20, 0.6); backdrop-filter: blur(5px); border: 1px solid rgba(255,255,255,0.05); border-radius: 8px; overflow: hidden; cursor: pointer; scroll-snap-align: start; transition: transform 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275), box-shadow 0.4s ease, border-color 0.4s ease; display: flex; flex-direction: column; }
+        .content-card:hover { transform: translateY(-10px) scale(1.05); box-shadow: 0 15px 35px rgba(229, 9, 20, 0.4), 0 5px 15px rgba(0,0,0,0.8); border-color: #e50914; z-index: 10; }
+        .content-card img { width: 100%; aspect-ratio: 2/3; object-fit: cover; display: block; border-bottom: 2px solid #e50914; filter: contrast(110%) saturate(110%) brightness(95%); transition: opacity 0.3s, filter 0.3s; }
+        .content-card:hover img { opacity: 0.9; filter: contrast(115%) saturate(120%) brightness(105%); }
+        .card-info { padding: 12px; display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between; }
+        .card-info h3 { font-size: 13px; font-weight: 600; color: #f1f1f1; margin: 0 0 12px 0; text-align: center; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; line-height: 1.3; }
+        .btn-assista { background: linear-gradient(45deg, #ff0a16, #8b0000); color: #fff; text-transform: uppercase; font-size: 11px; font-weight: 800; text-align: center; padding: 8px 0; border-radius: 4px; margin-top: auto; box-shadow: 0 4px 10px rgba(229, 9, 20, 0.4); transition: all 0.3s ease; }
+        .content-card:hover .btn-assista { background: linear-gradient(45deg, #ff1e2a, #b30000); box-shadow: 0 6px 15px rgba(229, 9, 20, 0.6); transform: scale(1.02); }
+        .btn-ver-mais { display: block; width: 90%; margin: 10px auto 0 auto; background: rgba(255,255,255,0.05); color: #aaa; border: 1px solid rgba(255,255,255,0.1); padding: 12px; font-size: 15px; font-weight: 700; border-radius: 8px; cursor: pointer; transition: 0.3s; backdrop-filter: blur(5px); }
+        .btn-ver-mais:hover { background: rgba(255,255,255,0.1); color: #fff; border-color: #e50914; box-shadow: 0 4px 15px rgba(229, 9, 20, 0.2); }
+        .grid-view { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 15px; padding: 0 5%; }
+        .grid-view .content-card { flex: unset; width: 100%; }
+
+        /* --- RODAPÉ E RESPONSIVIDADE --- */
+        .site-footer { background: #03050a; border-top: 1px solid rgba(255,255,255,0.05); padding: 50px 5% 30px 5%; text-align: center; margin-top: 40px; }
+        .footer-title { color: #888; font-size: 13px; font-weight: 800; letter-spacing: 1.5px; margin-bottom: 20px; text-transform: uppercase; }
+        .footer-text { color: #555; font-size: 12px; line-height: 1.6; max-width: 900px; margin: 0 auto 30px auto; text-align: justify; text-align-last: center; }
+        .footer-links { display: flex; flex-wrap: wrap; justify-content: center; gap: 25px; margin-bottom: 30px; }
+        .footer-links a { color: #aaa; text-decoration: none; font-size: 14px; font-weight: 700; transition: 0.3s; border-bottom: 2px solid transparent; padding-bottom: 2px; }
+        .footer-links a:hover { color: #fff; border-bottom: 2px solid #e50914; }
+        .footer-copy { color: #444; font-size: 12px; font-weight: 700; padding-top: 20px; border-top: 1px solid rgba(255,255,255,0.02); max-width: 300px; margin: 0 auto; }
+
+        @media (max-width: 600px) {
+            .header-profile span { display: none; }
+            .hero-title { font-size: 2.2rem; }
+            .hero-slider { height: 55vh; min-height: 400px; }
+            .btn-hero-play, .btn-hero-info { font-size: 14px; padding: 10px 18px; width: 100%; justify-content: center; }
+            .content-card { flex: 0 0 120px; }
+            .grid-view { grid-template-columns: repeat(auto-fill, minmax(110px, 1fr)); }
+            .logo-premium { font-size: 22px; }
+            .quick-categories { display: flex; overflow-x: auto; padding-bottom: 30px; }
+            .top10-card { flex: 0 0 140px; }
+            .top10-number { font-size: 120px; left: -20px; bottom: -8px; -webkit-text-stroke: 1px rgba(255,255,255,0.05); }
+            .top10-card:nth-child(10) .top10-number { letter-spacing: -12px; left: -35px; font-size: 110px; }
+            .top10-img-box { width: 90%; }
+            .telegram-banner { flex-direction: column; text-align: center; }
+            .tg-btn { width: 100%; }
+            .footer-links { gap: 15px; flex-direction: column; }
+            .oscar-section { padding: 25px 0 30px 0; margin-bottom: 40px; }
+        }
+        @media (min-width: 601px) { .header-profile span { display: block; } }
+    </style>
+</head>
+<body>
+
+    <div id="loginOverlay" class="login-overlay hidden">
+        <h1 class="logo-premium" style="margin-bottom: 40px; font-size: 40px;">KINGFILMS</h1>
+        
+        <div id="painelEmail" style="width: 100%; display: flex; flex-direction: column; align-items: center;">
+            <h2 class="login-title" style="margin-bottom: 20px;">Entrar ou Criar Conta</h2>
+            <div class="auth-form">
+                <input type="email" id="inputEmail" class="auth-input" placeholder="Seu e-mail">
+                <input type="password" id="inputSenha" class="auth-input" placeholder="Sua senha">
+                <button class="btn-auth" onclick="logarComEmail()">Entrar / Registar</button>
+                <div id="authErro" class="auth-msg"></div>
+            </div>
+            <p class="view-toggle" onclick="alternarPaineis('perfis')">Ou escolha um Perfil Local</p>
+            <button class="btn-skip" style="margin-top: 30px;" onclick="fecharLogin()">Explorar como Visitante</button>
+        </div>
+
+        <div id="painelPerfis" style="display: none; flex-direction: column; align-items: center; width: 100%;">
+            <h2 class="login-title">Quem está assistindo?</h2>
+            <div class="profile-container">
+                <div class="profile-card" onclick="fazerLogin('Visitante 1', 'https://upload.wikimedia.org/wikipedia/commons/0/0b/Netflix-avatar.png')">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Netflix-avatar.png" alt="Perfil 1">
+                    <p>Visitante 1</p>
+                </div>
+                <div class="profile-card" onclick="fazerLogin('Visitante 2', 'https://wallpapers.com/images/hd/netflix-profile-pictures-1000-x-1000-qo9h82134t9nv0j0.jpg')">
+                    <img src="https://wallpapers.com/images/hd/netflix-profile-pictures-1000-x-1000-qo9h82134t9nv0j0.jpg" alt="Perfil 2">
+                    <p>Visitante 2</p>
+                </div>
+                <div class="profile-card" onclick="fazerLogin('Kids', 'https://wallpapers.com/images/hd/netflix-profile-pictures-1000-x-1000-vnl1thqrh02x7ra2.jpg')">
+                    <img src="https://wallpapers.com/images/hd/netflix-profile-pictures-1000-x-1000-vnl1thqrh02x7ra2.jpg" alt="Kids">
+                    <p>Kids</p>
+                </div>
+            </div>
+            <p class="view-toggle" style="margin-top: 40px;" onclick="alternarPaineis('email')">← Voltar para E-mail</p>
+        </div>
+    </div>
+
+    <div class="sidebar-overlay" id="sidebarOverlay" onclick="fecharMenu()"></div>
+    <div class="sidebar" id="sidebarMenu">
+        <div class="sidebar-header">
+            <h2>GÊNEROS</h2>
+            <span class="close-btn" onclick="fecharMenu()">✖</span>
+        </div>
+        <div class="sidebar-content" id="sidebarContent"></div>
+    </div>
+
+    <div class="header-premium">
+        <div class="header-left">
+            <div class="menu-btn" onclick="abrirMenu()">☰</div>
+            <h1 class="logo-premium" onclick="renderizarHome()">KINGFILMS</h1>
+        </div>
+        <div class="header-right">
+            <div class="search-container">
+                <span class="search-icon">🔍</span>
+                <input type="text" id="campoPesquisa" class="search-input" placeholder="Pesquisar..." onkeyup="pesquisarConteudo()">
+            </div>
+            <div class="header-profile" onclick="gerirLogin()" title="Conta">
+                <img id="headerProfilePic" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Netflix-avatar.png" alt="User">
+                <span id="headerProfileName">Entrar</span>
+            </div>
+        </div>
+    </div>
+
+    <div id="feedPrincipal">
+        <p style="text-align:center; padding:60px; color:#666; font-size: 15px;">A carregar o catálogo profissional...</p>
+    </div>
+
+    <footer class="site-footer">
+        <h3 class="footer-title">FILMES ONLINE - SÉRIES ONLINE - ANIMAÇÕES - ANIMES ONLINE</h3>
+        <p class="footer-text">Filmes, Séries, Animações e Animes Online. Assista a filmes, séries, animações e animes online. A melhor maneira de assistir conteúdo grátis, basta dar play e ver seus títulos favoritos em HD, atualizados diariamente. Este site é um indexador automático de conteúdo e não armazena arquivos em nossos servidores.</p>
+        <div class="footer-links"></div>
+        <div class="footer-copy">© 2024-2026 KINGFILMS.</div>
+    </footer>
+
+    <script src="script.js"></script>
+
+</body>
+</html>
