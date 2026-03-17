@@ -20434,5 +20434,25 @@
         }
       ]
     }
+  },
+  {
+    "id": "the-flash",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "The Flash 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/itYONYDHpJqTuu8BCXAtHxgpglq.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/xcfDwQxkOKZkyofgPivLfNekU9g.jpg",
+    "sinopse": "Os mundos colidem quando Barry Allen usa seus superpoderes para viajar no tempo e mudar os acontecimentos do passado. Mas a tentativa de salvar sua família altera inadvertidamente o futuro.",
+    "avaliacao": "6.6",
+    "classificacao": "14",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/the-flash.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/xcfDwQxkOKZkyofgPivLfNekU9g.jpg"
+        }
+      ]
+    }
   }
 ]
