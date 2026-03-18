@@ -21569,5 +21569,25 @@
         }
       ]
     }
+  },
+  {
+    "id": "edward-maos-de-tesoura",
+    "tipo": "filme",
+    "categoria": "Fantasia",
+    "titulo": "Edward Mãos de Tesoura 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/8vmYMcvWaqqhEWt9EnTPdXDdy2F.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/9565GQVi6wpHIZyXDX8ldUlDeHS.jpg",
+    "sinopse": "Peg Boggs é uma vendedora que acidentalmente descobre Edward, jovem que mora sozinho em um castelo no topo de uma montanha, criado por um inventor que morreu antes de dar mãos ao estranho ser, que possui apenas enormes lâminas no lugar delas. Isto o impede de poder se aproximar dos humanos, a não ser para criar revolucionários cortes de cabelos. No entanto, Edward é vítima da sua inocência e, se é amado por uns, é perseguido e usado por outros.",
+    "avaliacao": "7.7",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/edward-maos-de-tesoura.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/9565GQVi6wpHIZyXDX8ldUlDeHS.jpg"
+        }
+      ]
+    }
   }
 ]
