@@ -21119,5 +21119,25 @@
         }
       ]
     }
+  },
+  {
+    "id": "finja-se-de-morta",
+    "tipo": "filme",
+    "categoria": "Terror",
+    "titulo": "Finja-se de Morta 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/s8SQ73M4MvhY0U4FgV1TlukFgZJ.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/uFvo4C82JG6KYTeEpKs9Ui4kjTP.jpg",
+    "sinopse": "Uma mulher acorda ferida em um porão cercada por cadáveres. Para sobreviver, ela finge estar morta enquanto um ritual grotesco acontece na casa do andar de cima.",
+    "avaliacao": "5.8",
+    "classificacao": "14",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/finja-se-de-morta.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/uFvo4C82JG6KYTeEpKs9Ui4kjTP.jpg"
+        }
+      ]
+    }
   }
 ]
