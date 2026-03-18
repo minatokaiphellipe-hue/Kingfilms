@@ -17231,26 +17231,6 @@
     "logo_horizontal": "https://image.tmdb.org/t/p/w1280/6zKjoOOb3OZnZuiHtQZn4Kd69Gq.jpg"
   },
   {
-    "id": "madagascar-3-os-procurados",
-    "tipo": "filme",
-    "categoria": "Animações",
-    "titulo": "Madagascar 3: Os Procurados 🌀",
-    "logo": "https://image.tmdb.org/t/p/w780/bPRvFj9MGeLeqidaTniUf8yQ0PW.jpg",
-    "sinopse": "Os amigos Alex, Marty, Melman, Gloria, rei Julien e os pinguins deixam o continente africano rumo à Europa. Eles vão parar em Mônaco, onde passam a ser perseguidos por uma obcecada agente de controle animal. Em plena fuga, o grupo encontra abrigo em um circo em crise. Logo eles passam a ajudá-lo, iniciando um processo de revitalização que poderá levá-los a uma turnê nos Estados Unidos e, consequentemente, de volta para casa.",
-    "avaliacao": "6.6",
-    "classificacao": "Livre",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "Assistir 🌀",
-          "linkFisico": "v/madagascar-3-os-procurados.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/344mkNqp6jUL3UzBO15e01MafFK.jpg"
-        }
-      ]
-    },
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/hfdds27YL5nTAhiOtjfNNxD3bJe.jpg"
-  },
-  {
     "id": "horton-e-o-mundo-dos-quem",
     "tipo": "filme",
     "categoria": "Animações",
@@ -21136,6 +21116,26 @@
           "tit": "Assistir 🌀",
           "linkFisico": "v/madagascar-2.html",
           "logoEp": "https://image.tmdb.org/t/p/w1280/hOEgr77rasVe8NAgf2RvgtelmD9.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "madagascar-3-os-procurados",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Madagascar 3: Os Procurados 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/bPRvFj9MGeLeqidaTniUf8yQ0PW.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/344mkNqp6jUL3UzBO15e01MafFK.jpg",
+    "sinopse": "Os amigos Alex, Marty, Melman, Gloria, rei Julien e os pinguins deixam o continente africano rumo à Europa. Eles vão parar em Mônaco, onde passam a ser perseguidos por uma obcecada agente de controle animal. Em plena fuga, o grupo encontra abrigo em um circo em crise. Logo eles passam a ajudá-lo, iniciando um processo de revitalização que poderá levá-los a uma turnê nos Estados Unidos e, consequentemente, de volta para casa.",
+    "avaliacao": "6.6",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/madagascar-3-os-procurados.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/344mkNqp6jUL3UzBO15e01MafFK.jpg"
         }
       ]
     }
