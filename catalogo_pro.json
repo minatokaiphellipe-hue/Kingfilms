@@ -17231,26 +17231,6 @@
     "logo_horizontal": "https://image.tmdb.org/t/p/w1280/6zKjoOOb3OZnZuiHtQZn4Kd69Gq.jpg"
   },
   {
-    "id": "madagascar-2",
-    "tipo": "filme",
-    "categoria": "Animações",
-    "titulo": "Madagascar 2 🌀",
-    "logo": "https://image.tmdb.org/t/p/w780/xBOKF6ks8aFtvanyKPRfeZWErm.jpg",
-    "sinopse": "Alex e seus amigos tentam voltar para casa, mas o avião em que eles estavam cai no meio da savana africana. A partir daí, muitas aventuras acontecem nessa viagem selvagem de volta ao lar.",
-    "avaliacao": "6.5",
-    "classificacao": "Livre",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "Assistir 🌀",
-          "linkFisico": "v/madagascar-2.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/hOEgr77rasVe8NAgf2RvgtelmD9.jpg"
-        }
-      ]
-    },
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/r2M9ElkHxEJP7riCFbT5N0uXZTc.jpg"
-  },
-  {
     "id": "madagascar-3-os-procurados",
     "tipo": "filme",
     "categoria": "Animações",
@@ -21136,6 +21116,26 @@
           "tit": "Assistir 🌀",
           "linkFisico": "v/madagascar.html",
           "logoEp": "https://image.tmdb.org/t/p/w1280/g2qcCWZlk9Q21B3DE1GiuascFVs.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "madagascar-2",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Madagascar 2 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/xBOKF6ks8aFtvanyKPRfeZWErm.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/hOEgr77rasVe8NAgf2RvgtelmD9.jpg",
+    "sinopse": "Alex e seus amigos tentam voltar para casa, mas o avião em que eles estavam cai no meio da savana africana. A partir daí, muitas aventuras acontecem nessa viagem selvagem de volta ao lar.",
+    "avaliacao": "6.5",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/madagascar-2.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/hOEgr77rasVe8NAgf2RvgtelmD9.jpg"
         }
       ]
     }
