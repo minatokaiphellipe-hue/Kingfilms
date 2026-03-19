@@ -21689,5 +21689,25 @@
         }
       ]
     }
+  },
+  {
+    "id": "hereditario",
+    "tipo": "filme",
+    "categoria": "Terror",
+    "titulo": "Hereditário 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/wonYMeHauhrxSi5UTOtj5L479mS.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/xdZY0vx6O0KuhUPi0drXhLzXjZ2.jpg",
+    "sinopse": "Após a morte da reclusa avó, a família Graham começa a desvendar algumas coisas. Mesmo após a partida da matriarca, ela permanece como se fosse uma sombra sobre a família, especialmente sobre a solitária neta adolescente, Charlie, por quem ela sempre manteve uma fascinação não usual. Com um crescente terror tomando conta da casa, a família explora lugares mais escuros para escapar do infeliz destino que herdaram.",
+    "avaliacao": "7.3",
+    "classificacao": "16",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/hereditario.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/xdZY0vx6O0KuhUPi0drXhLzXjZ2.jpg"
+        }
+      ]
+    }
   }
 ]
