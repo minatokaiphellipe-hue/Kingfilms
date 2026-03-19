@@ -15784,26 +15784,6 @@
     "logo_horizontal": "https://image.tmdb.org/t/p/w1280/xnqust9Li4oxfhXD5kcPi3UC8i4.jpg"
   },
   {
-    "id": "vingadores-guerra-infinita",
-    "tipo": "filme",
-    "categoria": "Ação",
-    "titulo": "Vingadores: Guerra Infinita 🌀",
-    "logo": "https://image.tmdb.org/t/p/w780/A4kvp7vY1BDLrrQIagRCffLKj1t.jpg",
-    "sinopse": "Homem de Ferro, Thor, Hulk e os Vingadores se unem para combater seu inimigo mais poderoso, o maligno Thanos. Em uma missão para coletar todas as seis pedras infinitas, Thanos planeja usá-las para infligir sua vontade maléfica sobre a realidade.",
-    "avaliacao": "8.2",
-    "classificacao": "12",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "Assistir 🌀",
-          "linkFisico": "v/vingadores-guerra-infinita.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/566hWfsfyR9zQF0nY3oBUtghfKb.jpg"
-        }
-      ]
-    },
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/mDfJG3LC3Dqb67AZ52x3Z0jU0uB.jpg"
-  },
-  {
     "id": "vingadores-ultimato",
     "tipo": "filme",
     "categoria": "Ação",
@@ -21606,6 +21586,26 @@
           "tit": "Assistir 🌀",
           "linkFisico": "v/sugar-baby.html",
           "logoEp": "https://image.tmdb.org/t/p/w1280/vT57gcBccGndKqGbdW1ysd9rH77.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "vingadores-guerra-infinita",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "Vingadores: Guerra Infinita 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/A4kvp7vY1BDLrrQIagRCffLKj1t.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/566hWfsfyR9zQF0nY3oBUtghfKb.jpg",
+    "sinopse": "Homem de Ferro, Thor, Hulk e os Vingadores se unem para combater seu inimigo mais poderoso, o maligno Thanos. Em uma missão para coletar todas as seis pedras infinitas, Thanos planeja usá-las para infligir sua vontade maléfica sobre a realidade.",
+    "avaliacao": "8.2",
+    "classificacao": "12",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/vingadores-guerra-infinita.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/566hWfsfyR9zQF0nY3oBUtghfKb.jpg"
         }
       ]
     }
