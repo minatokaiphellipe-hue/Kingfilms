@@ -21589,5 +21589,25 @@
         }
       ]
     }
+  },
+  {
+    "id": "sugar-baby",
+    "tipo": "filme",
+    "categoria": "Drama",
+    "titulo": "Sugar Baby 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/iBKkgZHiwwhNU6Q5trngRRLHGzu.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/vT57gcBccGndKqGbdW1ysd9rH77.jpg",
+    "sinopse": "Para ajudar na luta financeira de sua mãe, uma adolescente torna-se acompanhante de luxo e conhece um homem rico que lhe faz uma proposta que ela não poderá recusar.",
+    "avaliacao": "5.2",
+    "classificacao": "16",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/sugar-baby.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/vT57gcBccGndKqGbdW1ysd9rH77.jpg"
+        }
+      ]
+    }
   }
 ]
