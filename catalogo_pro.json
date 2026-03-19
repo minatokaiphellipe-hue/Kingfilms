@@ -21669,5 +21669,25 @@
         }
       ]
     }
+  },
+  {
+    "id": "mib-homens-de-preto-internacional",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "MIB Homens de Preto: Internacional 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/mxopI5VyShCeAlJf3X4Q1T40Bub.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/oatEgW9M00WC0OLB6JMOZA0MzE1.jpg",
+    "sinopse": "Quando criança, Molly presenciou a abordagem de dois agentes do MIB aos seus pais, apagando a memória deles acerca da súbita aparição de um ser extraterrestre. Como estava escondida, a garota não foi atingida pela ação. Obcecada pelos mistérios do universo, ela cresceu com o sonho de ingressar no MIB. Após muita pesquisa, ela consegue descobrir a sede da agência e lá se candidata a uma vaga, sendo aceita por O. Ainda em experiência, e agora renomeada como agente M, ela é enviada a Londres para investigar algo estranho que tem ocorrido na agência local. É quando conhece o agente H, de grande renome pelos seus feitos no passado mas uma certa arrogância e displicência na execução do trabalho.",
+    "avaliacao": "5.9",
+    "classificacao": "12",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/mib-homens-de-preto-internacional.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/oatEgW9M00WC0OLB6JMOZA0MzE1.jpg"
+        }
+      ]
+    }
   }
 ]
