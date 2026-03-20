@@ -21749,5 +21749,25 @@
         }
       ]
     }
+  },
+  {
+    "id": "ta-chovendo-hamburguer",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Tá Chovendo Hambúrguer 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/czEUatnzoLXjCDZjTKHyjcKBTFy.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/2mNoL5BnOt7blcXVnasqhc4ph3A.jpg",
+    "sinopse": "As invenções de Flint nunca deram certo. Contudo, sua vida melhora quando ele cria uma máquina que faz com que chova comida do céu, mas tudo se descontrola quando a máquina começa a desencadear tornados de esparguete e almôndegas gigantes!",
+    "avaliacao": "6.7",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/ta-chovendo-hamburguer.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/2mNoL5BnOt7blcXVnasqhc4ph3A.jpg"
+        }
+      ]
+    }
   }
 ]
