@@ -21971,5 +21971,25 @@
         }
       ]
     }
+  },
+  {
+    "id": "salverosa",
+    "tipo": "filme",
+    "categoria": "Drama",
+    "titulo": "#SalveRosa 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/nCivukZVNGjvj7VGwsPMFFHq0Zx.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/zSMwzgkGzAGsu8JnnGvOIodBLdN.jpg",
+    "sinopse": "Uma jovem influencer decide investigar seu passado após um desmaio na escola. O que ela descobre coloca não apenas sua relação com a mãe superprotetora em risco, mas também sua própria vida.",
+    "avaliacao": "6.5",
+    "classificacao": "16",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/salverosa.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/zSMwzgkGzAGsu8JnnGvOIodBLdN.jpg"
+        }
+      ]
+    }
   }
 ]
