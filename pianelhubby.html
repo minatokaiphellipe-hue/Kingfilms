@@ -53,6 +53,7 @@
             font-size: 14px; cursor: pointer; transition: 0.2s; margin-bottom: 20px; margin-top: 15px;
         }
         .btn-injetar:hover { transform: translateY(-2px); box-shadow: 0 10px 15px -3px rgba(16, 185, 129, 0.4); }
+        .btn-injetar:disabled { background: #334155; cursor: not-allowed; transform: none; box-shadow: none; }
         
         .btn-serie {
             background: linear-gradient(135deg, var(--brand-purple), #6d28d9); color: #fff; border: none;
@@ -124,7 +125,7 @@
             1. Descarregue o ficheiro da IPTV (Filmes ou Séries).<br>2. Selecione-o no botão abaixo:
         </p>
         <label for="file-input" class="btn-upload">📂 ESCOLHER FICHEIRO JSON</label>
-        <input type="file" id="file-input" accept=".json,.txt" onchange="mostrarNomeFicheiro()">
+        <input type="file" id="file-input" accept=".json,.txt,.htm,.html" onchange="mostrarNomeFicheiro()">
         <div id="file-name">Nenhum ficheiro selecionado.</div>
     </div>
     <button id="btn-injetar" class="btn-injetar" onclick="injetarFicheiro()">🚀 MONTAR VITRINE</button>
@@ -156,21 +157,41 @@
         let input = document.getElementById('file-input');
         if (input.files.length === 0) return alert("⚠️ Selecione o ficheiro descarregado primeiro!");
 
+        let btn = document.getElementById('btn-injetar');
+        btn.innerText = "⏳ A LER ARQUIVO GIGANTE... Aguarde!";
+        btn.disabled = true;
+
         let leitor = new FileReader();
         leitor.onload = function(evento) {
-            try {
-                let texto = evento.target.result;
-                bancoDeDados = JSON.parse(texto.trim());
-                if (!Array.isArray(bancoDeDados)) throw new Error("Lista inválida.");
+            
+            // Dá um respiro de milissegundos para o botão atualizar antes de congelar a tela
+            setTimeout(() => {
+                try {
+                    let texto = evento.target.result;
+                    
+                    // FILTRO DE SUJEIRA: Limpa as tags HTML se o navegador tiver gravado mal
+                    if(texto.includes("<html") || texto.includes("<body")) {
+                        let tempDiv = document.createElement("div");
+                        tempDiv.innerHTML = texto;
+                        texto = tempDiv.innerText || tempDiv.textContent;
+                    }
 
-                document.getElementById('area-conexao').style.display = 'none';
-                document.getElementById('btn-injetar').style.display = 'none';
-                document.getElementById('area-busca').style.display = 'block';
-                document.getElementById('contador').innerText = `✅ Vitrine Armada! ${bancoDeDados.length.toLocaleString('pt-BR')} conteúdos na memória.`;
-                
-                document.getElementById('busca-input').focus();
-                filtrarResultados(true);
-            } catch (erro) { alert("❌ Erro de Leitura: Ficheiro corrompido."); }
+                    bancoDeDados = JSON.parse(texto.trim());
+                    if (!Array.isArray(bancoDeDados)) throw new Error("Lista inválida.");
+
+                    document.getElementById('area-conexao').style.display = 'none';
+                    btn.style.display = 'none';
+                    document.getElementById('area-busca').style.display = 'block';
+                    document.getElementById('contador').innerText = `✅ Vitrine Armada! ${bancoDeDados.length.toLocaleString('pt-BR')} conteúdos na memória.`;
+                    
+                    document.getElementById('busca-input').focus();
+                    filtrarResultados(true);
+                } catch (erro) { 
+                    alert("❌ Erro de Leitura: O ficheiro não parece ser válido ou está corrompido."); 
+                    btn.innerText = "🚀 MONTAR VITRINE";
+                    btn.disabled = false;
+                }
+            }, 100);
         };
         leitor.readAsText(input.files[0]);
     }
@@ -228,8 +249,6 @@
         conteudo.innerHTML = "<p style='text-align:center; color:#fbbf24; font-weight:bold;'>⏳ Invadindo a pasta da série... Aguarde!</p>";
 
         let urlApi = `https://hubby.cx/player_api.php?username=playcine-vods&password=gKQJjXulgb&action=get_series_info&series_id=${serieId}`;
-        
-        // CORREÇÃO DO PROXY: AllOrigins é muito mais estável para evitar erros de CORS.
         let urlProxy = "https://api.allorigins.win/raw?url=" + encodeURIComponent(urlApi);
 
         try {
