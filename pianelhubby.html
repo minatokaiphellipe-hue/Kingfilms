@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KINGFILMS STUDIO - ALL IN ONE</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;800&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg-dark: #020617; --panel-bg: rgba(30, 41, 59, 0.8);
+            --input-bg: #0f172a; --brand-red: #e50914; --brand-blue: #3b82f6;
+            --brand-green: #10b981; --brand-purple: #8b5cf6;
+            --text-main: #f8fafc; --text-muted: #94a3b8;
+        }
+        body {
+            background: linear-gradient(135deg, #0f172a 0%, var(--bg-dark) 100%);
+            color: var(--text-main); font-family: 'Poppins', sans-serif;
+            margin: 0; padding: 20px; text-align: center; min-height: 100vh;
+        }
+        .container {
+            max-width: 1200px; margin: auto; background: var(--panel-bg);
+            backdrop-filter: blur(16px); padding: 30px; border-radius: 16px;
+            border: 1px solid rgba(255,255,255,0.05); box-shadow: 0 25px 50px -12px rgba(0,0,0,0.5);
+        }
+        h1 { color: var(--brand-red); margin-top: 0; margin-bottom: 5px; font-weight: 800; letter-spacing: 1px;}
+        p.subtitle { color: var(--text-muted); font-size: 13px; margin-bottom: 25px; }
+        
+        input[type="text"] {
+            width: 100%; padding: 15px; background: var(--input-bg);
+            color: var(--text-main); border: 1px solid #334155; border-radius: 8px;
+            margin-bottom: 15px; box-sizing: border-box; font-family: monospace; font-size: 14px; transition: 0.3s;
+        }
+        input[type="text"]:focus { outline: none; border-color: var(--brand-green); box-shadow: 0 0 0 3px rgba(16, 185, 129, 0.2); }
+        
+        .upload-area {
+            border: 2px dashed #334155; border-radius: 10px; padding: 30px;
+            background: rgba(15, 23, 42, 0.5); margin-bottom: 20px; transition: 0.3s;
+            max-width: 600px; margin-left: auto; margin-right: auto;
+        }
+        .upload-area:hover { border-color: var(--brand-blue); background: rgba(15, 23, 42, 0.8); }
+        input[type="file"] { display: none; }
+        
+        .btn-upload {
+            background: linear-gradient(135deg, var(--brand-blue), #2563eb); color: #fff; border: none;
+            padding: 12px 20px; border-radius: 8px; font-weight: 600; font-size: 14px;
+            cursor: pointer; transition: 0.2s; display: inline-block; margin-top: 10px;
+        }
+        .btn-upload:hover { transform: translateY(-2px); box-shadow: 0 10px 15px -3px rgba(59, 130, 246, 0.4); }
+        
+        .btn-injetar {
+            background: linear-gradient(135deg, var(--brand-green), #059669); color: #fff; border: none;
+            padding: 15px; width: 100%; max-width: 600px; border-radius: 8px; font-weight: 600;
+            font-size: 14px; cursor: pointer; transition: 0.2s; margin-bottom: 20px; margin-top: 15px;
+        }
+        .btn-injetar:hover { transform: translateY(-2px); box-shadow: 0 10px 15px -3px rgba(16, 185, 129, 0.4); }
+        
+        .btn-serie {
+            background: linear-gradient(135deg, var(--brand-purple), #6d28d9); color: #fff; border: none;
+            padding: 10px; width: 100%; border-radius: 6px; font-weight: bold; font-size: 12px;
+            cursor: pointer; transition: 0.2s; margin-top: auto; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.3);
+        }
+        .btn-serie:hover { transform: translateY(-2px); box-shadow: 0 10px 15px -3px rgba(139, 92, 246, 0.5); }
+        
+        #file-name { color: #4ade80; font-size: 13px; margin-top: 10px; font-weight: 600; }
+        
+        /* Grid de Resultados com Capas */
+        #resultados {
+            display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 20px;
+            text-align: left; margin-top: 20px;
+        }
+        .card {
+            background: #1e293b; border-radius: 12px; overflow: hidden; border: 1px solid #334155;
+            transition: 0.3s; display: flex; flex-direction: column;
+        }
+        .card:hover { transform: translateY(-5px); box-shadow: 0 10px 20px rgba(0,0,0,0.5); border-color: var(--brand-red); }
+        .card-img { width: 100%; height: 320px; object-fit: cover; background: #0f172a; border-bottom: 2px solid var(--brand-red); }
+        .card-content { padding: 15px; flex-grow: 1; display: flex; flex-direction: column; }
+        .card-title { font-weight: 800; font-size: 14px; margin-bottom: 5px; color: #fff; line-height: 1.2; }
+        .badge { display: inline-block; padding: 3px 8px; border-radius: 4px; font-size: 10px; font-weight: bold; margin-bottom: 8px; width: fit-content; }
+        .badge-filme { background: #059669; color: #fff; }
+        .badge-serie { background: #8b5cf6; color: #fff; }
+        .card-id { color: #94a3b8; font-size: 11px; margin-bottom: 10px; }
+        .card-link {
+            background: #0f172a; border: 1px solid #334155; color: #4ade80; padding: 10px;
+            border-radius: 6px; font-size: 11px; word-break: break-all; user-select: all; margin-top: auto; cursor: copy;
+        }
+
+        /* Janela Modal Flutuante para Episódios */
+        .modal {
+            display: none; position: fixed; z-index: 1000; left: 0; top: 0; width: 100%; height: 100%;
+            background-color: rgba(2, 6, 23, 0.9); backdrop-filter: blur(5px);
+            align-items: center; justify-content: center;
+        }
+        .modal-content {
+            background: var(--input-bg); padding: 30px; border-radius: 12px;
+            border: 1px solid var(--brand-purple); width: 90%; max-width: 700px;
+            max-height: 80vh; overflow-y: auto; box-shadow: 0 25px 50px -12px rgba(0,0,0,0.8);
+            text-align: left; position: relative;
+        }
+        .close-btn {
+            color: #94a3b8; float: right; font-size: 28px; font-weight: bold;
+            cursor: pointer; transition: 0.2s; line-height: 1;
+        }
+        .close-btn:hover { color: var(--brand-red); }
+        #modal-titulo { color: var(--brand-purple); margin-top: 0; border-bottom: 1px solid #334155; padding-bottom: 10px; }
+        
+        .temporada-title {
+            background: #1e293b; padding: 10px; border-radius: 8px; border-left: 4px solid var(--brand-green);
+            font-size: 16px; font-weight: 800; margin-top: 25px; margin-bottom: 10px;
+        }
+        .ep-card {
+            background: #020617; padding: 12px; border-radius: 8px; margin-bottom: 8px;
+            border: 1px solid #334155;
+        }
+        .ep-title { font-weight: 600; font-size: 13px; margin-bottom: 5px; color: #fff;}
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>KINGFILMS STUDIO</h1>
+    <p class="subtitle">Central de Gestão (Filmes, Séries, Capas e Episódios Num Só Lugar)</p>
+
+    <div id="area-conexao" class="upload-area">
+        <p style="font-size: 13px; color: var(--text-muted); margin-top: 0;">
+            1. Descarregue o ficheiro da IPTV (Filmes ou Séries).<br>2. Selecione-o no botão abaixo:
+        </p>
+        <label for="file-input" class="btn-upload">📂 ESCOLHER FICHEIRO JSON</label>
+        <input type="file" id="file-input" accept=".json,.txt" onchange="mostrarNomeFicheiro()">
+        <div id="file-name">Nenhum ficheiro selecionado.</div>
+    </div>
+    <button id="btn-injetar" class="btn-injetar" onclick="injetarFicheiro()">🚀 MONTAR VITRINE</button>
+
+    <div id="area-busca" style="display: none;">
+        <input type="text" id="busca-input" placeholder="🔍 Digite o nome do filme ou série..." onkeyup="filtrarResultados()">
+        <p id="contador" style="font-size: 13px; color: #4ade80; font-weight: 600; margin-bottom: 20px;"></p>
+        <div id="resultados"></div>
+    </div>
+</div>
+
+<div id="modal-episodios" class="modal">
+    <div class="modal-content">
+        <span class="close-btn" onclick="fecharModal()">&times;</span>
+        <h2 id="modal-titulo">Carregando Série...</h2>
+        <div id="modal-conteudo"></div>
+    </div>
+</div>
+
+<script>
+    let bancoDeDados = [];
+
+    function mostrarNomeFicheiro() {
+        let input = document.getElementById('file-input');
+        if (input.files.length > 0) document.getElementById('file-name').innerText = "Ficheiro pronto: " + input.files[0].name;
+    }
+
+    function injetarFicheiro() {
+        let input = document.getElementById('file-input');
+        if (input.files.length === 0) return alert("⚠️ Selecione o ficheiro descarregado primeiro!");
+
+        let leitor = new FileReader();
+        leitor.onload = function(evento) {
+            try {
+                let texto = evento.target.result;
+                bancoDeDados = JSON.parse(texto.trim());
+                if (!Array.isArray(bancoDeDados)) throw new Error("Lista inválida.");
+
+                document.getElementById('area-conexao').style.display = 'none';
+                document.getElementById('btn-injetar').style.display = 'none';
+                document.getElementById('area-busca').style.display = 'block';
+                document.getElementById('contador').innerText = `✅ Vitrine Armada! ${bancoDeDados.length.toLocaleString('pt-BR')} conteúdos na memória.`;
+                
+                document.getElementById('busca-input').focus();
+                filtrarResultados(true);
+            } catch (erro) { alert("❌ Erro de Leitura: Ficheiro corrompido."); }
+        };
+        leitor.readAsText(input.files[0]);
+    }
+
+    function filtrarResultados(inicial = false) {
+        let termo = document.getElementById('busca-input').value.toLowerCase().trim();
+        let html = "";
+        let resultadosCount = 0;
+
+        if (!inicial && termo.length < 2) { document.getElementById('resultados').innerHTML = ""; return; }
+
+        for (let item of bancoDeDados) {
+            let nome = (item.name || "").toLowerCase();
+            if (inicial || nome.includes(termo)) {
+                resultadosCount++;
+                let isSerie = item.series_id ? true : false;
+                let id = item.stream_id || item.series_id;
+                let capa = item.stream_icon || item.cover || "https://via.placeholder.com/300x450/0f172a/4ade80?text=Sem+Capa";
+                let ext = item.container_extension || "mp4";
+                let nomeSeguro = (item.name || "Sem Nome").replace(/'/g, "\\'"); // Evita erro se o nome tiver aspas
+                
+                let badge = isSerie ? `<span class="badge badge-serie">SÉRIE / ANIME</span>` : `<span class="badge badge-filme">FILME</span>`;
+                
+                // A grande divisão de código: Link direto vs Botão de Extração
+                let acaoBase = "";
+                if (isSerie) {
+                    acaoBase = `<button class="btn-serie" onclick="abrirEpisodios('${id}', '${nomeSeguro}')">📡 VER EPISÓDIOS</button>`;
+                } else {
+                    acaoBase = `<div class="card-link" title="Clique duas vezes para copiar">http://hubby.cx/movie/playcine-vods/gKQJjXulgb/${id}.${ext}</div>`;
+                }
+                
+                html += `
+                <div class="card">
+                    <img src="${capa}" alt="Capa" class="card-img" onerror="this.src='https://via.placeholder.com/300x450/0f172a/e50914?text=Erro+na+Capa'">
+                    <div class="card-content">
+                        ${badge}
+                        <div class="card-title">${item.name || "Sem Nome"}</div>
+                        <div class="card-id">ID: ${id}</div>
+                        ${acaoBase}
+                    </div>
+                </div>`;
+            }
+            if (resultadosCount >= 40) break;
+        }
+        if(resultadosCount === 0) html = `<div style="color: #fca5a5; font-size: 13px; grid-column: 1 / -1;">Nenhum conteúdo encontrado.</div>`;
+        document.getElementById('resultados').innerHTML = html;
+    }
+
+    // ==========================================
+    // MAGIA DE SÉRIES: EXTRAÇÃO EM TEMPO REAL
+    // ==========================================
+    async function abrirEpisodios(serieId, nomeSerie) {
+        let modal = document.getElementById('modal-episodios');
+        let titulo = document.getElementById('modal-titulo');
+        let conteudo = document.getElementById('modal-conteudo');
+        
+        modal.style.display = 'flex';
+        titulo.innerText = nomeSerie;
+        conteudo.innerHTML = "<p style='text-align:center; color:#fbbf24; font-weight:bold;'>⏳ Invadindo a pasta da série... Aguarde!</p>";
+
+        let urlApi = `https://hubby.cx/player_api.php?username=playcine-vods&password=gKQJjXulgb&action=get_series_info&series_id=${serieId}`;
+        let urlProxy = "https://corsproxy.io/?" + encodeURIComponent(urlApi);
+
+        try {
+            let res = await fetch(urlProxy);
+            if(!res.ok) throw new Error("O Proxy público falhou. Tente novamente.");
+            let dados = await res.json();
+
+            if (!dados.episodes || Object.keys(dados.episodes).length === 0) {
+                conteudo.innerHTML = "<p style='color:#ef4444;'>❌ O servidor IPTV não tem episódios disponíveis para esta série.</p>";
+                return;
+            }
+
+            let htmlTemp = "";
+            for (let temp in dados.episodes) {
+                htmlTemp += `<div class="temporada-title">▶ Temporada ${temp}</div>`;
+                dados.episodes[temp].forEach(ep => {
+                    let link = `http://hubby.cx/series/playcine-vods/gKQJjXulgb/${ep.id}.${ep.container_extension || 'mp4'}`;
+                    htmlTemp += `
+                    <div class="ep-card">
+                        <div class="ep-title">Ep ${ep.episode_num} - ${ep.title || 'Episódio'}</div>
+                        <div class="card-link" title="Clique para copiar">${link}</div>
+                    </div>`;
+                });
+            }
+            conteudo.innerHTML = htmlTemp;
+
+        } catch(e) {
+            conteudo.innerHTML = `<p style='color:#ef4444;'>❌ Erro ao extrair: ${e.message}</p>`;
+        }
+    }
+
+    function fecharModal() {
+        document.getElementById('modal-episodios').style.display = 'none';
+    }
+</script>
+</body>
+</html>
+
