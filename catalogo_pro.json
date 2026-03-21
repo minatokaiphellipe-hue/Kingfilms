@@ -22198,18 +22198,7 @@
     }
   },
   {
-    "id": "adolepeixes",
-    "tipo": "serie",
-    "categoria": "Séries",
-    "titulo": "Adolepeixes 🌀",
-    "logo": "https://image.tmdb.org/t/p/w780/zphWcGZNIUuBTbZmmAu0e5b6RRr.jpg",
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/5D5SebcfoSTd7NGYyWMd97sDVJ.jpg",
-    "sinopse": "Três peixinhos - Milo, Oscar e Boni - vivem em um pet shop chamado Fish Hooks e estão sempre enfrentando grandes desafios.",
-    "avaliacao": "6.5",
-    "classificacao": "Livre",
-    "temporadas": {
-      "1": [
-        {
+        
           "tit": "S01E01 🌀",
           "linkFisico": "v/adolepeixes-s01e01.html",
           "logoEp": "https://image.tmdb.org/t/p/w1280/5D5SebcfoSTd7NGYyWMd97sDVJ.jpg"
