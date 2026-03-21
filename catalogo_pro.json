@@ -21991,5 +21991,25 @@
         }
       ]
     }
+  },
+  {
+    "id": "peaky-blinders-o-homem-imortal",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "Peaky Blinders: O Homem Imortal 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/zhtt4k4Vqz2k0frLtBddJmNbqjK.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/mV374MjwuET7KqoXMCxDiCHhbam.jpg",
+    "sinopse": "Após o envolvimento do filho em um complô nazista, o gângster Tommy Shelby precisa deixar o exílio e voltar a Birmingham para salvar a família e a nação.",
+    "avaliacao": "7.9",
+    "classificacao": "18",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/peaky-blinders-o-homem-imortal.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mV374MjwuET7KqoXMCxDiCHhbam.jpg"
+        }
+      ]
+    }
   }
 ]
