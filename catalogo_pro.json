@@ -22031,5 +22031,45 @@
         }
       ]
     }
+  },
+  {
+    "id": "emergencia-radioativa",
+    "tipo": "serie",
+    "categoria": "Séries",
+    "titulo": "Emergência Radioativa 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/5MxP4pmZWyBA8d27fAaROFsaH1h.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/4qM3I0nZ1wYSRW2InOrbxaWATnu.jpg",
+    "sinopse": "Físicos e médicos entram em uma corrida contra o tempo para salvar a cidade e milhares de vidas após um grave acidente radiológico.",
+    "avaliacao": "6.9",
+    "classificacao": "12",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "S01E01 🌀",
+          "linkFisico": "v/emergencia-radioativa-s01e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/4qM3I0nZ1wYSRW2InOrbxaWATnu.jpg"
+        },
+        {
+          "tit": "S01E02 🌀",
+          "linkFisico": "v/emergencia-radioativa-s01e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/4qM3I0nZ1wYSRW2InOrbxaWATnu.jpg"
+        },
+        {
+          "tit": "S01E03 🌀",
+          "linkFisico": "v/emergencia-radioativa-s01e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/4qM3I0nZ1wYSRW2InOrbxaWATnu.jpg"
+        },
+        {
+          "tit": "S01E04 🌀",
+          "linkFisico": "v/emergencia-radioativa-s01e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/4qM3I0nZ1wYSRW2InOrbxaWATnu.jpg"
+        },
+        {
+          "tit": "S01E05 🌀",
+          "linkFisico": "v/emergencia-radioativa-s01e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/4qM3I0nZ1wYSRW2InOrbxaWATnu.jpg"
+        }
+      ]
+    }
   }
 ]
