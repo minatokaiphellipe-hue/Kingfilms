@@ -22071,5 +22071,70 @@
         }
       ]
     }
+  },
+  {
+    "id": "dahmer-um-canibal-americano",
+    "tipo": "serie",
+    "categoria": "Séries",
+    "titulo": "Dahmer: Um Canibal Americano 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/67ujv4O6AalmGu3UaVSNdcw8juT.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/xbRfV469sbwQJfbA9tNS6dJ2fLH.jpg",
+    "sinopse": "Jeffrey Dahmer drogou, estuprou e matou 17 rapazes, além de devorar parte dos cadáveres. Conheça seu modus operandi e veja entrevistas com seu pai e com sobreviventes dos crimes.",
+    "avaliacao": "8.0",
+    "classificacao": "18",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "S01E01 🌀",
+          "linkFisico": "v/dahmer-um-canibal-americano-s01e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/xbRfV469sbwQJfbA9tNS6dJ2fLH.jpg"
+        },
+        {
+          "tit": "S01E02 🌀",
+          "linkFisico": "v/dahmer-um-canibal-americano-s01e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/xbRfV469sbwQJfbA9tNS6dJ2fLH.jpg"
+        },
+        {
+          "tit": "S01E03 🌀",
+          "linkFisico": "v/dahmer-um-canibal-americano-s01e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/xbRfV469sbwQJfbA9tNS6dJ2fLH.jpg"
+        },
+        {
+          "tit": "S01E04 🌀",
+          "linkFisico": "v/dahmer-um-canibal-americano-s01e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/xbRfV469sbwQJfbA9tNS6dJ2fLH.jpg"
+        },
+        {
+          "tit": "S01E05 🌀",
+          "linkFisico": "v/dahmer-um-canibal-americano-s01e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/xbRfV469sbwQJfbA9tNS6dJ2fLH.jpg"
+        },
+        {
+          "tit": "S01E06 🌀",
+          "linkFisico": "v/dahmer-um-canibal-americano-s01e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/xbRfV469sbwQJfbA9tNS6dJ2fLH.jpg"
+        },
+        {
+          "tit": "S01E07 🌀",
+          "linkFisico": "v/dahmer-um-canibal-americano-s01e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/xbRfV469sbwQJfbA9tNS6dJ2fLH.jpg"
+        },
+        {
+          "tit": "S01E08 🌀",
+          "linkFisico": "v/dahmer-um-canibal-americano-s01e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/xbRfV469sbwQJfbA9tNS6dJ2fLH.jpg"
+        },
+        {
+          "tit": "S01E09 🌀",
+          "linkFisico": "v/dahmer-um-canibal-americano-s01e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/xbRfV469sbwQJfbA9tNS6dJ2fLH.jpg"
+        },
+        {
+          "tit": "S01E10 🌀",
+          "linkFisico": "v/dahmer-um-canibal-americano-s01e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/xbRfV469sbwQJfbA9tNS6dJ2fLH.jpg"
+        }
+      ]
+    }
   }
 ]
