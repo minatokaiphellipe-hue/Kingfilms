@@ -22011,5 +22011,25 @@
         }
       ]
     }
+  },
+  {
+    "id": "panico-na-floresta",
+    "tipo": "filme",
+    "categoria": "Terror",
+    "titulo": "Pânico na Floresta 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/mQVIIUXHo3Qpd6nu0api7UyMpas.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/7ZGxUDxIlPpg7nKWMSeJn64o25A.jpg",
+    "sinopse": "Cinco amigos percorrem uma trilha na floresta, em pleno estado da Virginia. Após pegarem o caminho errado, eles se deparam com uma família de canibais, que possui o rosto desfigurado devido a diversas gerações cosanguíneas terem nascido. Desesperados após serem capturados, os amigos agora querem apenas fugir do local o mais rápido possível.",
+    "avaliacao": "6.4",
+    "classificacao": "14",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/panico-na-floresta.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/7ZGxUDxIlPpg7nKWMSeJn64o25A.jpg"
+        }
+      ]
+    }
   }
 ]
