@@ -22196,5 +22196,80 @@
         }
       ]
     }
+  },
+  {
+    "id": "chainsaw-man",
+    "tipo": "serie",
+    "categoria": "Animes",
+    "titulo": "Chainsaw Man 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/mIz0eKhzHuSPeRSePCyoCt9bKVp.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/sbvHiKrb86zi2RSeos8MkoURTDi.jpg",
+    "sinopse": "Denji é um adolescente que mora com Pochita, o Demônio da Motosserra. Por conta das dívidas que herdou de seu pai, ele vive na miséria, exterminando outros demônios com Pochita para pagar as contas. Até que, um dia, Denji é traído e morre. Em seus últimos momentos de consciência, ele firma um contrato com Pochita e renasce como o Homem-Motosserra - um humano com coração de demônio.",
+    "avaliacao": "8.5",
+    "classificacao": "16",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "S01E01 🌀",
+          "linkFisico": "v/chainsaw-man-s01e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/sbvHiKrb86zi2RSeos8MkoURTDi.jpg"
+        },
+        {
+          "tit": "S01E02 🌀",
+          "linkFisico": "v/chainsaw-man-s01e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/sbvHiKrb86zi2RSeos8MkoURTDi.jpg"
+        },
+        {
+          "tit": "S01E03 🌀",
+          "linkFisico": "v/chainsaw-man-s01e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/sbvHiKrb86zi2RSeos8MkoURTDi.jpg"
+        },
+        {
+          "tit": "S01E04 🌀",
+          "linkFisico": "v/chainsaw-man-s01e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/sbvHiKrb86zi2RSeos8MkoURTDi.jpg"
+        },
+        {
+          "tit": "S01E05 🌀",
+          "linkFisico": "v/chainsaw-man-s01e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/sbvHiKrb86zi2RSeos8MkoURTDi.jpg"
+        },
+        {
+          "tit": "S01E06 🌀",
+          "linkFisico": "v/chainsaw-man-s01e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/sbvHiKrb86zi2RSeos8MkoURTDi.jpg"
+        },
+        {
+          "tit": "S01E07 🌀",
+          "linkFisico": "v/chainsaw-man-s01e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/sbvHiKrb86zi2RSeos8MkoURTDi.jpg"
+        },
+        {
+          "tit": "S01E08 🌀",
+          "linkFisico": "v/chainsaw-man-s01e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/sbvHiKrb86zi2RSeos8MkoURTDi.jpg"
+        },
+        {
+          "tit": "S01E09 🌀",
+          "linkFisico": "v/chainsaw-man-s01e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/sbvHiKrb86zi2RSeos8MkoURTDi.jpg"
+        },
+        {
+          "tit": "S01E10 🌀",
+          "linkFisico": "v/chainsaw-man-s01e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/sbvHiKrb86zi2RSeos8MkoURTDi.jpg"
+        },
+        {
+          "tit": "S01E11 🌀",
+          "linkFisico": "v/chainsaw-man-s01e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/sbvHiKrb86zi2RSeos8MkoURTDi.jpg"
+        },
+        {
+          "tit": "S01E12 🌀",
+          "linkFisico": "v/chainsaw-man-s01e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/sbvHiKrb86zi2RSeos8MkoURTDi.jpg"
+        }
+      ]
+    }
   }
 ]
