@@ -22156,5 +22156,25 @@
         }
       ]
     }
+  },
+  {
+    "id": "o-telefone-preto-2",
+    "tipo": "filme",
+    "categoria": "Terror",
+    "titulo": "O Telefone Preto 2 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/p3epSUdF9qSWWHTBlA3mJ0w2i2Y.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/uraAsXiPyRpc9T1N4pgSmu5tdnD.jpg",
+    "sinopse": "Quatro anos após escapar de The Grabber, Finney Blake luta com sua vida após o cativeiro. Quando sua irmã Gwen começa a receber ligações em sonhos do telefone preto e a ter visões perturbadoras de três garotos sendo perseguidos em um acampamento de inverno conhecido como Alpine Lake, os irmãos se determinam a desvendar o mistério e confrontar um assassino que se tornou mais poderoso na morte e mais significativo para eles do que qualquer um poderia imaginar.",
+    "avaliacao": "6.7",
+    "classificacao": "18",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/o-telefone-preto-2.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/uraAsXiPyRpc9T1N4pgSmu5tdnD.jpg"
+        }
+      ]
+    }
   }
 ]
