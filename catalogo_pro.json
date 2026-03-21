@@ -22176,5 +22176,25 @@
         }
       ]
     }
+  },
+  {
+    "id": "guerra-mundial-z",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "Guerra Mundial Z 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/2Sdz5gGrwN92pRanlJKeUqkIjRk.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/vbSry7MTaU7j3T4zyxrkxjbE9v9.jpg",
+    "sinopse": "Um vírus letal se espalha rapidamente e transforma seres humanos em zumbis. O ex-agente da ONU Gerry Lane é chamado para investigar a epidemia que está acabando com a humanidade, iniciando uma verdadeira corrida contra o tempo.",
+    "avaliacao": "6.8",
+    "classificacao": "14",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/guerra-mundial-z.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/vbSry7MTaU7j3T4zyxrkxjbE9v9.jpg"
+        }
+      ]
+    }
   }
 ]
