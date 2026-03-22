@@ -19917,26 +19917,6 @@
     }
   },
   {
-    "id": "o-bicho-vai-pegar",
-    "tipo": "filme",
-    "categoria": "Animações",
-    "titulo": "O Bicho Vai Pegar 🌀",
-    "logo": "https://image.tmdb.org/t/p/w780/t6n81JDmbKnjjdagHmPx3gSGVNr.jpg",
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/oMV1hgeGNRuMVHLvssJNH0BRgm7.jpg",
-    "sinopse": "Boog, um urso pardo domesticado sem instinto de sobrevivência, vê seu mundo virar de cabeça para baixo quando ele conhece Elliot, um esquelético alce falante. Eles unem forças com as criaturas da floresta para restabelecer o controle de volta à natureza!",
-    "avaliacao": "6.2",
-    "classificacao": "Livre",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "Assistir 🌀",
-          "linkFisico": "v/o-bicho-vai-pegar.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/oMV1hgeGNRuMVHLvssJNH0BRgm7.jpg"
-        }
-      ]
-    }
-  },
-  {
     "id": "os-sem-floresta",
     "tipo": "filme",
     "categoria": "Animações",
@@ -22509,6 +22489,27 @@
           "tit": "Assistir 🌀",
           "linkFisico": "v/ta-chovendo-hamburguer.html",
           "logoEp": "https://image.tmdb.org/t/p/w1280/2mNoL5BnOt7blcXVnasqhc4ph3A.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "o-bicho-vai-pegar",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "O Bicho Vai Pegar 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/t6n81JDmbKnjjdagHmPx3gSGVNr.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/oMV1hgeGNRuMVHLvssJNH0BRgm7.jpg",
+    "sinopse": "Boog, um urso pardo domesticado sem instinto de sobrevivência, vê seu mundo virar de cabeça para baixo quando ele conhece Elliot, um esquelético alce falante. Eles unem forças com as criaturas da floresta para restabelecer o controle de volta à natureza!",
+    "nota": "6.2",
+    "avaliacao": "6.2",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/o-bicho-vai-pegar.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/oMV1hgeGNRuMVHLvssJNH0BRgm7.jpg"
         }
       ]
     }
