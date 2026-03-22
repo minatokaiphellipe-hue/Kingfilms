@@ -21751,26 +21751,6 @@
     }
   },
   {
-    "id": "ta-chovendo-hamburguer",
-    "tipo": "filme",
-    "categoria": "Animações",
-    "titulo": "Tá Chovendo Hambúrguer 🌀",
-    "logo": "https://image.tmdb.org/t/p/w780/czEUatnzoLXjCDZjTKHyjcKBTFy.jpg",
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/2mNoL5BnOt7blcXVnasqhc4ph3A.jpg",
-    "sinopse": "As invenções de Flint nunca deram certo. Contudo, sua vida melhora quando ele cria uma máquina que faz com que chova comida do céu, mas tudo se descontrola quando a máquina começa a desencadear tornados de esparguete e almôndegas gigantes!",
-    "avaliacao": "6.7",
-    "classificacao": "Livre",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "Assistir 🌀",
-          "linkFisico": "v/ta-chovendo-hamburguer.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/2mNoL5BnOt7blcXVnasqhc4ph3A.jpg"
-        }
-      ]
-    }
-  },
-  {
     "id": "invencivel",
     "tipo": "serie",
     "categoria": "Séries",
@@ -22508,6 +22488,27 @@
           "tit": "S03E09 🌀",
           "linkFisico": "v/american-horror-stories-s03e09.html",
           "logoEp": "https://image.tmdb.org/t/p/w1280/rBkla1GS6lF4xpkO7oN9alIwPuX.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ta-chovendo-hamburguer",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Tá Chovendo Hambúrguer 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/czEUatnzoLXjCDZjTKHyjcKBTFy.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/2mNoL5BnOt7blcXVnasqhc4ph3A.jpg",
+    "sinopse": "As invenções de Flint nunca deram certo. Contudo, sua vida melhora quando ele cria uma máquina que faz com que chova comida do céu, mas tudo se descontrola quando a máquina começa a desencadear tornados de esparguete e almôndegas gigantes!",
+    "nota": "6.7",
+    "avaliacao": "6.7",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/ta-chovendo-hamburguer.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/2mNoL5BnOt7blcXVnasqhc4ph3A.jpg"
         }
       ]
     }
