@@ -23527,5 +23527,26 @@
         }
       ]
     }
+  },
+  {
+    "id": "marcados-para-morrer",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "Marcados Para Morrer 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/jKdsR67jLbn4cVQgaERyLmpGLOW.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/gJJ8MagD7XAfwro3yO08DzY1f1L.jpg",
+    "sinopse": "Os policiais Brian e Mike, além de parceiros, são amigos. Brian resolve gravar a rotina da dupla pelas ruas de Los Angeles para um curso. A câmera registra momentos familiares e cenas de tensão quando os dois acabam se envolvendo com traficantes.",
+    "nota": "7.3",
+    "avaliacao": "7.3",
+    "classificacao": "16",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/marcados-para-morrer.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gJJ8MagD7XAfwro3yO08DzY1f1L.jpg"
+        }
+      ]
+    }
   }
 ]
