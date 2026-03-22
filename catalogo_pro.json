@@ -24199,27 +24199,6 @@
     }
   },
   {
-    "id": "como-treinar-o-seu-dragao",
-    "tipo": "filme",
-    "categoria": "Animações",
-    "titulo": "Como Treinar o Seu Dragão 🌀",
-    "logo": "https://image.tmdb.org/t/p/w780/spZbO7Ss6U9W5zSHjtH6FvXvCF7.jpg",
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/sUxsHQtSxfwmXkoqNlB7Uyl0kaN.jpg",
-    "sinopse": "Soluço é um jovem viking que desafia a tradição, quando fica amigo de um dos mais mortais inimigos — um feroz dragão que ele chama de Banguela.",
-    "nota": "7.9",
-    "avaliacao": "7.9",
-    "classificacao": "Livre",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "Assistir 🌀",
-          "linkFisico": "v/como-treinar-o-seu-dragao.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/sUxsHQtSxfwmXkoqNlB7Uyl0kaN.jpg"
-        }
-      ]
-    }
-  },
-  {
     "id": "como-treinar-o-seu-dragao-2",
     "tipo": "filme",
     "categoria": "Animações",
@@ -24257,6 +24236,27 @@
           "tit": "Assistir 🌀",
           "linkFisico": "v/como-treinar-o-seu-dragao-3.html",
           "logoEp": "https://image.tmdb.org/t/p/w1280/g8a2FT8DWi1e6Fpw7zqrcKWbe8n.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "como-treinar-o-seu-dragao",
+    "tipo": "filme",
+    "categoria": "Fantasia",
+    "titulo": "Como Treinar o Seu Dragão 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/vdvEClt3J8sFWxyMo0Jm7JpouEo.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/zq3KClWefZWh3oGWkZDhNUJnrvC.jpg",
+    "sinopse": "Na montanhosa Ilha de Berk, vikings e dragões são inimigos implacáveis há gerações, mas Soluço é diferente. Filho do Chefe Stoico, o Imenso, o criativo e subestimado Soluço desafia séculos de tradição ao fazer amizade com Banguela, um temido dragão Fúria da Noite. Essa relação improvável revela a verdadeira natureza dos dragões, abalando as bases da sociedade viking.",
+    "nota": "7.9",
+    "avaliacao": "7.9",
+    "classificacao": "10",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/como-treinar-o-seu-dragao.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/zq3KClWefZWh3oGWkZDhNUJnrvC.jpg"
         }
       ]
     }
