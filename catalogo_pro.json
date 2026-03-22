@@ -24282,5 +24282,187 @@
         }
       ]
     }
+  },
+  {
+    "id": "bridgerton",
+    "tipo": "serie",
+    "categoria": "Séries",
+    "titulo": "Bridgerton 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/rAKJSFPXv9aFpeZAyr0yNg0HxuP.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/rLUfeA7ThgSnAcUCvdrPnOuyMCX.jpg",
+    "sinopse": "Um mundo sensual, luxuoso e competitivo da alta sociedade londrina no início do século XIX. Nesse período, a família Bridgerton, composta por oito irmãos, enfrenta o disputado mercado de casamentos, os bailes suntuosos de Mayfair e os palácios aristocráticos de Park Lane.",
+    "nota": "8.1",
+    "avaliacao": "8.1",
+    "classificacao": "16",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "S01E01 🌀",
+          "linkFisico": "v/bridgerton-s01e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/rLUfeA7ThgSnAcUCvdrPnOuyMCX.jpg"
+        },
+        {
+          "tit": "S01E02 🌀",
+          "linkFisico": "v/bridgerton-s01e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/rLUfeA7ThgSnAcUCvdrPnOuyMCX.jpg"
+        },
+        {
+          "tit": "S01E03 🌀",
+          "linkFisico": "v/bridgerton-s01e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/rLUfeA7ThgSnAcUCvdrPnOuyMCX.jpg"
+        },
+        {
+          "tit": "S01E04 🌀",
+          "linkFisico": "v/bridgerton-s01e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/rLUfeA7ThgSnAcUCvdrPnOuyMCX.jpg"
+        },
+        {
+          "tit": "S01E05 🌀",
+          "linkFisico": "v/bridgerton-s01e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/rLUfeA7ThgSnAcUCvdrPnOuyMCX.jpg"
+        },
+        {
+          "tit": "S01E06 🌀",
+          "linkFisico": "v/bridgerton-s01e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/rLUfeA7ThgSnAcUCvdrPnOuyMCX.jpg"
+        },
+        {
+          "tit": "S01E07 🌀",
+          "linkFisico": "v/bridgerton-s01e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/rLUfeA7ThgSnAcUCvdrPnOuyMCX.jpg"
+        },
+        {
+          "tit": "S01E08 🌀",
+          "linkFisico": "v/bridgerton-s01e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/rLUfeA7ThgSnAcUCvdrPnOuyMCX.jpg"
+        }
+      ],
+      "2": [
+        {
+          "tit": "S02E01 🌀",
+          "linkFisico": "v/bridgerton-s02e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/rLUfeA7ThgSnAcUCvdrPnOuyMCX.jpg"
+        },
+        {
+          "tit": "S02E02 🌀",
+          "linkFisico": "v/bridgerton-s02e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/rLUfeA7ThgSnAcUCvdrPnOuyMCX.jpg"
+        },
+        {
+          "tit": "S02E03 🌀",
+          "linkFisico": "v/bridgerton-s02e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/rLUfeA7ThgSnAcUCvdrPnOuyMCX.jpg"
+        },
+        {
+          "tit": "S02E04 🌀",
+          "linkFisico": "v/bridgerton-s02e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/rLUfeA7ThgSnAcUCvdrPnOuyMCX.jpg"
+        },
+        {
+          "tit": "S02E05 🌀",
+          "linkFisico": "v/bridgerton-s02e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/rLUfeA7ThgSnAcUCvdrPnOuyMCX.jpg"
+        },
+        {
+          "tit": "S02E06 🌀",
+          "linkFisico": "v/bridgerton-s02e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/rLUfeA7ThgSnAcUCvdrPnOuyMCX.jpg"
+        },
+        {
+          "tit": "S02E07 🌀",
+          "linkFisico": "v/bridgerton-s02e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/rLUfeA7ThgSnAcUCvdrPnOuyMCX.jpg"
+        },
+        {
+          "tit": "S02E08 🌀",
+          "linkFisico": "v/bridgerton-s02e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/rLUfeA7ThgSnAcUCvdrPnOuyMCX.jpg"
+        }
+      ],
+      "3": [
+        {
+          "tit": "S03E01 🌀",
+          "linkFisico": "v/bridgerton-s03e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/rLUfeA7ThgSnAcUCvdrPnOuyMCX.jpg"
+        },
+        {
+          "tit": "S03E02 🌀",
+          "linkFisico": "v/bridgerton-s03e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/rLUfeA7ThgSnAcUCvdrPnOuyMCX.jpg"
+        },
+        {
+          "tit": "S03E03 🌀",
+          "linkFisico": "v/bridgerton-s03e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/rLUfeA7ThgSnAcUCvdrPnOuyMCX.jpg"
+        },
+        {
+          "tit": "S03E04 🌀",
+          "linkFisico": "v/bridgerton-s03e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/rLUfeA7ThgSnAcUCvdrPnOuyMCX.jpg"
+        },
+        {
+          "tit": "S03E05 🌀",
+          "linkFisico": "v/bridgerton-s03e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/rLUfeA7ThgSnAcUCvdrPnOuyMCX.jpg"
+        },
+        {
+          "tit": "S03E06 🌀",
+          "linkFisico": "v/bridgerton-s03e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/rLUfeA7ThgSnAcUCvdrPnOuyMCX.jpg"
+        },
+        {
+          "tit": "S03E07 🌀",
+          "linkFisico": "v/bridgerton-s03e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/rLUfeA7ThgSnAcUCvdrPnOuyMCX.jpg"
+        },
+        {
+          "tit": "S03E08 🌀",
+          "linkFisico": "v/bridgerton-s03e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/rLUfeA7ThgSnAcUCvdrPnOuyMCX.jpg"
+        }
+      ],
+      "4": [
+        {
+          "tit": "S04E01 🌀",
+          "linkFisico": "v/bridgerton-s04e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/rLUfeA7ThgSnAcUCvdrPnOuyMCX.jpg"
+        },
+        {
+          "tit": "S04E02 🌀",
+          "linkFisico": "v/bridgerton-s04e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/rLUfeA7ThgSnAcUCvdrPnOuyMCX.jpg"
+        },
+        {
+          "tit": "S04E03 🌀",
+          "linkFisico": "v/bridgerton-s04e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/rLUfeA7ThgSnAcUCvdrPnOuyMCX.jpg"
+        },
+        {
+          "tit": "S04E04 🌀",
+          "linkFisico": "v/bridgerton-s04e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/rLUfeA7ThgSnAcUCvdrPnOuyMCX.jpg"
+        },
+        {
+          "tit": "S04E05 🌀",
+          "linkFisico": "v/bridgerton-s04e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/rLUfeA7ThgSnAcUCvdrPnOuyMCX.jpg"
+        },
+        {
+          "tit": "S04E06 🌀",
+          "linkFisico": "v/bridgerton-s04e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/rLUfeA7ThgSnAcUCvdrPnOuyMCX.jpg"
+        },
+        {
+          "tit": "S04E07 🌀",
+          "linkFisico": "v/bridgerton-s04e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/rLUfeA7ThgSnAcUCvdrPnOuyMCX.jpg"
+        },
+        {
+          "tit": "S04E08 🌀",
+          "linkFisico": "v/bridgerton-s04e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/rLUfeA7ThgSnAcUCvdrPnOuyMCX.jpg"
+        }
+      ]
+    }
   }
 ]
