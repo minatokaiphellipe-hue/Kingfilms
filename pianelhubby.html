@@ -163,13 +163,9 @@
 
         let leitor = new FileReader();
         leitor.onload = function(evento) {
-            
-            // Dá um respiro de milissegundos para o botão atualizar antes de congelar a tela
             setTimeout(() => {
                 try {
                     let texto = evento.target.result;
-                    
-                    // FILTRO DE SUJEIRA: Limpa as tags HTML se o navegador tiver gravado mal
                     if(texto.includes("<html") || texto.includes("<body")) {
                         let tempDiv = document.createElement("div");
                         tempDiv.innerHTML = texto;
@@ -246,15 +242,37 @@
         
         modal.style.display = 'flex';
         titulo.innerText = nomeSerie;
-        conteudo.innerHTML = "<p style='text-align:center; color:#fbbf24; font-weight:bold;'>⏳ Invadindo a pasta da série... Aguarde!</p>";
+        conteudo.innerHTML = "<p style='text-align:center; color:#fbbf24; font-weight:bold;'>⏳ Acionando Múltiplos Proxies para evitar cortes... Aguarde!</p>";
 
         let urlApi = `https://hubby.cx/player_api.php?username=playcine-vods&password=gKQJjXulgb&action=get_series_info&series_id=${serieId}`;
-        let urlProxy = "https://api.allorigins.win/raw?url=" + encodeURIComponent(urlApi);
+        
+        // ESQUADRÃO DE PROXIES: Se um falhar, tenta o próximo!
+        let proxies = [
+            "https://corsproxy.io/?" + encodeURIComponent(urlApi),
+            "https://api.codetabs.com/v1/proxy?quest=" + encodeURIComponent(urlApi),
+            "https://api.allorigins.win/raw?url=" + encodeURIComponent(urlApi)
+        ];
+
+        let dados = null;
+        let erroFinal = "";
+
+        for (let p of proxies) {
+            try {
+                let res = await fetch(p);
+                if (!res.ok) continue;
+                
+                let text = await res.text();
+                dados = JSON.parse(text); // Se estiver cortado, dá erro e vai para o próximo proxy
+                break; // Se chegou aqui, a conversão deu certo!
+            } catch(e) {
+                erroFinal = e.message;
+            }
+        }
 
         try {
-            let res = await fetch(urlProxy);
-            if(!res.ok) throw new Error("O Proxy público falhou. Tente novamente.");
-            let dados = await res.json();
+            if (!dados) {
+                throw new Error(`Série gigante! Os servidores públicos cortaram o texto. (${erroFinal})`);
+            }
 
             if (!dados.episodes || Object.keys(dados.episodes).length === 0) {
                 conteudo.innerHTML = "<p style='color:#ef4444;'>❌ O servidor IPTV não tem episódios disponíveis para esta série.</p>";
