@@ -23963,5 +23963,198 @@
         }
       ]
     }
+  },
+  {
+    "id": "black-mirror",
+    "tipo": "serie",
+    "categoria": "Séries",
+    "titulo": "Black Mirror 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/aCTL24B8ZuiI2osMwoUI5rqBXoF.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/qyGN3ANhwiEfYcu5k2ZZP0K1qdV.jpg",
+    "sinopse": "As histórias bizarras não têm limite nesta série antológica que revela o pior da humanidade, suas maiores invenções e muito mais.",
+    "nota": "8.3",
+    "avaliacao": "8.3",
+    "classificacao": "16",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "S01E01 🌀",
+          "linkFisico": "v/black-mirror-s01e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/qyGN3ANhwiEfYcu5k2ZZP0K1qdV.jpg"
+        },
+        {
+          "tit": "S01E02 🌀",
+          "linkFisico": "v/black-mirror-s01e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/qyGN3ANhwiEfYcu5k2ZZP0K1qdV.jpg"
+        },
+        {
+          "tit": "S01E03 🌀",
+          "linkFisico": "v/black-mirror-s01e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/qyGN3ANhwiEfYcu5k2ZZP0K1qdV.jpg"
+        }
+      ],
+      "2": [
+        {
+          "tit": "S02E01 🌀",
+          "linkFisico": "v/black-mirror-s02e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/qyGN3ANhwiEfYcu5k2ZZP0K1qdV.jpg"
+        },
+        {
+          "tit": "S02E02 🌀",
+          "linkFisico": "v/black-mirror-s02e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/qyGN3ANhwiEfYcu5k2ZZP0K1qdV.jpg"
+        },
+        {
+          "tit": "S02E03 🌀",
+          "linkFisico": "v/black-mirror-s02e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/qyGN3ANhwiEfYcu5k2ZZP0K1qdV.jpg"
+        },
+        {
+          "tit": "S02E04 🌀",
+          "linkFisico": "v/black-mirror-s02e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/qyGN3ANhwiEfYcu5k2ZZP0K1qdV.jpg"
+        }
+      ],
+      "3": [
+        {
+          "tit": "S03E01 🌀",
+          "linkFisico": "v/black-mirror-s03e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/qyGN3ANhwiEfYcu5k2ZZP0K1qdV.jpg"
+        },
+        {
+          "tit": "S03E02 🌀",
+          "linkFisico": "v/black-mirror-s03e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/qyGN3ANhwiEfYcu5k2ZZP0K1qdV.jpg"
+        },
+        {
+          "tit": "S03E03 🌀",
+          "linkFisico": "v/black-mirror-s03e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/qyGN3ANhwiEfYcu5k2ZZP0K1qdV.jpg"
+        },
+        {
+          "tit": "S03E04 🌀",
+          "linkFisico": "v/black-mirror-s03e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/qyGN3ANhwiEfYcu5k2ZZP0K1qdV.jpg"
+        },
+        {
+          "tit": "S03E05 🌀",
+          "linkFisico": "v/black-mirror-s03e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/qyGN3ANhwiEfYcu5k2ZZP0K1qdV.jpg"
+        },
+        {
+          "tit": "S03E06 🌀",
+          "linkFisico": "v/black-mirror-s03e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/qyGN3ANhwiEfYcu5k2ZZP0K1qdV.jpg"
+        }
+      ],
+      "4": [
+        {
+          "tit": "S04E01 🌀",
+          "linkFisico": "v/black-mirror-s04e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/qyGN3ANhwiEfYcu5k2ZZP0K1qdV.jpg"
+        },
+        {
+          "tit": "S04E02 🌀",
+          "linkFisico": "v/black-mirror-s04e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/qyGN3ANhwiEfYcu5k2ZZP0K1qdV.jpg"
+        },
+        {
+          "tit": "S04E03 🌀",
+          "linkFisico": "v/black-mirror-s04e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/qyGN3ANhwiEfYcu5k2ZZP0K1qdV.jpg"
+        },
+        {
+          "tit": "S04E04 🌀",
+          "linkFisico": "v/black-mirror-s04e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/qyGN3ANhwiEfYcu5k2ZZP0K1qdV.jpg"
+        },
+        {
+          "tit": "S04E05 🌀",
+          "linkFisico": "v/black-mirror-s04e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/qyGN3ANhwiEfYcu5k2ZZP0K1qdV.jpg"
+        },
+        {
+          "tit": "S04E06 🌀",
+          "linkFisico": "v/black-mirror-s04e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/qyGN3ANhwiEfYcu5k2ZZP0K1qdV.jpg"
+        }
+      ],
+      "5": [
+        {
+          "tit": "S05E01 🌀",
+          "linkFisico": "v/black-mirror-s05e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/qyGN3ANhwiEfYcu5k2ZZP0K1qdV.jpg"
+        },
+        {
+          "tit": "S05E02 🌀",
+          "linkFisico": "v/black-mirror-s05e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/qyGN3ANhwiEfYcu5k2ZZP0K1qdV.jpg"
+        },
+        {
+          "tit": "S05E03 🌀",
+          "linkFisico": "v/black-mirror-s05e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/qyGN3ANhwiEfYcu5k2ZZP0K1qdV.jpg"
+        }
+      ],
+      "6": [
+        {
+          "tit": "S06E01 🌀",
+          "linkFisico": "v/black-mirror-s06e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/qyGN3ANhwiEfYcu5k2ZZP0K1qdV.jpg"
+        },
+        {
+          "tit": "S06E02 🌀",
+          "linkFisico": "v/black-mirror-s06e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/qyGN3ANhwiEfYcu5k2ZZP0K1qdV.jpg"
+        },
+        {
+          "tit": "S06E03 🌀",
+          "linkFisico": "v/black-mirror-s06e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/qyGN3ANhwiEfYcu5k2ZZP0K1qdV.jpg"
+        },
+        {
+          "tit": "S06E04 🌀",
+          "linkFisico": "v/black-mirror-s06e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/qyGN3ANhwiEfYcu5k2ZZP0K1qdV.jpg"
+        },
+        {
+          "tit": "S06E05 🌀",
+          "linkFisico": "v/black-mirror-s06e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/qyGN3ANhwiEfYcu5k2ZZP0K1qdV.jpg"
+        }
+      ],
+      "7": [
+        {
+          "tit": "S07E01 🌀",
+          "linkFisico": "v/black-mirror-s07e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/qyGN3ANhwiEfYcu5k2ZZP0K1qdV.jpg"
+        },
+        {
+          "tit": "S07E02 🌀",
+          "linkFisico": "v/black-mirror-s07e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/qyGN3ANhwiEfYcu5k2ZZP0K1qdV.jpg"
+        },
+        {
+          "tit": "S07E03 🌀",
+          "linkFisico": "v/black-mirror-s07e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/qyGN3ANhwiEfYcu5k2ZZP0K1qdV.jpg"
+        },
+        {
+          "tit": "S07E04 🌀",
+          "linkFisico": "v/black-mirror-s07e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/qyGN3ANhwiEfYcu5k2ZZP0K1qdV.jpg"
+        },
+        {
+          "tit": "S07E05 🌀",
+          "linkFisico": "v/black-mirror-s07e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/qyGN3ANhwiEfYcu5k2ZZP0K1qdV.jpg"
+        },
+        {
+          "tit": "S07E06 🌀",
+          "linkFisico": "v/black-mirror-s07e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/qyGN3ANhwiEfYcu5k2ZZP0K1qdV.jpg"
+        }
+      ]
+    }
   }
 ]
