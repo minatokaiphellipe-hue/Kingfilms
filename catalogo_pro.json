@@ -23548,5 +23548,86 @@
         }
       ]
     }
+  },
+  {
+    "id": "super-crooks",
+    "tipo": "serie",
+    "categoria": "Animes",
+    "titulo": "Super Crooks 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/AsEm6mPVcsLhrOhHXOSJGX9dKY1.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/vI8cIF3G0yZyj5NtntuoFhKfrM6.jpg",
+    "sinopse": "Johnny Bolt recruta um bando de supervilões pé de chinelo para fazer um grande assalto. O alvo: um implacável chefão do crime. O que poderia dar errado?",
+    "nota": "7.0",
+    "avaliacao": "7.0",
+    "classificacao": "16",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "S01E01 🌀",
+          "linkFisico": "v/super-crooks-s01e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/vI8cIF3G0yZyj5NtntuoFhKfrM6.jpg"
+        },
+        {
+          "tit": "S01E02 🌀",
+          "linkFisico": "v/super-crooks-s01e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/vI8cIF3G0yZyj5NtntuoFhKfrM6.jpg"
+        },
+        {
+          "tit": "S01E03 🌀",
+          "linkFisico": "v/super-crooks-s01e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/vI8cIF3G0yZyj5NtntuoFhKfrM6.jpg"
+        },
+        {
+          "tit": "S01E04 🌀",
+          "linkFisico": "v/super-crooks-s01e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/vI8cIF3G0yZyj5NtntuoFhKfrM6.jpg"
+        },
+        {
+          "tit": "S01E05 🌀",
+          "linkFisico": "v/super-crooks-s01e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/vI8cIF3G0yZyj5NtntuoFhKfrM6.jpg"
+        },
+        {
+          "tit": "S01E06 🌀",
+          "linkFisico": "v/super-crooks-s01e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/vI8cIF3G0yZyj5NtntuoFhKfrM6.jpg"
+        },
+        {
+          "tit": "S01E07 🌀",
+          "linkFisico": "v/super-crooks-s01e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/vI8cIF3G0yZyj5NtntuoFhKfrM6.jpg"
+        },
+        {
+          "tit": "S01E08 🌀",
+          "linkFisico": "v/super-crooks-s01e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/vI8cIF3G0yZyj5NtntuoFhKfrM6.jpg"
+        },
+        {
+          "tit": "S01E09 🌀",
+          "linkFisico": "v/super-crooks-s01e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/vI8cIF3G0yZyj5NtntuoFhKfrM6.jpg"
+        },
+        {
+          "tit": "S01E10 🌀",
+          "linkFisico": "v/super-crooks-s01e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/vI8cIF3G0yZyj5NtntuoFhKfrM6.jpg"
+        },
+        {
+          "tit": "S01E11 🌀",
+          "linkFisico": "v/super-crooks-s01e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/vI8cIF3G0yZyj5NtntuoFhKfrM6.jpg"
+        },
+        {
+          "tit": "S01E12 🌀",
+          "linkFisico": "v/super-crooks-s01e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/vI8cIF3G0yZyj5NtntuoFhKfrM6.jpg"
+        },
+        {
+          "tit": "S01E13 🌀",
+          "linkFisico": "v/super-crooks-s01e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/vI8cIF3G0yZyj5NtntuoFhKfrM6.jpg"
+        }
+      ]
+    }
   }
 ]
