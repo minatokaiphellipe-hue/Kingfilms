@@ -24519,5 +24519,47 @@
         }
       ]
     }
+  },
+  {
+    "id": "kingsman-servico-secreto",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "Kingsman: Serviço Secreto 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/wDhy1Ga9BoLwkHOI0jJISQem28v.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/pnfzRwBBkPzwMjlkb1YAgHJ9amO.jpg",
+    "sinopse": "Eggsy é um jovem com problemas de disciplina que parece perto de se tornar um criminoso. Determinado dia, ele entra em contato com Harry, que lhe apresenta à agência de espionagem Kingsman. O jovem se une a um time de recrutas em busca de uma vaga na agência. Ao mesmo tempo, Harry tenta impedir a ascensão do vilão Valentine.",
+    "nota": "7.6",
+    "avaliacao": "7.6",
+    "classificacao": "16",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/kingsman-servico-secreto.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/pnfzRwBBkPzwMjlkb1YAgHJ9amO.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "kingsman-o-circulo-dourado",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "Kingsman: O Círculo Dourado 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/qo7MKvaaow436wqwYlPbq5zNhqM.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/4xoJJPj9QxseAh6FgVwK5bTpqPt.jpg",
+    "sinopse": "Um grandioso ataque destrói o quartel-general Kingsman, obrigando Eggsy, Merlin e cia a unirem forças com o equivalente estadunidense da agência, os Statesman. Britânicos e norte-americanos ignoram as diferenças em defesa do mundo, ameaçado pelos planos da vilã Poppy.",
+    "nota": "6.9",
+    "avaliacao": "6.9",
+    "classificacao": "16",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/kingsman-o-circulo-dourado.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/4xoJJPj9QxseAh6FgVwK5bTpqPt.jpg"
+        }
+      ]
+    }
   }
 ]
