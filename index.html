@@ -1,0 +1,293 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KINGFILMS - Premium Streaming</title>
+    <meta name="description" content="Assista séries, filmes e animes online em HD no KINGFILMS.">
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+    
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>👑</text></svg>">
+
+    <style>
+        /* ==========================================================
+           1. DESIGN SYSTEM & CORES
+           ========================================================== */
+        :root {
+            --bg-base: #0B0F19;      
+            --bg-surface: #131A2A;   
+            --brand-red: #E50914;
+            --brand-red-hover: #B30710;
+            --brand-red-glow: rgba(229, 9, 20, 0.5);
+            --text-main: #F8FAFC;
+            --text-muted: #94A3B8;
+            --glass-border: rgba(255, 255, 255, 0.08);
+            --transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+        }
+
+        * { box-sizing: border-box; margin: 0; padding: 0; font-family: 'Poppins', sans-serif; }
+        body { background-color: var(--bg-base); color: var(--text-main); overflow-x: hidden; min-height: 100vh; }
+        
+        ::-webkit-scrollbar { width: 6px; }
+        ::-webkit-scrollbar-track { background: var(--bg-base); }
+        ::-webkit-scrollbar-thumb { background: var(--brand-red); border-radius: 4px; }
+
+        /* ==========================================================
+           2. CABEÇALHO E MENU LATERAL
+           ========================================================== */
+        .header-premium {
+            display: flex; justify-content: space-between; align-items: center;
+            padding: 12px 4%; background: rgba(11, 15, 25, 0.95); backdrop-filter: blur(10px);
+            border-bottom: 1px solid var(--glass-border); position: sticky; top: 0; z-index: 1000;
+        }
+        .header-left { display: flex; align-items: center; gap: 15px; }
+        
+        .menu-btn { font-size: 24px; cursor: pointer; color: var(--text-main); transition: var(--transition); }
+        .menu-btn:hover { color: var(--brand-red); }
+        
+        .logo-premium {
+            font-size: 22px; font-weight: 900; letter-spacing: 0.5px; cursor: pointer;
+            background: linear-gradient(90deg, #FFFFFF 0%, var(--brand-red) 100%);
+            -webkit-background-clip: text; -webkit-text-fill-color: transparent; margin: 0;
+        }
+        .header-right { display: flex; align-items: center; gap: 15px; flex: 1; justify-content: flex-end; }
+        
+        .search-container { position: relative; display: flex; align-items: center; max-width: 250px; width: 100%; }
+        .search-icon { position: absolute; left: 12px; font-size: 14px; color: var(--text-muted); }
+        .search-input {
+            width: 100%; background: transparent; border: 1px solid var(--glass-border);
+            color: var(--text-main); padding: 8px 15px 8px 35px; border-radius: 20px;
+            font-size: 13px; outline: none; transition: var(--transition);
+        }
+        .search-input:focus { border-color: var(--brand-red); background: rgba(255,255,255,0.05); }
+
+        .header-profile img { width: 35px; height: 35px; border-radius: 8px; border: 2px solid transparent; cursor: pointer; transition: var(--transition); object-fit: cover; }
+        .header-profile:hover img { border-color: var(--brand-red); }
+
+        /* Sidebar */
+        .sidebar-overlay { position: fixed; inset: 0; background: rgba(0,0,0,0.8); z-index: 1001; opacity: 0; visibility: hidden; transition: var(--transition); backdrop-filter: blur(3px); }
+        .sidebar-overlay.open { opacity: 1; visibility: visible; }
+        .sidebar { position: fixed; top: 0; left: -300px; width: 280px; height: 100%; background: var(--bg-surface); z-index: 1002; transition: left 0.4s cubic-bezier(0.25, 0.8, 0.25, 1); box-shadow: 5px 0 25px rgba(0,0,0,0.8); display: flex; flex-direction: column; border-right: 1px solid var(--glass-border); }
+        .sidebar.open { left: 0; }
+        .sidebar-header { padding: 20px; display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid var(--glass-border); }
+        .sidebar-header h2 { font-size: 18px; font-weight: 800; color: var(--text-main); letter-spacing: 1px; }
+        .close-btn { color: var(--text-muted); font-size: 24px; cursor: pointer; transition: var(--transition); line-height: 1; }
+        .close-btn:hover { color: var(--brand-red); transform: scale(1.1); }
+        .sidebar-content { padding: 15px 0; overflow-y: auto; flex-grow: 1; }
+        .sidebar-item { padding: 15px 25px; color: var(--text-muted); font-size: 15px; font-weight: 600; cursor: pointer; transition: var(--transition); display: flex; align-items: center; gap: 12px; border-left: 4px solid transparent; }
+        .sidebar-item:hover { background: rgba(255,255,255,0.05); color: var(--text-main); border-left-color: var(--brand-red); }
+
+        /* ==========================================================
+           3. HERO SLIDER E BOTÕES (HOME)
+           ========================================================== */
+        .hero-slider { position: relative; width: 100%; height: 70vh; min-height: 500px; overflow: hidden; background: #000; }
+        .hero-slide { position: absolute; inset: 0; background-size: cover; background-position: center top; opacity: 0; transition: opacity 0.8s ease; display: flex; align-items: flex-end; }
+        .hero-slide.active { opacity: 1; z-index: 1; }
+        .hero-overlay { position: absolute; inset: 0; background: linear-gradient(to top, var(--bg-base) 0%, rgba(11,15,25,0.6) 40%, transparent 100%); pointer-events: none; }
+        .hero-content { position: relative; z-index: 2; padding: 0 4% 40px 4%; max-width: 800px; width: 100%; }
+        .hero-title { font-size: 2.5rem; font-weight: 800; line-height: 1.1; margin-bottom: 12px; text-shadow: 2px 2px 15px rgba(0,0,0,0.9); }
+        .hero-meta { display: flex; gap: 12px; align-items: center; margin-bottom: 15px; font-weight: 600; font-size: 14px; text-shadow: 1px 1px 5px rgba(0,0,0,0.8); }
+        .hero-meta-star { color: #10B981; font-weight: 700; display: flex; align-items: center; gap: 4px; }
+        .hero-meta-age { padding: 2px 6px; border-radius: 4px; font-size: 12px; font-weight: 800; }
+        .hero-synopsis { font-size: 14px; color: #CBD5E1; margin-bottom: 25px; line-height: 1.5; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; text-shadow: 1px 1px 5px rgba(0,0,0,0.9); }
+        
+        .hero-buttons { display: flex; flex-direction: column; gap: 10px; width: 100%; }
+        .btn-play { background: linear-gradient(90deg, var(--brand-red), var(--brand-red-hover)); color: white; border: none; padding: 12px; border-radius: 8px; font-weight: 700; font-size: 15px; cursor: pointer; transition: var(--transition); display: flex; align-items: center; justify-content: center; gap: 8px; box-shadow: 0 4px 15px rgba(229, 9, 20, 0.4); width: 100%; }
+        .btn-play:hover { transform: scale(1.02); box-shadow: 0 6px 20px rgba(229, 9, 20, 0.6); }
+        .btn-info { background: rgba(255,255,255,0.1); color: white; border: 1px solid var(--glass-border); padding: 12px; border-radius: 8px; font-weight: 600; font-size: 15px; cursor: pointer; transition: var(--transition); backdrop-filter: blur(5px); width: 100%; display: flex; align-items: center; justify-content: center; gap: 8px; }
+        .btn-info:hover { background: rgba(255,255,255,0.2); }
+
+        .slider-dots { position: absolute; bottom: 15px; left: 4%; z-index: 3; display: flex; gap: 6px; }
+        .dot { width: 6px; height: 6px; border-radius: 50%; background: rgba(255,255,255,0.3); cursor: pointer; transition: var(--transition); }
+        .dot.active { background: var(--brand-red); width: 20px; border-radius: 4px; }
+/* ==========================================================
+           4. CARTÕES E CATEGORIAS (HOME)
+           ========================================================== */
+        .quick-categories { display: flex; overflow-x: auto; gap: 12px; padding: 20px 4% 10px 4%; scrollbar-width: none; }
+        .quick-categories::-webkit-scrollbar { display: none; }
+        .quick-cat-card { background: var(--bg-surface); border: 1px solid var(--glass-border); border-radius: 20px; padding: 10px 20px; display: flex; align-items: center; gap: 8px; cursor: pointer; transition: var(--transition); flex: 0 0 auto; box-shadow: 0 2px 8px rgba(0,0,0,0.3); }
+        .quick-cat-card:hover { background: rgba(255,255,255,0.1); border-color: var(--text-muted); }
+        
+        .categoria-section { margin-bottom: 35px; }
+        .section-header { display: flex; align-items: center; gap: 10px; margin: 0 4% 15px 4%; }
+        .section-line { width: 4px; height: 22px; background: var(--brand-red); border-radius: 4px; }
+        .section-icon { color: #FBBF24; font-size: 16px; }
+        .section-title { font-size: 16px; font-weight: 800; color: var(--text-main); text-transform: uppercase; letter-spacing: 0.5px; }
+        
+        .content-row { display: flex; overflow-x: auto; gap: 15px; padding: 0 4% 20px 4%; scroll-snap-type: x mandatory; scrollbar-width: none; }
+        .content-row::-webkit-scrollbar { display: none; }
+        .grid-view { display: grid; grid-template-columns: repeat(auto-fill, minmax(130px, 1fr)); gap: 15px; padding: 0 4%; }
+
+        .movie-card { flex: 0 0 140px; display: flex; flex-direction: column; cursor: pointer; scroll-snap-align: start; }
+        .grid-view .movie-card { flex: unset; width: 100%; }
+        
+        .card-img-wrapper { position: relative; width: 100%; aspect-ratio: 2/3; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.4); border-bottom: 3px solid var(--brand-red); transition: var(--transition); background: #000; }
+        .card-img { width: 100%; height: 100%; object-fit: cover; transition: 0.4s; }
+        .movie-card:hover .card-img-wrapper { transform: translateY(-5px); box-shadow: 0 8px 20px rgba(229, 9, 20, 0.3); }
+        .movie-card:hover .card-img { filter: brightness(0.8); transform: scale(1.05); }
+
+        .card-title { font-size: 13px; font-weight: 600; color: #E2E8F0; margin-top: 8px; line-height: 1.3; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; transition: var(--transition); }
+        .movie-card:hover .card-title { color: #fff; }
+
+        .badge-age { position: absolute; top: 6px; left: 6px; padding: 2px 6px; border-radius: 4px; font-size: 10px; font-weight: 800; z-index: 2; box-shadow: 0 2px 6px rgba(0,0,0,0.5); }
+        .badge-rating { position: absolute; top: 6px; right: 6px; background: rgba(0,0,0,0.8); backdrop-filter: blur(4px); padding: 2px 6px; border-radius: 4px; font-size: 10px; font-weight: 700; color: #fff; border: 1px solid var(--glass-border); z-index: 2; display: flex; align-items: center; gap: 3px; }
+
+        .btn-ver-mais { display: block; width: 92%; margin: 10px auto 0 auto; background: var(--bg-surface); color: var(--text-muted); border: 1px solid var(--glass-border); padding: 12px; font-size: 13px; font-weight: 700; border-radius: 8px; cursor: pointer; transition: var(--transition); text-transform: uppercase; }
+        .btn-ver-mais:hover { background: rgba(255,255,255,0.05); color: #fff; border-color: var(--brand-red); }
+
+        .telegram-banner { background: linear-gradient(135deg, #0088cc 0%, #004466 100%); border-radius: 12px; padding: 20px; margin: 10px 4% 35px 4%; display: flex; align-items: center; justify-content: space-between; box-shadow: 0 5px 20px rgba(0, 136, 204, 0.3); border: 1px solid #00aaff; flex-wrap: wrap; gap: 15px; transition: var(--transition); }
+        .telegram-banner:hover { transform: translateY(-3px); box-shadow: 0 8px 25px rgba(0, 136, 204, 0.5); }
+        .tg-title { font-size: 20px; font-weight: 800; color: #fff; margin-bottom: 5px; display: flex; align-items: center; gap: 10px; }
+        .tg-desc { font-size: 14px; color: #ccebff; font-weight: 500; }
+        .tg-btn { background: #fff; color: #006699; padding: 12px 25px; border-radius: 8px; font-weight: 800; text-decoration: none; font-size: 14px; transition: var(--transition); display: inline-block; box-shadow: 0 4px 10px rgba(0,0,0,0.2); }
+        .tg-btn:hover { transform: scale(1.05); background: #e6f5ff; }
+
+        /* ==========================================================
+           5. PÁGINA DE DETALHES (TELA INTEIRA & ESTILO NOVO)
+           ========================================================== */
+        
+        /* Cabeçalho do Filme em Tela Inteira */
+        .detail-hero-fullscreen {
+            position: relative; width: 100%; height: 65vh; min-height: 450px;
+            background-size: cover; background-position: center top;
+            box-shadow: inset 0 -50px 100px -20px var(--bg-base);
+        }
+        .detail-gradient-fullscreen {
+            position: absolute; inset: 0;
+            background: linear-gradient(to top, var(--bg-base) 0%, rgba(11,15,25,0.6) 50%, transparent 100%);
+        }
+        .voltar-btn-fullscreen {
+            position: absolute; top: 20px; left: 4%; z-index: 10;
+            color: var(--text-main); font-weight: 600; cursor: pointer;
+            background: rgba(0,0,0,0.5); padding: 8px 16px; border-radius: 20px;
+            backdrop-filter: blur(5px); transition: var(--transition); border: 1px solid var(--glass-border);
+            display: flex; align-items: center; gap: 5px;
+        }
+        .voltar-btn-fullscreen:hover { background: var(--brand-red); border-color: var(--brand-red); }
+        
+        .detail-content-fullscreen { position: absolute; bottom: 0; left: 4%; right: 4%; padding-bottom: 30px; z-index: 2; }
+        .detail-title-fs { font-size: 3rem; font-weight: 900; margin-bottom: 12px; text-shadow: 2px 2px 15px rgba(0,0,0,0.9); line-height: 1.1; letter-spacing: -0.5px; }
+        .detail-meta-fs { display: flex; gap: 15px; align-items: center; margin-bottom: 25px; font-weight: 700; font-size: 14px; text-shadow: 1px 1px 5px rgba(0,0,0,0.8); }
+        
+        .btn-add-lista-fs {
+            background: rgba(255,255,255,0.1); color: #fff; border: 1px solid var(--glass-border);
+            padding: 12px 25px; border-radius: 8px; font-weight: 700; font-size: 14px;
+            cursor: pointer; backdrop-filter: blur(5px); transition: var(--transition);
+        }
+        .btn-add-lista-fs.active { background: var(--brand-red); border-color: var(--brand-red); }
+        .btn-add-lista-fs:hover { background: rgba(255,255,255,0.2); }
+
+        /* Corpo da Página de Detalhes */
+        .detail-body-container { max-width: 1000px; margin: 0 auto; padding: 30px 4% 50px 4%; }
+        
+        /* Sinopse Elegante */
+        .synopsis-container { margin-bottom: 40px; }
+        .synopsis-title { font-size: 20px; font-weight: 800; margin-bottom: 12px; color: var(--text-main); border-left: 4px solid var(--brand-red); padding-left: 10px; }
+        .synopsis-text { font-size: 15px; line-height: 1.8; color: #CBD5E1; font-weight: 300; text-align: justify; }
+
+        /* Cartão de Episódio / Play Super Moderno */
+        .ep-card-modern {
+            display: flex; align-items: center; justify-content: space-between; gap: 20px;
+            background: linear-gradient(145deg, var(--bg-surface) 0%, rgba(255,255,255,0.02) 100%);
+            padding: 15px 20px; border-radius: 12px; margin-bottom: 15px; cursor: pointer;
+            border: 1px solid var(--glass-border); transition: var(--transition);
+            box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+        }
+        .ep-card-modern:hover { border-color: var(--brand-red); transform: translateY(-3px); box-shadow: 0 8px 25px rgba(229,9,20,0.2); }
+        
+        .ep-card-left { display: flex; align-items: center; gap: 20px; flex: 1; }
+        .ep-img-modern { width: 150px; aspect-ratio: 16/9; border-radius: 8px; object-fit: cover; box-shadow: 0 4px 10px rgba(0,0,0,0.5); }
+        .ep-title-modern { font-size: 16px; font-weight: 700; color: var(--text-main); margin-bottom: 5px; }
+        /* Botão Play Circular */
+        .ep-play-btn {
+            background: var(--brand-red); width: 45px; height: 45px; border-radius: 50%;
+            display: flex; align-items: center; justify-content: center; font-size: 18px;
+            color: white; padding-left: 3px; box-shadow: 0 4px 15px var(--brand-red-glow);
+            transition: var(--transition); flex-shrink: 0;
+        }
+        .ep-card-modern:hover .ep-play-btn { transform: scale(1.1); background: #fff; color: var(--brand-red); }
+
+        /* ==========================================================
+           6. RESPONSIVIDADE
+           ========================================================== */
+        @media (min-width: 768px) {
+            .hero-buttons { flex-direction: row; }
+            .btn-play, .btn-info { width: auto; padding: 12px 30px; }
+            .movie-card { flex: 0 0 160px; }
+            .card-title { font-size: 14px; }
+            .search-container { max-width: 350px; }
+            .telegram-banner { flex-wrap: nowrap; }
+        }
+
+        @media (max-width: 768px) {
+            .detail-hero-fullscreen { height: 50vh; min-height: 380px; }
+            .detail-title-fs { font-size: 2.2rem; }
+            
+            /* Adaptação do Episódio no Mobile (Botão Flutuante) */
+            .ep-card-modern { position: relative; flex-direction: column; align-items: flex-start; padding: 12px; gap: 12px; }
+            .ep-card-left { flex-direction: column; align-items: flex-start; width: 100%; gap: 10px; }
+            .ep-img-modern { width: 100%; height: auto; aspect-ratio: 16/9; }
+            .ep-play-btn { position: absolute; bottom: 15px; right: 15px; }
+        }
+
+        .hidden { display: none !important; }
+        .login-overlay { position: fixed; inset: 0; background: rgba(11, 15, 25, 0.95); backdrop-filter: blur(10px); z-index: 9999; display: flex; flex-direction: column; align-items: center; justify-content: center; overflow-y: auto; padding: 20px; }
+    </style>
+</head>
+<body>
+
+    <div id="loginOverlay" class="login-overlay hidden">
+        <h1 class="logo-premium" style="margin-bottom: 30px; font-size: 35px;">KINGFILMS</h1>
+        <div style="width: 100%; display: flex; flex-direction: column; align-items: center; max-width: 320px;">
+            <input type="email" id="inputEmail" placeholder="Seu E-mail" style="width: 100%; padding: 14px; margin-bottom: 12px; background: rgba(255,255,255,0.05); border: 1px solid var(--glass-border); color: white; border-radius: 8px; outline: none;">
+            <input type="password" id="inputSenha" placeholder="Sua Senha" style="width: 100%; padding: 14px; margin-bottom: 20px; background: rgba(255,255,255,0.05); border: 1px solid var(--glass-border); color: white; border-radius: 8px; outline: none;">
+            <button onclick="logarComEmail()" style="width: 100%; padding: 14px; background: var(--brand-red); color: white; font-weight: 700; border: none; border-radius: 8px; cursor: pointer; transition: 0.3s;">ENTRAR</button>
+            <p onclick="fecharLogin()" style="margin-top: 25px; color: var(--text-muted); cursor: pointer; font-size: 14px; text-decoration: underline;">Continuar como Visitante</p>
+        </div>
+    </div>
+
+    <div class="sidebar-overlay" id="sidebarOverlay" onclick="fecharMenu()"></div>
+    <div class="sidebar" id="sidebarMenu">
+        <div class="sidebar-header">
+            <h2>GÊNEROS</h2>
+            <span class="close-btn" onclick="fecharMenu()">✖</span>
+        </div>
+        <div class="sidebar-content" id="sidebarContent">
+            </div>
+    </div>
+
+    <div class="header-premium">
+        <div class="header-left">
+            <div class="menu-btn" onclick="abrirMenu()">☰</div>
+            <h1 class="logo-premium" onclick="renderizarHome()">KINGFILMS</h1>
+        </div>
+        <div class="header-right">
+            <div class="search-container">
+                <span class="search-icon">🔍</span>
+                <input type="text" id="campoPesquisa" class="search-input" placeholder="Pesquisar..." onkeyup="pesquisarConteudo()">
+            </div>
+            <div class="header-profile" onclick="gerirLogin()" title="Conta">
+                <img id="headerProfilePic" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Netflix-avatar.png" alt="User">
+            </div>
+        </div>
+    </div>
+
+    <div id="feedPrincipal">
+        <div style="height: 80vh; display: flex; align-items: center; justify-content: center; flex-direction: column;">
+            <div style="width: 40px; height: 40px; border: 3px solid rgba(255,255,255,0.1); border-top-color: var(--brand-red); border-radius: 50%; animation: spin 1s linear infinite; margin-bottom: 15px;"></div>
+            <p style="color: var(--text-muted); font-size: 13px;">Carregando...</p>
+        </div>
+    </div>
+
+    <footer style="text-align: center; padding: 40px 4%; border-top: 1px solid var(--glass-border); margin-top: 40px; background: #070A11;">
+        <h1 class="logo-premium" style="font-size: 20px; margin-bottom: 10px;">KINGFILMS</h1>
+        <p style="color: var(--text-muted); font-size: 12px; max-width: 500px; margin: 0 auto;">Filmes, Séries, Animações e Animes Online. Assista a filmes, séries, animações e animes online. A melhor maneira de assistir conteúdo grátis, basta dar play e ver seus títulos favoritos em HD, atualizados diariamente. Este site é um indexador automático de conteúdo e não armazena arquivos em nossos servidores.</p>
+    </footer>
+
+    <style>@keyframes spin { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }</style>
+    <script src="script.js"></script>
+</body>
+</html>
