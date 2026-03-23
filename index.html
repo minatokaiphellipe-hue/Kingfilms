@@ -72,7 +72,8 @@
         .sidebar-content::-webkit-scrollbar-thumb { background: #e50914; border-radius: 4px; }
         .sidebar-item { padding: 14px 25px; color: #ccc; font-size: 15px; font-weight: 700; cursor: pointer; transition: all 0.3s; display: flex; align-items: center; gap: 12px; border-left: 4px solid transparent; }
         .sidebar-item:hover { background: linear-gradient(90deg, rgba(229, 9, 20, 0.15) 0%, transparent 100%); color: #fff; border-left: 4px solid #e50914; }
-         /* --- HERO SLIDER --- */
+
+        /* --- HERO SLIDER --- */
         .hero-slider { position: relative; width: 100%; height: 65vh; min-height: 450px; max-height: 700px; margin-bottom: 5px; overflow: hidden; background: #000; touch-action: pan-y; }
         .hero-slide { position: absolute; top: 0; left: 0; right: 0; bottom: 0; background-size: cover; background-position: center top; opacity: 0; transition: opacity 0.8s ease-in-out; display: flex; align-items: flex-end; z-index: 0; }
         .hero-slide.active { opacity: 1; z-index: 1; }
@@ -89,7 +90,6 @@
         .slider-dots { position: absolute; bottom: 20px; left: 5%; z-index: 3; display: flex; gap: 8px; }
         .dot { width: 10px; height: 10px; border-radius: 50%; background: rgba(255,255,255,0.3); cursor: pointer; transition: all 0.4s ease; }
         .dot.active { background: #e50914; width: 30px; border-radius: 5px; box-shadow: 0 0 10px rgba(229,9,20,0.5); }
-
         /* --- CATEGORIAS RÁPIDAS --- */
         .quick-categories { display: flex; overflow-x: auto; gap: 15px; padding: 10px 5% 40px 5%; scrollbar-width: none; }
         .quick-categories::-webkit-scrollbar { display: none; }
@@ -162,7 +162,8 @@
         .footer-links a { color: #aaa; text-decoration: none; font-size: 14px; font-weight: 700; transition: 0.3s; border-bottom: 2px solid transparent; padding-bottom: 2px; }
         .footer-links a:hover { color: #fff; border-bottom: 2px solid #e50914; }
         .footer-copy { color: #444; font-size: 12px; font-weight: 700; padding-top: 20px; border-top: 1px solid rgba(255,255,255,0.02); max-width: 300px; margin: 0 auto; }
-         @media (max-width: 600px) {
+
+        @media (max-width: 600px) {
             .header-profile span { display: none; }
             .hero-title { font-size: 2.2rem; }
             .hero-slider { height: 55vh; min-height: 400px; }
@@ -245,7 +246,6 @@
             </div>
         </div>
     </div>
-
     <div id="feedPrincipal">
         <p style="text-align:center; padding:60px; color:#666; font-size: 15px;">A carregar o catálogo profissional...</p>
     </div>
@@ -259,5 +259,47 @@
 
     <script src="script.js"></script>
 
+    <script>
+        // FUNÇÃO CAÇADORA DE REDEMOINHOS E INJEÇÃO DA COROA 👑
+        function coroarTituloPlayer() {
+            // Procura em todos os títulos, spans, divs e textos na página do player
+            const elementos = document.querySelectorAll('h1, h2, h3, h4, span, div, p');
+            
+            elementos.forEach(el => {
+                // Verifica se tem texto para não dar erro
+                if (el.textContent) {
+                    
+                    // Se o texto contém o símbolo 🌀, limpa
+                    if (el.textContent.includes('🌀')) {
+                        let textoLimpo = el.textContent.replace(/\s*🌀/g, "").trim();
+                        
+                        // Verifica se já não tem a coroa para não duplicar, e injeta
+                        if (!textoLimpo.includes('𝐊𝐢𝐧𝐠𝐟𝐢𝐥𝐦𝐬 👑')) {
+                            el.textContent = textoLimpo + " - 𝐊𝐢𝐧𝐠𝐟𝐢𝐥𝐦𝐬 👑";
+                        } else {
+                            el.textContent = textoLimpo;
+                        }
+                    }
+                }
+            });
+
+            // Arruma também o nome que fica lá em cima na aba do navegador (SEO)
+            if (document.title.includes('🌀')) {
+                let tituloAbaLimpo = document.title.replace(/\s*🌀/g, "").trim();
+                if (!tituloAbaLimpo.includes('𝐊𝐢𝐧𝐠𝐟𝐢𝐥𝐦𝐬 👑')) {
+                    document.title = tituloAbaLimpo + " - 𝐊𝐢𝐧𝐠𝐟𝐢𝐥𝐦𝐬 👑";
+                } else {
+                    document.title = tituloAbaLimpo;
+                }
+            }
+        }
+
+        // Executa assim que a página tenta carregar
+        document.addEventListener('DOMContentLoaded', coroarTituloPlayer);
+
+        // O SEGREDO MÁGICO: Roda a cada meio segundo (500ms)!
+        // Assim, não importa o atraso da API puxar o vídeo, ele vai encontrar o 🌀 e trocar.
+        setInterval(coroarTituloPlayer, 500);
+    </script>
 </body>
 </html>
