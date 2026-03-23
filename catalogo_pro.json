@@ -24592,5 +24592,26 @@
         }
       ]
     }
+  },
+  {
+    "id": "vida-de-inseto",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Vida de Inseto 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/vvlbdBCuLt7nkQG7anNE6xHNbAO.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/AsyBpn2AhinqVJnuvIaPl6zMnhi.jpg",
+    "sinopse": "Flik é uma formiga cheia de ideias que, em nome dos \"insetos oprimidos de todo o mundo\", precisa contratar guerreiros para defender sua colônia de um faminto bando de gafanhotos liderado por Hopper. Mas quando descobrem que o exército de insetos é na verdade um fracassado grupo de atores de um circo de pulgas, o cenário está armado para divertidas confusões... com estes improváveis heróis.",
+    "nota": "7.0",
+    "avaliacao": "7.0",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/vida-de-inseto.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/AsyBpn2AhinqVJnuvIaPl6zMnhi.jpg"
+        }
+      ]
+    }
   }
 ]
