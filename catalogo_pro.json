@@ -24465,5 +24465,26 @@
         }
       ]
     }
+  },
+  {
+    "id": "ben-hur",
+    "tipo": "filme",
+    "categoria": "Drama",
+    "titulo": "Ben-Hur 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/c9CoGrBA5yw8A7YBMz0hGzfzpNq.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/r639KbywXmIsJJlzF8cG0WjRy9E.jpg",
+    "sinopse": "A história épica de Judah Ben-Hur, um príncipe falsamente acusado de traição por seu irmão adotivo Messala, um oficial do exército romano. Destituído de seu título, afastado de sua família e da mulher amada, Judah é forçado à escravidão. Depois de muitos anos no mar, Judah retorna à sua pátria em busca de vingança, mas encontra a redenção.",
+    "nota": "5.8",
+    "avaliacao": "5.8",
+    "classificacao": "14",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/ben-hur.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/r639KbywXmIsJJlzF8cG0WjRy9E.jpg"
+        }
+      ]
+    }
   }
 ]
