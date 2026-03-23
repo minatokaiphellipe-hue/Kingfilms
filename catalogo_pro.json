@@ -24486,5 +24486,26 @@
         }
       ]
     }
+  },
+  {
+    "id": "a-princesa-e-o-sapo",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "A Princesa e o Sapo 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/5JQbaVcFd9x5snwWT9gquNKmDC.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/cm2rAURq9VSnDXDvz3Oob2QMjbG.jpg",
+    "sinopse": "Desde criança, Tiana sonha em ter um restaurante próprio. Para conseguir a quantia necessária para que possa finalmente alugar o imóvel de seus sonhos, ela aceita trabalhar na festa realizada por Charlotte LaBouff, sua amiga de infância. Logo surge um sapo, anunciando ser um príncipe e pedindo a Tiana que lhe conceda um beijo. Tiana aceita e se transforma em sapo!",
+    "nota": "7.2",
+    "avaliacao": "7.2",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/a-princesa-e-o-sapo.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/cm2rAURq9VSnDXDvz3Oob2QMjbG.jpg"
+        }
+      ]
+    }
   }
 ]
