@@ -14190,26 +14190,6 @@
     "logo_horizontal": "https://image.tmdb.org/t/p/w1280/g7CHF8gTLGooTbP4GznIGwaqAGL.jpg"
   },
   {
-    "id": "zootopia-2",
-    "tipo": "filme",
-    "categoria": "Animações",
-    "titulo": "Zootopia 2 🌀",
-    "logo": "https://image.tmdb.org/t/p/w780/v8sjoZynhlyAT4pYdTI8m7FFHq9.jpg",
-    "sinopse": "Os detetives Judy Hopps e Nick Wilde se encontram na trilha sinuosa de um réptil misterioso que chega a Zootopia e vira a metrópole dos mamíferos de cabeça para baixo.",
-    "avaliacao": "7.6",
-    "classificacao": "10",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "Assistir 🌀",
-          "linkFisico": "v/zootopia-2.html",
-          "logoEp": "https://image.tmdb.org/t/p/original/8VMX1DSA4hvijJkK3SzOs1Bi5nQ.jpg"
-        }
-      ]
-    },
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/lgotja3xMoJZbynwHfcQcJAEMWH.jpg"
-  },
-  {
     "id": "gravity-falls-um-verao-de-misterios",
     "tipo": "serie",
     "categoria": "Séries",
@@ -24504,6 +24484,48 @@
           "tit": "Assistir 🌀",
           "linkFisico": "v/a-princesa-e-o-sapo.html",
           "logoEp": "https://image.tmdb.org/t/p/w1280/cm2rAURq9VSnDXDvz3Oob2QMjbG.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "zootopia-essa-cidade-e-o-bicho",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Zootopia: Essa Cidade é o Bicho 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/27Ko4be7CeFmq2hVN7lp7TWG1sd.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/hP6A7hPVPr0bybLR0GTtEPyrw1z.jpg",
+    "sinopse": "Em uma cidade de animais antropomórficos, uma raposa fugitiva vigarista e um coelho policial recruta precisam trabalhar juntos para desvendar uma conspiração.",
+    "nota": "7.8",
+    "avaliacao": "7.8",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/zootopia-essa-cidade-e-o-bicho.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/hP6A7hPVPr0bybLR0GTtEPyrw1z.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "zootopia-2",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Zootopia 2 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/fOCTW3D6RywUzoxpvxF7G6YM5bT.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/hi6h3ACrwAswclPEt4VTCeqGfTK.jpg",
+    "sinopse": "Os detetives Judy Hopps e Nick Wilde se encontram na trilha sinuosa de um réptil misterioso que chega a Zootopia e vira a metrópole dos mamíferos de cabeça para baixo.",
+    "nota": "7.6",
+    "avaliacao": "7.6",
+    "classificacao": "10",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/zootopia-2.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/hi6h3ACrwAswclPEt4VTCeqGfTK.jpg"
         }
       ]
     }
