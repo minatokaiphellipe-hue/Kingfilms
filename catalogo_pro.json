@@ -24613,5 +24613,26 @@
         }
       ]
     }
+  },
+  {
+    "id": "gnomeu-e-julieta",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Gnomeu e Julieta 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/crfkHThpFO8ddvkhJn5XVSgMT6Q.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/pr2RcXUlFsv2flJdEueNFfpeNG6.jpg",
+    "sinopse": "Gnomeu e Julieta são anões de jardim cujas famílias são vizinhas e rivais. Um dia eles se apaixonam, para desgosto dos familiares. Para ficarem juntos, eles precisarão enfrentar diversos obstáculos.",
+    "nota": "5.9",
+    "avaliacao": "5.9",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/gnomeu-e-julieta.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/pr2RcXUlFsv2flJdEueNFfpeNG6.jpg"
+        }
+      ]
+    }
   }
 ]
