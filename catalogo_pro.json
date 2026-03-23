@@ -24243,27 +24243,6 @@
     }
   },
   {
-    "id": "bee-movie-a-historia-de-uma-abelha",
-    "tipo": "filme",
-    "categoria": "Animações",
-    "titulo": "Bee Movie: A História de uma Abelha 🌀",
-    "logo": "https://image.tmdb.org/t/p/w780/puW6ynGLcCowqiYvhPhdbNH8Zzj.jpg",
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/tGemJxerYm6ph2wpyJZnyLRBl4p.jpg",
-    "sinopse": "O ambicioso jovem Barry B. Benson cai no mundo com os respeitados Ases do Pólen em busca de néctar e aventura. Mas quando quebra uma das regras fundamentais do mundo das abelhas e fala com humanos, Barry provoca uma incrível série de fatos, que provam que até uma pequena abelha pode fazer a grande diferença!",
-    "nota": "6.0",
-    "avaliacao": "6.0",
-    "classificacao": "Livre",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "Assistir 🌀",
-          "linkFisico": "v/bee-movie-a-historia-de-uma-abelha.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/tGemJxerYm6ph2wpyJZnyLRBl4p.jpg"
-        }
-      ]
-    }
-  },
-  {
     "id": "bridgerton",
     "tipo": "serie",
     "categoria": "Séries",
@@ -24462,6 +24441,27 @@
           "tit": "Assistir 🌀",
           "linkFisico": "v/vingadores-guerra-infinita.html",
           "logoEp": "https://image.tmdb.org/t/p/w1280/566hWfsfyR9zQF0nY3oBUtghfKb.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "bee-movie-a-historia-de-uma-abelha",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Bee Movie: A História de uma Abelha 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/puW6ynGLcCowqiYvhPhdbNH8Zzj.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/tGemJxerYm6ph2wpyJZnyLRBl4p.jpg",
+    "sinopse": "O ambicioso jovem Barry B. Benson cai no mundo com os respeitados Ases do Pólen em busca de néctar e aventura. Mas quando quebra uma das regras fundamentais do mundo das abelhas e fala com humanos, Barry provoca uma incrível série de fatos, que provam que até uma pequena abelha pode fazer a grande diferença!",
+    "nota": "6.0",
+    "avaliacao": "6.0",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/bee-movie-a-historia-de-uma-abelha.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/tGemJxerYm6ph2wpyJZnyLRBl4p.jpg"
         }
       ]
     }
