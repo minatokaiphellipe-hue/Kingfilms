@@ -24641,27 +24641,6 @@
     }
   },
   {
-    "id": "zootopia-2",
-    "tipo": "filme",
-    "categoria": "Oscar 2026",
-    "titulo": "Zootopia 2 🌀",
-    "logo": "https://image.tmdb.org/t/p/w780/fOCTW3D6RywUzoxpvxF7G6YM5bT.jpg",
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/hi6h3ACrwAswclPEt4VTCeqGfTK.jpg",
-    "sinopse": "Os detetives Judy Hopps e Nick Wilde se encontram na trilha sinuosa de um réptil misterioso que chega a Zootopia e vira a metrópole dos mamíferos de cabeça para baixo.",
-    "nota": "7.6",
-    "avaliacao": "7.6",
-    "classificacao": "10",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "Assistir 🌀",
-          "linkFisico": "v/zootopia-2.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/hi6h3ACrwAswclPEt4VTCeqGfTK.jpg"
-        }
-      ]
-    }
-  },
-  {
     "id": "alice-no-pais-das-maravilhas",
     "tipo": "filme",
     "categoria": "Fantasia",
@@ -24699,6 +24678,27 @@
           "tit": "Assistir 🌀",
           "linkFisico": "v/alice-atraves-do-espelho.html",
           "logoEp": "https://image.tmdb.org/t/p/w1280/3KjUVQTK7P1adXAfp1llfdg5BYG.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "zootopia-2",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Zootopia 2 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/fOCTW3D6RywUzoxpvxF7G6YM5bT.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/hi6h3ACrwAswclPEt4VTCeqGfTK.jpg",
+    "sinopse": "Os detetives Judy Hopps e Nick Wilde se encontram na trilha sinuosa de um réptil misterioso que chega a Zootopia e vira a metrópole dos mamíferos de cabeça para baixo.",
+    "nota": "7.6",
+    "avaliacao": "7.6",
+    "classificacao": "10",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/zootopia-2.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/hi6h3ACrwAswclPEt4VTCeqGfTK.jpg"
         }
       ]
     }
