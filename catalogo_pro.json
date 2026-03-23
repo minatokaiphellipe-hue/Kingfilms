@@ -24561,5 +24561,26 @@
         }
       ]
     }
+  },
+  {
+    "id": "king-s-man-a-origem",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "King's Man: A Origem 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/6HfFiAbigZa7FjZNRPU3NXhodyl.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/zqCFEhcrNXHHl31W1JXL0bl02oe.jpg",
+    "sinopse": "Quando uma série dos piores tiranos e gênios do crime da história se juntam para criar uma guerra que aniquilará milhões, um homem e seu pupilo precisam correr contra o tempo para pará-los.",
+    "nota": "6.7",
+    "avaliacao": "6.7",
+    "classificacao": "16",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/king-s-man-a-origem.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/zqCFEhcrNXHHl31W1JXL0bl02oe.jpg"
+        }
+      ]
+    }
   }
 ]
