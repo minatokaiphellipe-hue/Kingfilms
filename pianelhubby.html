@@ -82,7 +82,7 @@
         .card-id { color: #94a3b8; font-size: 11px; margin-bottom: 10px; }
         .card-link {
             background: #0f172a; border: 1px solid #334155; color: #4ade80; padding: 10px;
-            border-radius: 6px; font-size: 11px; word-break: break-all; user-select: all; margin-top: auto; cursor: copy;
+            border-radius: 6px; font-size: 11px; word-break: break-all; user-select: all; margin-top: 5px; cursor: copy;
         }
 
         .modal {
@@ -118,11 +118,11 @@
 
 <div class="container">
     <h1>KINGFILMS STUDIO</h1>
-    <p class="subtitle">Central de Gestão (Filmes, Séries, Capas e Episódios Num Só Lugar)</p>
+    <p class="subtitle">Central de Gestão API (life10.top)</p>
 
     <div id="area-conexao" class="upload-area">
         <p style="font-size: 13px; color: var(--text-muted); margin-top: 0;">
-            1. Descarregue o ficheiro da IPTV (Filmes ou Séries).<br>2. Selecione-o no botão abaixo:
+            1. Descarregue o ficheiro JSON da API (Filmes ou Séries).<br>2. Selecione-o no botão abaixo:
         </p>
         <label for="file-input" class="btn-upload">📂 ESCOLHER FICHEIRO JSON</label>
         <input type="file" id="file-input" accept=".json,.txt,.htm,.html" onchange="mostrarNomeFicheiro()">
@@ -213,9 +213,18 @@
                 
                 let acaoBase = "";
                 if (isSerie) {
-                    acaoBase = `<button class="btn-serie" onclick="abrirEpisodios('${id}', '${nomeSeguro}')">📡 VER EPISÓDIOS</button>`;
+                    acaoBase = `<button class="btn-serie" style="margin-top: 15px;" onclick="abrirEpisodios('${id}', '${nomeSeguro}')">📡 VER EPISÓDIOS</button>`;
                 } else {
-                    acaoBase = `<div class="card-link" title="Clique duas vezes para copiar">http://hubby.cx/movie/playcine-vods/gKQJjXulgb/${id}.${ext}</div>`;
+                    // Link 1: O Link VIP Escudo para você usar no painel (Kingfilms API)
+                    let linkProtegido = `https://kingfilms-api.onrender.com/vip/play?id=${id}`;
+                    // Link 2: O link bruto direto da API
+                    let linkBruto = `http://life10.top:80/movie/969003341029/006662669402/${id}.${ext}`;
+                    
+                    acaoBase = `
+                    <div style="margin-top: auto;">
+                        <div class="card-link" style="background:#064e3b; color:#fff; border-color:#059669;" title="Link Protegido da sua API! Cole este no seu painel.">✅ ${linkProtegido}</div>
+                        <div class="card-link" style="color:#ef4444; border-color:#ef4444;" title="Link Bruto (Perigoso)">⚠️ ${linkBruto}</div>
+                    </div>`;
                 }
                 
                 html += `
@@ -244,7 +253,8 @@
         titulo.innerText = nomeSerie;
         conteudo.innerHTML = "<p style='text-align:center; color:#fbbf24; font-weight:bold;'>⏳ Acionando Múltiplos Proxies para evitar cortes... Aguarde!</p>";
 
-        let urlApi = `https://hubby.cx/player_api.php?username=playcine-vods&password=gKQJjXulgb&action=get_series_info&series_id=${serieId}`;
+        // NOVA ROTA DA API LIFE10.TOP PARA BUSCAR OS EPISÓDIOS DA SÉRIE
+        let urlApi = `http://life10.top:80/player_api.php?username=969003341029&password=006662669402&action=get_series_info&series_id=${serieId}`;
         
         // ESQUADRÃO DE PROXIES: Se um falhar, tenta o próximo!
         let proxies = [
@@ -262,8 +272,8 @@
                 if (!res.ok) continue;
                 
                 let text = await res.text();
-                dados = JSON.parse(text); // Se estiver cortado, dá erro e vai para o próximo proxy
-                break; // Se chegou aqui, a conversão deu certo!
+                dados = JSON.parse(text); 
+                break; 
             } catch(e) {
                 erroFinal = e.message;
             }
@@ -283,7 +293,8 @@
             for (let temp in dados.episodes) {
                 htmlTemp += `<div class="temporada-title">▶ Temporada ${temp}</div>`;
                 dados.episodes[temp].forEach(ep => {
-                    let link = `http://hubby.cx/series/playcine-vods/gKQJjXulgb/${ep.id}.${ep.container_extension || 'mp4'}`;
+                    // NOVA ROTA DA API LIFE10.TOP PARA TOCAR EPISÓDIOS
+                    let link = `http://life10.top:80/series/969003341029/006662669402/${ep.id}.${ep.container_extension || 'mp4'}`;
                     htmlTemp += `
                     <div class="ep-card">
                         <div class="ep-title">Ep ${ep.episode_num} - ${ep.title || 'Episódio'}</div>
