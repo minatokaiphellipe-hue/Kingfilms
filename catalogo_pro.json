@@ -16100,46 +16100,6 @@
     "logo_horizontal": "https://image.tmdb.org/t/p/w1280/40Wtp7kMG6mZ4d5T1jfrd8qrvD4.jpg"
   },
   {
-    "id": "shrek",
-    "tipo": "filme",
-    "categoria": "Animações",
-    "titulo": "Shrek 🌀",
-    "logo": "https://image.tmdb.org/t/p/w780/wxeqfC221YMptRRdzxlijAh7q8l.jpg",
-    "sinopse": "Há muito tempo, em um pântano muito remoto, vivia um ogro feroz chamado Shrek. Um dia, sua solidão é interrompida por uma invasão de personagens surpreendentes. Há pequenos ratos cegos em sua comida, um enorme e péssimo lobo em sua cama, três porquinhos sem teto e outros seres que foram deportados de suas terras pelo maligno lorde Farquaad. Para salvar seu território, Shrek faz um pacto com Farquaad e parte em uma jornada para fazer a linda princesa Fiona concordar em ser a noiva do Senhor. Em uma missão tão importante, ele é acompanhado por um burro divertido, pronto para fazer qualquer coisa por Shrek: tudo, exceto ficar em silêncio.",
-    "avaliacao": "7.8",
-    "classificacao": "Livre",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "Assistir 🌀",
-          "linkFisico": "v/shrek.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/ricS2Yx3sckm4ePbNVebaNOG1mr.jpg"
-        }
-      ]
-    },
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/40Wtp7kMG6mZ4d5T1jfrd8qrvD4.jpg"
-  },
-  {
-    "id": "shrek-2",
-    "tipo": "filme",
-    "categoria": "Animações",
-    "titulo": "Shrek 2 🌀",
-    "logo": "https://image.tmdb.org/t/p/w780/2yYP0PQjG8zVqturh1BAqu2Tixl.jpg",
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/qKkUCwpK5A8Szu2XlNjmy9t0972.jpg",
-    "sinopse": "Após se casar com a Princesa Fiona, Shrek vive feliz em seu pântano. Ao retornar de sua lua-de-mel Fiona recebe uma carta de seus pais, que não sabem que ela agora é um ogro, convidando-a para um jantar juntamente com seu grande amor, na intenção de conhecê-lo. A muito custo Fiona consegue convencer Shrek a ir visitá-los, tendo ainda a companhia do Burro. Porém os problemas começam quando os pais de Fiona descobrem que ela não se casou com o Príncipe, a quem havia sido prometida, e enviam o Gato de Botas para separá-los.",
-    "avaliacao": "7.3",
-    "classificacao": "Livre",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "Assistir 🌀",
-          "linkFisico": "v/shrek-2.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/qKkUCwpK5A8Szu2XlNjmy9t0972.jpg"
-        }
-      ]
-    }
-  },
-  {
     "id": "shrek-4",
     "tipo": "filme",
     "categoria": "Animações",
@@ -21071,6 +21031,48 @@
           "tit": "S07E25 🌀",
           "linkFisico": "v/os-simpsons-s07e25.html",
           "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "shrek",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Shrek 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/wxeqfC221YMptRRdzxlijAh7q8l.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/2sp0OQeN5xP9hUahXFC7QsHUrk2.jpg",
+    "sinopse": "Há muito tempo, em um pântano muito remoto, vivia um ogro feroz chamado Shrek. Um dia, sua solidão é interrompida por uma invasão de personagens surpreendentes. Há pequenos ratos cegos em sua comida, um enorme e péssimo lobo em sua cama, três porquinhos sem teto e outros seres que foram deportados de suas terras pelo maligno lorde Farquaad. Para salvar seu território, Shrek faz um pacto com Farquaad e parte em uma jornada para fazer a linda princesa Fiona concordar em ser a noiva do Senhor. Em uma missão tão importante, ele é acompanhado por um burro divertido, pronto para fazer qualquer coisa por Shrek: tudo, exceto ficar em silêncio.",
+    "nota": "7.8",
+    "avaliacao": "7.8",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/shrek.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/2sp0OQeN5xP9hUahXFC7QsHUrk2.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "shrek-2",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Shrek 2 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/5qufJXxNjgV9Md9Vek6pzsb20zu.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/8UXODa4A55AyTjZSe44EShB5E2D.jpg",
+    "sinopse": "Após se casar com a Princesa Fiona, Shrek vive feliz em seu pântano. Ao retornar de sua lua-de-mel Fiona recebe uma carta de seus pais, que não sabem que ela agora é um ogro, convidando-a para um jantar juntamente com seu grande amor, na intenção de conhecê-lo. A muito custo Fiona consegue convencer Shrek a ir visitá-los, tendo ainda a companhia do Burro. Porém os problemas começam quando os pais de Fiona descobrem que ela não se casou com o Príncipe, a quem havia sido prometida, e enviam o Gato de Botas para separá-los.",
+    "nota": "7.3",
+    "avaliacao": "7.3",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/shrek-2.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/8UXODa4A55AyTjZSe44EShB5E2D.jpg"
         }
       ]
     }
