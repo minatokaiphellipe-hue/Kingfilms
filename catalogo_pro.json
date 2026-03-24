@@ -15043,46 +15043,6 @@
     "logo_horizontal": "https://image.tmdb.org/t/p/w1280/ze6Mx4QE5mQVXRYmG2flncqqle4.jpg"
   },
   {
-    "id": "a-era-do-gelo",
-    "tipo": "filme",
-    "categoria": "Animações",
-    "titulo": "A Era do Gelo 🌀",
-    "logo": "https://image.tmdb.org/t/p/w780/9inxwTjByxc7xc12N4TpTrbhIt3.jpg",
-    "sinopse": "Vinte mil anos atrás, num mundo coberto de gelo, o mamute Manfred e a preguiça Sid resgatam um bebê humano órfão. Agora, os dois vão enfrentar muitas aventuras até devolver o filhote de gente à sua tribo, que migrou para um novo acampamento.",
-    "avaliacao": "7.4",
-    "classificacao": "Livre",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "Assistir 🌀",
-          "linkFisico": "v/a-era-do-gelo.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/k7wGFcUwY1GVXTHUBJq45xPdZII.jpg"
-        }
-      ]
-    },
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/8pwIhymsxfAVjrAE7syDjQULn37.jpg"
-  },
-  {
-    "id": "a-era-do-gelo-2",
-    "tipo": "filme",
-    "categoria": "Animações",
-    "titulo": "A Era do Gelo 2 🌀",
-    "logo": "https://image.tmdb.org/t/p/w780/r4SOh2EJQe2QEfcDsrOMeKyZD05.jpg",
-    "sinopse": "O aquecimento global traz ameaças de inundações generalizadas a regiões que antes eram geladas. Manny, Sid e Diego partem em busca de um refúgio seguro. Eles encontram outro mamute, mas que acredita ser um gambá.",
-    "avaliacao": "6.7",
-    "classificacao": "Livre",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "Assistir 🌀",
-          "linkFisico": "v/a-era-do-gelo-2.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/7K0jL4PvXVMlbZiAXr6r3MXdDgr.jpg"
-        }
-      ]
-    },
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/o1jr0UqVjxIZ1JnFzuVLN4ulWey.jpg"
-  },
-  {
     "id": "a-era-do-gelo-3",
     "tipo": "filme",
     "categoria": "Animações",
@@ -24972,6 +24932,48 @@
         }
       ],
       "3": []
+    }
+  },
+  {
+    "id": "a-era-do-gelo",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "A Era do Gelo 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/9inxwTjByxc7xc12N4TpTrbhIt3.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/k7wGFcUwY1GVXTHUBJq45xPdZII.jpg",
+    "sinopse": "Vinte mil anos atrás, num mundo coberto de gelo, o mamute Manfred e a preguiça Sid resgatam um bebê humano órfão. Agora, os dois vão enfrentar muitas aventuras até devolver o filhote de gente à sua tribo, que migrou para um novo acampamento.",
+    "nota": "7.4",
+    "avaliacao": "7.4",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/a-era-do-gelo.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/k7wGFcUwY1GVXTHUBJq45xPdZII.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "a-era-do-gelo-2",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "A Era do Gelo 2 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/r4SOh2EJQe2QEfcDsrOMeKyZD05.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/7K0jL4PvXVMlbZiAXr6r3MXdDgr.jpg",
+    "sinopse": "O aquecimento global traz ameaças de inundações generalizadas a regiões que antes eram geladas. Manny, Sid e Diego partem em busca de um refúgio seguro. Eles encontram outro mamute, mas que acredita ser um gambá.",
+    "nota": "6.7",
+    "avaliacao": "6.7",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/a-era-do-gelo-2.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/7K0jL4PvXVMlbZiAXr6r3MXdDgr.jpg"
+        }
+      ]
     }
   }
 ]
