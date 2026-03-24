@@ -21097,5 +21097,26 @@
         }
       ]
     }
+  },
+  {
+    "id": "familia-do-bagulho",
+    "tipo": "filme",
+    "categoria": "Comédia",
+    "titulo": "Família do Bagulho 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/d3JidSElLNqkJdddZmGdwPr9DCg.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/e7XiBdY09cMuAGyYBZb5Bstr0lq.jpg",
+    "sinopse": "Um traficante é forçado por seu chefe a ir ao México pegar uma carga de maconha. A fim de melhorar suas chances de passar pela fronteira, David pede a uma stripper e dois adolescentes locais para acompanhá-lo e fingir que são uma família em férias.",
+    "nota": "6.8",
+    "avaliacao": "6.8",
+    "classificacao": "14",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/familia-do-bagulho.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/e7XiBdY09cMuAGyYBZb5Bstr0lq.jpg"
+        }
+      ]
+    }
   }
 ]
