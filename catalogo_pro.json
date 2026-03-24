@@ -21076,5 +21076,26 @@
         }
       ]
     }
+  },
+  {
+    "id": "shrek-para-sempre",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Shrek Para Sempre 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/iFXVU0ni6YWgQNSPkoGO1Tk5L3g.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/tVLXvzB52tN67ZLloZ8b7WlScHK.jpg",
+    "sinopse": "Shrek faz um pacto com Rumpelstiltskin para sentir-se como um ogro de verdade novamente, mas ele é enganado e enviado para uma versão distorcida de Tão, Tão Distante - onde Rumpelstiltskin é rei, ogros são caçados, e ele e Fiona nunca se encontraram - ele decide restaurar o seu mundo e recuperar seu verdadeiro amor.",
+    "nota": "6.4",
+    "avaliacao": "6.4",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/shrek-para-sempre.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/tVLXvzB52tN67ZLloZ8b7WlScHK.jpg"
+        }
+      ]
+    }
   }
 ]
