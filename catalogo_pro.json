@@ -21118,5 +21118,26 @@
         }
       ]
     }
+  },
+  {
+    "id": "herege",
+    "tipo": "filme",
+    "categoria": "Terror",
+    "titulo": "Herege 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/j5e2YS1PRUVC1YgSool0JJyNLxJ.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/7golFueTMWlZOor72JOipNa9hgB.jpg",
+    "sinopse": "Enquanto espalham sua fé pela cidade, as irmãs Barnes e Paxton batem na porta errada e acabam presas na casa do diabólico Sr. Reed, um homem misterioso. Elas são forçadas a participar de um jogo perturbador que desafia sua fé e põe em xeque tudo o que acreditam.",
+    "nota": "7.0",
+    "avaliacao": "7.0",
+    "classificacao": "16",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/herege.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/7golFueTMWlZOor72JOipNa9hgB.jpg"
+        }
+      ]
+    }
   }
 ]
