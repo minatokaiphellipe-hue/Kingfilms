@@ -22318,822 +22318,6 @@
     }
   },
   {
-    "id": "dragon-ball-z-kai",
-    "tipo": "serie",
-    "categoria": "Animes",
-    "titulo": "Dragon Ball Z Kai 🌀",
-    "logo": "https://image.tmdb.org/t/p/w780/uAZmpZY9oCRgJ06f342sagwdjYL.jpg",
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg",
-    "sinopse": "Para comemorar os 20 anos de aniversário da série, a Toei relança um de seus maiores sucessos numa versão remasterizada em alta definição. Junte-se novamente a Goku e seus amigos em batalhas cósmicas!",
-    "nota": "7.5",
-    "avaliacao": "7.5",
-    "classificacao": "10",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "S01E01 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s01e01.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S01E02 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s01e02.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S01E03 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s01e03.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S01E04 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s01e04.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S01E05 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s01e05.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S01E06 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s01e06.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S01E07 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s01e07.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S01E08 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s01e08.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S01E09 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s01e09.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S01E10 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s01e10.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S01E11 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s01e11.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S01E12 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s01e12.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S01E13 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s01e13.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S01E14 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s01e14.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S01E15 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s01e15.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S01E16 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s01e16.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S01E17 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s01e17.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S01E18 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s01e18.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S01E19 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s01e19.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S01E20 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s01e20.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S01E21 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s01e21.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S01E22 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s01e22.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S01E23 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s01e23.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S01E24 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s01e24.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S01E25 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s01e25.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S01E26 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s01e26.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        }
-      ],
-      "2": [
-        {
-          "tit": "S02E01 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s02e01.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S02E02 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s02e02.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S02E03 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s02e03.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S02E04 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s02e04.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S02E05 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s02e05.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S02E06 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s02e06.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S02E07 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s02e07.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S02E08 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s02e08.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S02E09 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s02e09.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S02E10 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s02e10.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S02E11 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s02e11.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S02E12 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s02e12.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S02E13 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s02e13.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S02E14 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s02e14.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S02E15 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s02e15.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S02E16 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s02e16.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S02E17 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s02e17.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S02E18 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s02e18.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S02E19 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s02e19.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S02E20 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s02e20.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S02E21 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s02e21.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S02E22 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s02e22.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S02E23 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s02e23.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S02E24 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s02e24.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S02E25 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s02e25.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S02E26 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s02e26.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        }
-      ],
-      "3": [
-        {
-          "tit": "S03E01 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s03e01.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S03E02 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s03e02.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S03E03 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s03e03.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S03E04 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s03e04.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S03E05 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s03e05.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S03E06 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s03e06.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S03E07 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s03e07.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S03E08 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s03e08.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S03E09 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s03e09.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S03E10 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s03e10.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S03E11 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s03e11.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S03E12 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s03e12.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S03E13 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s03e13.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S03E14 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s03e14.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S03E15 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s03e15.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S03E16 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s03e16.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S03E17 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s03e17.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S03E18 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s03e18.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S03E19 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s03e19.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S03E20 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s03e20.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S03E21 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s03e21.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S03E22 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s03e22.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S03E23 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s03e23.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S03E24 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s03e24.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S03E25 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s03e25.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        }
-      ],
-      "4": [
-        {
-          "tit": "S04E01 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s04e01.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S04E02 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s04e02.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S04E03 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s04e03.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S04E04 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s04e04.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S04E05 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s04e05.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S04E06 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s04e06.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S04E07 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s04e07.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S04E08 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s04e08.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S04E09 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s04e09.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S04E10 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s04e10.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S04E11 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s04e11.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S04E12 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s04e12.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S04E13 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s04e13.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S04E14 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s04e14.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S04E15 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s04e15.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S04E16 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s04e16.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S04E17 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s04e17.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S04E18 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s04e18.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S04E19 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s04e19.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S04E20 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s04e20.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        }
-      ],
-      "5": [
-        {
-          "tit": "S05E01 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s05e01.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S05E02 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s05e02.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S05E03 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s05e03.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S05E04 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s05e04.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S05E05 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s05e05.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S05E06 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s05e06.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S05E07 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s05e07.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S05E08 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s05e08.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S05E09 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s05e09.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S05E10 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s05e10.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S05E11 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s05e11.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S05E12 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s05e12.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S05E13 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s05e13.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S05E14 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s05e14.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S05E15 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s05e15.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S05E16 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s05e16.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S05E17 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s05e17.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S05E18 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s05e18.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S05E19 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s05e19.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S05E20 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s05e20.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S05E21 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s05e21.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S05E22 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s05e22.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S05E23 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s05e23.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S05E24 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s05e24.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S05E25 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s05e25.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S05E26 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s05e26.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S05E27 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s05e27.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S05E28 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s05e28.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S05E29 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s05e29.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S05E30 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s05e30.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S05E31 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s05e31.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S05E32 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s05e32.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S05E33 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s05e33.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S05E34 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s05e34.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S05E35 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s05e35.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        }
-      ],
-      "6": [
-        {
-          "tit": "S06E01 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s06e01.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S06E02 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s06e02.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S06E03 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s06e03.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S06E04 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s06e04.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S06E05 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s06e05.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S06E06 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s06e06.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S06E07 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s06e07.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S06E08 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s06e08.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S06E09 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s06e09.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S06E10 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s06e10.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S06E11 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s06e11.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S06E12 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s06e12.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S06E13 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s06e13.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S06E14 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s06e14.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S06E15 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s06e15.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S06E16 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s06e16.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S06E17 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s06e17.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S06E18 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s06e18.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S06E19 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s06e19.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S06E20 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s06e20.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S06E21 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s06e21.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S06E22 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s06e22.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S06E23 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s06e23.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S06E24 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s06e24.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S06E25 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s06e25.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        },
-        {
-          "tit": "S06E26 🌀",
-          "linkFisico": "v/dragon-ball-z-kai-s06e26.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
-        }
-      ]
-    }
-  },
-  {
     "id": "minhas-aventuras-com-o-superman",
     "tipo": "serie",
     "categoria": "Séries",
@@ -24996,6 +24180,822 @@
           "tit": "Assistir 🌀",
           "linkFisico": "v/por-agua-abaixo.html",
           "logoEp": "https://image.tmdb.org/t/p/w1280/qv2WaxXTUsShK97kNMDoqxJoab9.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "dragon-ball-z-kai",
+    "tipo": "serie",
+    "categoria": "Animes",
+    "titulo": "Dragon Ball Z Kai 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/uAZmpZY9oCRgJ06f342sagwdjYL.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg",
+    "sinopse": "Para comemorar os 20 anos de aniversário da série, a Toei relança um de seus maiores sucessos numa versão remasterizada em alta definição. Junte-se novamente a Goku e seus amigos em batalhas cósmicas!",
+    "nota": "7.5",
+    "avaliacao": "7.5",
+    "classificacao": "10",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "S01E01 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s01e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S01E02 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s01e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S01E03 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s01e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S01E04 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s01e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S01E05 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s01e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S01E06 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s01e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S01E07 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s01e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S01E08 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s01e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S01E09 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s01e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S01E10 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s01e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S01E11 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s01e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S01E12 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s01e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S01E13 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s01e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S01E14 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s01e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S01E15 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s01e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S01E16 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s01e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S01E17 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s01e17.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S01E18 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s01e18.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S01E19 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s01e19.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S01E20 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s01e20.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S01E21 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s01e21.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S01E22 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s01e22.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S01E23 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s01e23.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S01E24 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s01e24.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S01E25 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s01e25.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S01E26 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s01e26.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        }
+      ],
+      "2": [
+        {
+          "tit": "S02E01 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s02e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S02E02 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s02e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S02E03 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s02e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S02E04 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s02e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S02E05 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s02e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S02E06 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s02e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S02E07 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s02e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S02E08 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s02e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S02E09 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s02e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S02E10 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s02e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S02E11 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s02e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S02E12 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s02e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S02E13 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s02e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S02E14 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s02e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S02E15 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s02e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S02E16 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s02e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S02E17 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s02e17.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S02E18 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s02e18.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S02E19 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s02e19.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S02E20 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s02e20.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S02E21 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s02e21.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S02E22 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s02e22.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S02E23 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s02e23.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S02E24 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s02e24.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S02E25 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s02e25.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S02E26 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s02e26.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        }
+      ],
+      "3": [
+        {
+          "tit": "S03E01 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s03e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S03E02 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s03e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S03E03 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s03e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S03E04 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s03e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S03E05 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s03e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S03E06 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s03e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S03E07 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s03e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S03E08 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s03e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S03E09 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s03e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S03E10 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s03e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S03E11 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s03e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S03E12 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s03e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S03E13 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s03e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S03E14 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s03e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S03E15 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s03e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S03E16 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s03e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S03E17 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s03e17.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S03E18 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s03e18.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S03E19 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s03e19.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S03E20 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s03e20.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S03E21 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s03e21.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S03E22 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s03e22.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S03E23 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s03e23.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S03E24 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s03e24.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S03E25 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s03e25.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        }
+      ],
+      "4": [
+        {
+          "tit": "S04E01 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s04e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S04E02 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s04e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S04E03 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s04e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S04E04 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s04e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S04E05 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s04e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S04E06 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s04e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S04E07 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s04e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S04E08 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s04e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S04E09 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s04e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S04E10 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s04e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S04E11 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s04e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S04E12 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s04e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S04E13 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s04e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S04E14 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s04e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S04E15 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s04e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S04E16 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s04e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S04E17 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s04e17.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S04E18 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s04e18.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S04E19 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s04e19.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S04E20 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s04e20.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        }
+      ],
+      "5": [
+        {
+          "tit": "S05E01 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s05e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S05E02 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s05e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S05E03 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s05e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S05E04 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s05e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S05E05 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s05e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S05E06 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s05e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S05E07 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s05e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S05E08 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s05e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S05E09 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s05e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S05E10 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s05e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S05E11 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s05e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S05E12 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s05e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S05E13 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s05e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S05E14 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s05e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S05E15 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s05e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S05E16 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s05e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S05E17 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s05e17.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S05E18 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s05e18.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S05E19 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s05e19.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S05E20 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s05e20.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S05E21 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s05e21.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S05E22 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s05e22.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S05E23 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s05e23.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S05E24 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s05e24.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S05E25 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s05e25.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S05E26 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s05e26.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S05E27 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s05e27.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S05E28 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s05e28.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S05E29 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s05e29.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S05E30 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s05e30.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S05E31 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s05e31.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S05E32 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s05e32.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S05E33 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s05e33.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S05E34 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s05e34.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S05E35 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s05e35.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        }
+      ],
+      "6": [
+        {
+          "tit": "S06E01 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s06e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S06E02 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s06e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S06E03 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s06e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S06E04 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s06e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S06E05 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s06e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S06E06 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s06e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S06E07 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s06e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S06E08 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s06e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S06E09 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s06e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S06E10 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s06e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S06E11 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s06e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S06E12 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s06e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S06E13 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s06e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S06E14 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s06e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S06E15 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s06e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S06E16 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s06e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S06E17 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s06e17.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S06E18 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s06e18.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S06E19 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s06e19.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S06E20 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s06e20.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S06E21 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s06e21.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S06E22 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s06e22.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S06E23 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s06e23.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S06E24 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s06e24.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S06E25 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s06e25.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
+        },
+        {
+          "tit": "S06E26 🌀",
+          "linkFisico": "v/dragon-ball-z-kai-s06e26.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x9AuyQYihJTBiDe4tGrgV21qfeS.jpg"
         }
       ]
     }
