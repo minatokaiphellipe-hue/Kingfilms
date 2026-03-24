@@ -24634,5 +24634,47 @@
         }
       ]
     }
+  },
+  {
+    "id": "alice-no-pais-das-maravilhas",
+    "tipo": "filme",
+    "categoria": "Fantasia",
+    "titulo": "Alice no País das Maravilhas 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/rtBRW9xkP94PRuyDa9zTZahuo27.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/3uFVHheTCMBjfAkvKihQmljviuG.jpg",
+    "sinopse": "A Alice de 19 anos de idade, que regressa ao excêntrico mundo que encontrou pela primeira vez quando era criança reunindo-se assim com os seus amigos de infância: o Coelho Branco, Tweedledee e Tweedledum, a Ratazana, a Lagarta, o Gato Cheshire, e claro, o Chapeleiro Louco. Alice embarca numa fantástica viagem para encontrar o seu verdadeiro destino e acabar com o reino de terror da Rainha Vermelha.",
+    "nota": "6.6",
+    "avaliacao": "6.6",
+    "classificacao": "10",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/alice-no-pais-das-maravilhas.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/3uFVHheTCMBjfAkvKihQmljviuG.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "alice-atraves-do-espelho",
+    "tipo": "filme",
+    "categoria": "Fantasia",
+    "titulo": "Alice Através do Espelho 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/xHANJfW7hk2weM532IpUthgAQfo.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/3KjUVQTK7P1adXAfp1llfdg5BYG.jpg",
+    "sinopse": "Alice retorna após uma longa viagem pelo mundo, e reencontra a mãe. No casarão de uma grande festa, ela percebe a presença de um espelho mágico. A jovem atravessa o objeto e retorna ao País das Maravilhas, onde descobre que o Chapeleiro Maluco corre risco de morte após fazer uma descoberta sobre seu passado. Para salvar o amigo, Alice deve conversar com o Tempo para voltar às vésperas de um evento traumático e mudar o destino do Chapeleiro. Nesta aventura, também descobre um trauma que separou as irmãs Rainha Branca e Rainha Vermelha.",
+    "nota": "6.6",
+    "avaliacao": "6.6",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/alice-atraves-do-espelho.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/3KjUVQTK7P1adXAfp1llfdg5BYG.jpg"
+        }
+      ]
+    }
   }
 ]
