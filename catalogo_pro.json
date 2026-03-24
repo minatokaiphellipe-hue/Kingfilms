@@ -14923,26 +14923,6 @@
     "logo_horizontal": "https://image.tmdb.org/t/p/w1280/pOKcw45cAMPu8DN7E3bN5FEvxM3.jpg"
   },
   {
-    "id": "aquaman",
-    "tipo": "filme",
-    "categoria": "Ação",
-    "titulo": "Aquaman 🌀",
-    "logo": "https://image.tmdb.org/t/p/w780/wbo0CYG6SOFxFkoe9BiqvivLggN.jpg",
-    "sinopse": "A cidade de Atlantis, que já foi lar de uma das mais avançadas civilizações do mundo, agora é um reino submerso dominado pelo ganancioso Rei Orm. Com um vasto exército a seu dispor, Orm planeja conquistar tanto os demais reinos do oceano, quanto o mundo da superfície. Em seu caminho está Aquaman, meio-humano e meio-atlante, e verdadeiro herdeiro do trono. Com a ajuda da princesa Mera, Aquaman precisa recuperar o lendário Tridente de Atlan e aceitar seu destino como protetor das profundezas.",
-    "avaliacao": "6.9",
-    "classificacao": "12",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "Assistir 🌀",
-          "linkFisico": "v/aquaman.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/m96Q3udVkRiAB2HciP8MSYeo9Do.jpg"
-        }
-      ]
-    },
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/9QusGjxcYvfPD1THg6oW3RLeNn7.jpg"
-  },
-  {
     "id": "aquaman-2-o-reino-perdido",
     "tipo": "filme",
     "categoria": "Ação",
@@ -21170,26 +21150,6 @@
     }
   },
   {
-    "id": "ratatouille",
-    "tipo": "filme",
-    "categoria": "Animações",
-    "titulo": "Ratatouille 🌀",
-    "logo": "https://image.tmdb.org/t/p/w780/41Co0TRUJNyvjr2vHBEcAKAEFpX.jpg",
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/huz44hwQeMRdSPZCc0QWMIbd7ew.jpg",
-    "sinopse": "Remy, morador de Paris, aprecia boa comida e tem um paladar bastante sofisticado. Ele adoraria se tornar um chef para poder criar e desfrutar de obras-primas culinárias para o deleite de seu coração. O único problema é que Remy é um rato. Quando acaba no esgoto debaixo de um dos melhores restaurantes de Paris, o roedor gourmet encontra-se na posição ideal para realizar o seu sonho.",
-    "avaliacao": "7.8",
-    "classificacao": "Livre",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "Assistir 🌀",
-          "linkFisico": "v/ratatouille.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/huz44hwQeMRdSPZCc0QWMIbd7ew.jpg"
-        }
-      ]
-    }
-  },
-  {
     "id": "beekeeper-rede-de-vinganca",
     "tipo": "filme",
     "categoria": "Ação",
@@ -24736,6 +24696,48 @@
           "tit": "Assistir 🌀",
           "linkFisico": "v/annabelle-3-de-volta-para-casa.html",
           "logoEp": "https://image.tmdb.org/t/p/w1280/gcRBdgH8gtTMHn2Sl5YZHit3ve0.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ratatouille",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Ratatouille 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/41Co0TRUJNyvjr2vHBEcAKAEFpX.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/huz44hwQeMRdSPZCc0QWMIbd7ew.jpg",
+    "sinopse": "Remy, morador de Paris, aprecia boa comida e tem um paladar bastante sofisticado. Ele adoraria se tornar um chef para poder criar e desfrutar de obras-primas culinárias para o deleite de seu coração. O único problema é que Remy é um rato. Quando acaba no esgoto debaixo de um dos melhores restaurantes de Paris, o roedor gourmet encontra-se na posição ideal para realizar o seu sonho.",
+    "nota": "7.8",
+    "avaliacao": "7.8",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/ratatouille.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/huz44hwQeMRdSPZCc0QWMIbd7ew.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "aquaman",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "Aquaman 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/wbo0CYG6SOFxFkoe9BiqvivLggN.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/m96Q3udVkRiAB2HciP8MSYeo9Do.jpg",
+    "sinopse": "A cidade de Atlantis, que já foi lar de uma das mais avançadas civilizações do mundo, agora é um reino submerso dominado pelo ganancioso Rei Orm. Com um vasto exército a seu dispor, Orm planeja conquistar tanto os demais reinos do oceano, quanto o mundo da superfície. Em seu caminho está Aquaman, meio-humano e meio-atlante, e verdadeiro herdeiro do trono. Com a ajuda da princesa Mera, Aquaman precisa recuperar o lendário Tridente de Atlan e aceitar seu destino como protetor das profundezas.",
+    "nota": "6.9",
+    "avaliacao": "6.9",
+    "classificacao": "12",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/aquaman.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/m96Q3udVkRiAB2HciP8MSYeo9Do.jpg"
         }
       ]
     }
