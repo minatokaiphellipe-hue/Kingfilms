@@ -20400,26 +20400,6 @@
     }
   },
   {
-    "id": "por-agua-abaixo",
-    "tipo": "filme",
-    "categoria": "Animações",
-    "titulo": "Por Água Abaixo 🌀",
-    "logo": "https://image.tmdb.org/t/p/w780/vS6qEY1QDRVmjjG5MV0v1PU0loX.jpg",
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/qv2WaxXTUsShK97kNMDoqxJoab9.jpg",
-    "sinopse": "Roddy St. James, o mimado ratinho de estimação, acha que já chegou lá... até que entra literalmente pelo cano e vai parar num submundo de rãs ninjas, ratos-capangas e lesmas cantoras.",
-    "avaliacao": "6.3",
-    "classificacao": "Livre",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "Assistir 🌀",
-          "linkFisico": "v/por-agua-abaixo.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/qv2WaxXTUsShK97kNMDoqxJoab9.jpg"
-        }
-      ]
-    }
-  },
-  {
     "id": "rango",
     "tipo": "filme",
     "categoria": "Animações",
@@ -24995,6 +24975,27 @@
           "tit": "Assistir 🌀",
           "linkFisico": "v/a-era-do-gelo-o-big-bang.html",
           "logoEp": "https://image.tmdb.org/t/p/w1280/gJpna8aNy9ZMYMzNvrSfq56On8m.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "por-agua-abaixo",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Por Água Abaixo 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/vS6qEY1QDRVmjjG5MV0v1PU0loX.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/qv2WaxXTUsShK97kNMDoqxJoab9.jpg",
+    "sinopse": "Roddy St. James, o mimado ratinho de estimação, acha que já chegou lá... até que entra literalmente pelo cano e vai parar num submundo de rãs ninjas, ratos-capangas e lesmas cantoras.",
+    "nota": "6.3",
+    "avaliacao": "6.3",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/por-agua-abaixo.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/qv2WaxXTUsShK97kNMDoqxJoab9.jpg"
         }
       ]
     }
