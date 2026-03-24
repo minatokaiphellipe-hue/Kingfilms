@@ -21139,5 +21139,26 @@
         }
       ]
     }
+  },
+  {
+    "id": "esposa-de-mentirinha",
+    "tipo": "filme",
+    "categoria": "Comédia",
+    "titulo": "Esposa de Mentirinha 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/glC4pDnSieQ9NGU501rfVIqUCTB.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/wiulG2iGTR7WCvtXuJeMksKVKxK.jpg",
+    "sinopse": "Infeliz em sua tentativa de casamento, Danny passa a vivenciar relacionamentos sem compromisso para driblar a carência. Assim, ele toca sua vida como cirurgião plástico bem sucedido, tendo sua melhor amiga Katherine, mãe solteira de um casal, como fiel escudeira. Quando conhece a jovem Palmer e a paixão toma conta de ambos, ele inventa, para tentar conquistá-la, que é marido de Katherine, pai das crianças e que vai se separar.",
+    "nota": "6.7",
+    "avaliacao": "6.7",
+    "classificacao": "12",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/esposa-de-mentirinha.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/wiulG2iGTR7WCvtXuJeMksKVKxK.jpg"
+        }
+      ]
+    }
   }
 ]
