@@ -15043,46 +15043,6 @@
     "logo_horizontal": "https://image.tmdb.org/t/p/w1280/ze6Mx4QE5mQVXRYmG2flncqqle4.jpg"
   },
   {
-    "id": "a-era-do-gelo-3",
-    "tipo": "filme",
-    "categoria": "Animações",
-    "titulo": "A Era do Gelo 3 🌀",
-    "logo": "https://image.tmdb.org/t/p/w780/kaXQMlurbJ6n5u33TRePTXWxPHY.jpg",
-    "sinopse": "Depois que Sid rouba alguns ovos de dinossauro, Manny, Diego e o resto de seus amigos pré-históricos entram em um mundo misterioso e subterrâneo para resgatar Sid. Durante o curso da sua missão, o grupo encontra muitas criaturas grandes e pequenas, incluindo os carnívoros famintos e implacáveis, caçando o dinossauro chamado Buck.",
-    "avaliacao": "6.8",
-    "classificacao": "Livre",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "Assistir 🌀",
-          "linkFisico": "v/a-era-do-gelo-3.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/riGbwpGKSnvVUksA0QfzRYIWWWr.jpg"
-        }
-      ]
-    },
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/o0zPARvs47f0UhAJuUqdQsyQaji.jpg"
-  },
-  {
-    "id": "a-era-do-gelo-4",
-    "tipo": "filme",
-    "categoria": "Animações",
-    "titulo": "A Era do Gelo 4 🌀",
-    "logo": "https://image.tmdb.org/t/p/w780/mptRqTy5Tw8ZRxuickDrDHEPlFa.jpg",
-    "sinopse": "Sempre em busca de sua cobiçada noz, o esquilo Scrat provoca, sem querer, a separação dos continentes. A situação causa mudanças no terreno de vários locais, entre eles onde os amigos Manny, Diego e Sid estão alojados. Um terremoto faz com que o trio fique preso em um iceberg.",
-    "avaliacao": "6.4",
-    "classificacao": "Livre",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "Assistir 🌀",
-          "linkFisico": "v/a-era-do-gelo-4.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/jZltyagZTXHM81RmxQpHJdpPriG.jpg"
-        }
-      ]
-    },
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/liiPM38H376CDqxJ7VeQjan5YUy.jpg"
-  },
-  {
     "id": "os-incriveis",
     "tipo": "filme",
     "categoria": "Animações",
@@ -24972,6 +24932,48 @@
           "tit": "Assistir 🌀",
           "linkFisico": "v/a-era-do-gelo-2.html",
           "logoEp": "https://image.tmdb.org/t/p/w1280/7K0jL4PvXVMlbZiAXr6r3MXdDgr.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "a-era-do-gelo-3",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "A Era do Gelo 3 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/kaXQMlurbJ6n5u33TRePTXWxPHY.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/riGbwpGKSnvVUksA0QfzRYIWWWr.jpg",
+    "sinopse": "Depois que Sid rouba alguns ovos de dinossauro, Manny, Diego e o resto de seus amigos pré-históricos entram em um mundo misterioso e subterrâneo para resgatar Sid. Durante o curso da sua missão, o grupo encontra muitas criaturas grandes e pequenas, incluindo os carnívoros famintos e implacáveis, caçando o dinossauro chamado Buck.",
+    "nota": "6.8",
+    "avaliacao": "6.8",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/a-era-do-gelo-3.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/riGbwpGKSnvVUksA0QfzRYIWWWr.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "a-era-do-gelo-4",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "A Era do Gelo 4 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/mptRqTy5Tw8ZRxuickDrDHEPlFa.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/jZltyagZTXHM81RmxQpHJdpPriG.jpg",
+    "sinopse": "Sempre em busca de sua cobiçada noz, o esquilo Scrat provoca, sem querer, a separação dos continentes. A situação causa mudanças no terreno de vários locais, entre eles onde os amigos Manny, Diego e Sid estão alojados. Um terremoto faz com que o trio fique preso em um iceberg.",
+    "nota": "6.4",
+    "avaliacao": "6.4",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/a-era-do-gelo-4.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/jZltyagZTXHM81RmxQpHJdpPriG.jpg"
         }
       ]
     }
