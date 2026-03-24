@@ -24183,5 +24183,26 @@
         }
       ]
     }
+  },
+  {
+    "id": "super-mario-bros-o-filme",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Super Mario Bros. O Filme 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/ij8sapIEbLf2g8npOu6XgsQS2w0.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/vBiuH3kLRNBzA3yxoVgoQzF7wjs.jpg",
+    "sinopse": "Transportados do Brooklyn para o Reino Cogumelo num passe de mágica, dois corajosos encanadores conhecem uma princesa e combatem um tirano que cospe fogo.",
+    "nota": "7.6",
+    "avaliacao": "7.6",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/super-mario-bros-o-filme.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/vBiuH3kLRNBzA3yxoVgoQzF7wjs.jpg"
+        }
+      ]
+    }
   }
 ]
