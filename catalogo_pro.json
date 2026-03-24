@@ -24783,5 +24783,26 @@
         }
       ]
     }
+  },
+  {
+    "id": "a-nova-onda-do-imperador",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "A Nova Onda do Imperador 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/iN4nsXWzASSjYUIHUkwSJQ6b2UW.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/97qAl5hKG3pUGbs1aYbpY7zl6Oc.jpg",
+    "sinopse": "Divirta-se com o arrogante imperador Kuzco que é transformado em Ihama pela malvada conselheira Yzma e seu capanga bonitão Kronk, para governar o reino. Agora o imperador, que sempre teve o mundo a seus pés, tem de se aliar a um caipira simpático chamado Pacha. Mas será que essa realeza tão antipática conseguirá mudar, tornando-se uma pessoa mais bondosa e gentil?",
+    "nota": "7.6",
+    "avaliacao": "7.6",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/a-nova-onda-do-imperador.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/97qAl5hKG3pUGbs1aYbpY7zl6Oc.jpg"
+        }
+      ]
+    }
   }
 ]
