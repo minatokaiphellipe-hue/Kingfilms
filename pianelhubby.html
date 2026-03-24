@@ -70,6 +70,13 @@
             cursor: pointer; transition: 0.2s; margin-top: auto; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.3);
         }
         .btn-serie:hover { transform: translateY(-2px); box-shadow: 0 10px 15px -3px rgba(139, 92, 246, 0.5); }
+
+        .btn-copy-all {
+            background: linear-gradient(135deg, #f59e0b, #d97706); color: #fff; border: none;
+            padding: 12px; width: 100%; border-radius: 8px; font-weight: 800;
+            font-size: 13px; cursor: pointer; transition: 0.2s; margin-bottom: 20px; box-shadow: 0 4px 10px rgba(245, 158, 11, 0.3);
+        }
+        .btn-copy-all:hover { transform: translateY(-2px); box-shadow: 0 8px 15px rgba(245, 158, 11, 0.5); }
         
         #file-name { color: #4ade80; font-size: 13px; margin-top: 10px; font-weight: 600; }
         
@@ -89,9 +96,10 @@
         .badge-filme { background: #059669; color: #fff; }
         .badge-serie { background: #8b5cf6; color: #fff; }
         .card-id { color: #94a3b8; font-size: 11px; margin-bottom: 10px; }
+        .label-link { font-size: 11px; font-weight: bold; margin-top: 10px; margin-bottom: 3px; }
         .card-link {
-            background: #0f172a; border: 1px solid #334155; color: #4ade80; padding: 10px;
-            border-radius: 6px; font-size: 11px; word-break: break-all; user-select: all; margin-top: 5px; cursor: copy;
+            background: #0f172a; border: 1px solid #334155; padding: 10px;
+            border-radius: 6px; font-size: 11px; word-break: break-all; user-select: all; cursor: copy; font-family: monospace;
         }
 
         .modal {
@@ -107,7 +115,7 @@
         }
         .close-btn {
             color: #94a3b8; float: right; font-size: 28px; font-weight: bold;
-            cursor: pointer; transition: 0.2s; line-height: 1;
+            cursor: pointer; transition: 0.2s; line-height: 1; margin-top: -5px;
         }
         .close-btn:hover { color: var(--brand-red); }
         #modal-titulo { color: var(--brand-purple); margin-top: 0; border-bottom: 1px solid #334155; padding-bottom: 10px; }
@@ -168,7 +176,6 @@
 <script>
     let bancoDeDados = [];
 
-    // Recalcula os links automaticamente se você trocar a bolinha do servidor
     document.querySelectorAll('input[name="server_choice"]').forEach(radio => {
         radio.addEventListener('change', () => {
             if(bancoDeDados.length > 0) filtrarResultados(true);
@@ -246,7 +253,6 @@
                     let linkProtegido = "";
                     let linkBruto = "";
 
-                    // LÓGICA DE DOIS SERVIDORES
                     if (serverChoice === 'life10') {
                         linkProtegido = `https://kingfilms-api.onrender.com/vip/play?id=${id}`;
                         linkBruto = `http://life10.top:80/movie/969003341029/006662669402/${id}.${ext}`;
@@ -257,8 +263,11 @@
                     
                     acaoBase = `
                     <div style="margin-top: auto;">
-                        <div class="card-link" style="background:#064e3b; color:#fff; border-color:#059669;" title="Link Protegido! Cole este no seu painel.">✅ ${linkProtegido}</div>
-                        <div class="card-link" style="color:#ef4444; border-color:#ef4444;" title="Link Bruto (Perigoso)">⚠️ ${linkBruto}</div>
+                        <div class="label-link" style="color: #4ade80;">✅ Link Protegido (Render):</div>
+                        <div class="card-link" style="background:#064e3b; color:#fff; border-color:#059669;" title="Clique para copiar">${linkProtegido}</div>
+                        
+                        <div class="label-link" style="color: #ef4444;">⚠️ Link Bruto (Perigoso):</div>
+                        <div class="card-link" style="color:#ef4444; border-color:#ef4444;" title="Link Bruto">${linkBruto}</div>
                     </div>`;
                 }
                 
@@ -290,7 +299,6 @@
 
         let urlApi = "";
         
-        // MUTAÇÃO DE ROTAS DEPENDENDO DO SERVIDOR
         if (serverChoice === 'life10') {
             urlApi = `http://life10.top:80/player_api.php?username=969003341029&password=006662669402&action=get_series_info&series_id=${serieId}`;
         } else {
@@ -320,16 +328,16 @@
         }
 
         try {
-            if (!dados) {
-                throw new Error(`O servidor cortou a resposta. Tente novamente! (${erroFinal})`);
-            }
+            if (!dados) throw new Error(`O servidor cortou a resposta. Tente novamente! (${erroFinal})`);
 
             if (!dados.episodes || Object.keys(dados.episodes).length === 0) {
                 conteudo.innerHTML = "<p style='color:#ef4444;'>❌ O servidor IPTV não tem episódios disponíveis para esta série.</p>";
                 return;
             }
 
-            let htmlTemp = "";
+            // Botão Mágico de Copiar Tudo
+            let htmlTemp = `<button class="btn-copy-all" onclick="copiarTudo()">📋 COPIAR TODOS OS LINKS PROTEGIDOS DE UMA VEZ</button>`;
+
             for (let temp in dados.episodes) {
                 htmlTemp += `<div class="temporada-title">▶ Temporada ${temp}</div>`;
                 dados.episodes[temp].forEach(ep => {
@@ -337,13 +345,14 @@
                     let linkProtegido = "";
                     let ext = ep.container_extension || 'mp4';
 
-                    // A MÁGICA DOS EPISÓDIOS
                     if (serverChoice === 'life10') {
+                        // Life10 ainda usa bruto nos episódios
                         linkBruto = `http://life10.top:80/series/969003341029/006662669402/${ep.id}.${ext}`;
                         htmlTemp += `
                         <div class="ep-card">
                             <div class="ep-title">Ep ${ep.episode_num} - ${ep.title || 'Episódio'}</div>
-                            <div class="card-link" style="color:#ef4444; border-color:#ef4444;" title="Clique para copiar">⚠️ Link Bruto: ${linkBruto}</div>
+                            <div class="label-link" style="color: #ef4444;">⚠️ Link Bruto:</div>
+                            <div class="card-link link-alvo-copia" style="color:#ef4444; border-color:#ef4444;" title="Clique para copiar">${linkBruto}</div>
                         </div>`;
                     } else {
                         linkProtegido = `https://kingfilms-api.onrender.com/indicaai/episodio?id=${ep.id}`;
@@ -351,8 +360,12 @@
                         htmlTemp += `
                         <div class="ep-card">
                             <div class="ep-title">Ep ${ep.episode_num} - ${ep.title || 'Episódio'}</div>
-                            <div class="card-link" style="background:#064e3b; color:#fff; border-color:#059669;" title="Clique para copiar">✅ Protegido: ${linkProtegido}</div>
-                            <div class="card-link" style="color:#ef4444; border-color:#ef4444;" title="Clique para copiar">⚠️ Bruto: ${linkBruto}</div>
+                            
+                            <div class="label-link" style="color: #4ade80;">✅ Protegido:</div>
+                            <div class="card-link link-alvo-copia" style="background:#064e3b; color:#fff; border-color:#059669;" title="Clique para copiar">${linkProtegido}</div>
+                            
+                            <div class="label-link" style="color: #ef4444;">⚠️ Bruto:</div>
+                            <div class="card-link" style="color:#ef4444; border-color:#ef4444;" title="Clique para copiar">${linkBruto}</div>
                         </div>`;
                     }
                 });
@@ -362,6 +375,31 @@
         } catch(e) {
             conteudo.innerHTML = `<p style='color:#ef4444;'>❌ Erro ao extrair: ${e.message}</p>`;
         }
+    }
+
+    // FUNÇÃO QUE FAZ A MÁGICA DE COPIAR TUDO
+    window.copiarTudo = function() {
+        // Pega todos os elementos que têm a classe 'link-alvo-copia'
+        let elementos = document.querySelectorAll('.link-alvo-copia');
+        let links = [];
+        
+        elementos.forEach(el => {
+            links.push(el.innerText.trim());
+        });
+
+        if(links.length === 0) {
+            alert("Nenhum link encontrado!");
+            return;
+        }
+
+        // Junta todos os links dando um "Enter" entre eles
+        let textoFinal = links.join("\n");
+
+        navigator.clipboard.writeText(textoFinal).then(() => {
+            alert(`✅ Sucesso! ${links.length} links foram copiados para a área de transferência.\n\nAgora é só colar no seu painel KINGFILMS PRO!`);
+        }).catch(err => {
+            alert("❌ Ocorreu um erro ao copiar. Seu navegador pode ter bloqueado.");
+        });
     }
 
     function fecharModal() {
