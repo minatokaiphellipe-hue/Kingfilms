@@ -21245,5 +21245,26 @@
         }
       ]
     }
+  },
+  {
+    "id": "coraline-e-o-mundo-secreto",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Coraline e o Mundo Secreto 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/rranXmvqPT4NoXzmxhFtXr9nNYT.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/sUe6OYgbWrnYpugTvScSUcFVuy4.jpg",
+    "sinopse": "Entediada em sua nova casa, a pequena Coraline descobre uma porta secreta que contém um mundo parecido com o dela, porém melhor em muitas maneiras. Coraline se encanta com a descoberta, mas logo descobre que há algo de errado quando seus pais alternativos tentam mantê-la eternamente nesse mundo paralelo.",
+    "nota": "7.9",
+    "avaliacao": "7.9",
+    "classificacao": "10",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/coraline-e-o-mundo-secreto.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/sUe6OYgbWrnYpugTvScSUcFVuy4.jpg"
+        }
+      ]
+    }
   }
 ]
