@@ -22232,5 +22232,71 @@
         }
       ]
     }
+  },
+  {
+    "id": "carros",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Carros 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/A7nssMRIPauZhEVf2dzwsf4EALO.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/ef31oDJYZkccRl2rpqGBSzGZiUB.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/jrZp7apZ5hPvrMdOG3NPjPP7VNG.png",
+    "sinopse": "Ao viajar para a Califórnia, o famoso carro de corridas Relâmpago McQueen se perde e vai parar em Radiator Springs, uma cidadezinha na Rota 66. Ele conhece novos amigos e aprende lições que mudam sua forma de encarar a vida.",
+    "nota": "7.0",
+    "avaliacao": "7.0",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/carros.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/ef31oDJYZkccRl2rpqGBSzGZiUB.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "carros-2",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Carros 2 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/fIKaabvE40T39nOIngcZPcPJeYe.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/1SImxUhpld7rkUuRaZeFOQGLuBv.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/bBosggzlBFDc9Os90IBBYt5rxCK.png",
+    "sinopse": "O astro das corridas, Relâmpago McQueen, e o carro-guincho, Mate, viajam para disputar o primeiro Grand Prix Mundial, que irá revelar o carro mais veloz do planeta. Nessa jornada imperdível, Mate se envolve com um grupo de espionagem e vive grandes aventuras com seus amigos.",
+    "nota": "6.2",
+    "avaliacao": "6.2",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/carros-2.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1SImxUhpld7rkUuRaZeFOQGLuBv.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "carros-3",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Carros 3 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/oEmdfjqQnAWe1t23WiiW0icFhGv.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/o2wrznzObWLBIR9iFBuzKv6pIto.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/o1oJkSRy3RVDhzVlrZW4LxQakNM.png",
+    "sinopse": "Durante mais uma disputa eletrizante nas pistas, o campeão Relâmpago McQueen acelerou demais e acabou perdendo o controle. Agora, após ter capotando várias vezes e quase ter partido dessa para melhor, o vermelhinho vai ter sua vida alterada para sempre. O acidente foi tão grave que, com os estragos, McQueen pode ter que se aposentar de vez.",
+    "nota": "6.9",
+    "avaliacao": "6.9",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/carros-3.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/o2wrznzObWLBIR9iFBuzKv6pIto.jpg"
+        }
+      ]
+    }
   }
 ]
