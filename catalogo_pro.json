@@ -21202,5 +21202,26 @@
         }
       ]
     }
+  },
+  {
+    "id": "megatubarao",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "Megatubarão 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/wrJkShDPK4TcV0nHix3HASEmkul.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/eaUEdmGjUy9Hq31sONuxb0mgN1T.jpg",
+    "sinopse": "Na fossa mais profunda do Oceano Pacífico, a tripulação de um submarino fica presa dentro do local após ser atacada por uma criatura pré-histórica que se achava estar extinta, um tubarão de mais de 20 metros de comprimento, o Megalodon. Para salvá-los, um oceanógrafo chinês contrata Jonas Taylor, um mergulhador especializado em resgates em água profundas que já encontrou com a criatura anteriormente.",
+    "nota": "6.2",
+    "avaliacao": "6.2",
+    "classificacao": "14",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/megatubarao.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/eaUEdmGjUy9Hq31sONuxb0mgN1T.jpg"
+        }
+      ]
+    }
   }
 ]
