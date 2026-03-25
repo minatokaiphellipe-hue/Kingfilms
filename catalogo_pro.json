@@ -19197,104 +19197,6 @@
     "logo_horizontal": "https://image.tmdb.org/t/p/w1280/g7CHF8gTLGooTbP4GznIGwaqAGL.jpg"
   },
   {
-    "id": "wandinha",
-    "tipo": "serie",
-    "categoria": "Séries",
-    "titulo": "Wandinha 🌀",
-    "logo": "https://image.tmdb.org/t/p/w780/7rxiQrZjrer0RB9qNA8rHYFo53R.jpg",
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/warSO3YUP9oDrlJOESin9jR5nod.jpg",
-    "sinopse": "Inteligente, sarcástica e meio morta por dentro. Wandinha Addams investiga uma onda de assassinatos e aproveita para fazer novos amigos e inimigos na Escola Nunca Mais.",
-    "avaliacao": "8.4",
-    "classificacao": "16",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "S01E01 🌀",
-          "linkFisico": "v/wandinha-s01e01.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/warSO3YUP9oDrlJOESin9jR5nod.jpg"
-        },
-        {
-          "tit": "S01E02 🌀",
-          "linkFisico": "v/wandinha-s01e02.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/warSO3YUP9oDrlJOESin9jR5nod.jpg"
-        },
-        {
-          "tit": "S01E03 🌀",
-          "linkFisico": "v/wandinha-s01e03.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/warSO3YUP9oDrlJOESin9jR5nod.jpg"
-        },
-        {
-          "tit": "S01E04 🌀",
-          "linkFisico": "v/wandinha-s01e04.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/warSO3YUP9oDrlJOESin9jR5nod.jpg"
-        },
-        {
-          "tit": "S01E05 🌀",
-          "linkFisico": "v/wandinha-s01e05.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/warSO3YUP9oDrlJOESin9jR5nod.jpg"
-        },
-        {
-          "tit": "S01E06 🌀",
-          "linkFisico": "v/wandinha-s01e06.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/warSO3YUP9oDrlJOESin9jR5nod.jpg"
-        },
-        {
-          "tit": "S01E07 🌀",
-          "linkFisico": "v/wandinha-s01e07.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/warSO3YUP9oDrlJOESin9jR5nod.jpg"
-        },
-        {
-          "tit": "S01E08 🌀",
-          "linkFisico": "v/wandinha-s01e08.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/warSO3YUP9oDrlJOESin9jR5nod.jpg"
-        }
-      ],
-      "2": [
-        {
-          "tit": "S02E01 🌀",
-          "linkFisico": "v/wandinha-s02e01.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/warSO3YUP9oDrlJOESin9jR5nod.jpg"
-        },
-        {
-          "tit": "S02E02 🌀",
-          "linkFisico": "v/wandinha-s02e02.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/warSO3YUP9oDrlJOESin9jR5nod.jpg"
-        },
-        {
-          "tit": "S02E03 🌀",
-          "linkFisico": "v/wandinha-s02e03.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/warSO3YUP9oDrlJOESin9jR5nod.jpg"
-        },
-        {
-          "tit": "S02E04 🌀",
-          "linkFisico": "v/wandinha-s02e04.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/warSO3YUP9oDrlJOESin9jR5nod.jpg"
-        },
-        {
-          "tit": "S02E05 🌀",
-          "linkFisico": "v/wandinha-s02e05.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/warSO3YUP9oDrlJOESin9jR5nod.jpg"
-        },
-        {
-          "tit": "S02E06 🌀",
-          "linkFisico": "v/wandinha-s02e06.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/warSO3YUP9oDrlJOESin9jR5nod.jpg"
-        },
-        {
-          "tit": "S02E07 🌀",
-          "linkFisico": "v/wandinha-s02e07.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/warSO3YUP9oDrlJOESin9jR5nod.jpg"
-        },
-        {
-          "tit": "S02E08 🌀",
-          "linkFisico": "v/wandinha-s02e08.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/warSO3YUP9oDrlJOESin9jR5nod.jpg"
-        }
-      ],
-      "3": []
-    }
-  },
-  {
     "id": "wolverine-imortal",
     "tipo": "filme",
     "categoria": "Ação",
@@ -21962,6 +21864,105 @@
           "tit": "S04E08 🌀",
           "linkFisico": "v/the-witcher-s04e08.html",
           "logoEp": "https://image.tmdb.org/t/p/w1280/xnzNSuExUTFYNUTsbpT8LIoi6mh.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "wandinha",
+    "tipo": "serie",
+    "categoria": "Séries",
+    "titulo": "Wandinha 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/7rxiQrZjrer0RB9qNA8rHYFo53R.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/warSO3YUP9oDrlJOESin9jR5nod.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/aIsIyXshmYYNOIJJ88V7UThiVfP.png",
+    "sinopse": "Inteligente, sarcástica e meio morta por dentro. Wandinha Addams investiga uma onda de assassinatos e aproveita para fazer novos amigos e inimigos na Escola Nunca Mais.",
+    "nota": "8.4",
+    "avaliacao": "8.4",
+    "classificacao": "16",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "S01E01 🌀",
+          "linkFisico": "v/wandinha-s01e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/warSO3YUP9oDrlJOESin9jR5nod.jpg"
+        },
+        {
+          "tit": "S01E02 🌀",
+          "linkFisico": "v/wandinha-s01e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/warSO3YUP9oDrlJOESin9jR5nod.jpg"
+        },
+        {
+          "tit": "S01E03 🌀",
+          "linkFisico": "v/wandinha-s01e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/warSO3YUP9oDrlJOESin9jR5nod.jpg"
+        },
+        {
+          "tit": "S01E04 🌀",
+          "linkFisico": "v/wandinha-s01e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/warSO3YUP9oDrlJOESin9jR5nod.jpg"
+        },
+        {
+          "tit": "S01E05 🌀",
+          "linkFisico": "v/wandinha-s01e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/warSO3YUP9oDrlJOESin9jR5nod.jpg"
+        },
+        {
+          "tit": "S01E06 🌀",
+          "linkFisico": "v/wandinha-s01e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/warSO3YUP9oDrlJOESin9jR5nod.jpg"
+        },
+        {
+          "tit": "S01E07 🌀",
+          "linkFisico": "v/wandinha-s01e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/warSO3YUP9oDrlJOESin9jR5nod.jpg"
+        },
+        {
+          "tit": "S01E08 🌀",
+          "linkFisico": "v/wandinha-s01e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/warSO3YUP9oDrlJOESin9jR5nod.jpg"
+        }
+      ],
+      "2": [
+        {
+          "tit": "S02E01 🌀",
+          "linkFisico": "v/wandinha-s02e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/warSO3YUP9oDrlJOESin9jR5nod.jpg"
+        },
+        {
+          "tit": "S02E02 🌀",
+          "linkFisico": "v/wandinha-s02e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/warSO3YUP9oDrlJOESin9jR5nod.jpg"
+        },
+        {
+          "tit": "S02E03 🌀",
+          "linkFisico": "v/wandinha-s02e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/warSO3YUP9oDrlJOESin9jR5nod.jpg"
+        },
+        {
+          "tit": "S02E04 🌀",
+          "linkFisico": "v/wandinha-s02e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/warSO3YUP9oDrlJOESin9jR5nod.jpg"
+        },
+        {
+          "tit": "S02E05 🌀",
+          "linkFisico": "v/wandinha-s02e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/warSO3YUP9oDrlJOESin9jR5nod.jpg"
+        },
+        {
+          "tit": "S02E06 🌀",
+          "linkFisico": "v/wandinha-s02e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/warSO3YUP9oDrlJOESin9jR5nod.jpg"
+        },
+        {
+          "tit": "S02E07 🌀",
+          "linkFisico": "v/wandinha-s02e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/warSO3YUP9oDrlJOESin9jR5nod.jpg"
+        },
+        {
+          "tit": "S02E08 🌀",
+          "linkFisico": "v/wandinha-s02e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/warSO3YUP9oDrlJOESin9jR5nod.jpg"
         }
       ]
     }
