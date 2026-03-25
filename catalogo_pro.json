@@ -22056,5 +22056,49 @@
         }
       ]
     }
+  },
+  {
+    "id": "monstros-s-a",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Monstros S.A. 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/5p6cdAeUevsLOX0oI1T4JIul4QO.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/j1gALpItNb4nenOpIYM2YoihHtg.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/hUzxvgXA3EgXWTospWuNldoVAwf.png",
+    "sinopse": "O astro do susto, Sulley, e seu falante assistente, Mike, trabalham na Monstros S.A., a maior fábrica de processamento de gritos da cidade de Monstrópolis. A principal fonte de energia do mundo dos monstros provém da coleta dos gritos das crianças humanas. Os monstros acreditam que as crianças são tóxicas, e entram em pânico quando uma menininha invade seu mundo. Sulley e Mike fazem de tudo para levar a garota de volta para casa, mas enfrentam desafios monstruosos e algumas situações hilárias em suas atrapalhadas aventuras.",
+    "nota": "7.8",
+    "avaliacao": "7.8",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/monstros-s-a.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/j1gALpItNb4nenOpIYM2YoihHtg.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "universidade-monstros",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Universidade Monstros 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/uHiklaxCoZcQqzsj5l1IgyieWgp.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/oEgVmn81vIIhymbjd70tTbeMEzT.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/jgN7NTgPRY390DB2PgVPz8QHBph.png",
+    "sinopse": "Desde pequeno, Mike Wazowski sonha em ser um assustador e sabe que os melhores assustadores estudam na Universidade Monstros (UM). Mas durante seu primeiro semestre na UM, os planos de Mike desmoronam quando ele cruza o caminho do espertinho James P. Sullivan, um assustador nato. O espírito competitivo descontrolado da dupla faz com que ambos sejam expulsos do programa mais assustador da Universidade. Então eles percebem que se quiserem realizar seus sonhos, terão que trabalhar em equipe junto com um grupo de monstros marginalizados.",
+    "nota": "7.0",
+    "avaliacao": "7.0",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/universidade-monstros.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/oEgVmn81vIIhymbjd70tTbeMEzT.jpg"
+        }
+      ]
+    }
   }
 ]
