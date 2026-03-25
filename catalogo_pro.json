@@ -21966,5 +21966,27 @@
         }
       ]
     }
+  },
+  {
+    "id": "caca-as-bruxas",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "Caça às Bruxas 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/oNyEYVm295JdZXbRi40XcqjOs7G.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/1YYqTrCQvcEBbMzdJudHlgr3r3P.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/9wJ9uh9ZgTHTzhFNynzabYVySdI.png",
+    "sinopse": "Cavaleiros do século XIV transportam uma jovem suspeita de ser bruxa para um mosteiro, onde se acredita que os poderes dela podem ser a origem da peste negra.",
+    "nota": "5.5",
+    "avaliacao": "5.5",
+    "classificacao": "14",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/caca-as-bruxas.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1YYqTrCQvcEBbMzdJudHlgr3r3P.jpg"
+        }
+      ]
+    }
   }
 ]
