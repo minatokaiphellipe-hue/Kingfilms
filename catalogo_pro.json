@@ -21988,5 +21988,71 @@
         }
       ]
     }
+  },
+  {
+    "id": "venom",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "Venom 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/e4SJKPH8muigUI8VcZtkqWJvEz1.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/tKZ1qHCdMZ8hBEEQWmema5s2PUF.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/l31ZV2R229KFJMAMnnRWFRtj918.png",
+    "sinopse": "O jornalista Eddie Brock desenvolve força e poder sobre-humanos quando seu corpo se funde com o alienígena Venom. Dominado pela raiva, Venom tenta controlar as novas e perigosas habilidades de Eddie.",
+    "nota": "6.8",
+    "avaliacao": "6.8",
+    "classificacao": "14",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/venom.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/tKZ1qHCdMZ8hBEEQWmema5s2PUF.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "venom-tempo-de-carnificina",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "Venom: Tempo de Carnificina 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/h5UzYZquMwO9FVn15R2eK2itmHu.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/2YxsN0WHL6lAqad6X5S1CerOMYc.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/uT7WYYBv6rl0FuaNvCgcRlddd1t.png",
+    "sinopse": "Em busca de seu próximo furo de reportagem, o jornalista Eddie Brock consegue uma entrevista exclusiva com Cletus Kasady, um assassino no corredor da morte, que descobre o segredo de Eddie e se torna o hospedeiro de Carnificina, um simbionte aterrorizante e ameaçador. Eddie e Venom precisam superar sua relação atribulada e trabalhar em conjunto para derrotar Carnificina.",
+    "nota": "6.7",
+    "avaliacao": "6.7",
+    "classificacao": "14",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/venom-tempo-de-carnificina.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/2YxsN0WHL6lAqad6X5S1CerOMYc.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "venom-a-ultima-rodada",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "Venom: A Última Rodada 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/eZIIPjL7oGqfmF7Gw5ZnbDjH6yu.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/8PwntYBvxnaJq6R57UiXGNFsluN.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/qhymfQDRM4WeFcld7NfLW1BzNSF.png",
+    "sinopse": "Eddie e Venom estão fugindo. Perseguidos pelos dois mundos, a dupla é forçada a tomar uma decisão devastadora que vai fechar as cortinas da última rodada de Venom e Eddie.",
+    "nota": "6.7",
+    "avaliacao": "6.7",
+    "classificacao": "14",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/venom-a-ultima-rodada.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/8PwntYBvxnaJq6R57UiXGNFsluN.jpg"
+        }
+      ]
+    }
   }
 ]
