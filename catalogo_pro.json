@@ -21985,5 +21985,71 @@
         }
       ]
     }
+  },
+  {
+    "id": "harry-potter-e-o-calice-de-fogo",
+    "tipo": "filme",
+    "categoria": "Fantasia",
+    "titulo": "Harry Potter e o Cálice de Fogo 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/5oWB3hjzyECRBAjgWkmZinxl9qA.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/d5dtn5ZAJ2MvjBcu9MWI4hsUDKT.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/1H0v9dUZ9Da8JbReQ3oXorMcqxN.png",
+    "sinopse": "Em seu 4º ano na Escola de Magia e Bruxaria de Hogwards, Harry Potter é misteriosamente selecionado para participar do Torneio Tribruxo, uma competição internacional em que precisará enfrentar alunos mais velhos e experientes de Hogwards e também de outras escolas de magia. Além disso a aparição da marca negra de Voldemort ao término da Copa Mundial de Quadribol põe a comunidade de bruxos em pânico, já que sinaliza que o temido bruxo está prestes a retornar.",
+    "nota": "7.8",
+    "avaliacao": "7.8",
+    "classificacao": "10",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/harry-potter-e-o-calice-de-fogo.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/d5dtn5ZAJ2MvjBcu9MWI4hsUDKT.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "harry-potter-e-a-ordem-da-fenix",
+    "tipo": "filme",
+    "categoria": "Fantasia",
+    "titulo": "Harry Potter e a Ordem da Fênix 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/tIf9aUyNljda9MG1pjlOLHCZ3b0.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/w2lulaNN4sa7RK9A73QGokZd4mO.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/vrYMeUpwxV27k6dPRtMZQ9yG7RP.png",
+    "sinopse": "Lord Voldemort está de volta, mas o Ministério da Magia está fazendo tudo a seu alcance para impedir que a comunidade mundial de bruxos descubra isso – incluindo indicar a oficial do Ministério, Dolores Umbridge, como a nova professora de Defesa Contra as Artes das Trevas de Hogwarts. Quando Umbridge se recusa a ensinar a prática de mágica defensiva, Rony e Hermione convencem Harry a secretamente treinar um grupo de estudantes para a guerra de magia que está prestes a estourar.",
+    "nota": "7.7",
+    "avaliacao": "7.7",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/harry-potter-e-a-ordem-da-fenix.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/w2lulaNN4sa7RK9A73QGokZd4mO.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "harry-potter-e-as-reliquias-da-morte-parte-1",
+    "tipo": "filme",
+    "categoria": "Fantasia",
+    "titulo": "Harry Potter e as Relíquias da Morte - Parte 1 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/67FVFOTaeBUQnimhCWpUkDawDct.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/aB8oGw8hXndZ2YYUimn5IxSthQw.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/htOE8dXqQHbtlrUm4b7jIShHYTX.png",
+    "sinopse": "Harry, Ron e Hermione estão determinados em sua missão de descobrir e acabar com o segredo da imortalidade e do poder de destruição de Voldemort – os Horcruxes. Fugitivos e sozinhos, os três amigos devem apenas contar uns com os outros, agora mas do que nunca... Mas as Forças das Trevas no caminho ameaçam separá-los para sempre.",
+    "nota": "7.7",
+    "avaliacao": "7.7",
+    "classificacao": "10",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/harry-potter-e-as-reliquias-da-morte-parte-1.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/aB8oGw8hXndZ2YYUimn5IxSthQw.jpg"
+        }
+      ]
+    }
   }
 ]
