@@ -9020,26 +9020,6 @@
     "logo_horizontal": "https://image.tmdb.org/t/p/w1280/cbcpDn6XJaIGoOil1bKuskU8ds4.jpg"
   },
   {
-    "id": "harry-potter-4",
-    "tipo": "filme",
-    "categoria": "Fantasia",
-    "titulo": "Harry Potter e o Cálice de Fogo 🌀",
-    "logo": "https://image.tmdb.org/t/p/w780/5oWB3hjzyECRBAjgWkmZinxl9qA.jpg",
-    "sinopse": "Em seu 4º ano na Escola de Magia e Bruxaria de Hogwards, Harry Potter é misteriosamente selecionado para participar do Torneio Tribruxo, uma competição internacional em que precisará enfrentar alunos mais velhos e experientes de Hogwards e também de outras escolas de magia. Além disso a aparição da marca negra de Voldemort ao término da Copa Mundial de Quadribol põe a comunidade de bruxos em pânico, já que sinaliza que o temido bruxo está prestes a retornar.",
-    "avaliacao": "7.8",
-    "classificacao": "10",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "Assistir Filme 🌀",
-          "linkFisico": "v/harry-potter-4.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/d5dtn5ZAJ2MvjBcu9MWI4hsUDKT.jpg"
-        }
-      ]
-    },
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/8f9dnOtpArDrOMEylpSN9Sc6fuz.jpg"
-  },
-  {
     "id": "harry-potter-e-o-calice-de-fogo",
     "tipo": "filme",
     "categoria": "Fantasia",
