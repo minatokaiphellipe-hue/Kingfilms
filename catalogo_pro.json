@@ -22125,5 +22125,27 @@
         }
       ]
     }
+  },
+  {
+    "id": "espangles",
+    "tipo": "filme",
+    "categoria": "Comédia",
+    "titulo": "Espanglês 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/omliDifF8WaZt2yJBEZeGpzk5Ag.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/p4cKVrDxEgP3rP8iQ49otB3jGid.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/p6vTWlllE24cxXZz1xHbxjkyJyc.png",
+    "sinopse": "Flor (Paz Vega) é uma bela mexicana, que possui uma filha de 12 anos (Shelbie Bruce). Ela vai trabalhar como empregada doméstica na casa dos Clasky, uma influente família de Los Angeles. Temendo sua adaptação à cultura americana, Flor se surpreende com a forma receptiva com a qual é tratada pelos Clasky.",
+    "nota": "6.0",
+    "avaliacao": "6.0",
+    "classificacao": "12",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/espangles.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/p4cKVrDxEgP3rP8iQ49otB3jGid.jpg"
+        }
+      ]
+    }
   }
 ]
