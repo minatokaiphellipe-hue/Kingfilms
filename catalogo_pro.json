@@ -22628,5 +22628,72 @@
         }
       ]
     }
+  },
+  {
+    "id": "dexter-new-blood",
+    "tipo": "serie",
+    "categoria": "Séries",
+    "titulo": "Dexter: New Blood 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/v95YfP2MvoGOC7FrBD1v5nlWBHv.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/aaIexKCa1md9boQ5gmdenj53aes.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/tWblH7BQ7l30bHuuQhlyRybhlaA.png",
+    "sinopse": "Dexter está desaparecido e dado como morto. Sob um nome fictício, vive uma vida livre de violência até que seu filho aparece. Dexter logo descobre que seu Passageiro Sombrio ainda existe e que está acompanhado de pessoas muito perigosas em Iron Lake, NY.",
+    "nota": "7.9",
+    "avaliacao": "7.9",
+    "classificacao": "18",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "S01E01 🌀",
+          "linkFisico": "v/dexter-new-blood-s01e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/aaIexKCa1md9boQ5gmdenj53aes.jpg"
+        },
+        {
+          "tit": "S01E02 🌀",
+          "linkFisico": "v/dexter-new-blood-s01e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/aaIexKCa1md9boQ5gmdenj53aes.jpg"
+        },
+        {
+          "tit": "S01E03 🌀",
+          "linkFisico": "v/dexter-new-blood-s01e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/aaIexKCa1md9boQ5gmdenj53aes.jpg"
+        },
+        {
+          "tit": "S01E04 🌀",
+          "linkFisico": "v/dexter-new-blood-s01e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/aaIexKCa1md9boQ5gmdenj53aes.jpg"
+        },
+        {
+          "tit": "S01E05 🌀",
+          "linkFisico": "v/dexter-new-blood-s01e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/aaIexKCa1md9boQ5gmdenj53aes.jpg"
+        },
+        {
+          "tit": "S01E06 🌀",
+          "linkFisico": "v/dexter-new-blood-s01e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/aaIexKCa1md9boQ5gmdenj53aes.jpg"
+        },
+        {
+          "tit": "S01E07 🌀",
+          "linkFisico": "v/dexter-new-blood-s01e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/aaIexKCa1md9boQ5gmdenj53aes.jpg"
+        },
+        {
+          "tit": "S01E08 🌀",
+          "linkFisico": "v/dexter-new-blood-s01e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/aaIexKCa1md9boQ5gmdenj53aes.jpg"
+        },
+        {
+          "tit": "S01E09 🌀",
+          "linkFisico": "v/dexter-new-blood-s01e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/aaIexKCa1md9boQ5gmdenj53aes.jpg"
+        },
+        {
+          "tit": "S01E10 🌀",
+          "linkFisico": "v/dexter-new-blood-s01e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/aaIexKCa1md9boQ5gmdenj53aes.jpg"
+        }
+      ]
+    }
   }
 ]
