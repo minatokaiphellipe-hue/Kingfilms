@@ -22695,5 +22695,72 @@
         }
       ]
     }
+  },
+  {
+    "id": "dexter-ressurreicao",
+    "tipo": "serie",
+    "categoria": "Séries",
+    "titulo": "Dexter: Ressurreição 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/wG6GBTreXHoBhxsFY4vVSQtYey5.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/3pbfqoAPIuP1ErUooA3H64kOr5d.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/cVVSBfebHlrSLsMXKYOarGGzQAk.png",
+    "sinopse": "Dexter Morgan acorda do coma e vai para Nova Iorque, determinado a encontrar Harrison e consertar as coisas, mas quando Angel Batista da Miami Metro chega com perguntas, Dexter percebe que seu passado está mais próximo do que nunca.",
+    "nota": "8.5",
+    "avaliacao": "8.5",
+    "classificacao": "18",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "S01E01 🌀",
+          "linkFisico": "v/dexter-ressurreicao-s01e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/3pbfqoAPIuP1ErUooA3H64kOr5d.jpg"
+        },
+        {
+          "tit": "S01E02 🌀",
+          "linkFisico": "v/dexter-ressurreicao-s01e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/3pbfqoAPIuP1ErUooA3H64kOr5d.jpg"
+        },
+        {
+          "tit": "S01E03 🌀",
+          "linkFisico": "v/dexter-ressurreicao-s01e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/3pbfqoAPIuP1ErUooA3H64kOr5d.jpg"
+        },
+        {
+          "tit": "S01E04 🌀",
+          "linkFisico": "v/dexter-ressurreicao-s01e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/3pbfqoAPIuP1ErUooA3H64kOr5d.jpg"
+        },
+        {
+          "tit": "S01E05 🌀",
+          "linkFisico": "v/dexter-ressurreicao-s01e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/3pbfqoAPIuP1ErUooA3H64kOr5d.jpg"
+        },
+        {
+          "tit": "S01E06 🌀",
+          "linkFisico": "v/dexter-ressurreicao-s01e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/3pbfqoAPIuP1ErUooA3H64kOr5d.jpg"
+        },
+        {
+          "tit": "S01E07 🌀",
+          "linkFisico": "v/dexter-ressurreicao-s01e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/3pbfqoAPIuP1ErUooA3H64kOr5d.jpg"
+        },
+        {
+          "tit": "S01E08 🌀",
+          "linkFisico": "v/dexter-ressurreicao-s01e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/3pbfqoAPIuP1ErUooA3H64kOr5d.jpg"
+        },
+        {
+          "tit": "S01E09 🌀",
+          "linkFisico": "v/dexter-ressurreicao-s01e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/3pbfqoAPIuP1ErUooA3H64kOr5d.jpg"
+        },
+        {
+          "tit": "S01E10 🌀",
+          "linkFisico": "v/dexter-ressurreicao-s01e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/3pbfqoAPIuP1ErUooA3H64kOr5d.jpg"
+        }
+      ]
+    }
   }
 ]
