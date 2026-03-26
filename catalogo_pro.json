@@ -22103,5 +22103,27 @@
         }
       ]
     }
+  },
+  {
+    "id": "matilda",
+    "tipo": "filme",
+    "categoria": "Fantasia",
+    "titulo": "Matilda 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/nYUG57pQe9JTIZWlu8kJtRmozqc.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/migYxGT2NdB3jlDzOexfClBi6AR.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/k7yqydobEMYmreCmZTlafOdmVTx.png",
+    "sinopse": "Matilda é uma criança brilhante que cresceu ignorada pelos pais, a ponto de esquecerem de matriculá-la na escola. Quando a menina descobre que possui poderes mágicos e seu pai a manda estudar, ela precisa proteger os colegas da malvada diretora.",
+    "nota": "7.2",
+    "avaliacao": "7.2",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/matilda.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/migYxGT2NdB3jlDzOexfClBi6AR.jpg"
+        }
+      ]
+    }
   }
 ]
