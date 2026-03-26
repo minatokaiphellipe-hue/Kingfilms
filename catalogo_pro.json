@@ -11424,26 +11424,6 @@
     "logo_horizontal": "https://image.tmdb.org/t/p/w1280/6Z0FhoZM56YkuXhvklMTpc7rc5u.jpg"
   },
   {
-    "id": "invocacao-do-mal-4-o-ultimo-ritual",
-    "tipo": "filme",
-    "categoria": "Terror",
-    "titulo": "Invocação do Mal 4: O Último Ritual 🌀",
-    "logo": "https://image.tmdb.org/t/p/original/fsdxqtCgbHtQHTukh5OwRFSzTNz.jpg",
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/iRezV54qSeu64xULAAPsYE3SGO2.jpg",
-    "sinopse": "O casal de investigadores Ed e Lorraine Warren assume um novo caso de horror sobrenatural que os força a um confronto derradeiro. Para vencer esta batalha final contra as forças malignas, eles são obrigados a encarar seus medos mais profundos, colocando suas vidas em extremo risco.",
-    "avaliacao": "6.9",
-    "classificacao": "16",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "Assistir 🌀",
-          "linkFisico": "v/invocacao-do-mal-4-o-ultimo-ritual.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/iRezV54qSeu64xULAAPsYE3SGO2.jpg"
-        }
-      ]
-    }
-  },
-  {
     "id": "isca",
     "tipo": "filme",
     "categoria": "Terror",
@@ -22144,6 +22124,28 @@
           "tit": "Assistir 🌀",
           "linkFisico": "v/espangles.html",
           "logoEp": "https://image.tmdb.org/t/p/w1280/p4cKVrDxEgP3rP8iQ49otB3jGid.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "invocacao-do-mal-4-o-ultimo-ritual",
+    "tipo": "filme",
+    "categoria": "Terror",
+    "titulo": "Invocação do Mal 4: O Último Ritual 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/40nHGUfypLhlr7gJx8At1IbYkaK.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/iRezV54qSeu64xULAAPsYE3SGO2.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/16GyfkMV079HqIMqSM71JxnTGF7.png",
+    "sinopse": "O casal de investigadores Ed e Lorraine Warren assume um novo caso de horror sobrenatural que os força a um confronto derradeiro. Para vencer esta batalha final contra as forças malignas, eles são obrigados a encarar seus medos mais profundos, colocando suas vidas em extremo risco.",
+    "nota": "6.9",
+    "avaliacao": "6.9",
+    "classificacao": "16",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/invocacao-do-mal-4-o-ultimo-ritual.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/iRezV54qSeu64xULAAPsYE3SGO2.jpg"
         }
       ]
     }
