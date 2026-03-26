@@ -9569,1519 +9569,6 @@
     }
   },
   {
-    "id": "hora-de-aventura",
-    "tipo": "serie",
-    "categoria": "Séries",
-    "titulo": "Hora de Aventura 🌀",
-    "logo": "https://image.tmdb.org/t/p/w780/2EMpiF1GireQHs3f9JKCFoKElju.jpg",
-    "sinopse": "Com 12 anos de idade, Finn combate o mal na terra de Ooo na companhia de seu cachorro mágico, Jake. Quando estes dois grandes amigos se juntam e dizem as palavras mágicas \"Hora de Aventura\", tudo pode acontecer.",
-    "avaliacao": "8.5",
-    "classificacao": "10",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "S01E01 🌀",
-          "linkFisico": "v/hora-de-aventura-s01e01.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S01E02 🌀",
-          "linkFisico": "v/hora-de-aventura-s01e02.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S01E03 🌀",
-          "linkFisico": "v/hora-de-aventura-s01e03.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S01E04 🌀",
-          "linkFisico": "v/hora-de-aventura-s01e04.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S01E05 🌀",
-          "linkFisico": "v/hora-de-aventura-s01e05.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S01E06 🌀",
-          "linkFisico": "v/hora-de-aventura-s01e06.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S01E07 🌀",
-          "linkFisico": "v/hora-de-aventura-s01e07.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S01E08 🌀",
-          "linkFisico": "v/hora-de-aventura-s01e08.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S01E09 🌀",
-          "linkFisico": "v/hora-de-aventura-s01e09.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S01E10 🌀",
-          "linkFisico": "v/hora-de-aventura-s01e10.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S01E11 🌀",
-          "linkFisico": "v/hora-de-aventura-s01e11.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S01E12 🌀",
-          "linkFisico": "v/hora-de-aventura-s01e12.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S01E13 🌀",
-          "linkFisico": "v/hora-de-aventura-s01e13.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S01E14 🌀",
-          "linkFisico": "v/hora-de-aventura-s01e14.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S01E15 🌀",
-          "linkFisico": "v/hora-de-aventura-s01e15.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S01E16 🌀",
-          "linkFisico": "v/hora-de-aventura-s01e16.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S01E17 🌀",
-          "linkFisico": "v/hora-de-aventura-s01e17.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S01E18 🌀",
-          "linkFisico": "v/hora-de-aventura-s01e18.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S01E19 🌀",
-          "linkFisico": "v/hora-de-aventura-s01e19.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S01E20 🌀",
-          "linkFisico": "v/hora-de-aventura-s01e20.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S01E21 🌀",
-          "linkFisico": "v/hora-de-aventura-s01e21.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S01E22 🌀",
-          "linkFisico": "v/hora-de-aventura-s01e22.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S01E23 🌀",
-          "linkFisico": "v/hora-de-aventura-s01e23.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S01E24 🌀",
-          "linkFisico": "v/hora-de-aventura-s01e24.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S01E25 🌀",
-          "linkFisico": "v/hora-de-aventura-s01e25.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S01E26 🌀",
-          "linkFisico": "v/hora-de-aventura-s01e26.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        }
-      ],
-      "2": [
-        {
-          "tit": "S02E01 🌀",
-          "linkFisico": "v/hora-de-aventura-s02e01.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S02E02 🌀",
-          "linkFisico": "v/hora-de-aventura-s02e02.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S02E03 🌀",
-          "linkFisico": "v/hora-de-aventura-s02e03.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S02E04 🌀",
-          "linkFisico": "v/hora-de-aventura-s02e04.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S02E05 🌀",
-          "linkFisico": "v/hora-de-aventura-s02e05.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S02E06 🌀",
-          "linkFisico": "v/hora-de-aventura-s02e06.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S02E07 🌀",
-          "linkFisico": "v/hora-de-aventura-s02e07.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S02E08 🌀",
-          "linkFisico": "v/hora-de-aventura-s02e08.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S02E09 🌀",
-          "linkFisico": "v/hora-de-aventura-s02e09.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S02E10 🌀",
-          "linkFisico": "v/hora-de-aventura-s02e10.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S02E11 🌀",
-          "linkFisico": "v/hora-de-aventura-s02e11.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S02E12 🌀",
-          "linkFisico": "v/hora-de-aventura-s02e12.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S02E13 🌀",
-          "linkFisico": "v/hora-de-aventura-s02e13.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S02E14 🌀",
-          "linkFisico": "v/hora-de-aventura-s02e14.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S02E15 🌀",
-          "linkFisico": "v/hora-de-aventura-s02e15.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S02E16 🌀",
-          "linkFisico": "v/hora-de-aventura-s02e16.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S02E17 🌀",
-          "linkFisico": "v/hora-de-aventura-s02e17.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S02E18 🌀",
-          "linkFisico": "v/hora-de-aventura-s02e18.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S02E19 🌀",
-          "linkFisico": "v/hora-de-aventura-s02e19.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S02E20 🌀",
-          "linkFisico": "v/hora-de-aventura-s02e20.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S02E21 🌀",
-          "linkFisico": "v/hora-de-aventura-s02e21.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S02E22 🌀",
-          "linkFisico": "v/hora-de-aventura-s02e22.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S02E23 🌀",
-          "linkFisico": "v/hora-de-aventura-s02e23.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S02E24 🌀",
-          "linkFisico": "v/hora-de-aventura-s02e24.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S02E25 🌀",
-          "linkFisico": "v/hora-de-aventura-s02e25.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S02E26 🌀",
-          "linkFisico": "v/hora-de-aventura-s02e26.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        }
-      ],
-      "3": [
-        {
-          "tit": "S03E01 🌀",
-          "linkFisico": "v/hora-de-aventura-s03e01.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S03E02 🌀",
-          "linkFisico": "v/hora-de-aventura-s03e02.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S03E03 🌀",
-          "linkFisico": "v/hora-de-aventura-s03e03.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S03E04 🌀",
-          "linkFisico": "v/hora-de-aventura-s03e04.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S03E05 🌀",
-          "linkFisico": "v/hora-de-aventura-s03e05.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S03E06 🌀",
-          "linkFisico": "v/hora-de-aventura-s03e06.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S03E07 🌀",
-          "linkFisico": "v/hora-de-aventura-s03e07.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S03E08 🌀",
-          "linkFisico": "v/hora-de-aventura-s03e08.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S03E09 🌀",
-          "linkFisico": "v/hora-de-aventura-s03e09.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S03E10 🌀",
-          "linkFisico": "v/hora-de-aventura-s03e10.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S03E11 🌀",
-          "linkFisico": "v/hora-de-aventura-s03e11.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S03E12 🌀",
-          "linkFisico": "v/hora-de-aventura-s03e12.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S03E13 🌀",
-          "linkFisico": "v/hora-de-aventura-s03e13.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S03E14 🌀",
-          "linkFisico": "v/hora-de-aventura-s03e14.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S03E15 🌀",
-          "linkFisico": "v/hora-de-aventura-s03e15.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S03E16 🌀",
-          "linkFisico": "v/hora-de-aventura-s03e16.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S03E17 🌀",
-          "linkFisico": "v/hora-de-aventura-s03e17.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S03E18 🌀",
-          "linkFisico": "v/hora-de-aventura-s03e18.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S03E19 🌀",
-          "linkFisico": "v/hora-de-aventura-s03e19.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S03E20 🌀",
-          "linkFisico": "v/hora-de-aventura-s03e20.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S03E21 🌀",
-          "linkFisico": "v/hora-de-aventura-s03e21.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S03E22 🌀",
-          "linkFisico": "v/hora-de-aventura-s03e22.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S03E23 🌀",
-          "linkFisico": "v/hora-de-aventura-s03e23.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S03E24 🌀",
-          "linkFisico": "v/hora-de-aventura-s03e24.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S03E25 🌀",
-          "linkFisico": "v/hora-de-aventura-s03e25.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S03E26 🌀",
-          "linkFisico": "v/hora-de-aventura-s03e26.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        }
-      ],
-      "4": [
-        {
-          "tit": "S04E01 🌀",
-          "linkFisico": "v/hora-de-aventura-s04e01.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S04E02 🌀",
-          "linkFisico": "v/hora-de-aventura-s04e02.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S04E03 🌀",
-          "linkFisico": "v/hora-de-aventura-s04e03.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S04E04 🌀",
-          "linkFisico": "v/hora-de-aventura-s04e04.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S04E05 🌀",
-          "linkFisico": "v/hora-de-aventura-s04e05.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S04E06 🌀",
-          "linkFisico": "v/hora-de-aventura-s04e06.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S04E07 🌀",
-          "linkFisico": "v/hora-de-aventura-s04e07.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S04E08 🌀",
-          "linkFisico": "v/hora-de-aventura-s04e08.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S04E09 🌀",
-          "linkFisico": "v/hora-de-aventura-s04e09.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S04E10 🌀",
-          "linkFisico": "v/hora-de-aventura-s04e10.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S04E11 🌀",
-          "linkFisico": "v/hora-de-aventura-s04e11.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S04E12 🌀",
-          "linkFisico": "v/hora-de-aventura-s04e12.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S04E13 🌀",
-          "linkFisico": "v/hora-de-aventura-s04e13.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S04E14 🌀",
-          "linkFisico": "v/hora-de-aventura-s04e14.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S04E15 🌀",
-          "linkFisico": "v/hora-de-aventura-s04e15.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S04E16 🌀",
-          "linkFisico": "v/hora-de-aventura-s04e16.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S04E17 🌀",
-          "linkFisico": "v/hora-de-aventura-s04e17.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S04E18 🌀",
-          "linkFisico": "v/hora-de-aventura-s04e18.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S04E19 🌀",
-          "linkFisico": "v/hora-de-aventura-s04e19.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S04E20 🌀",
-          "linkFisico": "v/hora-de-aventura-s04e20.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S04E21 🌀",
-          "linkFisico": "v/hora-de-aventura-s04e21.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S04E22 🌀",
-          "linkFisico": "v/hora-de-aventura-s04e22.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S04E23 🌀",
-          "linkFisico": "v/hora-de-aventura-s04e23.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S04E24 🌀",
-          "linkFisico": "v/hora-de-aventura-s04e24.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S04E25 🌀",
-          "linkFisico": "v/hora-de-aventura-s04e25.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S04E26 🌀",
-          "linkFisico": "v/hora-de-aventura-s04e26.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        }
-      ],
-      "5": [
-        {
-          "tit": "S05E01 🌀",
-          "linkFisico": "v/hora-de-aventura-s05e01.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S05E02 🌀",
-          "linkFisico": "v/hora-de-aventura-s05e02.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S05E03 🌀",
-          "linkFisico": "v/hora-de-aventura-s05e03.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S05E04 🌀",
-          "linkFisico": "v/hora-de-aventura-s05e04.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S05E05 🌀",
-          "linkFisico": "v/hora-de-aventura-s05e05.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S05E06 🌀",
-          "linkFisico": "v/hora-de-aventura-s05e06.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S05E07 🌀",
-          "linkFisico": "v/hora-de-aventura-s05e07.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S05E08 🌀",
-          "linkFisico": "v/hora-de-aventura-s05e08.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S05E09 🌀",
-          "linkFisico": "v/hora-de-aventura-s05e09.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S05E10 🌀",
-          "linkFisico": "v/hora-de-aventura-s05e10.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S05E11 🌀",
-          "linkFisico": "v/hora-de-aventura-s05e11.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S05E12 🌀",
-          "linkFisico": "v/hora-de-aventura-s05e12.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S05E13 🌀",
-          "linkFisico": "v/hora-de-aventura-s05e13.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S05E14 🌀",
-          "linkFisico": "v/hora-de-aventura-s05e14.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S05E15 🌀",
-          "linkFisico": "v/hora-de-aventura-s05e15.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S05E16 🌀",
-          "linkFisico": "v/hora-de-aventura-s05e16.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S05E17 🌀",
-          "linkFisico": "v/hora-de-aventura-s05e17.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S05E18 🌀",
-          "linkFisico": "v/hora-de-aventura-s05e18.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S05E19 🌀",
-          "linkFisico": "v/hora-de-aventura-s05e19.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S05E20 🌀",
-          "linkFisico": "v/hora-de-aventura-s05e20.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S05E21 🌀",
-          "linkFisico": "v/hora-de-aventura-s05e21.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S05E22 🌀",
-          "linkFisico": "v/hora-de-aventura-s05e22.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S05E23 🌀",
-          "linkFisico": "v/hora-de-aventura-s05e23.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S05E24 🌀",
-          "linkFisico": "v/hora-de-aventura-s05e24.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S05E25 🌀",
-          "linkFisico": "v/hora-de-aventura-s05e25.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S05E26 🌀",
-          "linkFisico": "v/hora-de-aventura-s05e26.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S05E27 🌀",
-          "linkFisico": "v/hora-de-aventura-s05e27.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S05E28 🌀",
-          "linkFisico": "v/hora-de-aventura-s05e28.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S05E29 🌀",
-          "linkFisico": "v/hora-de-aventura-s05e29.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S05E30 🌀",
-          "linkFisico": "v/hora-de-aventura-s05e30.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S05E31 🌀",
-          "linkFisico": "v/hora-de-aventura-s05e31.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S05E32 🌀",
-          "linkFisico": "v/hora-de-aventura-s05e32.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S05E33 🌀",
-          "linkFisico": "v/hora-de-aventura-s05e33.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S05E34 🌀",
-          "linkFisico": "v/hora-de-aventura-s05e34.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S05E35 🌀",
-          "linkFisico": "v/hora-de-aventura-s05e35.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S05E36 🌀",
-          "linkFisico": "v/hora-de-aventura-s05e36.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S05E37 🌀",
-          "linkFisico": "v/hora-de-aventura-s05e37.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S05E38 🌀",
-          "linkFisico": "v/hora-de-aventura-s05e38.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S05E39 🌀",
-          "linkFisico": "v/hora-de-aventura-s05e39.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S05E40 🌀",
-          "linkFisico": "v/hora-de-aventura-s05e40.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S05E41 🌀",
-          "linkFisico": "v/hora-de-aventura-s05e41.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S05E42 🌀",
-          "linkFisico": "v/hora-de-aventura-s05e42.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S05E43 🌀",
-          "linkFisico": "v/hora-de-aventura-s05e43.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S05E44 🌀",
-          "linkFisico": "v/hora-de-aventura-s05e44.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S05E45 🌀",
-          "linkFisico": "v/hora-de-aventura-s05e45.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S05E46 🌀",
-          "linkFisico": "v/hora-de-aventura-s05e46.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S05E47 🌀",
-          "linkFisico": "v/hora-de-aventura-s05e47.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S05E48 🌀",
-          "linkFisico": "v/hora-de-aventura-s05e48.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S05E49 🌀",
-          "linkFisico": "v/hora-de-aventura-s05e49.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S05E50 🌀",
-          "linkFisico": "v/hora-de-aventura-s05e50.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S05E51 🌀",
-          "linkFisico": "v/hora-de-aventura-s05e51.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S05E52 🌀",
-          "linkFisico": "v/hora-de-aventura-s05e52.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        }
-      ],
-      "6": [
-        {
-          "tit": "S06E01 🌀",
-          "linkFisico": "v/hora-de-aventura-s06e01.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S06E02 🌀",
-          "linkFisico": "v/hora-de-aventura-s06e02.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S06E03 🌀",
-          "linkFisico": "v/hora-de-aventura-s06e03.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S06E04 🌀",
-          "linkFisico": "v/hora-de-aventura-s06e04.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S06E05 🌀",
-          "linkFisico": "v/hora-de-aventura-s06e05.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S06E06 🌀",
-          "linkFisico": "v/hora-de-aventura-s06e06.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S06E07 🌀",
-          "linkFisico": "v/hora-de-aventura-s06e07.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S06E08 🌀",
-          "linkFisico": "v/hora-de-aventura-s06e08.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S06E09 🌀",
-          "linkFisico": "v/hora-de-aventura-s06e09.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S06E10 🌀",
-          "linkFisico": "v/hora-de-aventura-s06e10.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S06E11 🌀",
-          "linkFisico": "v/hora-de-aventura-s06e11.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S06E12 🌀",
-          "linkFisico": "v/hora-de-aventura-s06e12.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S06E13 🌀",
-          "linkFisico": "v/hora-de-aventura-s06e13.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S06E14 🌀",
-          "linkFisico": "v/hora-de-aventura-s06e14.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S06E15 🌀",
-          "linkFisico": "v/hora-de-aventura-s06e15.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S06E16 🌀",
-          "linkFisico": "v/hora-de-aventura-s06e16.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S06E17 🌀",
-          "linkFisico": "v/hora-de-aventura-s06e17.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S06E18 🌀",
-          "linkFisico": "v/hora-de-aventura-s06e18.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S06E19 🌀",
-          "linkFisico": "v/hora-de-aventura-s06e19.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S06E20 🌀",
-          "linkFisico": "v/hora-de-aventura-s06e20.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S06E21 🌀",
-          "linkFisico": "v/hora-de-aventura-s06e21.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S06E22 🌀",
-          "linkFisico": "v/hora-de-aventura-s06e22.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S06E23 🌀",
-          "linkFisico": "v/hora-de-aventura-s06e23.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S06E24 🌀",
-          "linkFisico": "v/hora-de-aventura-s06e24.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S06E25 🌀",
-          "linkFisico": "v/hora-de-aventura-s06e25.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S06E26 🌀",
-          "linkFisico": "v/hora-de-aventura-s06e26.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S06E27 🌀",
-          "linkFisico": "v/hora-de-aventura-s06e27.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S06E28 🌀",
-          "linkFisico": "v/hora-de-aventura-s06e28.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S06E29 🌀",
-          "linkFisico": "v/hora-de-aventura-s06e29.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S06E30 🌀",
-          "linkFisico": "v/hora-de-aventura-s06e30.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S06E31 🌀",
-          "linkFisico": "v/hora-de-aventura-s06e31.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S06E32 🌀",
-          "linkFisico": "v/hora-de-aventura-s06e32.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S06E33 🌀",
-          "linkFisico": "v/hora-de-aventura-s06e33.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S06E34 🌀",
-          "linkFisico": "v/hora-de-aventura-s06e34.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S06E35 🌀",
-          "linkFisico": "v/hora-de-aventura-s06e35.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S06E36 🌀",
-          "linkFisico": "v/hora-de-aventura-s06e36.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S06E37 🌀",
-          "linkFisico": "v/hora-de-aventura-s06e37.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S06E38 🌀",
-          "linkFisico": "v/hora-de-aventura-s06e38.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S06E39 🌀",
-          "linkFisico": "v/hora-de-aventura-s06e39.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S06E40 🌀",
-          "linkFisico": "v/hora-de-aventura-s06e40.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S06E41 🌀",
-          "linkFisico": "v/hora-de-aventura-s06e41.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S06E42 🌀",
-          "linkFisico": "v/hora-de-aventura-s06e42.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S06E43 🌀",
-          "linkFisico": "v/hora-de-aventura-s06e43.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        }
-      ],
-      "7": [
-        {
-          "tit": "S07E01 🌀",
-          "linkFisico": "v/hora-de-aventura-s07e01.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S07E02 🌀",
-          "linkFisico": "v/hora-de-aventura-s07e02.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S07E03 🌀",
-          "linkFisico": "v/hora-de-aventura-s07e03.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S07E04 🌀",
-          "linkFisico": "v/hora-de-aventura-s07e04.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S07E05 🌀",
-          "linkFisico": "v/hora-de-aventura-s07e05.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S07E06 🌀",
-          "linkFisico": "v/hora-de-aventura-s07e06.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S07E07 🌀",
-          "linkFisico": "v/hora-de-aventura-s07e07.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S07E08 🌀",
-          "linkFisico": "v/hora-de-aventura-s07e08.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S07E09 🌀",
-          "linkFisico": "v/hora-de-aventura-s07e09.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S07E10 🌀",
-          "linkFisico": "v/hora-de-aventura-s07e10.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S07E11 🌀",
-          "linkFisico": "v/hora-de-aventura-s07e11.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S07E12 🌀",
-          "linkFisico": "v/hora-de-aventura-s07e12.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S07E13 🌀",
-          "linkFisico": "v/hora-de-aventura-s07e13.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S07E14 🌀",
-          "linkFisico": "v/hora-de-aventura-s07e14.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S07E15 🌀",
-          "linkFisico": "v/hora-de-aventura-s07e15.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S07E16 🌀",
-          "linkFisico": "v/hora-de-aventura-s07e16.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S07E17 🌀",
-          "linkFisico": "v/hora-de-aventura-s07e17.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S07E18 🌀",
-          "linkFisico": "v/hora-de-aventura-s07e18.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S07E19 🌀",
-          "linkFisico": "v/hora-de-aventura-s07e19.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S07E20 🌀",
-          "linkFisico": "v/hora-de-aventura-s07e20.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S07E21 🌀",
-          "linkFisico": "v/hora-de-aventura-s07e21.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S07E22 🌀",
-          "linkFisico": "v/hora-de-aventura-s07e22.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S07E23 🌀",
-          "linkFisico": "v/hora-de-aventura-s07e23.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S07E24 🌀",
-          "linkFisico": "v/hora-de-aventura-s07e24.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S07E25 🌀",
-          "linkFisico": "v/hora-de-aventura-s07e25.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S07E26 🌀",
-          "linkFisico": "v/hora-de-aventura-s07e26.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S07E27 🌀",
-          "linkFisico": "v/hora-de-aventura-s07e27.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S07E28 🌀",
-          "linkFisico": "v/hora-de-aventura-s07e28.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S07E29 🌀",
-          "linkFisico": "v/hora-de-aventura-s07e29.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S07E30 🌀",
-          "linkFisico": "v/hora-de-aventura-s07e30.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S07E31 🌀",
-          "linkFisico": "v/hora-de-aventura-s07e31.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S07E32 🌀",
-          "linkFisico": "v/hora-de-aventura-s07e32.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S07E33 🌀",
-          "linkFisico": "v/hora-de-aventura-s07e33.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S07E34 🌀",
-          "linkFisico": "v/hora-de-aventura-s07e34.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S07E35 🌀",
-          "linkFisico": "v/hora-de-aventura-s07e35.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S07E36 🌀",
-          "linkFisico": "v/hora-de-aventura-s07e36.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S07E37 🌀",
-          "linkFisico": "v/hora-de-aventura-s07e37.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S07E38 🌀",
-          "linkFisico": "v/hora-de-aventura-s07e38.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S07E39 🌀",
-          "linkFisico": "v/hora-de-aventura-s07e39.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        }
-      ],
-      "8": [
-        {
-          "tit": "S08E01 🌀",
-          "linkFisico": "v/hora-de-aventura-s08e01.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S08E02 🌀",
-          "linkFisico": "v/hora-de-aventura-s08e02.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S08E03 🌀",
-          "linkFisico": "v/hora-de-aventura-s08e03.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S08E04 🌀",
-          "linkFisico": "v/hora-de-aventura-s08e04.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S08E05 🌀",
-          "linkFisico": "v/hora-de-aventura-s08e05.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S08E06 🌀",
-          "linkFisico": "v/hora-de-aventura-s08e06.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S08E07 🌀",
-          "linkFisico": "v/hora-de-aventura-s08e07.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S08E08 🌀",
-          "linkFisico": "v/hora-de-aventura-s08e08.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S08E09 🌀",
-          "linkFisico": "v/hora-de-aventura-s08e09.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S08E10 🌀",
-          "linkFisico": "v/hora-de-aventura-s08e10.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S08E11 🌀",
-          "linkFisico": "v/hora-de-aventura-s08e11.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S08E12 🌀",
-          "linkFisico": "v/hora-de-aventura-s08e12.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S08E13 🌀",
-          "linkFisico": "v/hora-de-aventura-s08e13.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S08E14 🌀",
-          "linkFisico": "v/hora-de-aventura-s08e14.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S08E15 🌀",
-          "linkFisico": "v/hora-de-aventura-s08e15.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S08E16 🌀",
-          "linkFisico": "v/hora-de-aventura-s08e16.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S08E17 🌀",
-          "linkFisico": "v/hora-de-aventura-s08e17.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S08E18 🌀",
-          "linkFisico": "v/hora-de-aventura-s08e18.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S08E19 🌀",
-          "linkFisico": "v/hora-de-aventura-s08e19.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S08E20 🌀",
-          "linkFisico": "v/hora-de-aventura-s08e20.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S08E21 🌀",
-          "linkFisico": "v/hora-de-aventura-s08e21.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S08E22 🌀",
-          "linkFisico": "v/hora-de-aventura-s08e22.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S08E23 🌀",
-          "linkFisico": "v/hora-de-aventura-s08e23.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S08E24 🌀",
-          "linkFisico": "v/hora-de-aventura-s08e24.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S08E25 🌀",
-          "linkFisico": "v/hora-de-aventura-s08e25.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S08E26 🌀",
-          "linkFisico": "v/hora-de-aventura-s08e26.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S08E27 🌀",
-          "linkFisico": "v/hora-de-aventura-s08e27.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S08E28 🌀",
-          "linkFisico": "v/hora-de-aventura-s08e28.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        }
-      ],
-      "9": [
-        {
-          "tit": "S09E01 🌀",
-          "linkFisico": "v/hora-de-aventura-s09e01.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S09E02 🌀",
-          "linkFisico": "v/hora-de-aventura-s09e02.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S09E03 🌀",
-          "linkFisico": "v/hora-de-aventura-s09e03.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S09E04 🌀",
-          "linkFisico": "v/hora-de-aventura-s09e04.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S09E05 🌀",
-          "linkFisico": "v/hora-de-aventura-s09e05.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S09E06 🌀",
-          "linkFisico": "v/hora-de-aventura-s09e06.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S09E07 🌀",
-          "linkFisico": "v/hora-de-aventura-s09e07.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S09E08 🌀",
-          "linkFisico": "v/hora-de-aventura-s09e08.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S09E09 🌀",
-          "linkFisico": "v/hora-de-aventura-s09e09.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S09E10 🌀",
-          "linkFisico": "v/hora-de-aventura-s09e10.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S09E11 🌀",
-          "linkFisico": "v/hora-de-aventura-s09e11.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S09E12 🌀",
-          "linkFisico": "v/hora-de-aventura-s09e12.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S09E13 🌀",
-          "linkFisico": "v/hora-de-aventura-s09e13.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S09E14 🌀",
-          "linkFisico": "v/hora-de-aventura-s09e14.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        }
-      ],
-      "10": [
-        {
-          "tit": "S10E01 🌀",
-          "linkFisico": "v/hora-de-aventura-s10e01.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S10E02 🌀",
-          "linkFisico": "v/hora-de-aventura-s10e02.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S10E03 🌀",
-          "linkFisico": "v/hora-de-aventura-s10e03.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S10E04 🌀",
-          "linkFisico": "v/hora-de-aventura-s10e04.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S10E05 🌀",
-          "linkFisico": "v/hora-de-aventura-s10e05.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S10E06 🌀",
-          "linkFisico": "v/hora-de-aventura-s10e06.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S10E07 🌀",
-          "linkFisico": "v/hora-de-aventura-s10e07.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S10E08 🌀",
-          "linkFisico": "v/hora-de-aventura-s10e08.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S10E09 🌀",
-          "linkFisico": "v/hora-de-aventura-s10e09.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S10E10 🌀",
-          "linkFisico": "v/hora-de-aventura-s10e10.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S10E11 🌀",
-          "linkFisico": "v/hora-de-aventura-s10e11.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S10E12 🌀",
-          "linkFisico": "v/hora-de-aventura-s10e12.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S10E13 🌀",
-          "linkFisico": "v/hora-de-aventura-s10e13.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S10E14 🌀",
-          "linkFisico": "v/hora-de-aventura-s10e14.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S10E15 🌀",
-          "linkFisico": "v/hora-de-aventura-s10e15.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        },
-        {
-          "tit": "S10E16 🌀",
-          "linkFisico": "v/hora-de-aventura-s10e16.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
-        }
-      ]
-    },
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/3uE9SUywNbj1qSAuYCGgbTTYku5.jpg"
-  },
-  {
     "id": "horton-e-o-mundo-dos-quem",
     "tipo": "filme",
     "categoria": "Animações",
@@ -22279,6 +20766,1436 @@
           "tit": "S15E20 🌀",
           "linkFisico": "v/supernatural-s15e20.html",
           "logoEp": "https://image.tmdb.org/t/p/w1280/rTS409d3GgcPDjdc9ut2khzHDp3.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "hora-de-aventura",
+    "tipo": "serie",
+    "categoria": "Séries",
+    "titulo": "Hora de Aventura 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/2EMpiF1GireQHs3f9JKCFoKElju.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/xvT35Utsxpydm9svjBfrrjG8Hg5.png",
+    "sinopse": "Com 12 anos de idade, Finn combate o mal na terra de Ooo na companhia de seu cachorro mágico, Jake. Quando estes dois grandes amigos se juntam e dizem as palavras mágicas \"Hora de Aventura\", tudo pode acontecer.",
+    "nota": "8.5",
+    "avaliacao": "8.5",
+    "classificacao": "10",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "S01E01 🌀",
+          "linkFisico": "v/hora-de-aventura-s01e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S01E02 🌀",
+          "linkFisico": "v/hora-de-aventura-s01e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S01E03 🌀",
+          "linkFisico": "v/hora-de-aventura-s01e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S01E04 🌀",
+          "linkFisico": "v/hora-de-aventura-s01e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S01E05 🌀",
+          "linkFisico": "v/hora-de-aventura-s01e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S01E06 🌀",
+          "linkFisico": "v/hora-de-aventura-s01e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S01E07 🌀",
+          "linkFisico": "v/hora-de-aventura-s01e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S01E08 🌀",
+          "linkFisico": "v/hora-de-aventura-s01e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S01E09 🌀",
+          "linkFisico": "v/hora-de-aventura-s01e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S01E10 🌀",
+          "linkFisico": "v/hora-de-aventura-s01e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S01E11 🌀",
+          "linkFisico": "v/hora-de-aventura-s01e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S01E12 🌀",
+          "linkFisico": "v/hora-de-aventura-s01e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S01E13 🌀",
+          "linkFisico": "v/hora-de-aventura-s01e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S01E14 🌀",
+          "linkFisico": "v/hora-de-aventura-s01e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S01E15 🌀",
+          "linkFisico": "v/hora-de-aventura-s01e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S01E16 🌀",
+          "linkFisico": "v/hora-de-aventura-s01e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S01E17 🌀",
+          "linkFisico": "v/hora-de-aventura-s01e17.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S01E18 🌀",
+          "linkFisico": "v/hora-de-aventura-s01e18.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S01E19 🌀",
+          "linkFisico": "v/hora-de-aventura-s01e19.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S01E20 🌀",
+          "linkFisico": "v/hora-de-aventura-s01e20.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S01E21 🌀",
+          "linkFisico": "v/hora-de-aventura-s01e21.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S01E22 🌀",
+          "linkFisico": "v/hora-de-aventura-s01e22.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S01E23 🌀",
+          "linkFisico": "v/hora-de-aventura-s01e23.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S01E24 🌀",
+          "linkFisico": "v/hora-de-aventura-s01e24.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S01E25 🌀",
+          "linkFisico": "v/hora-de-aventura-s01e25.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S01E26 🌀",
+          "linkFisico": "v/hora-de-aventura-s01e26.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        }
+      ],
+      "2": [
+        {
+          "tit": "S02E01 🌀",
+          "linkFisico": "v/hora-de-aventura-s02e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S02E02 🌀",
+          "linkFisico": "v/hora-de-aventura-s02e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S02E03 🌀",
+          "linkFisico": "v/hora-de-aventura-s02e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S02E04 🌀",
+          "linkFisico": "v/hora-de-aventura-s02e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S02E05 🌀",
+          "linkFisico": "v/hora-de-aventura-s02e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S02E06 🌀",
+          "linkFisico": "v/hora-de-aventura-s02e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S02E07 🌀",
+          "linkFisico": "v/hora-de-aventura-s02e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S02E08 🌀",
+          "linkFisico": "v/hora-de-aventura-s02e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S02E09 🌀",
+          "linkFisico": "v/hora-de-aventura-s02e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S02E10 🌀",
+          "linkFisico": "v/hora-de-aventura-s02e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S02E11 🌀",
+          "linkFisico": "v/hora-de-aventura-s02e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S02E12 🌀",
+          "linkFisico": "v/hora-de-aventura-s02e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S02E13 🌀",
+          "linkFisico": "v/hora-de-aventura-s02e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S02E14 🌀",
+          "linkFisico": "v/hora-de-aventura-s02e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S02E15 🌀",
+          "linkFisico": "v/hora-de-aventura-s02e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S02E16 🌀",
+          "linkFisico": "v/hora-de-aventura-s02e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S02E17 🌀",
+          "linkFisico": "v/hora-de-aventura-s02e17.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S02E18 🌀",
+          "linkFisico": "v/hora-de-aventura-s02e18.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S02E19 🌀",
+          "linkFisico": "v/hora-de-aventura-s02e19.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S02E20 🌀",
+          "linkFisico": "v/hora-de-aventura-s02e20.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S02E21 🌀",
+          "linkFisico": "v/hora-de-aventura-s02e21.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S02E22 🌀",
+          "linkFisico": "v/hora-de-aventura-s02e22.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S02E23 🌀",
+          "linkFisico": "v/hora-de-aventura-s02e23.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S02E24 🌀",
+          "linkFisico": "v/hora-de-aventura-s02e24.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S02E25 🌀",
+          "linkFisico": "v/hora-de-aventura-s02e25.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S02E26 🌀",
+          "linkFisico": "v/hora-de-aventura-s02e26.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        }
+      ],
+      "3": [
+        {
+          "tit": "S03E01 🌀",
+          "linkFisico": "v/hora-de-aventura-s03e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S03E02 🌀",
+          "linkFisico": "v/hora-de-aventura-s03e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S03E03 🌀",
+          "linkFisico": "v/hora-de-aventura-s03e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S03E04 🌀",
+          "linkFisico": "v/hora-de-aventura-s03e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S03E05 🌀",
+          "linkFisico": "v/hora-de-aventura-s03e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S03E06 🌀",
+          "linkFisico": "v/hora-de-aventura-s03e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S03E07 🌀",
+          "linkFisico": "v/hora-de-aventura-s03e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S03E08 🌀",
+          "linkFisico": "v/hora-de-aventura-s03e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S03E09 🌀",
+          "linkFisico": "v/hora-de-aventura-s03e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S03E10 🌀",
+          "linkFisico": "v/hora-de-aventura-s03e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S03E11 🌀",
+          "linkFisico": "v/hora-de-aventura-s03e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S03E12 🌀",
+          "linkFisico": "v/hora-de-aventura-s03e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S03E13 🌀",
+          "linkFisico": "v/hora-de-aventura-s03e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S03E14 🌀",
+          "linkFisico": "v/hora-de-aventura-s03e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S03E15 🌀",
+          "linkFisico": "v/hora-de-aventura-s03e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S03E16 🌀",
+          "linkFisico": "v/hora-de-aventura-s03e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S03E17 🌀",
+          "linkFisico": "v/hora-de-aventura-s03e17.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S03E18 🌀",
+          "linkFisico": "v/hora-de-aventura-s03e18.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S03E19 🌀",
+          "linkFisico": "v/hora-de-aventura-s03e19.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S03E20 🌀",
+          "linkFisico": "v/hora-de-aventura-s03e20.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S03E21 🌀",
+          "linkFisico": "v/hora-de-aventura-s03e21.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S03E22 🌀",
+          "linkFisico": "v/hora-de-aventura-s03e22.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S03E23 🌀",
+          "linkFisico": "v/hora-de-aventura-s03e23.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S03E24 🌀",
+          "linkFisico": "v/hora-de-aventura-s03e24.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S03E25 🌀",
+          "linkFisico": "v/hora-de-aventura-s03e25.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S03E26 🌀",
+          "linkFisico": "v/hora-de-aventura-s03e26.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        }
+      ],
+      "4": [
+        {
+          "tit": "S04E01 🌀",
+          "linkFisico": "v/hora-de-aventura-s04e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S04E02 🌀",
+          "linkFisico": "v/hora-de-aventura-s04e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S04E03 🌀",
+          "linkFisico": "v/hora-de-aventura-s04e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S04E04 🌀",
+          "linkFisico": "v/hora-de-aventura-s04e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S04E05 🌀",
+          "linkFisico": "v/hora-de-aventura-s04e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S04E06 🌀",
+          "linkFisico": "v/hora-de-aventura-s04e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S04E07 🌀",
+          "linkFisico": "v/hora-de-aventura-s04e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S04E08 🌀",
+          "linkFisico": "v/hora-de-aventura-s04e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S04E09 🌀",
+          "linkFisico": "v/hora-de-aventura-s04e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S04E10 🌀",
+          "linkFisico": "v/hora-de-aventura-s04e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S04E11 🌀",
+          "linkFisico": "v/hora-de-aventura-s04e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S04E12 🌀",
+          "linkFisico": "v/hora-de-aventura-s04e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S04E13 🌀",
+          "linkFisico": "v/hora-de-aventura-s04e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S04E14 🌀",
+          "linkFisico": "v/hora-de-aventura-s04e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S04E15 🌀",
+          "linkFisico": "v/hora-de-aventura-s04e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S04E16 🌀",
+          "linkFisico": "v/hora-de-aventura-s04e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S04E17 🌀",
+          "linkFisico": "v/hora-de-aventura-s04e17.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S04E18 🌀",
+          "linkFisico": "v/hora-de-aventura-s04e18.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S04E19 🌀",
+          "linkFisico": "v/hora-de-aventura-s04e19.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S04E20 🌀",
+          "linkFisico": "v/hora-de-aventura-s04e20.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S04E21 🌀",
+          "linkFisico": "v/hora-de-aventura-s04e21.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S04E22 🌀",
+          "linkFisico": "v/hora-de-aventura-s04e22.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S04E23 🌀",
+          "linkFisico": "v/hora-de-aventura-s04e23.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S04E24 🌀",
+          "linkFisico": "v/hora-de-aventura-s04e24.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S04E25 🌀",
+          "linkFisico": "v/hora-de-aventura-s04e25.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S04E26 🌀",
+          "linkFisico": "v/hora-de-aventura-s04e26.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        }
+      ],
+      "5": [
+        {
+          "tit": "S05E01 🌀",
+          "linkFisico": "v/hora-de-aventura-s05e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S05E02 🌀",
+          "linkFisico": "v/hora-de-aventura-s05e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S05E03 🌀",
+          "linkFisico": "v/hora-de-aventura-s05e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S05E04 🌀",
+          "linkFisico": "v/hora-de-aventura-s05e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S05E05 🌀",
+          "linkFisico": "v/hora-de-aventura-s05e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S05E06 🌀",
+          "linkFisico": "v/hora-de-aventura-s05e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S05E07 🌀",
+          "linkFisico": "v/hora-de-aventura-s05e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S05E08 🌀",
+          "linkFisico": "v/hora-de-aventura-s05e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S05E09 🌀",
+          "linkFisico": "v/hora-de-aventura-s05e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S05E10 🌀",
+          "linkFisico": "v/hora-de-aventura-s05e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S05E11 🌀",
+          "linkFisico": "v/hora-de-aventura-s05e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S05E12 🌀",
+          "linkFisico": "v/hora-de-aventura-s05e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S05E13 🌀",
+          "linkFisico": "v/hora-de-aventura-s05e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S05E14 🌀",
+          "linkFisico": "v/hora-de-aventura-s05e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S05E15 🌀",
+          "linkFisico": "v/hora-de-aventura-s05e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S05E16 🌀",
+          "linkFisico": "v/hora-de-aventura-s05e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S05E17 🌀",
+          "linkFisico": "v/hora-de-aventura-s05e17.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S05E18 🌀",
+          "linkFisico": "v/hora-de-aventura-s05e18.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S05E19 🌀",
+          "linkFisico": "v/hora-de-aventura-s05e19.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S05E20 🌀",
+          "linkFisico": "v/hora-de-aventura-s05e20.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S05E21 🌀",
+          "linkFisico": "v/hora-de-aventura-s05e21.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S05E22 🌀",
+          "linkFisico": "v/hora-de-aventura-s05e22.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S05E23 🌀",
+          "linkFisico": "v/hora-de-aventura-s05e23.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S05E24 🌀",
+          "linkFisico": "v/hora-de-aventura-s05e24.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S05E25 🌀",
+          "linkFisico": "v/hora-de-aventura-s05e25.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S05E26 🌀",
+          "linkFisico": "v/hora-de-aventura-s05e26.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S05E27 🌀",
+          "linkFisico": "v/hora-de-aventura-s05e27.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S05E28 🌀",
+          "linkFisico": "v/hora-de-aventura-s05e28.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S05E29 🌀",
+          "linkFisico": "v/hora-de-aventura-s05e29.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S05E30 🌀",
+          "linkFisico": "v/hora-de-aventura-s05e30.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S05E31 🌀",
+          "linkFisico": "v/hora-de-aventura-s05e31.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S05E32 🌀",
+          "linkFisico": "v/hora-de-aventura-s05e32.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S05E33 🌀",
+          "linkFisico": "v/hora-de-aventura-s05e33.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S05E34 🌀",
+          "linkFisico": "v/hora-de-aventura-s05e34.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S05E35 🌀",
+          "linkFisico": "v/hora-de-aventura-s05e35.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S05E36 🌀",
+          "linkFisico": "v/hora-de-aventura-s05e36.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S05E37 🌀",
+          "linkFisico": "v/hora-de-aventura-s05e37.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S05E38 🌀",
+          "linkFisico": "v/hora-de-aventura-s05e38.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S05E39 🌀",
+          "linkFisico": "v/hora-de-aventura-s05e39.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S05E40 🌀",
+          "linkFisico": "v/hora-de-aventura-s05e40.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S05E41 🌀",
+          "linkFisico": "v/hora-de-aventura-s05e41.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S05E42 🌀",
+          "linkFisico": "v/hora-de-aventura-s05e42.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S05E43 🌀",
+          "linkFisico": "v/hora-de-aventura-s05e43.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S05E44 🌀",
+          "linkFisico": "v/hora-de-aventura-s05e44.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S05E45 🌀",
+          "linkFisico": "v/hora-de-aventura-s05e45.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S05E46 🌀",
+          "linkFisico": "v/hora-de-aventura-s05e46.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S05E47 🌀",
+          "linkFisico": "v/hora-de-aventura-s05e47.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S05E48 🌀",
+          "linkFisico": "v/hora-de-aventura-s05e48.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S05E49 🌀",
+          "linkFisico": "v/hora-de-aventura-s05e49.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S05E50 🌀",
+          "linkFisico": "v/hora-de-aventura-s05e50.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S05E51 🌀",
+          "linkFisico": "v/hora-de-aventura-s05e51.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S05E52 🌀",
+          "linkFisico": "v/hora-de-aventura-s05e52.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        }
+      ],
+      "6": [
+        {
+          "tit": "S06E01 🌀",
+          "linkFisico": "v/hora-de-aventura-s06e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S06E02 🌀",
+          "linkFisico": "v/hora-de-aventura-s06e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S06E03 🌀",
+          "linkFisico": "v/hora-de-aventura-s06e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S06E04 🌀",
+          "linkFisico": "v/hora-de-aventura-s06e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S06E05 🌀",
+          "linkFisico": "v/hora-de-aventura-s06e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S06E06 🌀",
+          "linkFisico": "v/hora-de-aventura-s06e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S06E07 🌀",
+          "linkFisico": "v/hora-de-aventura-s06e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S06E08 🌀",
+          "linkFisico": "v/hora-de-aventura-s06e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S06E09 🌀",
+          "linkFisico": "v/hora-de-aventura-s06e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S06E10 🌀",
+          "linkFisico": "v/hora-de-aventura-s06e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S06E11 🌀",
+          "linkFisico": "v/hora-de-aventura-s06e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S06E12 🌀",
+          "linkFisico": "v/hora-de-aventura-s06e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S06E13 🌀",
+          "linkFisico": "v/hora-de-aventura-s06e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S06E14 🌀",
+          "linkFisico": "v/hora-de-aventura-s06e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S06E15 🌀",
+          "linkFisico": "v/hora-de-aventura-s06e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S06E16 🌀",
+          "linkFisico": "v/hora-de-aventura-s06e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S06E17 🌀",
+          "linkFisico": "v/hora-de-aventura-s06e17.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S06E18 🌀",
+          "linkFisico": "v/hora-de-aventura-s06e18.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S06E19 🌀",
+          "linkFisico": "v/hora-de-aventura-s06e19.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S06E20 🌀",
+          "linkFisico": "v/hora-de-aventura-s06e20.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S06E21 🌀",
+          "linkFisico": "v/hora-de-aventura-s06e21.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S06E22 🌀",
+          "linkFisico": "v/hora-de-aventura-s06e22.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S06E23 🌀",
+          "linkFisico": "v/hora-de-aventura-s06e23.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S06E24 🌀",
+          "linkFisico": "v/hora-de-aventura-s06e24.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S06E25 🌀",
+          "linkFisico": "v/hora-de-aventura-s06e25.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S06E26 🌀",
+          "linkFisico": "v/hora-de-aventura-s06e26.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S06E27 🌀",
+          "linkFisico": "v/hora-de-aventura-s06e27.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S06E28 🌀",
+          "linkFisico": "v/hora-de-aventura-s06e28.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S06E29 🌀",
+          "linkFisico": "v/hora-de-aventura-s06e29.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S06E30 🌀",
+          "linkFisico": "v/hora-de-aventura-s06e30.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S06E31 🌀",
+          "linkFisico": "v/hora-de-aventura-s06e31.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S06E32 🌀",
+          "linkFisico": "v/hora-de-aventura-s06e32.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S06E33 🌀",
+          "linkFisico": "v/hora-de-aventura-s06e33.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S06E34 🌀",
+          "linkFisico": "v/hora-de-aventura-s06e34.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S06E35 🌀",
+          "linkFisico": "v/hora-de-aventura-s06e35.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S06E36 🌀",
+          "linkFisico": "v/hora-de-aventura-s06e36.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S06E37 🌀",
+          "linkFisico": "v/hora-de-aventura-s06e37.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S06E38 🌀",
+          "linkFisico": "v/hora-de-aventura-s06e38.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S06E39 🌀",
+          "linkFisico": "v/hora-de-aventura-s06e39.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S06E40 🌀",
+          "linkFisico": "v/hora-de-aventura-s06e40.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S06E41 🌀",
+          "linkFisico": "v/hora-de-aventura-s06e41.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S06E42 🌀",
+          "linkFisico": "v/hora-de-aventura-s06e42.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S06E43 🌀",
+          "linkFisico": "v/hora-de-aventura-s06e43.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        }
+      ],
+      "7": [
+        {
+          "tit": "S07E01 🌀",
+          "linkFisico": "v/hora-de-aventura-s07e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S07E02 🌀",
+          "linkFisico": "v/hora-de-aventura-s07e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S07E03 🌀",
+          "linkFisico": "v/hora-de-aventura-s07e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S07E04 🌀",
+          "linkFisico": "v/hora-de-aventura-s07e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S07E05 🌀",
+          "linkFisico": "v/hora-de-aventura-s07e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S07E06 🌀",
+          "linkFisico": "v/hora-de-aventura-s07e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S07E07 🌀",
+          "linkFisico": "v/hora-de-aventura-s07e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S07E08 🌀",
+          "linkFisico": "v/hora-de-aventura-s07e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S07E09 🌀",
+          "linkFisico": "v/hora-de-aventura-s07e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S07E10 🌀",
+          "linkFisico": "v/hora-de-aventura-s07e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S07E11 🌀",
+          "linkFisico": "v/hora-de-aventura-s07e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S07E12 🌀",
+          "linkFisico": "v/hora-de-aventura-s07e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S07E13 🌀",
+          "linkFisico": "v/hora-de-aventura-s07e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S07E14 🌀",
+          "linkFisico": "v/hora-de-aventura-s07e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S07E15 🌀",
+          "linkFisico": "v/hora-de-aventura-s07e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S07E16 🌀",
+          "linkFisico": "v/hora-de-aventura-s07e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S07E17 🌀",
+          "linkFisico": "v/hora-de-aventura-s07e17.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S07E18 🌀",
+          "linkFisico": "v/hora-de-aventura-s07e18.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S07E19 🌀",
+          "linkFisico": "v/hora-de-aventura-s07e19.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S07E20 🌀",
+          "linkFisico": "v/hora-de-aventura-s07e20.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S07E21 🌀",
+          "linkFisico": "v/hora-de-aventura-s07e21.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S07E22 🌀",
+          "linkFisico": "v/hora-de-aventura-s07e22.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S07E23 🌀",
+          "linkFisico": "v/hora-de-aventura-s07e23.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S07E24 🌀",
+          "linkFisico": "v/hora-de-aventura-s07e24.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S07E25 🌀",
+          "linkFisico": "v/hora-de-aventura-s07e25.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S07E26 🌀",
+          "linkFisico": "v/hora-de-aventura-s07e26.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        }
+      ],
+      "8": [
+        {
+          "tit": "S08E01 🌀",
+          "linkFisico": "v/hora-de-aventura-s08e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S08E02 🌀",
+          "linkFisico": "v/hora-de-aventura-s08e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S08E03 🌀",
+          "linkFisico": "v/hora-de-aventura-s08e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S08E04 🌀",
+          "linkFisico": "v/hora-de-aventura-s08e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S08E05 🌀",
+          "linkFisico": "v/hora-de-aventura-s08e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S08E06 🌀",
+          "linkFisico": "v/hora-de-aventura-s08e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S08E07 🌀",
+          "linkFisico": "v/hora-de-aventura-s08e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S08E08 🌀",
+          "linkFisico": "v/hora-de-aventura-s08e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S08E09 🌀",
+          "linkFisico": "v/hora-de-aventura-s08e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S08E10 🌀",
+          "linkFisico": "v/hora-de-aventura-s08e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S08E11 🌀",
+          "linkFisico": "v/hora-de-aventura-s08e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S08E12 🌀",
+          "linkFisico": "v/hora-de-aventura-s08e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S08E13 🌀",
+          "linkFisico": "v/hora-de-aventura-s08e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S08E14 🌀",
+          "linkFisico": "v/hora-de-aventura-s08e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S08E15 🌀",
+          "linkFisico": "v/hora-de-aventura-s08e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S08E16 🌀",
+          "linkFisico": "v/hora-de-aventura-s08e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S08E17 🌀",
+          "linkFisico": "v/hora-de-aventura-s08e17.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S08E18 🌀",
+          "linkFisico": "v/hora-de-aventura-s08e18.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S08E19 🌀",
+          "linkFisico": "v/hora-de-aventura-s08e19.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S08E20 🌀",
+          "linkFisico": "v/hora-de-aventura-s08e20.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S08E21 🌀",
+          "linkFisico": "v/hora-de-aventura-s08e21.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S08E22 🌀",
+          "linkFisico": "v/hora-de-aventura-s08e22.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S08E23 🌀",
+          "linkFisico": "v/hora-de-aventura-s08e23.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S08E24 🌀",
+          "linkFisico": "v/hora-de-aventura-s08e24.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S08E25 🌀",
+          "linkFisico": "v/hora-de-aventura-s08e25.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S08E26 🌀",
+          "linkFisico": "v/hora-de-aventura-s08e26.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S08E27 🌀",
+          "linkFisico": "v/hora-de-aventura-s08e27.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        }
+      ],
+      "9": [
+        {
+          "tit": "S09E01 🌀",
+          "linkFisico": "v/hora-de-aventura-s09e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S09E02 🌀",
+          "linkFisico": "v/hora-de-aventura-s09e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S09E03 🌀",
+          "linkFisico": "v/hora-de-aventura-s09e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S09E04 🌀",
+          "linkFisico": "v/hora-de-aventura-s09e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S09E05 🌀",
+          "linkFisico": "v/hora-de-aventura-s09e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S09E06 🌀",
+          "linkFisico": "v/hora-de-aventura-s09e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S09E07 🌀",
+          "linkFisico": "v/hora-de-aventura-s09e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S09E08 🌀",
+          "linkFisico": "v/hora-de-aventura-s09e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S09E09 🌀",
+          "linkFisico": "v/hora-de-aventura-s09e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S09E10 🌀",
+          "linkFisico": "v/hora-de-aventura-s09e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S09E11 🌀",
+          "linkFisico": "v/hora-de-aventura-s09e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S09E12 🌀",
+          "linkFisico": "v/hora-de-aventura-s09e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S09E13 🌀",
+          "linkFisico": "v/hora-de-aventura-s09e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S09E14 🌀",
+          "linkFisico": "v/hora-de-aventura-s09e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        }
+      ],
+      "10": [
+        {
+          "tit": "S10E01 🌀",
+          "linkFisico": "v/hora-de-aventura-s10e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S10E02 🌀",
+          "linkFisico": "v/hora-de-aventura-s10e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S10E03 🌀",
+          "linkFisico": "v/hora-de-aventura-s10e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S10E04 🌀",
+          "linkFisico": "v/hora-de-aventura-s10e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S10E05 🌀",
+          "linkFisico": "v/hora-de-aventura-s10e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S10E06 🌀",
+          "linkFisico": "v/hora-de-aventura-s10e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S10E07 🌀",
+          "linkFisico": "v/hora-de-aventura-s10e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S10E08 🌀",
+          "linkFisico": "v/hora-de-aventura-s10e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S10E09 🌀",
+          "linkFisico": "v/hora-de-aventura-s10e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S10E10 🌀",
+          "linkFisico": "v/hora-de-aventura-s10e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S10E11 🌀",
+          "linkFisico": "v/hora-de-aventura-s10e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S10E12 🌀",
+          "linkFisico": "v/hora-de-aventura-s10e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
+        },
+        {
+          "tit": "S10E13 🌀",
+          "linkFisico": "v/hora-de-aventura-s10e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t3prNlPmG78lnQT9NSL6tcbsFmD.jpg"
         }
       ]
     }
