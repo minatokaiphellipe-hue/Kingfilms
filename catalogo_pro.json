@@ -23158,5 +23158,27 @@
         }
       ]
     }
+  },
+  {
+    "id": "predador-terras-selvagens",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "Predador: Terras Selvagens 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/f3yLlUrJDdDL8d4nxywyotN45SL.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/3UfqEkMDrEm91bnrEIJa24yb34O.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/i731Fs5IwSYkEyRjbHyJ4QH7Z3T.png",
+    "sinopse": "No futuro, em um planeta remoto, um jovem Predador, rejeitado por seu clã, encontra em Thia uma aliada improvável e embarca em uma jornada traiçoeira em busca do adversário supremo.",
+    "nota": "7.7",
+    "avaliacao": "7.7",
+    "classificacao": "16",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/predador-terras-selvagens.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/3UfqEkMDrEm91bnrEIJa24yb34O.jpg"
+        }
+      ]
+    }
   }
 ]
