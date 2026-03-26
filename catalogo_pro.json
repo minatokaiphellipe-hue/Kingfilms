@@ -8820,26 +8820,6 @@
     }
   },
   {
-    "id": "harry-potter-e-a-ordem-da-fenix",
-    "tipo": "filme",
-    "categoria": "Fantasia",
-    "titulo": "Harry Potter e a Ordem da Fênix 🌀",
-    "logo": "https://image.tmdb.org/t/p/w780/tIf9aUyNljda9MG1pjlOLHCZ3b0.jpg",
-    "sinopse": "Lord Voldemort está de volta, mas o Ministério da Magia está fazendo tudo a seu alcance para impedir que a comunidade mundial de bruxos descubra isso – incluindo indicar a oficial do Ministério, Dolores Umbridge, como a nova professora de Defesa Contra as Artes das Trevas de Hogwarts. Quando Umbridge se recusa a ensinar a prática de mágica defensiva, Rony e Hermione convencem Harry a secretamente treinar um grupo de estudantes para a guerra de magia que está prestes a estourar.",
-    "avaliacao": "7.7",
-    "classificacao": "Livre",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "Assistir 🌀",
-          "linkFisico": "v/harry-potter-e-a-ordem-da-fenix.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/w2lulaNN4sa7RK9A73QGokZd4mO.jpg"
-        }
-      ]
-    },
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/pkxPkHOPJjOvzfQOclANEBT8OfK.jpg"
-  },
-  {
     "id": "harry-potter-1",
     "tipo": "filme",
     "categoria": "Fantasia",
