@@ -22073,5 +22073,49 @@
         }
       ]
     }
+  },
+  {
+    "id": "colinas-de-sangue",
+    "tipo": "filme",
+    "categoria": "Terror",
+    "titulo": "Colinas de Sangue 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/23KP5NlINlYTL2hISrZ6C7gYvxV.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/CbXawPR5URJKQHu3JIXXggRsYs.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/sTkST7OcfsXVbx2y9O88ridkSJJ.png",
+    "sinopse": "Há muitos anos, um filme de terror cujo assassino usava uma máscara de bebê foi considerado o longa-metragem mais assustador já feito. Só que, misteriosamente, ele parou de ser exibido, e o diretor desapareceu. Tyler é obcecado em descobrir o desfecho do longa e de seu criador, por isso reúne um grupo para ir atrás da filha do cineasta. Quando a encontra, ela lhes diz que a localização do filme, o que os leva a uma casa na floresta, e um novo filme de terror, estrelado por aqueles que só queriam assisti-lo, começa.",
+    "nota": "5.8",
+    "avaliacao": "5.8",
+    "classificacao": "18",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/colinas-de-sangue.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/CbXawPR5URJKQHu3JIXXggRsYs.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "a-casa-de-cera",
+    "tipo": "filme",
+    "categoria": "Terror",
+    "titulo": "A Casa de Cera 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/ElZtqGvOxzI1SBR3cCmFkwKQu1.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/wLThHQtp7eV5eXOofLWYI6susoq.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/3AdWCFAPb04hX5WpN3XapmDe5gJ.png",
+    "sinopse": "Um grupo de amigos da faculdade está a caminho de um jogo de futebol quando, em uma cidade fantasma, o carro quebra e são obrigados a procurar auxílio no único lugar que está aberto: o museu de cera local. Eles ficam impressionados com a perfeição das esculturas e logo percebem a razão de tanto realismo. Aterrorizados, fogem para não se transformarem em peças de museu.",
+    "nota": "6.0",
+    "avaliacao": "6.0",
+    "classificacao": "18",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/a-casa-de-cera.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/wLThHQtp7eV5eXOofLWYI6susoq.jpg"
+        }
+      ]
+    }
   }
 ]
