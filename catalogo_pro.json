@@ -5852,676 +5852,6 @@
     "logo_horizontal": "https://image.tmdb.org/t/p/w1280/oz5zbMBKCUsb7hsbjdxvK8yagPD.jpg"
   },
   {
-    "id": "dragon-ball-super",
-    "tipo": "serie",
-    "categoria": "Animes",
-    "titulo": "Dragon Ball Super 🌀",
-    "logo": "https://image.tmdb.org/t/p/w780/cQDCIp92rTzTnd8mjb1syLhrAqy.jpg",
-    "sinopse": "Seis meses após a derrota de Majin Buu, Goku arranja um novo emprego como... fazendeiro de nabos? Agora que a Terra está em paz, nosso heróis levam vidas mundanas, mas não por muito tempo. Longe dali, Bills, o poderoso Deus da Destruição, recebe uma profecia de que encontrará seu fim nas mãos de um ser ainda mais poderoso, e sua busca pelo Deus dos Saiyajins o traz para a Terra. Será que Goku e seus amigos conseguirão derrotar seu mais poderoso inimigo até então?",
-    "avaliacao": "8.2",
-    "classificacao": "10",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "S01E01 🌀 - O Prêmio da Paz! Quem Vai Ficar com os 100 Milhões de Zenes?",
-          "linkFisico": "v/dragon-ball-super-s01e01.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mQwqbaoxaEJdi5xNMnWpt02Y6Bd.jpg"
-        },
-        {
-          "tit": "S01E02 🌀 - As Férias Prometidas! Vegeta Viaja com a Família?",
-          "linkFisico": "v/dragon-ball-super-s01e02.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/6D19DLwM0PG1ECTnWvItyYu1DVV.jpg"
-        },
-        {
-          "tit": "S01E03 🌀 - Cadê o Resto do Meu Sonho?! Em Busca do Deus Super Saiyajin!",
-          "linkFisico": "v/dragon-ball-super-s01e03.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/i2XklGnEBERZ3JPV3219vCPhjRT.jpg"
-        },
-        {
-          "tit": "S01E04 🌀 - Em Busca das Esferas do Dragão! O Grande Plano de Pilaf!",
-          "linkFisico": "v/dragon-ball-super-s01e04.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/4wdZEIzYmQKMkN9zjU3VLPMaBmY.jpg"
-        },
-        {
-          "tit": "S01E05 🌀 - Grande Luta no Planeta do Senhor Kaiô! Goku Versus Bills, o Deus da Destruição!",
-          "linkFisico": "v/dragon-ball-super-s01e05.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/x7zkqoFkEs4llfNW6iturv2b7kv.jpg"
-        },
-        {
-          "tit": "S01E06 🌀 - Não Irritem o Deus da Destruição! Uma Festa de Aniversário Animada!",
-          "linkFisico": "v/dragon-ball-super-s01e06.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/nVyscQsYV5mfTfiFhzkZeT5ewmz.jpg"
-        },
-        {
-          "tit": "S01E07 🌀 - Como Ousa Bater na Minha Bulma? Vegeta Fica Furioso de Repente?!",
-          "linkFisico": "v/dragon-ball-super-s01e07.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/6BFIhumOY0SGhyHLFOiiowSKrAZ.jpg"
-        },
-        {
-          "tit": "S01E08 🌀 - Goku Aparece! Bills Nos Dá Uma Última Chance?!",
-          "linkFisico": "v/dragon-ball-super-s01e08.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/yjNrQ5SuNrrlIBQZ1ZG0qsOrFX5.jpg"
-        },
-        {
-          "tit": "S01E09 🌀 - Desculpe a Demora, Senhor Bills! Finalmente Nasce o Deus Super Saiyajin!",
-          "linkFisico": "v/dragon-ball-super-s01e09.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/dtPbhwpbZcjLOahkKj2QXkeaUyd.jpg"
-        },
-        {
-          "tit": "S01E10 🌀 - Mostre a Ele, Goku! O Poder do Deus Super Saiyajin!",
-          "linkFisico": "v/dragon-ball-super-s01e10.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/cyAEMV5X4N6cp5PTlqvAI8CBBrW.jpg"
-        },
-        {
-          "tit": "S01E11 🌀 - Vamos Continuar, Senhor Bills! A Batalha dos Deuses!",
-          "linkFisico": "v/dragon-ball-super-s01e11.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/icjxZcyrPmDBcdO7jZWzLluxvzE.jpg"
-        },
-        {
-          "tit": "S01E12 🌀 - O Universo Vai Ser Destruído?! O Deus da Destruição Versus O Deus Super Saiyajin!",
-          "linkFisico": "v/dragon-ball-super-s01e12.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/9lpPjLqQFIzPyH0s1YFFOdCCRhZ.jpg"
-        },
-        {
-          "tit": "S01E13 🌀 - Goku! Ultrapasse os Limites do Deus Super Saiyajin!",
-          "linkFisico": "v/dragon-ball-super-s01e13.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/elOCxfoseAS2oK5WUo7JWBBn5dy.jpg"
-        },
-        {
-          "tit": "S01E14 🌀 - Este é Todo o Poder Que Possuo! O Desfecho da Batalha dos Deuses!",
-          "linkFisico": "v/dragon-ball-super-s01e14.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/hKZdJJqgW7Ori1JxllbbiWn06Iz.jpg"
-        },
-        {
-          "tit": "S01E15 🌀 - Realize Um Milagre, Grande Herói Mister Satan! Um Desafio Vindo do Espaço!",
-          "linkFisico": "v/dragon-ball-super-s01e15.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/aKvmBzCMpwei00NpsgzznpC12H5.jpg"
-        },
-        {
-          "tit": "S01E16 🌀 - Vegeta Se Torna um Aprendiz?! Convencendo Whis!",
-          "linkFisico": "v/dragon-ball-super-s01e16.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/tyI3h1rpfWMuouAkTeSTTXDEfzj.jpg"
-        },
-        {
-          "tit": "S01E17 🌀 - A Pan Nasceu! E Goku Vai Viajar Para Treinar?!",
-          "linkFisico": "v/dragon-ball-super-s01e17.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/cNKxcaYc3u0JSeAxBLL7yfe9yHC.jpg"
-        },
-        {
-          "tit": "S01E18 🌀 - Eu Também Cheguei! Começa o Treinamento no Planeta de Bills!",
-          "linkFisico": "v/dragon-ball-super-s01e18.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/luevT7XUlVy77XZtEvkNqTizO7h.jpg"
-        },
-        {
-          "tit": "S01E19 🌀 - O Desespero Volta! O Renascimento de Freeza, o Imperador do Mal!",
-          "linkFisico": "v/dragon-ball-super-s01e19.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/9PsRRv0o9GvG5iVal6nCEPliLKU.jpg"
-        },
-        {
-          "tit": "S01E20 🌀 - O Aviso de Jaco! Freeza e Suas Tropas de Mil Homens Se Aproximam!",
-          "linkFisico": "v/dragon-ball-super-s01e20.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/hXYN9PF8kH52GLmYiXTOeO0lPmT.jpg"
-        },
-        {
-          "tit": "S01E21 🌀 - O Início da Vingança! O Exército do Mal Ataca Gohan!",
-          "linkFisico": "v/dragon-ball-super-s01e21.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/wmZnPHze73TQmjccVXwkrf56B3B.jpg"
-        },
-        {
-          "tit": "S01E22 🌀 - Troca de Corpo! Uma Volta Inesperada! Seu Nome é Guinyu!",
-          "linkFisico": "v/dragon-ball-super-s01e22.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/HVxCcF8R1foZpCBX0NZp8Lit7.jpg"
-        },
-        {
-          "tit": "S01E23 🌀 - A Terra e Gohan Estão em Grande Perigo! Volte Depressa, Son Goku!",
-          "linkFisico": "v/dragon-ball-super-s01e23.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/kBfBPoeyI1TtS6DdmhdBkiMTCU5.jpg"
-        },
-        {
-          "tit": "S01E24 🌀 - Combate Mortal! Freeza Versus Son Goku! Este é o Resultado do Meu Treino!",
-          "linkFisico": "v/dragon-ball-super-s01e24.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/jXHEpanuPhhbROwpDBJ1XTggLGi.jpg"
-        },
-        {
-          "tit": "S01E25 🌀 - É Tudo ou Nada! A Vingança do Freeza Dourado!",
-          "linkFisico": "v/dragon-ball-super-s01e25.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/fsQQCwnR9uvrvX7btNfgkD49UeZ.jpg"
-        },
-        {
-          "tit": "S01E26 🌀 - Um Vislumbre de Esperança! É Hora de Revidar, Son Goku!",
-          "linkFisico": "v/dragon-ball-super-s01e26.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/tagNMQQ8OcxthDA19Y7TsxARVrx.jpg"
-        },
-        {
-          "tit": "S01E27 🌀 - A Terra Explodiu?! O Kame Hame Ha Decisivo!",
-          "linkFisico": "v/dragon-ball-super-s01e27.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/oDP92xVoaiUJwP2KSzZgcrT6mAD.jpg"
-        },
-        {
-          "tit": "S01E28 🌀 - O Deus da Destruição do Universo Seis! Seu Nome é Champa!",
-          "linkFisico": "v/dragon-ball-super-s01e28.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/zMGzZJUnDK2ePJxKzSc7e1D2Qbg.jpg"
-        },
-        {
-          "tit": "S01E29 🌀 - Um Novo Torneio de Artes Marciais! O Capitão do Time é Mais Forte Que o Goku!",
-          "linkFisico": "v/dragon-ball-super-s01e29.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/jhuz1PyGYM8BVwbOoUT8sG6NSfF.jpg"
-        },
-        {
-          "tit": "S01E30 🌀 - Treino Antes do Torneio. Quem Serão os Dois Últimos Participantes?!",
-          "linkFisico": "v/dragon-ball-super-s01e30.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/53lkGLr33Qr4P3pOQc6bVg7rr1j.jpg"
-        },
-        {
-          "tit": "S01E31 🌀 - À Procura do Senhor Zuno! Vamos Descobrir Onde Estão as Super Esferas do Dragão!",
-          "linkFisico": "v/dragon-ball-super-s01e31.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/3OnQ1cZ7kh5P9WT51GfCAEUYoyB.jpg"
-        },
-        {
-          "tit": "S01E32 🌀 - Começa o Torneio! Todos Para o \"Planeta Sem Nome\"",
-          "linkFisico": "v/dragon-ball-super-s01e32.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/lSPgr3pQZNGgSo8MhLep3Mz03vA.jpg"
-        },
-        {
-          "tit": "S01E33 🌀 - Cuidado, Universo Seis! Este é o Super Saiyajin Son Goku!",
-          "linkFisico": "v/dragon-ball-super-s01e33.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/vpBgN1M2bbnJAOQzfvydU3UNtg1.jpg"
-        },
-        {
-          "tit": "S01E34 🌀 - Piccolo vs. Frost! Coloque Toda a Força no Makankôsappô!",
-          "linkFisico": "v/dragon-ball-super-s01e34.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/uIT8zCnnDCnXETgFa1LeDaHAaJb.jpg"
-        },
-        {
-          "tit": "S01E35 🌀 - O Ódio Se Torna Força! Vegeta Vai Para o Tudo ou Nada!",
-          "linkFisico": "v/dragon-ball-super-s01e35.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/rtGwQgwcWQswclO4VMRTp8Bojye.jpg"
-        },
-        {
-          "tit": "S01E36 🌀 - Uma Inesperada Luta Complicada! A Explosão de Raiva de Vegeta!",
-          "linkFisico": "v/dragon-ball-super-s01e36.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/ivdbd7RaT7sYuwDvToQiTVajCen.jpg"
-        },
-        {
-          "tit": "S01E37 🌀 - Não Se Esqueça do Orgulho dos Saiyajins! Vegeta vs. o Saiyajin do Universo Seis!",
-          "linkFisico": "v/dragon-ball-super-s01e37.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/rRi2euYlrFdOcgroS1mBxaZQ8yW.jpg"
-        },
-        {
-          "tit": "S01E38 🌀 - O Mais Forte Lutador do Universo Seis! O Assassino Hit!",
-          "linkFisico": "v/dragon-ball-super-s01e38.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/2Vxn8cySk6bfQUKc6w6iO0em6mc.jpg"
-        },
-        {
-          "tit": "S01E39 🌀 - O Contra-Ataque do \"Salto Temporal Antecipado\"?! A Nova Técnica de Goku!",
-          "linkFisico": "v/dragon-ball-super-s01e39.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/jYKm51Fy6XMEIL3x6JhZX0qYysf.jpg"
-        },
-        {
-          "tit": "S01E40 🌀 - O Desfecho! Quem Venceu: Bills ou Champa?",
-          "linkFisico": "v/dragon-ball-super-s01e40.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/euuQ78mxzJPg1GrldmgdHvJUmWt.jpg"
-        },
-        {
-          "tit": "S01E41 🌀 - Apareça, Dragão dos Deuses! E Conceda o Meu Humilde Desejo, Por Favorzinho!",
-          "linkFisico": "v/dragon-ball-super-s01e41.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/yRNQWj9r9onDDmvGCSawMqVRA4Q.jpg"
-        },
-        {
-          "tit": "S01E42 🌀 - A Caótica Festa de Comemoração! O Confronto Entre Monaka e Son Goku!",
-          "linkFisico": "v/dragon-ball-super-s01e42.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/vHOEgVjfxHUpL507FXnAuItKZ3e.jpg"
-        },
-        {
-          "tit": "S01E43 🌀 - O Ki de Goku Está Fora de Controle? Cuidar da Pan Não é Brinquedo!",
-          "linkFisico": "v/dragon-ball-super-s01e43.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/AolzwKsxt9QEWszPXOab8BRYJyh.jpg"
-        },
-        {
-          "tit": "S01E44 🌀 - O Selo do Planeta Potôfu! O Segredo da \"Água Sobre-Humana\"!",
-          "linkFisico": "v/dragon-ball-super-s01e44.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/qUojyq7KQ8eLNTRcu7JEvSFwyAA.jpg"
-        },
-        {
-          "tit": "S01E45 🌀 - Reviravolta Total! A Ameaça do Falso Vegeta!",
-          "linkFisico": "v/dragon-ball-super-s01e45.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/64bwNZQ2bGy0FUPam80YJmto9yV.jpg"
-        },
-        {
-          "tit": "S01E46 🌀 - Goku vs. o Falso Vegeta! Quem Vai Vencer?!",
-          "linkFisico": "v/dragon-ball-super-s01e46.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1BJsw5HLiuFDB2DIVvSEAYalne3.jpg"
-        },
-        {
-          "tit": "S01E47 🌀 - Um Pedido de Socorro do Futuro! Um Novo Inimigo Surge das Sombras!",
-          "linkFisico": "v/dragon-ball-super-s01e47.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/tqqiWjgabh44xeBXP5CkMzLinEU.jpg"
-        },
-        {
-          "tit": "S01E48 🌀 - Uma Nova Esperança! Desperte no Presente, Trunks!",
-          "linkFisico": "v/dragon-ball-super-s01e48.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/4Bql4sIf6cPjHm7hDHiIHJmsgpq.jpg"
-        },
-        {
-          "tit": "S01E49 🌀 - Uma Mensagem do Futuro. O Ataque de Goku Black!",
-          "linkFisico": "v/dragon-ball-super-s01e49.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/a3MOckWRrbjVVPbGBgcBjUtTG5R.jpg"
-        },
-        {
-          "tit": "S01E50 🌀 - Goku vs. Black! O Caminho Para o Futuro Foi Selado!",
-          "linkFisico": "v/dragon-ball-super-s01e50.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/quMxZwTIfT1JG0OJ3FONJjFoHgx.jpg"
-        },
-        {
-          "tit": "S01E51 🌀 - Os Sentimentos Que Atravessam o Tempo! Trunks e Mai!",
-          "linkFisico": "v/dragon-ball-super-s01e51.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/rLYvVzEvuRkW2hTVW8CxC0QpyLd.jpg"
-        },
-        {
-          "tit": "S01E52 🌀 - Mestre e Discípulo! Son Gohan e o Trunks do Futuro Se Reencontram!",
-          "linkFisico": "v/dragon-ball-super-s01e52.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mH9DKGGZCfgHiEZ9sxPqc5NsO1L.jpg"
-        },
-        {
-          "tit": "S01E53 🌀 - A Identidade de Black é Revelada! Vamos ao Mundo dos Senhores Kaiohs!",
-          "linkFisico": "v/dragon-ball-super-s01e53.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/pgQW1zSIKciE71YFLXnMGtqYmul.jpg"
-        },
-        {
-          "tit": "S01E54 🌀 - Aquele Que Herdou o Sangue Saiyajin! A Decisão de Trunks!",
-          "linkFisico": "v/dragon-ball-super-s01e54.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/9CCFOybog7z2HwxTLBrXj51YBLW.jpg"
-        },
-        {
-          "tit": "S01E55 🌀 - Eu Quero Ver o Son Goku, Né? O Grande Zen-ô Está Chamando!",
-          "linkFisico": "v/dragon-ball-super-s01e55.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/eeSBWMqPIud5z2eed4zZEaWRgQs.jpg"
-        },
-        {
-          "tit": "S01E56 🌀 - A Revanche Contra o Goku Black! Surge o Super Saiyajin Rosé!",
-          "linkFisico": "v/dragon-ball-super-s01e56.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/emcQ2oX4sjYCkVuztSZykym79vH.jpg"
-        },
-        {
-          "tit": "S01E57 🌀 - A Divindade de Corpo Imortal! Zamasu Chega à Terra!",
-          "linkFisico": "v/dragon-ball-super-s01e57.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/axMneVWzdKg7VxAHaJsB7V36RHw.jpg"
-        },
-        {
-          "tit": "S01E58 🌀 - Zamasu e Black! O Mistério Aumenta!",
-          "linkFisico": "v/dragon-ball-super-s01e58.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/tu3MOamiU5v6QGrp6uB52SK51nn.jpg"
-        },
-        {
-          "tit": "S01E59 🌀 - Proteja o Supremo Senhor Kaioh Gowasu! Acabe Com Zamasu!",
-          "linkFisico": "v/dragon-ball-super-s01e59.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/Av5BdUkgp6SWxv8fuy72YqxALA3.jpg"
-        },
-        {
-          "tit": "S01E60 🌀 - De Volta Para o Futuro! A Identidade de Goku Black é Revelada!!",
-          "linkFisico": "v/dragon-ball-super-s01e60.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/5mVxEPOPzHDJpcgNt2PiLV58ybD.jpg"
-        },
-        {
-          "tit": "S01E61 🌀 - A Ambição de Zamasu! O Terrível \"Plano Zero Humanos\" é Revelado!!",
-          "linkFisico": "v/dragon-ball-super-s01e61.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/xWzmlvcuS9ThMjjnPzmLf1TjDhv.jpg"
-        },
-        {
-          "tit": "S01E62 🌀 - Eu Vou Proteger o Mundo! A Fúria de Trunks Faz Explodir um Superpoder!",
-          "linkFisico": "v/dragon-ball-super-s01e62.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/72we90g6fQZJTCvnZ7vNRgc6Kjt.jpg"
-        },
-        {
-          "tit": "S01E63 🌀 - Não Subestime as Células dos Super Saiyajins! Começa a Heroica Batalha de Vegeta!",
-          "linkFisico": "v/dragon-ball-super-s01e63.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/nXlGtmGGFlvbuTW65d6H8ea8a57.jpg"
-        },
-        {
-          "tit": "S01E64 🌀 - Adorem-no! Venerem-no! A Poderosa Fusão de Zamasu!!",
-          "linkFisico": "v/dragon-ball-super-s01e64.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/xjHN21nQ8Ryu4Y3Bc2TrVa95iAr.jpg"
-        },
-        {
-          "tit": "S01E65 🌀 - É o Juízo Final?! O Poder Máximo do Deus Supremo!",
-          "linkFisico": "v/dragon-ball-super-s01e65.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/eASKXzLkUArLS36FMkxWozIBHBu.jpg"
-        },
-        {
-          "tit": "S01E66 🌀 - A Batalha Decisiva! O Poder Milagroso dos Guerreiros Que Nunca Desistem!",
-          "linkFisico": "v/dragon-ball-super-s01e66.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/oShiyZ5wPFgxKlxq2ASqsbBPmjH.jpg"
-        },
-        {
-          "tit": "S01E67 🌀 - Uma Nova Esperança Em Nossos Corações! Adeus, Trunks!",
-          "linkFisico": "v/dragon-ball-super-s01e67.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/qM8oxQBpd5vbd5SewDLY7PHSY2p.jpg"
-        },
-        {
-          "tit": "S01E68 🌀 - Apareça, Shen Long! Qual Desejo Será Atendido?!",
-          "linkFisico": "v/dragon-ball-super-s01e68.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/xt90JqLL1r3bx7aiOXQttfbkHsU.jpg"
-        },
-        {
-          "tit": "S01E69 🌀 - Goku vs. Arale! Uma Batalha Idiota Vai Destruir a Terra?!",
-          "linkFisico": "v/dragon-ball-super-s01e69.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/bnGgyBiC0Sbgq3Gh1JlvtSNzC68.jpg"
-        },
-        {
-          "tit": "S01E70 🌀 - O Desafio de Champa! A Luta Agora é no Campo de Beisebol!",
-          "linkFisico": "v/dragon-ball-super-s01e70.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/cNaqeypPrXqx3z08Qht3P3jgML9.jpg"
-        },
-        {
-          "tit": "S01E71 🌀 - A Morte de Goku! A Missão Assassina!",
-          "linkFisico": "v/dragon-ball-super-s01e71.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/7OPpa9widO9AfI0sIFrszrFlx8P.jpg"
-        },
-        {
-          "tit": "S01E72 🌀 - O Contra-Ataque?! O Golpe Mortal Invisível!",
-          "linkFisico": "v/dragon-ball-super-s01e72.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/iDikUuFkBFNNPiqkGsiTHxRlORz.jpg"
-        },
-        {
-          "tit": "S01E73 🌀 - O Dilema de Gohan! O Filme do Grande Saiyaman?!",
-          "linkFisico": "v/dragon-ball-super-s01e73.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/3bXI7KMhg2GM0HBVnKiZDpplgXO.jpg"
-        },
-        {
-          "tit": "S01E74 🌀 - Pelo Bem dos Que Eu Amo! O Invencível Grande Saiyaman!",
-          "linkFisico": "v/dragon-ball-super-s01e74.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/md4r1B7BrxOomUXWOptDk5KCeV9.jpg"
-        },
-        {
-          "tit": "S01E75 🌀 - Goku e Kuririn! De Volta ao Treinamento!",
-          "linkFisico": "v/dragon-ball-super-s01e75.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/i5L5bR8l6CsCwImtiyZqVyDI4EL.jpg"
-        },
-        {
-          "tit": "S01E76 🌀 - Derrote os Inimigos! A Volta do Espírito de Luta de Kuririn!",
-          "linkFisico": "v/dragon-ball-super-s01e76.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/5GuTqpG7tBbHbPXV8l1lnrvzegd.jpg"
-        },
-        {
-          "tit": "S01E77 🌀 - Vamos Lá, Senhor Zen-ô! O Torneio de Artes Marciais Entre Todos os Universos!!",
-          "linkFisico": "v/dragon-ball-super-s01e77.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/w1qJLaGGOIdTKKjeAoXgvvWJXCb.jpg"
-        },
-        {
-          "tit": "S01E78 🌀 - Todos os Deuses do Universo em Choque?! Quem Perder Será Apagado no Torneio do Poder",
-          "linkFisico": "v/dragon-ball-super-s01e78.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/9BCjHqvlujJAUOeq64P9dwgxfuW.jpg"
-        },
-        {
-          "tit": "S01E79 🌀 - Basil, o Chutador do Universo Nove vs. Majin Boo, do Universo Sete!!",
-          "linkFisico": "v/dragon-ball-super-s01e79.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/iL8YKGhVXcJLiblflz0bYnNsRgl.jpg"
-        },
-        {
-          "tit": "S01E80 🌀 - Desperte o Seu Espírito de Luta! A Batalha de Son Gohan!!",
-          "linkFisico": "v/dragon-ball-super-s01e80.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/xJAdLqsS6EGeyNUJf6htx4EULCa.jpg"
-        },
-        {
-          "tit": "S01E81 🌀 - Bergamo, o Esmagador Contra Goku! Quem Possui o Poder Ilimitado?!",
-          "linkFisico": "v/dragon-ball-super-s01e81.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/3kc8vONRAjna47TDqWKiGQ2L5hv.jpg"
-        },
-        {
-          "tit": "S01E82 🌀 - Nunca o Perdoarei, Son Goku! A Intervenção de Toppo, o Guerreiro da Justiça!!",
-          "linkFisico": "v/dragon-ball-super-s01e82.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/uzq7KJmFi1YdenK5RLsxhRVo9fb.jpg"
-        },
-        {
-          "tit": "S01E83 🌀 - Qual Será o Time do Universo Sete! Quem São os Dez Mais Fortes?",
-          "linkFisico": "v/dragon-ball-super-s01e83.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/kA0TLxx39HIsspG1JBcuQGyXLz1.jpg"
-        },
-        {
-          "tit": "S01E84 🌀 - Son Goku Recruta Kuririn e a Androide No. 18!",
-          "linkFisico": "v/dragon-ball-super-s01e84.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/fwhZ2hFWTtSQG3YyywukqiAFOS1.jpg"
-        },
-        {
-          "tit": "S01E85 🌀 - Os Universos Começam a Agir! A Motivação de Cada Um!",
-          "linkFisico": "v/dragon-ball-super-s01e85.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/uLcSDEpMXqyPaOzvtgX8dvMvvVJ.jpg"
-        },
-        {
-          "tit": "S01E86 🌀 - Trocando Golpes Pela Primeira Vez! Androide No. 17 vs. Son Goku!!",
-          "linkFisico": "v/dragon-ball-super-s01e86.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/hJWz4LD3BpHlt4prFSPTL7gCBWZ.jpg"
-        },
-        {
-          "tit": "S01E87 🌀 - Atrás dos Caçadores! Goku e Número Dezessete Se Unem!!",
-          "linkFisico": "v/dragon-ball-super-s01e87.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/qq1ubz2mgSXZPOLbXGLPl8XL9k8.jpg"
-        },
-        {
-          "tit": "S01E88 🌀 - Gohan e Piccolo! Treino Além dos Limites!",
-          "linkFisico": "v/dragon-ball-super-s01e88.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/rmGzR6On6CtlMKlkiZCLxASLmmT.jpg"
-        },
-        {
-          "tit": "S01E89 🌀 - Uma Beldade Misteriosa! O Mistério do Dojo do Estilo Tenshin?!",
-          "linkFisico": "v/dragon-ball-super-s01e89.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/3Rome8Nbv1YoaYCUUp9KzF1M6K8.jpg"
-        },
-        {
-          "tit": "S01E90 🌀 - A Barreira a Ser Superada! Goku vs. Gohan!",
-          "linkFisico": "v/dragon-ball-super-s01e90.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/iVFlLs1H32Tkbnn0yrE9v5sroOq.jpg"
-        },
-        {
-          "tit": "S01E91 🌀 - Qual Universo Irá Sobreviver?! Os Guerreiros Mais Fortes Se Reúnem!!",
-          "linkFisico": "v/dragon-ball-super-s01e91.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/8ya0FGIsjoDXdxQMPID8Q5FUBOw.jpg"
-        },
-        {
-          "tit": "S01E92 🌀 - O Plano de Emergência! O Time de Dez Membros Está Incompleto!!",
-          "linkFisico": "v/dragon-ball-super-s01e92.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/pIX6S5TMwV9gndf1Yct84B8Gdl.jpg"
-        },
-        {
-          "tit": "S01E93 🌀 - O Décimo Guerreiro! Goku Vai Ao Encontro de Freeza!!",
-          "linkFisico": "v/dragon-ball-super-s01e93.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/s3WWHHygNxyyvWu0IUjlkfeJiSi.jpg"
-        },
-        {
-          "tit": "S01E94 🌀 - O Retorno do Imperador do Mal! Uma Recepção Para os Assassinos Misteriosos?!",
-          "linkFisico": "v/dragon-ball-super-s01e94.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/oyYMG6NIwtVOS5oDWXWqHU5DCFC.jpg"
-        },
-        {
-          "tit": "S01E95 🌀 - O Mais Maligno de Todos! A Explosão Furiosa de Freeza!!",
-          "linkFisico": "v/dragon-ball-super-s01e95.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/2hRvwNWwkFHqInIZAvgtMQ8n3XE.jpg"
-        },
-        {
-          "tit": "S01E96 🌀 - Chegou a Hora! Vamos ao Mundo do Vácuo Para Decidir o Destino do Universo!!",
-          "linkFisico": "v/dragon-ball-super-s01e96.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/ebY34YteL3ziMxqKyRaLRYnX6Gz.jpg"
-        },
-        {
-          "tit": "S01E97 🌀 - Sobrevivam! Enfim Começa o Torneio do Poder!!",
-          "linkFisico": "v/dragon-ball-super-s01e97.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/jIQsAM5nkbNmI5OnvGlB3lY4r3w.jpg"
-        },
-        {
-          "tit": "S01E98 🌀 - Incerteza Total! O Desespero de um Universo!!",
-          "linkFisico": "v/dragon-ball-super-s01e98.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/6lep2tZlqKsF7Yt7hOU7uTAnvWK.jpg"
-        },
-        {
-          "tit": "S01E99 🌀 - Mostre Pra Eles! O Verdadeiro Poder de Kuririn!!",
-          "linkFisico": "v/dragon-ball-super-s01e99.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/xPFWOxv43Mj5WfVRT1UHPAm28jz.jpg"
-        },
-        {
-          "tit": "S01E100 🌀 - Fora de Controle! Um Guerreiro Selvagem Desperta!!",
-          "linkFisico": "v/dragon-ball-super-s01e100.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/5WOXfmR6JjtTnLsrQH98MBoqYgQ.jpg"
-        },
-        {
-          "tit": "S01E101 🌀 - Os Guerreiros da Justiça! Eis a Tropa do Orgulho!!",
-          "linkFisico": "v/dragon-ball-super-s01e101.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/ry76L4RkyeOtMAveIVNRtON91Ve.jpg"
-        },
-        {
-          "tit": "S01E102 🌀 - O Poder do Amor Explode?! As Guerreiras Mágicas do Universo Dois!!",
-          "linkFisico": "v/dragon-ball-super-s01e102.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/ptp2bxOhupl2rzbkpYEVqP985PQ.jpg"
-        },
-        {
-          "tit": "S01E103 🌀 - Gohan, Não Tenha Piedade! A Batalha Contra o Universo Dez!!",
-          "linkFisico": "v/dragon-ball-super-s01e103.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/kQapkPUZhxWA8qC2vHPg3jzGx0R.jpg"
-        },
-        {
-          "tit": "S01E104 🌀 - Batalha Em Alta Velocidade! Goku e Hit Unem Forças!!",
-          "linkFisico": "v/dragon-ball-super-s01e104.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/eX0Cn224hyJZtMzBQJKvFupQYUg.jpg"
-        },
-        {
-          "tit": "S01E105 🌀 - Batalha Desesperada! Mestre Kame Sacrifica Sua Vida!!",
-          "linkFisico": "v/dragon-ball-super-s01e105.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/3KnuMATqxrgoSbQaQ1S8Ov3vS7h.jpg"
-        },
-        {
-          "tit": "S01E106 🌀 - Encontre Ele! Luta Mortal Contra Um Adversário Invisível!!",
-          "linkFisico": "v/dragon-ball-super-s01e106.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/tDsJwd6FhyS5I7ylinALeYIceCZ.jpg"
-        },
-        {
-          "tit": "S01E107 🌀 - A Vingança de F! Uma Armadilha Engenhosa?!",
-          "linkFisico": "v/dragon-ball-super-s01e107.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/5Gc7Ood1kqq0eyGy4tPLziTTOAp.jpg"
-        },
-        {
-          "tit": "S01E108 🌀 - Freeza e Frost: Os Vilões Se Uniram?!",
-          "linkFisico": "v/dragon-ball-super-s01e108.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/4REl0pg5fGBsoCEna70dWPxh6Ob.jpg"
-        },
-        {
-          "tit": "S01E109 🌀 - O Inimigo Mais Forte! Goku, Libere a Genkidama!!",
-          "linkFisico": "v/dragon-ball-super-s01e109.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/jAxuDsiQ2ORT0a10XseqP5zcLIb.jpg"
-        },
-        {
-          "tit": "S01E110 🌀 - O Despertar de Son Goku! Uma Nova Transformação!!",
-          "linkFisico": "v/dragon-ball-super-s01e110.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/3Ztdp4838lSsJcpeY09SLH0IOnE.jpg"
-        },
-        {
-          "tit": "S01E111 🌀 - A Batalha Surreal! Hit vs. Jiren!!",
-          "linkFisico": "v/dragon-ball-super-s01e111.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/dNHs7L1tjpchqzg5k9scd45BDM4.jpg"
-        },
-        {
-          "tit": "S01E112 🌀 - O Juramento de um Saiyajin! A Determinação de Vegeta!!",
-          "linkFisico": "v/dragon-ball-super-s01e112.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/4Zt1BcEqZyVuy9ygBCHJYR2Z72i.jpg"
-        },
-        {
-          "tit": "S01E113 🌀 - Loucos por Batalha! Os Saiyajins se Enfrentam de Novo!!",
-          "linkFisico": "v/dragon-ball-super-s01e113.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/yRTDYvcwsyspRLE9IVLOXpn2MHL.jpg"
-        },
-        {
-          "tit": "S01E114 🌀 - Sedenta por Sangue! Nasce uma Nova Superguerreira!!",
-          "linkFisico": "v/dragon-ball-super-s01e114.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/dRapGRLPhmYbRngHVwjFKe9h6Bj.jpg"
-        },
-        {
-          "tit": "S01E115 🌀 - Goku vs. Kefla! O Super Saiyajin Blue foi Derrotado?!",
-          "linkFisico": "v/dragon-ball-super-s01e115.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/3vIF3koAMyJ6kr8mCvQzw4KpgDw.jpg"
-        },
-        {
-          "tit": "S01E116 🌀 - Contra-Ataque! A Explosão do Instinto Superior!!",
-          "linkFisico": "v/dragon-ball-super-s01e116.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/jpafjoFXrtrxnhQcWBfN0pzSnTe.jpg"
-        },
-        {
-          "tit": "S01E117 🌀 - Batalha do Amor! Os Androides Contra o Universo 2!!",
-          "linkFisico": "v/dragon-ball-super-s01e117.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/zj13OO0upX8M8kQh34Ssq5hVEBz.jpg"
-        },
-        {
-          "tit": "S01E118 🌀 - Tragédia Anunciada! O Universo Eliminado é...",
-          "linkFisico": "v/dragon-ball-super-s01e118.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/tM1K3G1zgv7aR1oW0dax68uxqUs.jpg"
-        },
-        {
-          "tit": "S01E119 🌀 - É Impossível se Defender?! O Intenso Ataque Furtivo!!",
-          "linkFisico": "v/dragon-ball-super-s01e119.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/cOdVxSI7spAKfROo89w7sru9Twq.jpg"
-        },
-        {
-          "tit": "S01E120 🌀 - A Estratégia Perfeita! O Assassino do Universo Três!!",
-          "linkFisico": "v/dragon-ball-super-s01e120.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/ucQOHxMVheMrfbL5eYYZNU52kam.jpg"
-        },
-        {
-          "tit": "S01E121 🌀 - Tudo ou Nada! Os Quatro Guerreiros Contra o Universo Sete!!",
-          "linkFisico": "v/dragon-ball-super-s01e121.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/wyc3iF3arzhBYPWzIG1riEunMGS.jpg"
-        },
-        {
-          "tit": "S01E122 🌀 - Em Nome do Orgulho! O Desafio de Vegeta Para Ser o Mais Forte!!",
-          "linkFisico": "v/dragon-ball-super-s01e122.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/6Wu0kMb5iv05wq7TBiUTnclYQ2t.jpg"
-        },
-        {
-          "tit": "S01E123 🌀 - Liberem Todo o seu Poder! Goku e Vegeta!!",
-          "linkFisico": "v/dragon-ball-super-s01e123.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/iFavGtDQfvEAcqAabZvcI45EJga.jpg"
-        },
-        {
-          "tit": "S01E124 🌀 - Ataque Implacável! A Investida Final de Gohan!!",
-          "linkFisico": "v/dragon-ball-super-s01e124.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/m3ia1tXZVa0pWBzphdHI0bBljeq.jpg"
-        },
-        {
-          "tit": "S01E125 🌀 - Presença Imponente! Toppo, o Deus da Destruição!!",
-          "linkFisico": "v/dragon-ball-super-s01e125.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/oDozprtR37alSI7iSgoNKBgPXSq.jpg"
-        },
-        {
-          "tit": "S01E126 🌀 - Superar um Deus! O Golpe Desesperado de Vegeta!!",
-          "linkFisico": "v/dragon-ball-super-s01e126.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/lpvlKU3R63NOu4n3qf5RkdoA2N5.jpg"
-        },
-        {
-          "tit": "S01E127 🌀 - Obstáculo Final! A Última Barreira de Esperança!!",
-          "linkFisico": "v/dragon-ball-super-s01e127.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1KdBdOoWc2vPRpSiklgHktFtJMp.jpg"
-        },
-        {
-          "tit": "S01E128 🌀 - Orgulho Honrado! A Queda de Vegeta!!",
-          "linkFisico": "v/dragon-ball-super-s01e128.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/h31kX3q0gguusHacmLgdEZESbsu.jpg"
-        },
-        {
-          "tit": "S01E129 🌀 - Limites Super-Superados! Dominando o Instinto Superior!!",
-          "linkFisico": "v/dragon-ball-super-s01e129.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/3pKowZkQBolsVnWJ8qSGrIuwZ11.jpg"
-        },
-        {
-          "tit": "S01E130 🌀 - A Maior Luta de Todos os Tempos! A Batalha Definitiva pela Sobrevivência!!",
-          "linkFisico": "v/dragon-ball-super-s01e130.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/uqq5mYfTFhnpHgWYYKj9dc9n9fp.jpg"
-        },
-        {
-          "tit": "S01E131 🌀 - Desfecho Milagroso! Adeus, Goku, Nos Vemos em Breve!!",
-          "linkFisico": "v/dragon-ball-super-s01e131.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mtyMLDoFwnCURfGLZ3WMDk9Seur.jpg"
-        }
-      ]
-    },
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/qA2UwUQbj05aeBMCuC0mHSQ4loE.jpg"
-  },
-  {
     "id": "dragon-ball-z",
     "tipo": "serie",
     "categoria": "Animes",
@@ -23815,6 +23145,678 @@
           "tit": "Assistir 🌀",
           "linkFisico": "v/wallace-gromit-a-batalha-dos-vegetais.html",
           "logoEp": "https://image.tmdb.org/t/p/w1280/4JAaj46mdHWchx2is5Pne3JqOFg.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "dragon-ball-super",
+    "tipo": "serie",
+    "categoria": "Animes",
+    "titulo": "Dragon Ball Super 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/cQDCIp92rTzTnd8mjb1syLhrAqy.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/qpkdM5lO3Kfpcuzjz2fxSLVRWCf.png",
+    "sinopse": "Seis meses após a derrota de Majin Buu, Goku arranja um novo emprego como... fazendeiro de nabos? Agora que a Terra está em paz, nosso heróis levam vidas mundanas, mas não por muito tempo. Longe dali, Bills, o poderoso Deus da Destruição, recebe uma profecia de que encontrará seu fim nas mãos de um ser ainda mais poderoso, e sua busca pelo Deus dos Saiyajins o traz para a Terra. Será que Goku e seus amigos conseguirão derrotar seu mais poderoso inimigo até então?",
+    "nota": "8.2",
+    "avaliacao": "8.2",
+    "classificacao": "12",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "S01E01 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E02 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E03 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E04 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E05 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E06 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E07 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E08 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E09 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E10 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E11 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E12 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E13 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E14 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E15 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E16 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E17 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e17.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E18 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e18.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E19 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e19.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E20 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e20.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E21 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e21.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E22 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e22.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E23 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e23.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E24 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e24.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E25 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e25.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E26 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e26.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E27 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e27.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E28 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e28.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E29 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e29.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E30 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e30.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E31 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e31.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E32 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e32.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E33 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e33.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E34 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e34.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E35 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e35.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E36 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e36.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E37 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e37.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E38 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e38.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E39 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e39.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E40 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e40.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E41 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e41.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E42 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e42.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E43 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e43.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E44 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e44.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E45 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e45.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E46 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e46.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E47 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e47.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E48 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e48.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E49 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e49.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E50 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e50.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E51 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e51.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E52 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e52.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E53 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e53.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E54 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e54.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E55 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e55.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E56 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e56.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E57 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e57.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E58 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e58.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E59 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e59.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E60 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e60.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E61 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e61.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E62 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e62.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E63 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e63.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E64 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e64.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E65 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e65.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E66 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e66.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E67 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e67.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E68 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e68.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E69 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e69.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E70 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e70.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E71 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e71.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E72 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e72.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E73 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e73.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E74 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e74.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E75 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e75.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E76 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e76.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E77 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e77.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E78 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e78.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E79 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e79.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E80 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e80.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E81 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e81.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E82 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e82.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E83 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e83.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E84 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e84.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E85 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e85.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E86 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e86.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E87 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e87.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E88 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e88.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E89 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e89.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E90 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e90.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E91 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e91.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E92 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e92.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E93 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e93.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E94 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e94.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E95 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e95.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E96 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e96.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E97 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e97.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E98 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e98.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E99 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e99.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E100 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e100.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E101 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e101.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E102 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e102.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E103 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e103.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E104 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e104.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E105 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e105.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E106 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e106.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E107 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e107.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E108 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e108.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E109 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e109.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E110 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e110.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E111 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e111.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E112 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e112.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E113 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e113.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E114 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e114.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E115 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e115.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E116 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e116.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E117 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e117.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E118 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e118.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E119 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e119.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E120 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e120.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E121 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e121.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E122 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e122.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E123 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e123.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E124 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e124.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E125 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e125.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E126 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e126.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E127 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e127.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E128 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e128.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E129 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e129.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E130 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e130.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
+        },
+        {
+          "tit": "S01E131 🌀",
+          "linkFisico": "v/dragon-ball-super-s01e131.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yiEx1v5lvRsPfxwfklCgYwPkDUN.jpg"
         }
       ]
     }
