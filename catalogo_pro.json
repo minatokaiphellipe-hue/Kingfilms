@@ -23338,5 +23338,463 @@
         }
       ]
     }
+  },
+  {
+    "id": "attack-on-titan",
+    "tipo": "serie",
+    "categoria": "Animes",
+    "titulo": "Attack on Titan 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/8aMqmB5xSblsZc7bLMEhE28yHa2.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/kAPsxKEAaCYKPOVmrBzhGpLMQLh.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/qSntvVN1vTFZJQRcUzzAPcb0KPO.png",
+    "sinopse": "Titãs estão quase exterminando a raça humana. Porém alguns estão dispostos a formar um exército de ataque aos seres assassinos. O jovem Eren, após ver sua mãe ser devorada por um titã, decide que não deixará nenhum deles vivo e buscará sua vingança completa.",
+    "nota": "8.7",
+    "avaliacao": "8.7",
+    "classificacao": "16",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "S01E01 🌀",
+          "linkFisico": "v/attack-on-titan-s01e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kAPsxKEAaCYKPOVmrBzhGpLMQLh.jpg"
+        },
+        {
+          "tit": "S01E02 🌀",
+          "linkFisico": "v/attack-on-titan-s01e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kAPsxKEAaCYKPOVmrBzhGpLMQLh.jpg"
+        },
+        {
+          "tit": "S01E03 🌀",
+          "linkFisico": "v/attack-on-titan-s01e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kAPsxKEAaCYKPOVmrBzhGpLMQLh.jpg"
+        },
+        {
+          "tit": "S01E04 🌀",
+          "linkFisico": "v/attack-on-titan-s01e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kAPsxKEAaCYKPOVmrBzhGpLMQLh.jpg"
+        },
+        {
+          "tit": "S01E05 🌀",
+          "linkFisico": "v/attack-on-titan-s01e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kAPsxKEAaCYKPOVmrBzhGpLMQLh.jpg"
+        },
+        {
+          "tit": "S01E06 🌀",
+          "linkFisico": "v/attack-on-titan-s01e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kAPsxKEAaCYKPOVmrBzhGpLMQLh.jpg"
+        },
+        {
+          "tit": "S01E07 🌀",
+          "linkFisico": "v/attack-on-titan-s01e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kAPsxKEAaCYKPOVmrBzhGpLMQLh.jpg"
+        },
+        {
+          "tit": "S01E08 🌀",
+          "linkFisico": "v/attack-on-titan-s01e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kAPsxKEAaCYKPOVmrBzhGpLMQLh.jpg"
+        },
+        {
+          "tit": "S01E09 🌀",
+          "linkFisico": "v/attack-on-titan-s01e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kAPsxKEAaCYKPOVmrBzhGpLMQLh.jpg"
+        },
+        {
+          "tit": "S01E10 🌀",
+          "linkFisico": "v/attack-on-titan-s01e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kAPsxKEAaCYKPOVmrBzhGpLMQLh.jpg"
+        },
+        {
+          "tit": "S01E11 🌀",
+          "linkFisico": "v/attack-on-titan-s01e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kAPsxKEAaCYKPOVmrBzhGpLMQLh.jpg"
+        },
+        {
+          "tit": "S01E12 🌀",
+          "linkFisico": "v/attack-on-titan-s01e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kAPsxKEAaCYKPOVmrBzhGpLMQLh.jpg"
+        },
+        {
+          "tit": "S01E13 🌀",
+          "linkFisico": "v/attack-on-titan-s01e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kAPsxKEAaCYKPOVmrBzhGpLMQLh.jpg"
+        },
+        {
+          "tit": "S01E14 🌀",
+          "linkFisico": "v/attack-on-titan-s01e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kAPsxKEAaCYKPOVmrBzhGpLMQLh.jpg"
+        },
+        {
+          "tit": "S01E15 🌀",
+          "linkFisico": "v/attack-on-titan-s01e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kAPsxKEAaCYKPOVmrBzhGpLMQLh.jpg"
+        },
+        {
+          "tit": "S01E16 🌀",
+          "linkFisico": "v/attack-on-titan-s01e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kAPsxKEAaCYKPOVmrBzhGpLMQLh.jpg"
+        },
+        {
+          "tit": "S01E17 🌀",
+          "linkFisico": "v/attack-on-titan-s01e17.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kAPsxKEAaCYKPOVmrBzhGpLMQLh.jpg"
+        },
+        {
+          "tit": "S01E18 🌀",
+          "linkFisico": "v/attack-on-titan-s01e18.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kAPsxKEAaCYKPOVmrBzhGpLMQLh.jpg"
+        },
+        {
+          "tit": "S01E19 🌀",
+          "linkFisico": "v/attack-on-titan-s01e19.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kAPsxKEAaCYKPOVmrBzhGpLMQLh.jpg"
+        },
+        {
+          "tit": "S01E20 🌀",
+          "linkFisico": "v/attack-on-titan-s01e20.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kAPsxKEAaCYKPOVmrBzhGpLMQLh.jpg"
+        },
+        {
+          "tit": "S01E21 🌀",
+          "linkFisico": "v/attack-on-titan-s01e21.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kAPsxKEAaCYKPOVmrBzhGpLMQLh.jpg"
+        },
+        {
+          "tit": "S01E22 🌀",
+          "linkFisico": "v/attack-on-titan-s01e22.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kAPsxKEAaCYKPOVmrBzhGpLMQLh.jpg"
+        },
+        {
+          "tit": "S01E23 🌀",
+          "linkFisico": "v/attack-on-titan-s01e23.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kAPsxKEAaCYKPOVmrBzhGpLMQLh.jpg"
+        },
+        {
+          "tit": "S01E24 🌀",
+          "linkFisico": "v/attack-on-titan-s01e24.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kAPsxKEAaCYKPOVmrBzhGpLMQLh.jpg"
+        },
+        {
+          "tit": "S01E25 🌀",
+          "linkFisico": "v/attack-on-titan-s01e25.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kAPsxKEAaCYKPOVmrBzhGpLMQLh.jpg"
+        }
+      ],
+      "2": [
+        {
+          "tit": "S02E01 🌀",
+          "linkFisico": "v/attack-on-titan-s02e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kAPsxKEAaCYKPOVmrBzhGpLMQLh.jpg"
+        },
+        {
+          "tit": "S02E02 🌀",
+          "linkFisico": "v/attack-on-titan-s02e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kAPsxKEAaCYKPOVmrBzhGpLMQLh.jpg"
+        },
+        {
+          "tit": "S02E03 🌀",
+          "linkFisico": "v/attack-on-titan-s02e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kAPsxKEAaCYKPOVmrBzhGpLMQLh.jpg"
+        },
+        {
+          "tit": "S02E04 🌀",
+          "linkFisico": "v/attack-on-titan-s02e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kAPsxKEAaCYKPOVmrBzhGpLMQLh.jpg"
+        },
+        {
+          "tit": "S02E05 🌀",
+          "linkFisico": "v/attack-on-titan-s02e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kAPsxKEAaCYKPOVmrBzhGpLMQLh.jpg"
+        },
+        {
+          "tit": "S02E06 🌀",
+          "linkFisico": "v/attack-on-titan-s02e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kAPsxKEAaCYKPOVmrBzhGpLMQLh.jpg"
+        },
+        {
+          "tit": "S02E07 🌀",
+          "linkFisico": "v/attack-on-titan-s02e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kAPsxKEAaCYKPOVmrBzhGpLMQLh.jpg"
+        },
+        {
+          "tit": "S02E08 🌀",
+          "linkFisico": "v/attack-on-titan-s02e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kAPsxKEAaCYKPOVmrBzhGpLMQLh.jpg"
+        },
+        {
+          "tit": "S02E09 🌀",
+          "linkFisico": "v/attack-on-titan-s02e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kAPsxKEAaCYKPOVmrBzhGpLMQLh.jpg"
+        },
+        {
+          "tit": "S02E10 🌀",
+          "linkFisico": "v/attack-on-titan-s02e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kAPsxKEAaCYKPOVmrBzhGpLMQLh.jpg"
+        },
+        {
+          "tit": "S02E11 🌀",
+          "linkFisico": "v/attack-on-titan-s02e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kAPsxKEAaCYKPOVmrBzhGpLMQLh.jpg"
+        },
+        {
+          "tit": "S02E12 🌀",
+          "linkFisico": "v/attack-on-titan-s02e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kAPsxKEAaCYKPOVmrBzhGpLMQLh.jpg"
+        }
+      ],
+      "3": [
+        {
+          "tit": "S03E01 🌀",
+          "linkFisico": "v/attack-on-titan-s03e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kAPsxKEAaCYKPOVmrBzhGpLMQLh.jpg"
+        },
+        {
+          "tit": "S03E02 🌀",
+          "linkFisico": "v/attack-on-titan-s03e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kAPsxKEAaCYKPOVmrBzhGpLMQLh.jpg"
+        },
+        {
+          "tit": "S03E03 🌀",
+          "linkFisico": "v/attack-on-titan-s03e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kAPsxKEAaCYKPOVmrBzhGpLMQLh.jpg"
+        },
+        {
+          "tit": "S03E04 🌀",
+          "linkFisico": "v/attack-on-titan-s03e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kAPsxKEAaCYKPOVmrBzhGpLMQLh.jpg"
+        },
+        {
+          "tit": "S03E05 🌀",
+          "linkFisico": "v/attack-on-titan-s03e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kAPsxKEAaCYKPOVmrBzhGpLMQLh.jpg"
+        },
+        {
+          "tit": "S03E06 🌀",
+          "linkFisico": "v/attack-on-titan-s03e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kAPsxKEAaCYKPOVmrBzhGpLMQLh.jpg"
+        },
+        {
+          "tit": "S03E07 🌀",
+          "linkFisico": "v/attack-on-titan-s03e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kAPsxKEAaCYKPOVmrBzhGpLMQLh.jpg"
+        },
+        {
+          "tit": "S03E08 🌀",
+          "linkFisico": "v/attack-on-titan-s03e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kAPsxKEAaCYKPOVmrBzhGpLMQLh.jpg"
+        },
+        {
+          "tit": "S03E09 🌀",
+          "linkFisico": "v/attack-on-titan-s03e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kAPsxKEAaCYKPOVmrBzhGpLMQLh.jpg"
+        },
+        {
+          "tit": "S03E10 🌀",
+          "linkFisico": "v/attack-on-titan-s03e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kAPsxKEAaCYKPOVmrBzhGpLMQLh.jpg"
+        },
+        {
+          "tit": "S03E11 🌀",
+          "linkFisico": "v/attack-on-titan-s03e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kAPsxKEAaCYKPOVmrBzhGpLMQLh.jpg"
+        },
+        {
+          "tit": "S03E12 🌀",
+          "linkFisico": "v/attack-on-titan-s03e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kAPsxKEAaCYKPOVmrBzhGpLMQLh.jpg"
+        },
+        {
+          "tit": "S03E13 🌀",
+          "linkFisico": "v/attack-on-titan-s03e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kAPsxKEAaCYKPOVmrBzhGpLMQLh.jpg"
+        },
+        {
+          "tit": "S03E14 🌀",
+          "linkFisico": "v/attack-on-titan-s03e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kAPsxKEAaCYKPOVmrBzhGpLMQLh.jpg"
+        },
+        {
+          "tit": "S03E15 🌀",
+          "linkFisico": "v/attack-on-titan-s03e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kAPsxKEAaCYKPOVmrBzhGpLMQLh.jpg"
+        },
+        {
+          "tit": "S03E16 🌀",
+          "linkFisico": "v/attack-on-titan-s03e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kAPsxKEAaCYKPOVmrBzhGpLMQLh.jpg"
+        },
+        {
+          "tit": "S03E17 🌀",
+          "linkFisico": "v/attack-on-titan-s03e17.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kAPsxKEAaCYKPOVmrBzhGpLMQLh.jpg"
+        },
+        {
+          "tit": "S03E18 🌀",
+          "linkFisico": "v/attack-on-titan-s03e18.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kAPsxKEAaCYKPOVmrBzhGpLMQLh.jpg"
+        },
+        {
+          "tit": "S03E19 🌀",
+          "linkFisico": "v/attack-on-titan-s03e19.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kAPsxKEAaCYKPOVmrBzhGpLMQLh.jpg"
+        },
+        {
+          "tit": "S03E20 🌀",
+          "linkFisico": "v/attack-on-titan-s03e20.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kAPsxKEAaCYKPOVmrBzhGpLMQLh.jpg"
+        },
+        {
+          "tit": "S03E21 🌀",
+          "linkFisico": "v/attack-on-titan-s03e21.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kAPsxKEAaCYKPOVmrBzhGpLMQLh.jpg"
+        },
+        {
+          "tit": "S03E22 🌀",
+          "linkFisico": "v/attack-on-titan-s03e22.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kAPsxKEAaCYKPOVmrBzhGpLMQLh.jpg"
+        }
+      ],
+      "4": [
+        {
+          "tit": "S04E01 🌀",
+          "linkFisico": "v/attack-on-titan-s04e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kAPsxKEAaCYKPOVmrBzhGpLMQLh.jpg"
+        },
+        {
+          "tit": "S04E02 🌀",
+          "linkFisico": "v/attack-on-titan-s04e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kAPsxKEAaCYKPOVmrBzhGpLMQLh.jpg"
+        },
+        {
+          "tit": "S04E03 🌀",
+          "linkFisico": "v/attack-on-titan-s04e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kAPsxKEAaCYKPOVmrBzhGpLMQLh.jpg"
+        },
+        {
+          "tit": "S04E04 🌀",
+          "linkFisico": "v/attack-on-titan-s04e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kAPsxKEAaCYKPOVmrBzhGpLMQLh.jpg"
+        },
+        {
+          "tit": "S04E05 🌀",
+          "linkFisico": "v/attack-on-titan-s04e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kAPsxKEAaCYKPOVmrBzhGpLMQLh.jpg"
+        },
+        {
+          "tit": "S04E06 🌀",
+          "linkFisico": "v/attack-on-titan-s04e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kAPsxKEAaCYKPOVmrBzhGpLMQLh.jpg"
+        },
+        {
+          "tit": "S04E07 🌀",
+          "linkFisico": "v/attack-on-titan-s04e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kAPsxKEAaCYKPOVmrBzhGpLMQLh.jpg"
+        },
+        {
+          "tit": "S04E08 🌀",
+          "linkFisico": "v/attack-on-titan-s04e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kAPsxKEAaCYKPOVmrBzhGpLMQLh.jpg"
+        },
+        {
+          "tit": "S04E09 🌀",
+          "linkFisico": "v/attack-on-titan-s04e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kAPsxKEAaCYKPOVmrBzhGpLMQLh.jpg"
+        },
+        {
+          "tit": "S04E10 🌀",
+          "linkFisico": "v/attack-on-titan-s04e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kAPsxKEAaCYKPOVmrBzhGpLMQLh.jpg"
+        },
+        {
+          "tit": "S04E11 🌀",
+          "linkFisico": "v/attack-on-titan-s04e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kAPsxKEAaCYKPOVmrBzhGpLMQLh.jpg"
+        },
+        {
+          "tit": "S04E12 🌀",
+          "linkFisico": "v/attack-on-titan-s04e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kAPsxKEAaCYKPOVmrBzhGpLMQLh.jpg"
+        },
+        {
+          "tit": "S04E13 🌀",
+          "linkFisico": "v/attack-on-titan-s04e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kAPsxKEAaCYKPOVmrBzhGpLMQLh.jpg"
+        },
+        {
+          "tit": "S04E14 🌀",
+          "linkFisico": "v/attack-on-titan-s04e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kAPsxKEAaCYKPOVmrBzhGpLMQLh.jpg"
+        },
+        {
+          "tit": "S04E15 🌀",
+          "linkFisico": "v/attack-on-titan-s04e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kAPsxKEAaCYKPOVmrBzhGpLMQLh.jpg"
+        },
+        {
+          "tit": "S04E16 🌀",
+          "linkFisico": "v/attack-on-titan-s04e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kAPsxKEAaCYKPOVmrBzhGpLMQLh.jpg"
+        },
+        {
+          "tit": "S04E17 🌀",
+          "linkFisico": "v/attack-on-titan-s04e17.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kAPsxKEAaCYKPOVmrBzhGpLMQLh.jpg"
+        },
+        {
+          "tit": "S04E18 🌀",
+          "linkFisico": "v/attack-on-titan-s04e18.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kAPsxKEAaCYKPOVmrBzhGpLMQLh.jpg"
+        },
+        {
+          "tit": "S04E19 🌀",
+          "linkFisico": "v/attack-on-titan-s04e19.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kAPsxKEAaCYKPOVmrBzhGpLMQLh.jpg"
+        },
+        {
+          "tit": "S04E20 🌀",
+          "linkFisico": "v/attack-on-titan-s04e20.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kAPsxKEAaCYKPOVmrBzhGpLMQLh.jpg"
+        },
+        {
+          "tit": "S04E21 🌀",
+          "linkFisico": "v/attack-on-titan-s04e21.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kAPsxKEAaCYKPOVmrBzhGpLMQLh.jpg"
+        },
+        {
+          "tit": "S04E22 🌀",
+          "linkFisico": "v/attack-on-titan-s04e22.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kAPsxKEAaCYKPOVmrBzhGpLMQLh.jpg"
+        },
+        {
+          "tit": "S04E23 🌀",
+          "linkFisico": "v/attack-on-titan-s04e23.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kAPsxKEAaCYKPOVmrBzhGpLMQLh.jpg"
+        },
+        {
+          "tit": "S04E24 🌀",
+          "linkFisico": "v/attack-on-titan-s04e24.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kAPsxKEAaCYKPOVmrBzhGpLMQLh.jpg"
+        },
+        {
+          "tit": "S04E25 🌀",
+          "linkFisico": "v/attack-on-titan-s04e25.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kAPsxKEAaCYKPOVmrBzhGpLMQLh.jpg"
+        },
+        {
+          "tit": "S04E26 🌀",
+          "linkFisico": "v/attack-on-titan-s04e26.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kAPsxKEAaCYKPOVmrBzhGpLMQLh.jpg"
+        },
+        {
+          "tit": "S04E27 🌀",
+          "linkFisico": "v/attack-on-titan-s04e27.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kAPsxKEAaCYKPOVmrBzhGpLMQLh.jpg"
+        },
+        {
+          "tit": "S04E28 🌀",
+          "linkFisico": "v/attack-on-titan-s04e28.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kAPsxKEAaCYKPOVmrBzhGpLMQLh.jpg"
+        }
+      ]
+    }
   }
 ]
