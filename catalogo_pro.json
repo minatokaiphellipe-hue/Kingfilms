@@ -23274,28 +23274,6 @@
     }
   },
   {
-    "id": "wallace-gromit-a-batalha-dos-vegetais",
-    "tipo": "filme",
-    "categoria": "Animações",
-    "titulo": "Wallace & Gromit: A Batalha dos Vegetais 🌀",
-    "logo": "https://image.tmdb.org/t/p/w780/o06EMgTpbObtQabzKCHwU1QS0Y6.jpg",
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/4JAaj46mdHWchx2is5Pne3JqOFg.jpg",
-    "logo_png": "https://image.tmdb.org/t/p/w500/qr9hKKEJTj1EvRZwzkiXohZSfIT.png",
-    "sinopse": "O bairro onde moram o pacato inventor Wallace e seu fiel cão Gromit está em polvorosa com a proximidade do concurso anual de legumes gigantes, organizado pela bela e solteira Lady Tottington. Para proteger as plantações de coelhos famintos, Wallace inventa um equipamento que captura os animais sem machucá-los. O problema é o que fazer com o excesso de coelhos, que não demoram a superpovoar a casa do inventor. A dupla tem ainda de lidar com uma misteriosa fera vegetariana, que está destruindo as plantações à noite. Agora a honra de Wallace está em jogo, pois ele precisa capturá-la antes do arrogante Victor Quartermaine, que está de olho na fortuna de Lady Tottington.",
-    "nota": "7.1",
-    "avaliacao": "7.1",
-    "classificacao": "Livre",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "Assistir 🌀",
-          "linkFisico": "v/wallace-gromit-a-batalha-dos-vegetais.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/4JAaj46mdHWchx2is5Pne3JqOFg.jpg"
-        }
-      ]
-    }
-  },
-  {
     "id": "it-capitulo-dois",
     "tipo": "filme",
     "categoria": "Terror",
@@ -23793,6 +23771,28 @@
           "tit": "S04E28 🌀",
           "linkFisico": "v/attack-on-titan-s04e28.html",
           "logoEp": "https://image.tmdb.org/t/p/w1280/kAPsxKEAaCYKPOVmrBzhGpLMQLh.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "wallace-gromit-a-batalha-dos-vegetais",
+    "tipo": "filme",
+    "categoria": "Terror",
+    "titulo": "Wallace & Gromit: A Batalha dos Vegetais 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/o06EMgTpbObtQabzKCHwU1QS0Y6.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/4JAaj46mdHWchx2is5Pne3JqOFg.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/qr9hKKEJTj1EvRZwzkiXohZSfIT.png",
+    "sinopse": "O bairro onde moram o pacato inventor Wallace e seu fiel cão Gromit está em polvorosa com a proximidade do concurso anual de legumes gigantes, organizado pela bela e solteira Lady Tottington. Para proteger as plantações de coelhos famintos, Wallace inventa um equipamento que captura os animais sem machucá-los. O problema é o que fazer com o excesso de coelhos, que não demoram a superpovoar a casa do inventor. A dupla tem ainda de lidar com uma misteriosa fera vegetariana, que está destruindo as plantações à noite. Agora a honra de Wallace está em jogo, pois ele precisa capturá-la antes do arrogante Victor Quartermaine, que está de olho na fortuna de Lady Tottington.",
+    "nota": "7.1",
+    "avaliacao": "7.1",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/wallace-gromit-a-batalha-dos-vegetais.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/4JAaj46mdHWchx2is5Pne3JqOFg.jpg"
         }
       ]
     }
