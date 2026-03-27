@@ -24566,5 +24566,87 @@
         }
       ]
     }
+  },
+  {
+    "id": "baki-dou-o-samurai-invencivel",
+    "tipo": "serie",
+    "categoria": "Animes",
+    "titulo": "BAKI-DOU: O Samurai Invencível 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/gIuCoLJSD09qx16FUn2OckjL6CA.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/cw6sfoGlcbnookocZr6UL93sumt.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/7yLxe77IQe6XJlTGRTg9NKfeYTR.png",
+    "sinopse": "Baki e os lutadores mais fortes da arena subterrânea encaram uma ameaça de proporções históricas: Musashi Miyamoto, o maior samurai do Japão, que foi ressuscitado.",
+    "nota": "8.8",
+    "avaliacao": "8.8",
+    "classificacao": "16",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "S01E01 🌀",
+          "linkFisico": "v/baki-dou-o-samurai-invencivel-s01e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/cw6sfoGlcbnookocZr6UL93sumt.jpg"
+        },
+        {
+          "tit": "S01E02 🌀",
+          "linkFisico": "v/baki-dou-o-samurai-invencivel-s01e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/cw6sfoGlcbnookocZr6UL93sumt.jpg"
+        },
+        {
+          "tit": "S01E03 🌀",
+          "linkFisico": "v/baki-dou-o-samurai-invencivel-s01e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/cw6sfoGlcbnookocZr6UL93sumt.jpg"
+        },
+        {
+          "tit": "S01E04 🌀",
+          "linkFisico": "v/baki-dou-o-samurai-invencivel-s01e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/cw6sfoGlcbnookocZr6UL93sumt.jpg"
+        },
+        {
+          "tit": "S01E05 🌀",
+          "linkFisico": "v/baki-dou-o-samurai-invencivel-s01e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/cw6sfoGlcbnookocZr6UL93sumt.jpg"
+        },
+        {
+          "tit": "S01E06 🌀",
+          "linkFisico": "v/baki-dou-o-samurai-invencivel-s01e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/cw6sfoGlcbnookocZr6UL93sumt.jpg"
+        },
+        {
+          "tit": "S01E07 🌀",
+          "linkFisico": "v/baki-dou-o-samurai-invencivel-s01e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/cw6sfoGlcbnookocZr6UL93sumt.jpg"
+        },
+        {
+          "tit": "S01E08 🌀",
+          "linkFisico": "v/baki-dou-o-samurai-invencivel-s01e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/cw6sfoGlcbnookocZr6UL93sumt.jpg"
+        },
+        {
+          "tit": "S01E09 🌀",
+          "linkFisico": "v/baki-dou-o-samurai-invencivel-s01e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/cw6sfoGlcbnookocZr6UL93sumt.jpg"
+        },
+        {
+          "tit": "S01E10 🌀",
+          "linkFisico": "v/baki-dou-o-samurai-invencivel-s01e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/cw6sfoGlcbnookocZr6UL93sumt.jpg"
+        },
+        {
+          "tit": "S01E11 🌀",
+          "linkFisico": "v/baki-dou-o-samurai-invencivel-s01e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/cw6sfoGlcbnookocZr6UL93sumt.jpg"
+        },
+        {
+          "tit": "S01E12 🌀",
+          "linkFisico": "v/baki-dou-o-samurai-invencivel-s01e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/cw6sfoGlcbnookocZr6UL93sumt.jpg"
+        },
+        {
+          "tit": "S01E13 🌀",
+          "linkFisico": "v/baki-dou-o-samurai-invencivel-s01e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/cw6sfoGlcbnookocZr6UL93sumt.jpg"
+        }
+      ]
+    }
   }
 ]
