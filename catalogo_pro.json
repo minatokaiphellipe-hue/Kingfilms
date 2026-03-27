@@ -23246,5 +23246,49 @@
         }
       ]
     }
+  },
+  {
+    "id": "panico-na-floresta-5",
+    "tipo": "filme",
+    "categoria": "Terror",
+    "titulo": "Pânico na Floresta 5 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/vsH0zwELHvVSKCyQlEZfDxjMSaP.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/7GYcZKMCmQmlfCjHQFlO4Ch6M9q.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/6PaGYUUvj4mTKQaKuVMtPN7KTtK.png",
+    "sinopse": "Uma pequena cidade do West da Virginia hospeda o famoso festival intitulado “O Homem da Montanha” na data do dia das bruxas, em que uma multidão de foliões fantasiados se reúnem para festejar a noite com músicas e travessuras típicas da data. Mas uma família de canibais está prestes a acabar com a festa.",
+    "nota": "5.5",
+    "avaliacao": "5.5",
+    "classificacao": "18",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/panico-na-floresta-5.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/7GYcZKMCmQmlfCjHQFlO4Ch6M9q.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "panico-na-floresta-6",
+    "tipo": "filme",
+    "categoria": "Terror",
+    "titulo": "Pânico na Floresta 6 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/z9JMIja6UYHwK6fFw0RR5w3pGVR.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/sUxV7r5PXlid0467BJBE7EaXMoQ.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/wAu7BVj6fkZSIFIbCfHidtyaRm9.png",
+    "sinopse": "Uma misteriosa herança leva Danny e seus amigos para um resort abandonado em Hobb Springs, que está sobre os cuidades de Jackson e Sally, um estranho casal que introduz Danny à família que nunca conheceu. Mas aos poucos, ele percebe que há esquisitas tradições, como canibalismo, uma das práticas que mantém a família unida. Agora, Danny terá de escolher entre seus amigos e sua linhagem de sangue.",
+    "nota": "5.4",
+    "avaliacao": "5.4",
+    "classificacao": "18",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/panico-na-floresta-6.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/sUxV7r5PXlid0467BJBE7EaXMoQ.jpg"
+        }
+      ]
+    }
   }
 ]
