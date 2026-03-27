@@ -23796,5 +23796,27 @@
         }
       ]
     }
+  },
+  {
+    "id": "a-arte-do-demonio",
+    "tipo": "filme",
+    "categoria": "Terror",
+    "titulo": "A Arte do Demônio 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/c6bUJKikxsf3fE6jtbMnRNQyzV7.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/tlVhygnHZIUcvMJnjRT7JZq0NqH.jpg",
+    "logo_png": "",
+    "sinopse": "Um homem rico e sua família são encontrados mortos. Enquanto as investigações prosseguem a polícia passa a desconfiar da amante do milionário, mas não encontra nenhuma evidência de sua participação. Seguindo uma espécie de intuição, um jovem repórter descobre que a arma do crime não foi uma faca, ou um revólver; em vez disso foi algo bem mais poderoso e mortal.",
+    "nota": "6.4",
+    "avaliacao": "6.4",
+    "classificacao": "16",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/a-arte-do-demonio.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/tlVhygnHZIUcvMJnjRT7JZq0NqH.jpg"
+        }
+      ]
+    }
   }
 ]
