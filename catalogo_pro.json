@@ -23316,5 +23316,27 @@
         }
       ]
     }
+  },
+  {
+    "id": "dia-dos-namorados-macabro",
+    "tipo": "filme",
+    "categoria": "Terror",
+    "titulo": "Dia dos Namorados Macabro 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/aQ8LON27775rBJKJ8nl4jEK2HUd.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/aDU1BGzbaYdp5BjthCmQilCHuQL.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/xbq8NHgLYLCDMTtbXe0CaYyVpTM.png",
+    "sinopse": "Tom (Jensen Ackles) volta à sua cidade natal dez anos após o massacre do Dia dos Namorados, quando 22 pessoas foram assassinadas. Em sua volta, o protagonista acaba sendo o principal suspeito do massacre. Poucos acreditam em sua inocência, entre eles uma antiga paixão, Sarah Palmer (Jaime King), que está disposta a ajudá-lo.",
+    "nota": "5.6",
+    "avaliacao": "5.6",
+    "classificacao": "18",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/dia-dos-namorados-macabro.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/aDU1BGzbaYdp5BjthCmQilCHuQL.jpg"
+        }
+      ]
+    }
   }
 ]
