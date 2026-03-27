@@ -24056,5 +24056,236 @@
         }
       ]
     }
+  },
+  {
+    "id": "record-of-ragnarok",
+    "tipo": "serie",
+    "categoria": "Animes",
+    "titulo": "Record of Ragnarok 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/m28Ey0LYoeqzx7mdJ25NVUqRueB.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/vTekr6jYgHWhVuVKUENKErwYIuZ.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/dhgGdE7XHnLp0id0dIXTVLVTn9O.png",
+    "sinopse": "Antes de ser eliminada pelos deuses, a humanidade tem uma última chance de provar que merece viver. Que comecem as batalhas do Ragnarok!",
+    "nota": "8.4",
+    "avaliacao": "8.4",
+    "classificacao": "16",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "S01E01 🌀",
+          "linkFisico": "v/record-of-ragnarok-s01e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/vTekr6jYgHWhVuVKUENKErwYIuZ.jpg"
+        },
+        {
+          "tit": "S01E02 🌀",
+          "linkFisico": "v/record-of-ragnarok-s01e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/vTekr6jYgHWhVuVKUENKErwYIuZ.jpg"
+        },
+        {
+          "tit": "S01E03 🌀",
+          "linkFisico": "v/record-of-ragnarok-s01e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/vTekr6jYgHWhVuVKUENKErwYIuZ.jpg"
+        },
+        {
+          "tit": "S01E04 🌀",
+          "linkFisico": "v/record-of-ragnarok-s01e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/vTekr6jYgHWhVuVKUENKErwYIuZ.jpg"
+        },
+        {
+          "tit": "S01E05 🌀",
+          "linkFisico": "v/record-of-ragnarok-s01e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/vTekr6jYgHWhVuVKUENKErwYIuZ.jpg"
+        },
+        {
+          "tit": "S01E06 🌀",
+          "linkFisico": "v/record-of-ragnarok-s01e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/vTekr6jYgHWhVuVKUENKErwYIuZ.jpg"
+        },
+        {
+          "tit": "S01E07 🌀",
+          "linkFisico": "v/record-of-ragnarok-s01e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/vTekr6jYgHWhVuVKUENKErwYIuZ.jpg"
+        },
+        {
+          "tit": "S01E08 🌀",
+          "linkFisico": "v/record-of-ragnarok-s01e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/vTekr6jYgHWhVuVKUENKErwYIuZ.jpg"
+        },
+        {
+          "tit": "S01E09 🌀",
+          "linkFisico": "v/record-of-ragnarok-s01e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/vTekr6jYgHWhVuVKUENKErwYIuZ.jpg"
+        },
+        {
+          "tit": "S01E10 🌀",
+          "linkFisico": "v/record-of-ragnarok-s01e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/vTekr6jYgHWhVuVKUENKErwYIuZ.jpg"
+        },
+        {
+          "tit": "S01E11 🌀",
+          "linkFisico": "v/record-of-ragnarok-s01e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/vTekr6jYgHWhVuVKUENKErwYIuZ.jpg"
+        },
+        {
+          "tit": "S01E12 🌀",
+          "linkFisico": "v/record-of-ragnarok-s01e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/vTekr6jYgHWhVuVKUENKErwYIuZ.jpg"
+        }
+      ],
+      "2": [
+        {
+          "tit": "S02E01 🌀",
+          "linkFisico": "v/record-of-ragnarok-s02e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/vTekr6jYgHWhVuVKUENKErwYIuZ.jpg"
+        },
+        {
+          "tit": "S02E02 🌀",
+          "linkFisico": "v/record-of-ragnarok-s02e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/vTekr6jYgHWhVuVKUENKErwYIuZ.jpg"
+        },
+        {
+          "tit": "S02E03 🌀",
+          "linkFisico": "v/record-of-ragnarok-s02e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/vTekr6jYgHWhVuVKUENKErwYIuZ.jpg"
+        },
+        {
+          "tit": "S02E04 🌀",
+          "linkFisico": "v/record-of-ragnarok-s02e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/vTekr6jYgHWhVuVKUENKErwYIuZ.jpg"
+        },
+        {
+          "tit": "S02E05 🌀",
+          "linkFisico": "v/record-of-ragnarok-s02e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/vTekr6jYgHWhVuVKUENKErwYIuZ.jpg"
+        },
+        {
+          "tit": "S02E06 🌀",
+          "linkFisico": "v/record-of-ragnarok-s02e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/vTekr6jYgHWhVuVKUENKErwYIuZ.jpg"
+        },
+        {
+          "tit": "S02E07 🌀",
+          "linkFisico": "v/record-of-ragnarok-s02e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/vTekr6jYgHWhVuVKUENKErwYIuZ.jpg"
+        },
+        {
+          "tit": "S02E08 🌀",
+          "linkFisico": "v/record-of-ragnarok-s02e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/vTekr6jYgHWhVuVKUENKErwYIuZ.jpg"
+        },
+        {
+          "tit": "S02E09 🌀",
+          "linkFisico": "v/record-of-ragnarok-s02e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/vTekr6jYgHWhVuVKUENKErwYIuZ.jpg"
+        },
+        {
+          "tit": "S02E10 🌀",
+          "linkFisico": "v/record-of-ragnarok-s02e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/vTekr6jYgHWhVuVKUENKErwYIuZ.jpg"
+        },
+        {
+          "tit": "S02E11 🌀",
+          "linkFisico": "v/record-of-ragnarok-s02e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/vTekr6jYgHWhVuVKUENKErwYIuZ.jpg"
+        },
+        {
+          "tit": "S02E12 🌀",
+          "linkFisico": "v/record-of-ragnarok-s02e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/vTekr6jYgHWhVuVKUENKErwYIuZ.jpg"
+        },
+        {
+          "tit": "S02E13 🌀",
+          "linkFisico": "v/record-of-ragnarok-s02e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/vTekr6jYgHWhVuVKUENKErwYIuZ.jpg"
+        },
+        {
+          "tit": "S02E14 🌀",
+          "linkFisico": "v/record-of-ragnarok-s02e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/vTekr6jYgHWhVuVKUENKErwYIuZ.jpg"
+        },
+        {
+          "tit": "S02E15 🌀",
+          "linkFisico": "v/record-of-ragnarok-s02e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/vTekr6jYgHWhVuVKUENKErwYIuZ.jpg"
+        }
+      ],
+      "3": [
+        {
+          "tit": "S03E01 🌀",
+          "linkFisico": "v/record-of-ragnarok-s03e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/vTekr6jYgHWhVuVKUENKErwYIuZ.jpg"
+        },
+        {
+          "tit": "S03E02 🌀",
+          "linkFisico": "v/record-of-ragnarok-s03e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/vTekr6jYgHWhVuVKUENKErwYIuZ.jpg"
+        },
+        {
+          "tit": "S03E03 🌀",
+          "linkFisico": "v/record-of-ragnarok-s03e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/vTekr6jYgHWhVuVKUENKErwYIuZ.jpg"
+        },
+        {
+          "tit": "S03E04 🌀",
+          "linkFisico": "v/record-of-ragnarok-s03e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/vTekr6jYgHWhVuVKUENKErwYIuZ.jpg"
+        },
+        {
+          "tit": "S03E05 🌀",
+          "linkFisico": "v/record-of-ragnarok-s03e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/vTekr6jYgHWhVuVKUENKErwYIuZ.jpg"
+        },
+        {
+          "tit": "S03E06 🌀",
+          "linkFisico": "v/record-of-ragnarok-s03e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/vTekr6jYgHWhVuVKUENKErwYIuZ.jpg"
+        },
+        {
+          "tit": "S03E07 🌀",
+          "linkFisico": "v/record-of-ragnarok-s03e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/vTekr6jYgHWhVuVKUENKErwYIuZ.jpg"
+        },
+        {
+          "tit": "S03E08 🌀",
+          "linkFisico": "v/record-of-ragnarok-s03e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/vTekr6jYgHWhVuVKUENKErwYIuZ.jpg"
+        },
+        {
+          "tit": "S03E09 🌀",
+          "linkFisico": "v/record-of-ragnarok-s03e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/vTekr6jYgHWhVuVKUENKErwYIuZ.jpg"
+        },
+        {
+          "tit": "S03E10 🌀",
+          "linkFisico": "v/record-of-ragnarok-s03e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/vTekr6jYgHWhVuVKUENKErwYIuZ.jpg"
+        },
+        {
+          "tit": "S03E11 🌀",
+          "linkFisico": "v/record-of-ragnarok-s03e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/vTekr6jYgHWhVuVKUENKErwYIuZ.jpg"
+        },
+        {
+          "tit": "S03E12 🌀",
+          "linkFisico": "v/record-of-ragnarok-s03e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/vTekr6jYgHWhVuVKUENKErwYIuZ.jpg"
+        },
+        {
+          "tit": "S03E13 🌀",
+          "linkFisico": "v/record-of-ragnarok-s03e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/vTekr6jYgHWhVuVKUENKErwYIuZ.jpg"
+        },
+        {
+          "tit": "S03E14 🌀",
+          "linkFisico": "v/record-of-ragnarok-s03e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/vTekr6jYgHWhVuVKUENKErwYIuZ.jpg"
+        },
+        {
+          "tit": "S03E15 🌀",
+          "linkFisico": "v/record-of-ragnarok-s03e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/vTekr6jYgHWhVuVKUENKErwYIuZ.jpg"
+        }
+      ]
+    }
   }
 ]
