@@ -28441,5 +28441,27 @@
         }
       ]
     }
+  },
+  {
+    "id": "titanic",
+    "tipo": "filme",
+    "categoria": "Romance",
+    "titulo": "Titanic 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/As0zX43h3w6kD2NS4uVHu9HKdEh.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/iqaoArCi5bOQ5CJTMcl1lSSBIgw.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/gSIpFV2YUFPQdRucgpf22jKJHC4.png",
+    "sinopse": "Um artista pobre e uma jovem rica se conhecem e se apaixonam na fatídica jornada do Titanic, em 1912. Embora esteja noiva do arrogante herdeiro de uma siderúrgica, a jovem desafia sua família e amigos em busca do verdadeiro amor.",
+    "nota": "7.9",
+    "avaliacao": "7.9",
+    "classificacao": "12",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/titanic.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/iqaoArCi5bOQ5CJTMcl1lSSBIgw.jpg"
+        }
+      ]
+    }
   }
 ]
