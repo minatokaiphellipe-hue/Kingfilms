@@ -28463,5 +28463,71 @@
         }
       ]
     }
+  },
+  {
+    "id": "velozes-e-furiosos",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "Velozes e Furiosos 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/rKaaYM4CtuJZFdOA0SZWbaMNHbn.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/wvFj0arRN9YZDKZjQPIMHXtioRy.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/dwA1c9u0zxRtEwzRokSAbC5NBlV.png",
+    "sinopse": "Um investigador da polícia se infiltra em uma turma de rachas suspeita de roubar caminhões, mas acaba apaixonando-se pela irmã do líder.",
+    "nota": "7.0",
+    "avaliacao": "7.0",
+    "classificacao": "14",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/velozes-e-furiosos.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/wvFj0arRN9YZDKZjQPIMHXtioRy.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "velozes-furiosos",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "+ Velozes + Furiosos 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/mx0CB8H78PQu0g9YUWG47hdi93S.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/bWDJkjPecCjnmFF15DlYPAtPf4M.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/iY4P490s5MFTuKri6q4DyD9GLrh.png",
+    "sinopse": "O ex-policial Brian comete uma grande traição, juntando-se a um amigo ex-presidiário no transporte de dinheiro sujo para uma importadora-exportadora muito suspeita.",
+    "nota": "6.5",
+    "avaliacao": "6.5",
+    "classificacao": "14",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/velozes-furiosos.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bWDJkjPecCjnmFF15DlYPAtPf4M.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "velozes-e-furiosos-desafio-em-toquio",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "Velozes e Furiosos: Desafio em Tóquio 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/1kzW2GImY1YVmLRx3NLhXFBfLLO.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/4KzvXYPYmOwABxtWCSPDZg5itdv.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/slPvvyn6YGfLpT7iNI3cZjpUEI3.png",
+    "sinopse": "Sean Boswell é um piloto de rua que desafia seu rival e bate o carro no fim da corrida. Então, Sean decide se mudar para o Japão em companhia de seu pai para evitar a prisão nos Estados Unidos, já que os rachas não são nada populares com as autoridades. Em Tóquio, ele começa a aprender um excitante e perigoso estilo novo de competir nas ruas. Só que os riscos ficam ainda mais altos quando Sean decide competir com o campeão local e acaba se apaixonando pela namorada dele.",
+    "nota": "6.5",
+    "avaliacao": "6.5",
+    "classificacao": "14",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/velozes-e-furiosos-desafio-em-toquio.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/4KzvXYPYmOwABxtWCSPDZg5itdv.jpg"
+        }
+      ]
+    }
   }
 ]
