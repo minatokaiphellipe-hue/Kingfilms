@@ -27242,5 +27242,146 @@
         }
       ]
     }
+  },
+  {
+    "id": "sweet-tooth",
+    "tipo": "serie",
+    "categoria": "Séries",
+    "titulo": "Sweet Tooth 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/rgMfhcrVZjuy5b7Pn0KzCRCEnMX.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/wuf6h0TVsqkiswYOZ2BhgHlPa1g.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/mJ73yKF3oSyaQsWNOgxjaED9mXe.png",
+    "sinopse": "Nessa aventura épica em um mundo pós-apocalíptico, um adorável menino-cervo procura uma família e um lar na companhia de um amigo rabugento.",
+    "nota": "7.8",
+    "avaliacao": "7.8",
+    "classificacao": "14",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "S01E01 🌀",
+          "linkFisico": "v/sweet-tooth-s01e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/wuf6h0TVsqkiswYOZ2BhgHlPa1g.jpg"
+        },
+        {
+          "tit": "S01E02 🌀",
+          "linkFisico": "v/sweet-tooth-s01e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/wuf6h0TVsqkiswYOZ2BhgHlPa1g.jpg"
+        },
+        {
+          "tit": "S01E03 🌀",
+          "linkFisico": "v/sweet-tooth-s01e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/wuf6h0TVsqkiswYOZ2BhgHlPa1g.jpg"
+        },
+        {
+          "tit": "S01E04 🌀",
+          "linkFisico": "v/sweet-tooth-s01e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/wuf6h0TVsqkiswYOZ2BhgHlPa1g.jpg"
+        },
+        {
+          "tit": "S01E05 🌀",
+          "linkFisico": "v/sweet-tooth-s01e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/wuf6h0TVsqkiswYOZ2BhgHlPa1g.jpg"
+        },
+        {
+          "tit": "S01E06 🌀",
+          "linkFisico": "v/sweet-tooth-s01e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/wuf6h0TVsqkiswYOZ2BhgHlPa1g.jpg"
+        },
+        {
+          "tit": "S01E07 🌀",
+          "linkFisico": "v/sweet-tooth-s01e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/wuf6h0TVsqkiswYOZ2BhgHlPa1g.jpg"
+        },
+        {
+          "tit": "S01E08 🌀",
+          "linkFisico": "v/sweet-tooth-s01e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/wuf6h0TVsqkiswYOZ2BhgHlPa1g.jpg"
+        }
+      ],
+      "2": [
+        {
+          "tit": "S02E01 🌀",
+          "linkFisico": "v/sweet-tooth-s02e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/wuf6h0TVsqkiswYOZ2BhgHlPa1g.jpg"
+        },
+        {
+          "tit": "S02E02 🌀",
+          "linkFisico": "v/sweet-tooth-s02e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/wuf6h0TVsqkiswYOZ2BhgHlPa1g.jpg"
+        },
+        {
+          "tit": "S02E03 🌀",
+          "linkFisico": "v/sweet-tooth-s02e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/wuf6h0TVsqkiswYOZ2BhgHlPa1g.jpg"
+        },
+        {
+          "tit": "S02E04 🌀",
+          "linkFisico": "v/sweet-tooth-s02e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/wuf6h0TVsqkiswYOZ2BhgHlPa1g.jpg"
+        },
+        {
+          "tit": "S02E05 🌀",
+          "linkFisico": "v/sweet-tooth-s02e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/wuf6h0TVsqkiswYOZ2BhgHlPa1g.jpg"
+        },
+        {
+          "tit": "S02E06 🌀",
+          "linkFisico": "v/sweet-tooth-s02e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/wuf6h0TVsqkiswYOZ2BhgHlPa1g.jpg"
+        },
+        {
+          "tit": "S02E07 🌀",
+          "linkFisico": "v/sweet-tooth-s02e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/wuf6h0TVsqkiswYOZ2BhgHlPa1g.jpg"
+        },
+        {
+          "tit": "S02E08 🌀",
+          "linkFisico": "v/sweet-tooth-s02e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/wuf6h0TVsqkiswYOZ2BhgHlPa1g.jpg"
+        }
+      ],
+      "3": [
+        {
+          "tit": "S03E01 🌀",
+          "linkFisico": "v/sweet-tooth-s03e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/wuf6h0TVsqkiswYOZ2BhgHlPa1g.jpg"
+        },
+        {
+          "tit": "S03E02 🌀",
+          "linkFisico": "v/sweet-tooth-s03e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/wuf6h0TVsqkiswYOZ2BhgHlPa1g.jpg"
+        },
+        {
+          "tit": "S03E03 🌀",
+          "linkFisico": "v/sweet-tooth-s03e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/wuf6h0TVsqkiswYOZ2BhgHlPa1g.jpg"
+        },
+        {
+          "tit": "S03E04 🌀",
+          "linkFisico": "v/sweet-tooth-s03e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/wuf6h0TVsqkiswYOZ2BhgHlPa1g.jpg"
+        },
+        {
+          "tit": "S03E05 🌀",
+          "linkFisico": "v/sweet-tooth-s03e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/wuf6h0TVsqkiswYOZ2BhgHlPa1g.jpg"
+        },
+        {
+          "tit": "S03E06 🌀",
+          "linkFisico": "v/sweet-tooth-s03e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/wuf6h0TVsqkiswYOZ2BhgHlPa1g.jpg"
+        },
+        {
+          "tit": "S03E07 🌀",
+          "linkFisico": "v/sweet-tooth-s03e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/wuf6h0TVsqkiswYOZ2BhgHlPa1g.jpg"
+        },
+        {
+          "tit": "S03E08 🌀",
+          "linkFisico": "v/sweet-tooth-s03e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/wuf6h0TVsqkiswYOZ2BhgHlPa1g.jpg"
+        }
+      ]
+    }
   }
 ]
