@@ -28661,5 +28661,27 @@
         }
       ]
     }
+  },
+  {
+    "id": "velozes-furiosos-10",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "Velozes & Furiosos 10 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/xNqt1Om0IlUhDOjZRCL5ewoazVV.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/r3dTtSUW3bHjPUuKcfapikVIMgk.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/whC2rCtwQLwqT2GyJAGTHTakCtX.png",
+    "sinopse": "Dom Toretto enfrenta seu maior desafio até agora: a corrida para salvar a família de um inimigo cheio de rancor e fúria no volante.",
+    "nota": "7.0",
+    "avaliacao": "7.0",
+    "classificacao": "14",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/velozes-furiosos-10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/r3dTtSUW3bHjPUuKcfapikVIMgk.jpg"
+        }
+      ]
+    }
   }
 ]
