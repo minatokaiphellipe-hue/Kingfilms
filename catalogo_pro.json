@@ -12548,26 +12548,6 @@
     }
   },
   {
-    "id": "meu-malvado-favorito-4",
-    "tipo": "filme",
-    "categoria": "Animações",
-    "titulo": "Meu Malvado Favorito 4 🌀",
-    "logo": "https://image.tmdb.org/t/p/w780/s8BefU3RIJrfipTpsDtOiatlp8j.jpg",
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/1rJRADq7kzP3grWWOGjXW5u8xin.jpg",
-    "sinopse": "Nesta sequência, o vilão mais amado do planeta retorna e agora Gru, Lucy, Margo, Edith e Agnes dão as boas-vindas a um novo membro da família: Gru Jr., que pretende atormentar seu pai. Enquanto se adapta com o pequeno, Gru enfrenta um novo inimigo, Maxime Le Mal, forçando sua namorada Valentina e a família a fugir do perigo.",
-    "avaliacao": "7.0",
-    "classificacao": "Livre",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "Assistir 🌀",
-          "linkFisico": "v/meu-malvado-favorito-4.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1rJRADq7kzP3grWWOGjXW5u8xin.jpg"
-        }
-      ]
-    }
-  },
-  {
     "id": "mib-homens-de-preto",
     "tipo": "filme",
     "categoria": "Ação",
@@ -27014,6 +26994,28 @@
           "tit": "S01E08 🌀",
           "linkFisico": "v/56-dias-s01e08.html",
           "logoEp": "https://image.tmdb.org/t/p/w1280/y8k4nVhsfTsZiY0kG7UaZCAkChK.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "meu-malvado-favorito-4",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Meu Malvado Favorito 4 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/s8BefU3RIJrfipTpsDtOiatlp8j.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/1rJRADq7kzP3grWWOGjXW5u8xin.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/nSy5JnELZ39vsevbcsWZy2zCZ0L.png",
+    "sinopse": "Nesta sequência, o vilão mais amado do planeta retorna e agora Gru, Lucy, Margo, Edith e Agnes dão as boas-vindas a um novo membro da família: Gru Jr., que pretende atormentar seu pai. Enquanto se adapta com o pequeno, Gru enfrenta um novo inimigo, Maxime Le Mal, forçando sua namorada Valentina e a família a fugir do perigo.",
+    "nota": "7.0",
+    "avaliacao": "7.0",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/meu-malvado-favorito-4.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1rJRADq7kzP3grWWOGjXW5u8xin.jpg"
         }
       ]
     }
