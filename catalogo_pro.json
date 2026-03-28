@@ -26616,5 +26616,147 @@
         }
       ]
     }
+  },
+  {
+    "id": "solo-leveling",
+    "tipo": "serie",
+    "categoria": "Animes",
+    "titulo": "Solo Leveling 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/uFmLbRL1LyHSgoGMI7hQ8bZ4Juf.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/8s1Cym5F7EesthvaLMDvi6DpMK5.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/piJiMJx8ubLCgiIC9fgjaQcpG8a.png",
+    "sinopse": "Há mais de uma década, surgiu uma misteriosa passagem chamada \"portal\", que conecta este mundo a uma dimensão diferente, o que fez com que pessoas despertassem poderes únicos… e essas pessoas são chamadas de \"caçadores\". Os caçadores usam seus poderes sobre-humanos para conquistar masmorras dentro dos portais e assim ganhar a vida. Sung Jinwoo, um caçador de nível baixo, é considerado o caçador mais fraco de toda a humanidade. Certo dia, ele se depara com uma \"masmorra dupla\", que tem uma masmorra de nível alto escondida dentro de uma masmorra de nível baixo. Diante de um Jinwoo gravemente ferido, surge uma misteriosa missão! À beira da morte, Jinwoo decide aceitar essa missão, tornando-se assim a única pessoa capaz de subir de nível!",
+    "nota": "8.6",
+    "avaliacao": "8.6",
+    "classificacao": "16",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "S01E01 🌀",
+          "linkFisico": "v/solo-leveling-s01e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/8s1Cym5F7EesthvaLMDvi6DpMK5.jpg"
+        },
+        {
+          "tit": "S01E02 🌀",
+          "linkFisico": "v/solo-leveling-s01e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/8s1Cym5F7EesthvaLMDvi6DpMK5.jpg"
+        },
+        {
+          "tit": "S01E03 🌀",
+          "linkFisico": "v/solo-leveling-s01e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/8s1Cym5F7EesthvaLMDvi6DpMK5.jpg"
+        },
+        {
+          "tit": "S01E04 🌀",
+          "linkFisico": "v/solo-leveling-s01e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/8s1Cym5F7EesthvaLMDvi6DpMK5.jpg"
+        },
+        {
+          "tit": "S01E05 🌀",
+          "linkFisico": "v/solo-leveling-s01e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/8s1Cym5F7EesthvaLMDvi6DpMK5.jpg"
+        },
+        {
+          "tit": "S01E06 🌀",
+          "linkFisico": "v/solo-leveling-s01e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/8s1Cym5F7EesthvaLMDvi6DpMK5.jpg"
+        },
+        {
+          "tit": "S01E07 🌀",
+          "linkFisico": "v/solo-leveling-s01e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/8s1Cym5F7EesthvaLMDvi6DpMK5.jpg"
+        },
+        {
+          "tit": "S01E08 🌀",
+          "linkFisico": "v/solo-leveling-s01e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/8s1Cym5F7EesthvaLMDvi6DpMK5.jpg"
+        },
+        {
+          "tit": "S01E09 🌀",
+          "linkFisico": "v/solo-leveling-s01e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/8s1Cym5F7EesthvaLMDvi6DpMK5.jpg"
+        },
+        {
+          "tit": "S01E10 🌀",
+          "linkFisico": "v/solo-leveling-s01e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/8s1Cym5F7EesthvaLMDvi6DpMK5.jpg"
+        },
+        {
+          "tit": "S01E11 🌀",
+          "linkFisico": "v/solo-leveling-s01e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/8s1Cym5F7EesthvaLMDvi6DpMK5.jpg"
+        },
+        {
+          "tit": "S01E12 🌀",
+          "linkFisico": "v/solo-leveling-s01e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/8s1Cym5F7EesthvaLMDvi6DpMK5.jpg"
+        },
+        {
+          "tit": "S01E13 🌀",
+          "linkFisico": "v/solo-leveling-s01e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/8s1Cym5F7EesthvaLMDvi6DpMK5.jpg"
+        },
+        {
+          "tit": "S01E14 🌀",
+          "linkFisico": "v/solo-leveling-s01e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/8s1Cym5F7EesthvaLMDvi6DpMK5.jpg"
+        },
+        {
+          "tit": "S01E15 🌀",
+          "linkFisico": "v/solo-leveling-s01e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/8s1Cym5F7EesthvaLMDvi6DpMK5.jpg"
+        },
+        {
+          "tit": "S01E16 🌀",
+          "linkFisico": "v/solo-leveling-s01e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/8s1Cym5F7EesthvaLMDvi6DpMK5.jpg"
+        },
+        {
+          "tit": "S01E17 🌀",
+          "linkFisico": "v/solo-leveling-s01e17.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/8s1Cym5F7EesthvaLMDvi6DpMK5.jpg"
+        },
+        {
+          "tit": "S01E18 🌀",
+          "linkFisico": "v/solo-leveling-s01e18.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/8s1Cym5F7EesthvaLMDvi6DpMK5.jpg"
+        },
+        {
+          "tit": "S01E19 🌀",
+          "linkFisico": "v/solo-leveling-s01e19.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/8s1Cym5F7EesthvaLMDvi6DpMK5.jpg"
+        },
+        {
+          "tit": "S01E20 🌀",
+          "linkFisico": "v/solo-leveling-s01e20.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/8s1Cym5F7EesthvaLMDvi6DpMK5.jpg"
+        },
+        {
+          "tit": "S01E21 🌀",
+          "linkFisico": "v/solo-leveling-s01e21.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/8s1Cym5F7EesthvaLMDvi6DpMK5.jpg"
+        },
+        {
+          "tit": "S01E22 🌀",
+          "linkFisico": "v/solo-leveling-s01e22.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/8s1Cym5F7EesthvaLMDvi6DpMK5.jpg"
+        },
+        {
+          "tit": "S01E23 🌀",
+          "linkFisico": "v/solo-leveling-s01e23.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/8s1Cym5F7EesthvaLMDvi6DpMK5.jpg"
+        },
+        {
+          "tit": "S01E24 🌀",
+          "linkFisico": "v/solo-leveling-s01e24.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/8s1Cym5F7EesthvaLMDvi6DpMK5.jpg"
+        },
+        {
+          "tit": "S01E25 🌀",
+          "linkFisico": "v/solo-leveling-s01e25.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/8s1Cym5F7EesthvaLMDvi6DpMK5.jpg"
+        }
+      ]
+    }
   }
 ]
