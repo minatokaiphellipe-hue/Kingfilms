@@ -27969,5 +27969,477 @@
         }
       ]
     }
+  },
+  {
+    "id": "vikings",
+    "tipo": "serie",
+    "categoria": "Séries",
+    "titulo": "Vikings 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/bQLrHIRNEkE3PdIWQrZHynQZazu.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/gNIwh41v7Pe8hwF8XEu5JdH4s6B.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/g4t8s34ONUnxLm7AfgOI82t4ozu.png",
+    "sinopse": "Ragnar Lothbrok, um jovem que se considera descendente de Odin, é um guerreiro, fazendeiro e chefe de família. Visionário e sonhando viver diversas aventuras, ele acredita que as riquezas sonhadas por seu povo encontram-se além do mar Báltico. Mas para conseguir conquistá-las ele precisa convencer Earl Haraldson, o líder de seu povo, a permitir que ele e seus guerreiros viagem em direção à Inglaterra.",
+    "nota": "8.1",
+    "avaliacao": "8.1",
+    "classificacao": "14",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "S01E01 🌀",
+          "linkFisico": "v/vikings-s01e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gNIwh41v7Pe8hwF8XEu5JdH4s6B.jpg"
+        },
+        {
+          "tit": "S01E02 🌀",
+          "linkFisico": "v/vikings-s01e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gNIwh41v7Pe8hwF8XEu5JdH4s6B.jpg"
+        },
+        {
+          "tit": "S01E03 🌀",
+          "linkFisico": "v/vikings-s01e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gNIwh41v7Pe8hwF8XEu5JdH4s6B.jpg"
+        },
+        {
+          "tit": "S01E04 🌀",
+          "linkFisico": "v/vikings-s01e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gNIwh41v7Pe8hwF8XEu5JdH4s6B.jpg"
+        },
+        {
+          "tit": "S01E05 🌀",
+          "linkFisico": "v/vikings-s01e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gNIwh41v7Pe8hwF8XEu5JdH4s6B.jpg"
+        },
+        {
+          "tit": "S01E06 🌀",
+          "linkFisico": "v/vikings-s01e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gNIwh41v7Pe8hwF8XEu5JdH4s6B.jpg"
+        },
+        {
+          "tit": "S01E07 🌀",
+          "linkFisico": "v/vikings-s01e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gNIwh41v7Pe8hwF8XEu5JdH4s6B.jpg"
+        },
+        {
+          "tit": "S01E08 🌀",
+          "linkFisico": "v/vikings-s01e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gNIwh41v7Pe8hwF8XEu5JdH4s6B.jpg"
+        },
+        {
+          "tit": "S01E09 🌀",
+          "linkFisico": "v/vikings-s01e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gNIwh41v7Pe8hwF8XEu5JdH4s6B.jpg"
+        }
+      ],
+      "2": [
+        {
+          "tit": "S02E01 🌀",
+          "linkFisico": "v/vikings-s02e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gNIwh41v7Pe8hwF8XEu5JdH4s6B.jpg"
+        },
+        {
+          "tit": "S02E02 🌀",
+          "linkFisico": "v/vikings-s02e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gNIwh41v7Pe8hwF8XEu5JdH4s6B.jpg"
+        },
+        {
+          "tit": "S02E03 🌀",
+          "linkFisico": "v/vikings-s02e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gNIwh41v7Pe8hwF8XEu5JdH4s6B.jpg"
+        },
+        {
+          "tit": "S02E04 🌀",
+          "linkFisico": "v/vikings-s02e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gNIwh41v7Pe8hwF8XEu5JdH4s6B.jpg"
+        },
+        {
+          "tit": "S02E05 🌀",
+          "linkFisico": "v/vikings-s02e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gNIwh41v7Pe8hwF8XEu5JdH4s6B.jpg"
+        },
+        {
+          "tit": "S02E06 🌀",
+          "linkFisico": "v/vikings-s02e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gNIwh41v7Pe8hwF8XEu5JdH4s6B.jpg"
+        },
+        {
+          "tit": "S02E07 🌀",
+          "linkFisico": "v/vikings-s02e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gNIwh41v7Pe8hwF8XEu5JdH4s6B.jpg"
+        },
+        {
+          "tit": "S02E08 🌀",
+          "linkFisico": "v/vikings-s02e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gNIwh41v7Pe8hwF8XEu5JdH4s6B.jpg"
+        },
+        {
+          "tit": "S02E09 🌀",
+          "linkFisico": "v/vikings-s02e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gNIwh41v7Pe8hwF8XEu5JdH4s6B.jpg"
+        },
+        {
+          "tit": "S02E10 🌀",
+          "linkFisico": "v/vikings-s02e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gNIwh41v7Pe8hwF8XEu5JdH4s6B.jpg"
+        }
+      ],
+      "3": [
+        {
+          "tit": "S03E01 🌀",
+          "linkFisico": "v/vikings-s03e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gNIwh41v7Pe8hwF8XEu5JdH4s6B.jpg"
+        },
+        {
+          "tit": "S03E02 🌀",
+          "linkFisico": "v/vikings-s03e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gNIwh41v7Pe8hwF8XEu5JdH4s6B.jpg"
+        },
+        {
+          "tit": "S03E03 🌀",
+          "linkFisico": "v/vikings-s03e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gNIwh41v7Pe8hwF8XEu5JdH4s6B.jpg"
+        },
+        {
+          "tit": "S03E04 🌀",
+          "linkFisico": "v/vikings-s03e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gNIwh41v7Pe8hwF8XEu5JdH4s6B.jpg"
+        },
+        {
+          "tit": "S03E05 🌀",
+          "linkFisico": "v/vikings-s03e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gNIwh41v7Pe8hwF8XEu5JdH4s6B.jpg"
+        },
+        {
+          "tit": "S03E06 🌀",
+          "linkFisico": "v/vikings-s03e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gNIwh41v7Pe8hwF8XEu5JdH4s6B.jpg"
+        },
+        {
+          "tit": "S03E07 🌀",
+          "linkFisico": "v/vikings-s03e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gNIwh41v7Pe8hwF8XEu5JdH4s6B.jpg"
+        },
+        {
+          "tit": "S03E08 🌀",
+          "linkFisico": "v/vikings-s03e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gNIwh41v7Pe8hwF8XEu5JdH4s6B.jpg"
+        },
+        {
+          "tit": "S03E09 🌀",
+          "linkFisico": "v/vikings-s03e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gNIwh41v7Pe8hwF8XEu5JdH4s6B.jpg"
+        },
+        {
+          "tit": "S03E10 🌀",
+          "linkFisico": "v/vikings-s03e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gNIwh41v7Pe8hwF8XEu5JdH4s6B.jpg"
+        }
+      ],
+      "4": [
+        {
+          "tit": "S04E01 🌀",
+          "linkFisico": "v/vikings-s04e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gNIwh41v7Pe8hwF8XEu5JdH4s6B.jpg"
+        },
+        {
+          "tit": "S04E02 🌀",
+          "linkFisico": "v/vikings-s04e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gNIwh41v7Pe8hwF8XEu5JdH4s6B.jpg"
+        },
+        {
+          "tit": "S04E03 🌀",
+          "linkFisico": "v/vikings-s04e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gNIwh41v7Pe8hwF8XEu5JdH4s6B.jpg"
+        },
+        {
+          "tit": "S04E04 🌀",
+          "linkFisico": "v/vikings-s04e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gNIwh41v7Pe8hwF8XEu5JdH4s6B.jpg"
+        },
+        {
+          "tit": "S04E05 🌀",
+          "linkFisico": "v/vikings-s04e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gNIwh41v7Pe8hwF8XEu5JdH4s6B.jpg"
+        },
+        {
+          "tit": "S04E06 🌀",
+          "linkFisico": "v/vikings-s04e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gNIwh41v7Pe8hwF8XEu5JdH4s6B.jpg"
+        },
+        {
+          "tit": "S04E07 🌀",
+          "linkFisico": "v/vikings-s04e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gNIwh41v7Pe8hwF8XEu5JdH4s6B.jpg"
+        },
+        {
+          "tit": "S04E08 🌀",
+          "linkFisico": "v/vikings-s04e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gNIwh41v7Pe8hwF8XEu5JdH4s6B.jpg"
+        },
+        {
+          "tit": "S04E09 🌀",
+          "linkFisico": "v/vikings-s04e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gNIwh41v7Pe8hwF8XEu5JdH4s6B.jpg"
+        },
+        {
+          "tit": "S04E10 🌀",
+          "linkFisico": "v/vikings-s04e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gNIwh41v7Pe8hwF8XEu5JdH4s6B.jpg"
+        },
+        {
+          "tit": "S04E11 🌀",
+          "linkFisico": "v/vikings-s04e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gNIwh41v7Pe8hwF8XEu5JdH4s6B.jpg"
+        },
+        {
+          "tit": "S04E12 🌀",
+          "linkFisico": "v/vikings-s04e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gNIwh41v7Pe8hwF8XEu5JdH4s6B.jpg"
+        },
+        {
+          "tit": "S04E13 🌀",
+          "linkFisico": "v/vikings-s04e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gNIwh41v7Pe8hwF8XEu5JdH4s6B.jpg"
+        },
+        {
+          "tit": "S04E14 🌀",
+          "linkFisico": "v/vikings-s04e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gNIwh41v7Pe8hwF8XEu5JdH4s6B.jpg"
+        },
+        {
+          "tit": "S04E15 🌀",
+          "linkFisico": "v/vikings-s04e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gNIwh41v7Pe8hwF8XEu5JdH4s6B.jpg"
+        },
+        {
+          "tit": "S04E16 🌀",
+          "linkFisico": "v/vikings-s04e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gNIwh41v7Pe8hwF8XEu5JdH4s6B.jpg"
+        },
+        {
+          "tit": "S04E17 🌀",
+          "linkFisico": "v/vikings-s04e17.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gNIwh41v7Pe8hwF8XEu5JdH4s6B.jpg"
+        },
+        {
+          "tit": "S04E18 🌀",
+          "linkFisico": "v/vikings-s04e18.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gNIwh41v7Pe8hwF8XEu5JdH4s6B.jpg"
+        },
+        {
+          "tit": "S04E19 🌀",
+          "linkFisico": "v/vikings-s04e19.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gNIwh41v7Pe8hwF8XEu5JdH4s6B.jpg"
+        },
+        {
+          "tit": "S04E20 🌀",
+          "linkFisico": "v/vikings-s04e20.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gNIwh41v7Pe8hwF8XEu5JdH4s6B.jpg"
+        }
+      ],
+      "5": [
+        {
+          "tit": "S05E01 🌀",
+          "linkFisico": "v/vikings-s05e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gNIwh41v7Pe8hwF8XEu5JdH4s6B.jpg"
+        },
+        {
+          "tit": "S05E02 🌀",
+          "linkFisico": "v/vikings-s05e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gNIwh41v7Pe8hwF8XEu5JdH4s6B.jpg"
+        },
+        {
+          "tit": "S05E03 🌀",
+          "linkFisico": "v/vikings-s05e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gNIwh41v7Pe8hwF8XEu5JdH4s6B.jpg"
+        },
+        {
+          "tit": "S05E04 🌀",
+          "linkFisico": "v/vikings-s05e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gNIwh41v7Pe8hwF8XEu5JdH4s6B.jpg"
+        },
+        {
+          "tit": "S05E05 🌀",
+          "linkFisico": "v/vikings-s05e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gNIwh41v7Pe8hwF8XEu5JdH4s6B.jpg"
+        },
+        {
+          "tit": "S05E06 🌀",
+          "linkFisico": "v/vikings-s05e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gNIwh41v7Pe8hwF8XEu5JdH4s6B.jpg"
+        },
+        {
+          "tit": "S05E07 🌀",
+          "linkFisico": "v/vikings-s05e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gNIwh41v7Pe8hwF8XEu5JdH4s6B.jpg"
+        },
+        {
+          "tit": "S05E08 🌀",
+          "linkFisico": "v/vikings-s05e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gNIwh41v7Pe8hwF8XEu5JdH4s6B.jpg"
+        },
+        {
+          "tit": "S05E09 🌀",
+          "linkFisico": "v/vikings-s05e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gNIwh41v7Pe8hwF8XEu5JdH4s6B.jpg"
+        },
+        {
+          "tit": "S05E10 🌀",
+          "linkFisico": "v/vikings-s05e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gNIwh41v7Pe8hwF8XEu5JdH4s6B.jpg"
+        },
+        {
+          "tit": "S05E11 🌀",
+          "linkFisico": "v/vikings-s05e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gNIwh41v7Pe8hwF8XEu5JdH4s6B.jpg"
+        },
+        {
+          "tit": "S05E12 🌀",
+          "linkFisico": "v/vikings-s05e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gNIwh41v7Pe8hwF8XEu5JdH4s6B.jpg"
+        },
+        {
+          "tit": "S05E13 🌀",
+          "linkFisico": "v/vikings-s05e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gNIwh41v7Pe8hwF8XEu5JdH4s6B.jpg"
+        },
+        {
+          "tit": "S05E14 🌀",
+          "linkFisico": "v/vikings-s05e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gNIwh41v7Pe8hwF8XEu5JdH4s6B.jpg"
+        },
+        {
+          "tit": "S05E15 🌀",
+          "linkFisico": "v/vikings-s05e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gNIwh41v7Pe8hwF8XEu5JdH4s6B.jpg"
+        },
+        {
+          "tit": "S05E16 🌀",
+          "linkFisico": "v/vikings-s05e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gNIwh41v7Pe8hwF8XEu5JdH4s6B.jpg"
+        },
+        {
+          "tit": "S05E17 🌀",
+          "linkFisico": "v/vikings-s05e17.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gNIwh41v7Pe8hwF8XEu5JdH4s6B.jpg"
+        },
+        {
+          "tit": "S05E18 🌀",
+          "linkFisico": "v/vikings-s05e18.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gNIwh41v7Pe8hwF8XEu5JdH4s6B.jpg"
+        },
+        {
+          "tit": "S05E19 🌀",
+          "linkFisico": "v/vikings-s05e19.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gNIwh41v7Pe8hwF8XEu5JdH4s6B.jpg"
+        },
+        {
+          "tit": "S05E20 🌀",
+          "linkFisico": "v/vikings-s05e20.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gNIwh41v7Pe8hwF8XEu5JdH4s6B.jpg"
+        }
+      ],
+      "6": [
+        {
+          "tit": "S06E01 🌀",
+          "linkFisico": "v/vikings-s06e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gNIwh41v7Pe8hwF8XEu5JdH4s6B.jpg"
+        },
+        {
+          "tit": "S06E02 🌀",
+          "linkFisico": "v/vikings-s06e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gNIwh41v7Pe8hwF8XEu5JdH4s6B.jpg"
+        },
+        {
+          "tit": "S06E03 🌀",
+          "linkFisico": "v/vikings-s06e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gNIwh41v7Pe8hwF8XEu5JdH4s6B.jpg"
+        },
+        {
+          "tit": "S06E04 🌀",
+          "linkFisico": "v/vikings-s06e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gNIwh41v7Pe8hwF8XEu5JdH4s6B.jpg"
+        },
+        {
+          "tit": "S06E05 🌀",
+          "linkFisico": "v/vikings-s06e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gNIwh41v7Pe8hwF8XEu5JdH4s6B.jpg"
+        },
+        {
+          "tit": "S06E06 🌀",
+          "linkFisico": "v/vikings-s06e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gNIwh41v7Pe8hwF8XEu5JdH4s6B.jpg"
+        },
+        {
+          "tit": "S06E07 🌀",
+          "linkFisico": "v/vikings-s06e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gNIwh41v7Pe8hwF8XEu5JdH4s6B.jpg"
+        },
+        {
+          "tit": "S06E08 🌀",
+          "linkFisico": "v/vikings-s06e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gNIwh41v7Pe8hwF8XEu5JdH4s6B.jpg"
+        },
+        {
+          "tit": "S06E09 🌀",
+          "linkFisico": "v/vikings-s06e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gNIwh41v7Pe8hwF8XEu5JdH4s6B.jpg"
+        },
+        {
+          "tit": "S06E10 🌀",
+          "linkFisico": "v/vikings-s06e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gNIwh41v7Pe8hwF8XEu5JdH4s6B.jpg"
+        },
+        {
+          "tit": "S06E11 🌀",
+          "linkFisico": "v/vikings-s06e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gNIwh41v7Pe8hwF8XEu5JdH4s6B.jpg"
+        },
+        {
+          "tit": "S06E12 🌀",
+          "linkFisico": "v/vikings-s06e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gNIwh41v7Pe8hwF8XEu5JdH4s6B.jpg"
+        },
+        {
+          "tit": "S06E13 🌀",
+          "linkFisico": "v/vikings-s06e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gNIwh41v7Pe8hwF8XEu5JdH4s6B.jpg"
+        },
+        {
+          "tit": "S06E14 🌀",
+          "linkFisico": "v/vikings-s06e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gNIwh41v7Pe8hwF8XEu5JdH4s6B.jpg"
+        },
+        {
+          "tit": "S06E15 🌀",
+          "linkFisico": "v/vikings-s06e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gNIwh41v7Pe8hwF8XEu5JdH4s6B.jpg"
+        },
+        {
+          "tit": "S06E16 🌀",
+          "linkFisico": "v/vikings-s06e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gNIwh41v7Pe8hwF8XEu5JdH4s6B.jpg"
+        },
+        {
+          "tit": "S06E17 🌀",
+          "linkFisico": "v/vikings-s06e17.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gNIwh41v7Pe8hwF8XEu5JdH4s6B.jpg"
+        },
+        {
+          "tit": "S06E18 🌀",
+          "linkFisico": "v/vikings-s06e18.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gNIwh41v7Pe8hwF8XEu5JdH4s6B.jpg"
+        },
+        {
+          "tit": "S06E19 🌀",
+          "linkFisico": "v/vikings-s06e19.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gNIwh41v7Pe8hwF8XEu5JdH4s6B.jpg"
+        },
+        {
+          "tit": "S06E20 🌀",
+          "linkFisico": "v/vikings-s06e20.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gNIwh41v7Pe8hwF8XEu5JdH4s6B.jpg"
+        }
+      ]
+    }
   }
 ]
