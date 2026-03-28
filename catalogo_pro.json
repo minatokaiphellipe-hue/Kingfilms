@@ -26312,5 +26312,27 @@
         }
       ]
     }
+  },
+  {
+    "id": "a-bela-e-a-fera",
+    "tipo": "filme",
+    "categoria": "Fantasia",
+    "titulo": "A Bela e a Fera 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/8JkXzfzwpZNZV72vSbG5c3Vn6Tt.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/vN3VZ3MhHPGmWvutCIg6fcp0msP.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/icsu28RaTXABU1rJoZztmX1iO4w.png",
+    "sinopse": "Moradora de uma pequena aldeia francesa, Bela tem o pai capturado pela Fera e decide entregar sua vida ao estranho ser em troca da liberdade do progenitor. No castelo ela conhece objetos mágicos e descobre que a Fera é na verdade um príncipe que precisa de amor para voltar à forma humana.",
+    "nota": "7.0",
+    "avaliacao": "7.0",
+    "classificacao": "10",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/a-bela-e-a-fera.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/vN3VZ3MhHPGmWvutCIg6fcp0msP.jpg"
+        }
+      ]
+    }
   }
 ]
