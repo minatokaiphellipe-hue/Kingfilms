@@ -27875,5 +27875,99 @@
         }
       ]
     }
+  },
+  {
+    "id": "entrevista-com-o-vampiro",
+    "tipo": "serie",
+    "categoria": "Séries",
+    "titulo": "Entrevista com o Vampiro 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/IXwje9xtS8fvXhS4DkKN6RuxTa.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/cbMkOENW5GNdYq8k87D3fSA8Pqh.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/mECYrIXFsATogQ9Grwc6rkfavHx.png",
+    "sinopse": "A épica história de amor, sangue e os perigos da imortalidade de Louis de Pointe, contada ao jornalista Daniel Molloy. Irritado com as limitações da vida como um homem negro na Nova Orleans dos anos 1900, Louis acha impossível resistir à oferta do libertino Lestat De Lioncourt da fuga final: juntar-se a ele como seu companheiro vampiro.",
+    "nota": "7.4",
+    "avaliacao": "7.4",
+    "classificacao": "18",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "S01E01 🌀",
+          "linkFisico": "v/entrevista-com-o-vampiro-s01e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/cbMkOENW5GNdYq8k87D3fSA8Pqh.jpg"
+        },
+        {
+          "tit": "S01E02 🌀",
+          "linkFisico": "v/entrevista-com-o-vampiro-s01e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/cbMkOENW5GNdYq8k87D3fSA8Pqh.jpg"
+        },
+        {
+          "tit": "S01E03 🌀",
+          "linkFisico": "v/entrevista-com-o-vampiro-s01e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/cbMkOENW5GNdYq8k87D3fSA8Pqh.jpg"
+        },
+        {
+          "tit": "S01E04 🌀",
+          "linkFisico": "v/entrevista-com-o-vampiro-s01e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/cbMkOENW5GNdYq8k87D3fSA8Pqh.jpg"
+        },
+        {
+          "tit": "S01E05 🌀",
+          "linkFisico": "v/entrevista-com-o-vampiro-s01e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/cbMkOENW5GNdYq8k87D3fSA8Pqh.jpg"
+        },
+        {
+          "tit": "S01E06 🌀",
+          "linkFisico": "v/entrevista-com-o-vampiro-s01e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/cbMkOENW5GNdYq8k87D3fSA8Pqh.jpg"
+        },
+        {
+          "tit": "S01E07 🌀",
+          "linkFisico": "v/entrevista-com-o-vampiro-s01e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/cbMkOENW5GNdYq8k87D3fSA8Pqh.jpg"
+        }
+      ],
+      "2": [
+        {
+          "tit": "S02E01 🌀",
+          "linkFisico": "v/entrevista-com-o-vampiro-s02e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/cbMkOENW5GNdYq8k87D3fSA8Pqh.jpg"
+        },
+        {
+          "tit": "S02E02 🌀",
+          "linkFisico": "v/entrevista-com-o-vampiro-s02e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/cbMkOENW5GNdYq8k87D3fSA8Pqh.jpg"
+        },
+        {
+          "tit": "S02E03 🌀",
+          "linkFisico": "v/entrevista-com-o-vampiro-s02e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/cbMkOENW5GNdYq8k87D3fSA8Pqh.jpg"
+        },
+        {
+          "tit": "S02E04 🌀",
+          "linkFisico": "v/entrevista-com-o-vampiro-s02e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/cbMkOENW5GNdYq8k87D3fSA8Pqh.jpg"
+        },
+        {
+          "tit": "S02E05 🌀",
+          "linkFisico": "v/entrevista-com-o-vampiro-s02e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/cbMkOENW5GNdYq8k87D3fSA8Pqh.jpg"
+        },
+        {
+          "tit": "S02E06 🌀",
+          "linkFisico": "v/entrevista-com-o-vampiro-s02e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/cbMkOENW5GNdYq8k87D3fSA8Pqh.jpg"
+        },
+        {
+          "tit": "S02E07 🌀",
+          "linkFisico": "v/entrevista-com-o-vampiro-s02e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/cbMkOENW5GNdYq8k87D3fSA8Pqh.jpg"
+        },
+        {
+          "tit": "S02E08 🌀",
+          "linkFisico": "v/entrevista-com-o-vampiro-s02e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/cbMkOENW5GNdYq8k87D3fSA8Pqh.jpg"
+        }
+      ]
+    }
   }
 ]
