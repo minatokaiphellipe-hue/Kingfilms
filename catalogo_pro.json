@@ -28595,5 +28595,71 @@
         }
       ]
     }
+  },
+  {
+    "id": "velozes-furiosos-7",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "Velozes & Furiosos 7 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/spydMyyD81HjGJVwZvjajkrWW1h.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/lWQjYI7pJXS2C8CwHWSuhLmG46U.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/5ywDGl4NhsWwVZXyLw1GQobeWRH.png",
+    "sinopse": "Após os acontecimentos em Londres, Dom, Brian, Letty e o resto da equipe têm a chance de voltar para os Estados Unidos e recomeçar suas vidas. Mas a tranquilidade do grupo é destruída quando Deckard Shaw, um assassino profissional, quer vingança pelo acidente que deixou seu irmão em coma. Agora, a equipe tem de unir forças para deter um vilão novo e ainda mais perigoso. Dessa vez, não se trata apenas de uma questão de velocidade: a corrida é pela sobrevivência.",
+    "nota": "7.2",
+    "avaliacao": "7.2",
+    "classificacao": "14",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/velozes-furiosos-7.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/lWQjYI7pJXS2C8CwHWSuhLmG46U.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "velozes-furiosos-8",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "Velozes & Furiosos 8 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/1wcMoiMZ2VxrrWswuarI7g9m9nN.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/cGdtvZ5w7hinGSsd0zsqzWvjel.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/yl3d6IjlVCMRV3z3RwXynDnDYuL.png",
+    "sinopse": "Depois que Brian e Mia se aposentaram, e o resto da equipe foi exonerado, Dom e Letty estão em lua de mel e levam uma vida pacata e completamente normal. Mas a adrenalina do passado volta com tudo quando uma mulher misteriosa faz com que Dom retorne ao mundo do crime e da velocidade.",
+    "nota": "6.9",
+    "avaliacao": "6.9",
+    "classificacao": "14",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/velozes-furiosos-8.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/cGdtvZ5w7hinGSsd0zsqzWvjel.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "velozes-furiosos-9",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "Velozes & Furiosos 9 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/6TuEPZ3ItlBO8WmH8BmY2aGLhes.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/r4iUB1yWmXKivN2c1v1FZ1chIWa.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/1y2nic3LHN1pZtTkhjWjcedEq3U.png",
+    "sinopse": "Dominic Toretto e sua família precisam enfrentar o seu irmão mais novo Jakob, um assassino mortal que está trabalhando com uma antiga inimiga, a cyber-terrorista Cipher.",
+    "nota": "7.0",
+    "avaliacao": "7.0",
+    "classificacao": "14",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/velozes-furiosos-9.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/r4iUB1yWmXKivN2c1v1FZ1chIWa.jpg"
+        }
+      ]
+    }
   }
 ]
