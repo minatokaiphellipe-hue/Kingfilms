@@ -26290,5 +26290,27 @@
         }
       ]
     }
+  },
+  {
+    "id": "a-fera",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "A Fera 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/gCP9R1jsU0Rk9MsZwAzVyF1wpDT.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/Amjw666FEJHDirwWsJgKaKumgs7.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/9jtdx1CdEcyBCsChPTbcWfkQ7dS.png",
+    "sinopse": "O Dr. Nate Samuels é um homem que perdeu a mulher recentemente, e decide fazer uma viagem com as filhas para uma reserva na África do Sul, onde conheceu a esposa. Mas o que começa como uma viagem tranquila, acaba se tornando um pesadelo quando eles passam a ser perseguidos por um leão.",
+    "nota": "6.5",
+    "avaliacao": "6.5",
+    "classificacao": "14",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/a-fera.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/Amjw666FEJHDirwWsJgKaKumgs7.jpg"
+        }
+      ]
+    }
   }
 ]
