@@ -28683,5 +28683,27 @@
         }
       ]
     }
+  },
+  {
+    "id": "velozes-furiosos-hobbs-shaw",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "Velozes & Furiosos: Hobbs & Shaw 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/w5HWdAJyAbfpXbXDmEt5OIpf6kQ.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/boGlU9iQEDvj07zSMGLmX9yOHSG.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/9ewQQghoP3VUXQaYp9uWLlBm4wx.png",
+    "sinopse": "O corpulento policial Luke Hobbs se junta ao fora da lei Deckard Shaw para combater um terrorista geneticamente melhorado que tem força sobre-humana.",
+    "nota": "6.8",
+    "avaliacao": "6.8",
+    "classificacao": "14",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/velozes-furiosos-hobbs-shaw.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/boGlU9iQEDvj07zSMGLmX9yOHSG.jpg"
+        }
+      ]
+    }
   }
 ]
