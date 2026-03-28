@@ -15732,26 +15732,6 @@
     }
   },
   {
-    "id": "soul",
-    "tipo": "filme",
-    "categoria": "Animações",
-    "titulo": "Soul 🌀",
-    "logo": "https://image.tmdb.org/t/p/w780/1G7QNn1sUShae0Rf9k9D99wVFg5.jpg",
-    "sinopse": "Joe Gardner é um professor de música de ensino fundamental desanimado por não conseguir alcançar seu sonho de tocar no lendário clube de jazz The Blue Note, em Nova York. Quando um acidente o transporta para fora do seu corpo, fazendo com que ele exista em outra realidade na forma de sua alma, ele se vê forçado a embarcar em uma aventura ao lado da alma de uma criança que ainda está aprendendo sobre si, para aprender o que é necessário para retomar sua vida.",
-    "avaliacao": "8.1",
-    "classificacao": "Livre",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "Assistir Filme Completo 🌀",
-          "linkFisico": "v/soul.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/nmO0149O2wGa31AnSbshitcWaSR.jpg"
-        }
-      ]
-    },
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/rQaHA74pevnGsxcKGaoZVGWe9TC.jpg"
-  },
-  {
     "id": "spartacus-house-of-ashur",
     "tipo": "serie",
     "categoria": "Séries",
@@ -26419,6 +26399,50 @@
           "tit": "Assistir 🌀",
           "linkFisico": "v/frozen-ii.html",
           "logoEp": "https://image.tmdb.org/t/p/w1280/5vKFR5KgnNP2J1bDWe4xZTvQ8dK.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "soul",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Soul 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/1G7QNn1sUShae0Rf9k9D99wVFg5.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/nmO0149O2wGa31AnSbshitcWaSR.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/krma5Xp4Wy7uMrIcHYw9edyLXVv.png",
+    "sinopse": "Joe Gardner é um professor de música de ensino fundamental desanimado por não conseguir alcançar seu sonho de tocar no lendário clube de jazz The Blue Note, em Nova York. Quando um acidente o transporta para fora do seu corpo, fazendo com que ele exista em outra realidade na forma de sua alma, ele se vê forçado a embarcar em uma aventura ao lado da alma de uma criança que ainda está aprendendo sobre si, para aprender o que é necessário para retomar sua vida.",
+    "nota": "8.1",
+    "avaliacao": "8.1",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/soul.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/nmO0149O2wGa31AnSbshitcWaSR.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "soul-surfer-coragem-de-viver",
+    "tipo": "filme",
+    "categoria": "Drama",
+    "titulo": "Soul Surfer: Coragem de Viver 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/q1Lj4O99guQTPNsPGiUgsxfFvXK.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/5UJoHrXgVbsJLxP2MM1iR4fQPuK.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/1PFDfD0UnkAaWyZj59xxoK0esl5.png",
+    "sinopse": "A adolescente Bethany tem um talento natural para o surf e transforma sua vida após perder seu braço devido a um ataque de tubarão. Encorajada pelo amor de seus pais e recusando desistir, Bethany volta ao mundo das competições quando se recupera do acidente, mas dúvidas sobre seu futuro a perturbam.",
+    "nota": "7.0",
+    "avaliacao": "7.0",
+    "classificacao": "10",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/soul-surfer-coragem-de-viver.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/5UJoHrXgVbsJLxP2MM1iR4fQPuK.jpg"
         }
       ]
     }
