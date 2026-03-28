@@ -26547,5 +26547,27 @@
         }
       ]
     }
+  },
+  {
+    "id": "destruicao-final-2",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "Destruição Final 2 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/s6nzVekLSd1y0vGjLz8WPfC1Sau.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/2Z4NjgS8hj9fyRdr8nvTqbHDo97.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/pLXn37271mFc9R6SmTfrK8CeDS4.png",
+    "sinopse": "Tendo encontrado a segurança do bunker da Groenlândia depois que o cometa Clarke dizimou a Terra, a família Garrity deve agora arriscar tudo para embarcar em uma jornada angustiante através do deserto da Europa para encontrar um novo lar.",
+    "nota": "6.4",
+    "avaliacao": "6.4",
+    "classificacao": "14",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/destruicao-final-2.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/2Z4NjgS8hj9fyRdr8nvTqbHDo97.jpg"
+        }
+      ]
+    }
   }
 ]
