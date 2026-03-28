@@ -24648,5 +24648,27 @@
         }
       ]
     }
+  },
+  {
+    "id": "lindas-e-letais",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "Lindas e Letais 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/6vbABd8OYF2bbZyYOift0BxhQnv.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/mNLfL7SA09k0mzYYNSmTxeQsfmY.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/oA4OyOzAp9EuNWptxTDt8kqvBHA.png",
+    "sinopse": "Um thriller repleto de ação no qual cinco bailarinas, perdidas em uma floresta remota a caminho de uma competição de dança, encontram abrigo em uma pousada sinistra à beira da estrada, administrada por Devora Kasimer, e precisam usar seu treinamento de elite como arma para sobreviver.",
+    "nota": "6.7",
+    "avaliacao": "6.7",
+    "classificacao": "18",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/lindas-e-letais.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mNLfL7SA09k0mzYYNSmTxeQsfmY.jpg"
+        }
+      ]
+    }
   }
 ]
