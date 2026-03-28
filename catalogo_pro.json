@@ -27160,5 +27160,87 @@
         }
       ]
     }
+  },
+  {
+    "id": "elfen-lied",
+    "tipo": "serie",
+    "categoria": "Animes",
+    "titulo": "Elfen Lied 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/3UnmNPTDMOThd8Oi9L2pEXqfO0D.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/lewWPFjUjXkJgXV9C8yzN35fiu1.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/oU81rImJoDXPpk83J3BGFzdgXRA.png",
+    "sinopse": "Diclonius, a nova evolução humana... mutantes, ditos, escolhidos por Deus para serem os aniquiladores da humanidade. Possuem dois chifres em suas cabeças e uma estranha habilidade similar a telecinese sob forma de braços. Extremamente perigosos e cientes de sua \"missão\", foram subjugados pelo governo que os mantém confinados em laboratórios. Lucy é uma Diclonios cuja jovem e bela aparência escondem uma personalidade psicótica e ela, após matar dezenas de guardas, escapa de seu confinamento, porém é alvejada por um tiro na cabeça e cai no mar... Ela é encontrada por Kouta e Yuka na praia, mas com uma personalidade totalmente diferente, infantil e inocente, sem memórias e a única coisa que fala é nyuu. Os dois levam-na para casa e decidem cuidar dela, batizando-a de Nyuu. Entretanto, parece que a Lucy ainda não está morta e nem se esqueceu de seu passado.",
+    "nota": "8.3",
+    "avaliacao": "8.3",
+    "classificacao": "18",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "S01E01 🌀",
+          "linkFisico": "v/elfen-lied-s01e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/lewWPFjUjXkJgXV9C8yzN35fiu1.jpg"
+        },
+        {
+          "tit": "S01E02 🌀",
+          "linkFisico": "v/elfen-lied-s01e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/lewWPFjUjXkJgXV9C8yzN35fiu1.jpg"
+        },
+        {
+          "tit": "S01E03 🌀",
+          "linkFisico": "v/elfen-lied-s01e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/lewWPFjUjXkJgXV9C8yzN35fiu1.jpg"
+        },
+        {
+          "tit": "S01E04 🌀",
+          "linkFisico": "v/elfen-lied-s01e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/lewWPFjUjXkJgXV9C8yzN35fiu1.jpg"
+        },
+        {
+          "tit": "S01E05 🌀",
+          "linkFisico": "v/elfen-lied-s01e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/lewWPFjUjXkJgXV9C8yzN35fiu1.jpg"
+        },
+        {
+          "tit": "S01E06 🌀",
+          "linkFisico": "v/elfen-lied-s01e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/lewWPFjUjXkJgXV9C8yzN35fiu1.jpg"
+        },
+        {
+          "tit": "S01E07 🌀",
+          "linkFisico": "v/elfen-lied-s01e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/lewWPFjUjXkJgXV9C8yzN35fiu1.jpg"
+        },
+        {
+          "tit": "S01E08 🌀",
+          "linkFisico": "v/elfen-lied-s01e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/lewWPFjUjXkJgXV9C8yzN35fiu1.jpg"
+        },
+        {
+          "tit": "S01E09 🌀",
+          "linkFisico": "v/elfen-lied-s01e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/lewWPFjUjXkJgXV9C8yzN35fiu1.jpg"
+        },
+        {
+          "tit": "S01E10 🌀",
+          "linkFisico": "v/elfen-lied-s01e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/lewWPFjUjXkJgXV9C8yzN35fiu1.jpg"
+        },
+        {
+          "tit": "S01E11 🌀",
+          "linkFisico": "v/elfen-lied-s01e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/lewWPFjUjXkJgXV9C8yzN35fiu1.jpg"
+        },
+        {
+          "tit": "S01E12 🌀",
+          "linkFisico": "v/elfen-lied-s01e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/lewWPFjUjXkJgXV9C8yzN35fiu1.jpg"
+        },
+        {
+          "tit": "S01E13 🌀",
+          "linkFisico": "v/elfen-lied-s01e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/lewWPFjUjXkJgXV9C8yzN35fiu1.jpg"
+        }
+      ]
+    }
   }
 ]
