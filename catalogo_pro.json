@@ -19623,121 +19623,6 @@
     "logo_horizontal": "https://image.tmdb.org/t/p/w1280/jYCyTdPfgT01IOJWDnnetr9RDX6.jpg"
   },
   {
-    "id": "tita-simbionico",
-    "tipo": "serie",
-    "categoria": "Séries",
-    "titulo": "Titã Simbiônico 🌀",
-    "logo": "https://image.tmdb.org/t/p/w780/e1HgZg7ReDfS4UXDho7CTSRcGXr.jpg",
-    "sinopse": "A série, criada por Genndy Tartakovsky (o criador de o Laboratório de Dexter e Samurai Jack), conta a história de Ilana, Lance e Octus que chegaram acidentalmente à Terra após fugir de um comandante que estava destruindo seu planeta. Ilana é a princesa da família rela, Lance é um soldado e Octus um robô biocibernético.\n\nAgora eles tem que se adaptar à vida como terráqueos como estudantes do colegial em Illinois. Quando estão em batalhas, eles criam armaduras individuais especiais e quando unem coração, corpo, e mente se transformam em um só, o Robo Simbiônico.",
-    "avaliacao": "8.5",
-    "classificacao": "10",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "S01E01 🌀 - Fuga ao Colégio Sherman",
-          "linkFisico": "v/tita-simbionico-s01e01.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/iiIGUZNtQbsOmgUoLcOmptBAdFd.jpg"
-        },
-        {
-          "tit": "S01E02 🌀 - Vizinhos Disfarçados",
-          "linkFisico": "v/tita-simbionico-s01e02.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/8S3e7P9zjAOAULE6N19jxwSH2oG.jpg"
-        },
-        {
-          "tit": "S01E03 🌀 - A Lógica do Elefante",
-          "linkFisico": "v/tita-simbionico-s01e03.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/2jEvZSMioYBMaaFB9hFbIYX9wSi.jpg"
-        },
-        {
-          "tit": "S01E04 🌀 - Ninja Fantasma",
-          "linkFisico": "v/tita-simbionico-s01e04.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/5FhR46miWchPZdDYLHhebWoYCye.jpg"
-        },
-        {
-          "tit": "S01E05 🌀 - O Rugido do Dragão Branco",
-          "linkFisico": "v/tita-simbionico-s01e05.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/cj2j8d7K3Wc6ug2k7TGQQ1gIGXw.jpg"
-        },
-        {
-          "tit": "S01E06 🌀 - Xamã do Medo",
-          "linkFisico": "v/tita-simbionico-s01e06.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/r1MVEEsytqE7fmzCBcd5fH0WgQ4.jpg"
-        },
-        {
-          "tit": "S01E07 🌀 - Batalha em Sherman High",
-          "linkFisico": "v/tita-simbionico-s01e07.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/v89G1IObVkCJ8jKsqsh1kEebLxu.jpg"
-        },
-        {
-          "tit": "S01E08 🌀 - Sombras da Juventude",
-          "linkFisico": "v/tita-simbionico-s01e08.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/cYdS1nNlhM1zZQ1C82AgvrtoIQO.jpg"
-        },
-        {
-          "tit": "S01E09 🌀 - Forax 497",
-          "linkFisico": "v/tita-simbionico-s01e09.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/kxOYGXwSkt992gSZzINrqYdvnpL.jpg"
-        },
-        {
-          "tit": "S01E10 🌀 - Aula de Amor",
-          "linkFisico": "v/tita-simbionico-s01e10.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/3zFGGY6HG62Yt7zEOCO9iuzkz0z.jpg"
-        },
-        {
-          "tit": "S01E11 🌀 - Fortaleza da Ilusão",
-          "linkFisico": "v/tita-simbionico-s01e11.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/6CjyFe9gXEDmsyi6l00TNku2CHX.jpg"
-        },
-        {
-          "tit": "S01E12 🌀 - A Balada de Mary Assustadora",
-          "linkFisico": "v/tita-simbionico-s01e12.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/hJLenyPQlxzaIGecIViU3Jy0IJu.jpg"
-        },
-        {
-          "tit": "S01E13 🌀 - Demônio Interior",
-          "linkFisico": "v/tita-simbionico-s01e13.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/rjf9Q3xEtjORPPpNWMJDZHX5OOT.jpg"
-        },
-        {
-          "tit": "S01E14 🌀 - Eu Sou Octus",
-          "linkFisico": "v/tita-simbionico-s01e14.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/giwlmeHMFzkgxJSLO0FTA7ZrNgy.jpg"
-        },
-        {
-          "tit": "S01E15 🌀 - Marginalizados",
-          "linkFisico": "v/tita-simbionico-s01e15.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/7drZi8hMnHc02DO4mR1XjsXiWcc.jpg"
-        },
-        {
-          "tit": "S01E16 🌀 - Escape de Galaluna",
-          "linkFisico": "v/tita-simbionico-s01e16.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/lcuuglT407i4ZNO21S1CtyBrOqW.jpg"
-        },
-        {
-          "tit": "S01E17 🌀 - Sob as Três Luas",
-          "linkFisico": "v/tita-simbionico-s01e17.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/j1PDvJJHNSpYrDCFujDobNVG1yH.jpg"
-        },
-        {
-          "tit": "S01E18 🌀 - Crise Familiar",
-          "linkFisico": "v/tita-simbionico-s01e18.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/bxk1sLS4qZDleL9vQ0e6Cf7LjMY.jpg"
-        },
-        {
-          "tit": "S01E19 🌀 - O Inimigo de Aço",
-          "linkFisico": "v/tita-simbionico-s01e19.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/rW1SKIMyrsyGgnVYbjLJqqTC448.jpg"
-        },
-        {
-          "tit": "S01E20 🌀 - Um Novo Começo",
-          "linkFisico": "v/tita-simbionico-s01e20.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/2JZ9B0WtosMh1M9MedpNX2g14d8.jpg"
-        }
-      ]
-    },
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/t90PlosoEJY442x8JbCdYs768bx.jpg"
-  },
-  {
     "id": "todo-mundo-odeia-o-chris",
     "tipo": "serie",
     "categoria": "Séries",
@@ -26285,6 +26170,123 @@
           "tit": "S05E13 🌀",
           "linkFisico": "v/as-aventuras-de-jackie-chan-s05e13.html",
           "logoEp": "https://image.tmdb.org/t/p/w1280/rByaS1SvzNf2VOVrczm24AlA2DI.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tita-simbionico",
+    "tipo": "serie",
+    "categoria": "Séries",
+    "titulo": "Titã Simbiônico 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/e1HgZg7ReDfS4UXDho7CTSRcGXr.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/44KA3Jl0TCzH1SPdGDT4vvbrFCe.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/7pD6Llf6LDWi2HfaIb6N8ru6EdZ.png",
+    "sinopse": "A série, criada por Genndy Tartakovsky (o criador de o Laboratório de Dexter e Samurai Jack), conta a história de Ilana, Lance e Octus que chegaram acidentalmente à Terra após fugir de um comandante que estava destruindo seu planeta. Ilana é a princesa da família rela, Lance é um soldado e Octus um robô biocibernético.\n\nAgora eles tem que se adaptar à vida como terráqueos como estudantes do colegial em Illinois. Quando estão em batalhas, eles criam armaduras individuais especiais e quando unem coração, corpo, e mente se transformam em um só, o Robo Simbiônico.",
+    "nota": "8.5",
+    "avaliacao": "8.5",
+    "classificacao": "10",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "S01E01 🌀",
+          "linkFisico": "v/tita-simbionico-s01e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/44KA3Jl0TCzH1SPdGDT4vvbrFCe.jpg"
+        },
+        {
+          "tit": "S01E02 🌀",
+          "linkFisico": "v/tita-simbionico-s01e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/44KA3Jl0TCzH1SPdGDT4vvbrFCe.jpg"
+        },
+        {
+          "tit": "S01E03 🌀",
+          "linkFisico": "v/tita-simbionico-s01e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/44KA3Jl0TCzH1SPdGDT4vvbrFCe.jpg"
+        },
+        {
+          "tit": "S01E04 🌀",
+          "linkFisico": "v/tita-simbionico-s01e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/44KA3Jl0TCzH1SPdGDT4vvbrFCe.jpg"
+        },
+        {
+          "tit": "S01E05 🌀",
+          "linkFisico": "v/tita-simbionico-s01e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/44KA3Jl0TCzH1SPdGDT4vvbrFCe.jpg"
+        },
+        {
+          "tit": "S01E06 🌀",
+          "linkFisico": "v/tita-simbionico-s01e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/44KA3Jl0TCzH1SPdGDT4vvbrFCe.jpg"
+        },
+        {
+          "tit": "S01E07 🌀",
+          "linkFisico": "v/tita-simbionico-s01e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/44KA3Jl0TCzH1SPdGDT4vvbrFCe.jpg"
+        },
+        {
+          "tit": "S01E08 🌀",
+          "linkFisico": "v/tita-simbionico-s01e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/44KA3Jl0TCzH1SPdGDT4vvbrFCe.jpg"
+        },
+        {
+          "tit": "S01E09 🌀",
+          "linkFisico": "v/tita-simbionico-s01e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/44KA3Jl0TCzH1SPdGDT4vvbrFCe.jpg"
+        },
+        {
+          "tit": "S01E10 🌀",
+          "linkFisico": "v/tita-simbionico-s01e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/44KA3Jl0TCzH1SPdGDT4vvbrFCe.jpg"
+        },
+        {
+          "tit": "S01E11 🌀",
+          "linkFisico": "v/tita-simbionico-s01e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/44KA3Jl0TCzH1SPdGDT4vvbrFCe.jpg"
+        },
+        {
+          "tit": "S01E12 🌀",
+          "linkFisico": "v/tita-simbionico-s01e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/44KA3Jl0TCzH1SPdGDT4vvbrFCe.jpg"
+        },
+        {
+          "tit": "S01E13 🌀",
+          "linkFisico": "v/tita-simbionico-s01e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/44KA3Jl0TCzH1SPdGDT4vvbrFCe.jpg"
+        },
+        {
+          "tit": "S01E14 🌀",
+          "linkFisico": "v/tita-simbionico-s01e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/44KA3Jl0TCzH1SPdGDT4vvbrFCe.jpg"
+        },
+        {
+          "tit": "S01E15 🌀",
+          "linkFisico": "v/tita-simbionico-s01e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/44KA3Jl0TCzH1SPdGDT4vvbrFCe.jpg"
+        },
+        {
+          "tit": "S01E16 🌀",
+          "linkFisico": "v/tita-simbionico-s01e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/44KA3Jl0TCzH1SPdGDT4vvbrFCe.jpg"
+        },
+        {
+          "tit": "S01E17 🌀",
+          "linkFisico": "v/tita-simbionico-s01e17.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/44KA3Jl0TCzH1SPdGDT4vvbrFCe.jpg"
+        },
+        {
+          "tit": "S01E18 🌀",
+          "linkFisico": "v/tita-simbionico-s01e18.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/44KA3Jl0TCzH1SPdGDT4vvbrFCe.jpg"
+        },
+        {
+          "tit": "S01E19 🌀",
+          "linkFisico": "v/tita-simbionico-s01e19.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/44KA3Jl0TCzH1SPdGDT4vvbrFCe.jpg"
+        },
+        {
+          "tit": "S01E20 🌀",
+          "linkFisico": "v/tita-simbionico-s01e20.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/44KA3Jl0TCzH1SPdGDT4vvbrFCe.jpg"
         }
       ]
     }
