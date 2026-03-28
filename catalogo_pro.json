@@ -26446,5 +26446,27 @@
         }
       ]
     }
+  },
+  {
+    "id": "o-diabo-de-cada-dia",
+    "tipo": "filme",
+    "categoria": "Drama",
+    "titulo": "O Diabo de Cada Dia 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/spqWjgLWvWlluIodXFn1SsNtISC.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/2gog7HmoDLrgjCX2gytEiQ5F7Bi.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/hxaHh7oSY0qqQOCalLXPI3juz8a.png",
+    "sinopse": "Em um lugar tomado por corrupção e violência, um jovem enfrenta figuras sinistras para proteger quem mais ama.",
+    "nota": "7.2",
+    "avaliacao": "7.2",
+    "classificacao": "18",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/o-diabo-de-cada-dia.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/2gog7HmoDLrgjCX2gytEiQ5F7Bi.jpg"
+        }
+      ]
+    }
   }
 ]
