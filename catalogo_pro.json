@@ -26378,5 +26378,49 @@
         }
       ]
     }
+  },
+  {
+    "id": "frozen-uma-aventura-congelante",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Frozen: Uma Aventura Congelante 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/hOZKUJGN0m717LRSQDxhgABqWrf.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/cBeP4gkMmlPuCCZdTgCOPi1rUHZ.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/w2CfUtVf0XZpjtcjRIEh9NyaxDo.png",
+    "sinopse": "A destemida e otimista Anna sai em uma jornada épica, ao lado de Kristoff e sua leal rena Sven, para encontrar sua irmã Elsa, cujos poderes congelantes aprisionaram o reino de Arendelle em um inverno eterno. Encontrando condições de Everest, trolls místicos e um hilário boneco de neve chamado Olaf, Anna e Kristoff enfrentam obstáculos em uma corrida para salvar o reino.",
+    "nota": "7.2",
+    "avaliacao": "7.2",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/frozen-uma-aventura-congelante.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/cBeP4gkMmlPuCCZdTgCOPi1rUHZ.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "frozen-ii",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Frozen II 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/yK9wazsgpZ9QfmITC96biaMzndV.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/5vKFR5KgnNP2J1bDWe4xZTvQ8dK.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/p51200NUPorgNwO7mIo58mr9eLO.png",
+    "sinopse": "Elsa, Anna, Kristoff, Olaf e Sven se aventuram na floresta encantada e nos mares escuros além de Arendelle – onde Elsa descobre não apenas a verdade sobre seu passado, mas uma ameaça ao seu reino.",
+    "nota": "7.2",
+    "avaliacao": "7.2",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/frozen-ii.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/5vKFR5KgnNP2J1bDWe4xZTvQ8dK.jpg"
+        }
+      ]
+    }
   }
 ]
