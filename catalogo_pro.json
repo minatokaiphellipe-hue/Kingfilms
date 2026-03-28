@@ -26468,5 +26468,62 @@
         }
       ]
     }
+  },
+  {
+    "id": "o-ato",
+    "tipo": "serie",
+    "categoria": "Séries",
+    "titulo": "O Ato 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/21rG1l5JbsrZclbmwSEQ0n4RnuP.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/yA7bMpjtNuFDsZIsjgs98u5ijM1.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/paIYeZ3ddHW1hFiWX9HRjMF7sSi.png",
+    "sinopse": "O relacionamento entre Dee Dee Blanchard e sua filha Gypsy, que acreditou ter uma grave doença durante toda a vida por causa da mãe extremamente controladora e insegura. Em busca de independência para viver um amor proibido, Gypsy decide então orquestrar um assassinato.",
+    "nota": "7.6",
+    "avaliacao": "7.6",
+    "classificacao": "16",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "S01E01 🌀",
+          "linkFisico": "v/o-ato-s01e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yA7bMpjtNuFDsZIsjgs98u5ijM1.jpg"
+        },
+        {
+          "tit": "S01E02 🌀",
+          "linkFisico": "v/o-ato-s01e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yA7bMpjtNuFDsZIsjgs98u5ijM1.jpg"
+        },
+        {
+          "tit": "S01E03 🌀",
+          "linkFisico": "v/o-ato-s01e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yA7bMpjtNuFDsZIsjgs98u5ijM1.jpg"
+        },
+        {
+          "tit": "S01E04 🌀",
+          "linkFisico": "v/o-ato-s01e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yA7bMpjtNuFDsZIsjgs98u5ijM1.jpg"
+        },
+        {
+          "tit": "S01E05 🌀",
+          "linkFisico": "v/o-ato-s01e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yA7bMpjtNuFDsZIsjgs98u5ijM1.jpg"
+        },
+        {
+          "tit": "S01E06 🌀",
+          "linkFisico": "v/o-ato-s01e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yA7bMpjtNuFDsZIsjgs98u5ijM1.jpg"
+        },
+        {
+          "tit": "S01E07 🌀",
+          "linkFisico": "v/o-ato-s01e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yA7bMpjtNuFDsZIsjgs98u5ijM1.jpg"
+        },
+        {
+          "tit": "S01E08 🌀",
+          "linkFisico": "v/o-ato-s01e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yA7bMpjtNuFDsZIsjgs98u5ijM1.jpg"
+        }
+      ]
+    }
   }
 ]
