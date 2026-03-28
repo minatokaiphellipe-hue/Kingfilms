@@ -26334,5 +26334,49 @@
         }
       ]
     }
+  },
+  {
+    "id": "detona-ralph",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Detona Ralph 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/9OGpoSaGGwbWSFQVFaVGakLyaoK.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/szsU8Groe0c4uulfcGOS44ce2E.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/Thl11W4IHhiLvE1ufNVUmT8vWx.png",
+    "sinopse": "Ralph está cansado de ser desprezado no seu próprio jogo de fliperama. Para ganhar a atenção do herói Felix e todos os outros personagens, o vilão tem um plano e sai em busca de uma medalha, com a intenção de provar o seu valor.",
+    "nota": "7.4",
+    "avaliacao": "7.4",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/detona-ralph.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/szsU8Groe0c4uulfcGOS44ce2E.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "wifi-ralph-quebrando-a-internet",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "WiFi Ralph: Quebrando a Internet 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/uZCR7Vt3gTpj8hCNybFcNThFYTA.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/wyqsh0wB70KNOOlSPRaKs8RGpiz.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/6NM7GN2IePdaZcUFu4c7dsnQZef.png",
+    "sinopse": "Ralph, o mais famoso vilão dos videogames, e Vanellope, sua companheira atrapalhada, iniciam mais uma arriscada aventura. Após a gloriosa vitória no Fliperama Litwak, a dupla viaja para a world wide web, no universo expansivo e desconhecido da internet. Dessa vez, a missão é achar uma peça reserva para salvar o videogame Corrida Doce, de Vanellope. Para isso, eles contam com a ajuda dos \"cidadãos da Internet\" e de Yess, a alma por trás do \"Buzzztube\", um famoso website que dita tendências.",
+    "nota": "7.2",
+    "avaliacao": "7.2",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/wifi-ralph-quebrando-a-internet.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/wyqsh0wB70KNOOlSPRaKs8RGpiz.jpg"
+        }
+      ]
+    }
   }
 ]
