@@ -26569,5 +26569,52 @@
         }
       ]
     }
+  },
+  {
+    "id": "naquela-noite",
+    "tipo": "serie",
+    "categoria": "Séries",
+    "titulo": "Naquela Noite 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/fVKI7JXQvc7AqHteFyyvtwcwJVS.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/lreax2U5xDNekHdAlfLARPC4Oto.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/xyKkXtTaCEW4oHwQKodaTKVateC.png",
+    "sinopse": "Quando uma jovem mãe solo se envolve em um assassinato durante uma viagem, as irmãs correm para ajudá-la, mas só pioram a situação.",
+    "nota": "6.6",
+    "avaliacao": "6.6",
+    "classificacao": "16",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "S01E01 🌀",
+          "linkFisico": "v/naquela-noite-s01e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/lreax2U5xDNekHdAlfLARPC4Oto.jpg"
+        },
+        {
+          "tit": "S01E02 🌀",
+          "linkFisico": "v/naquela-noite-s01e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/lreax2U5xDNekHdAlfLARPC4Oto.jpg"
+        },
+        {
+          "tit": "S01E03 🌀",
+          "linkFisico": "v/naquela-noite-s01e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/lreax2U5xDNekHdAlfLARPC4Oto.jpg"
+        },
+        {
+          "tit": "S01E04 🌀",
+          "linkFisico": "v/naquela-noite-s01e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/lreax2U5xDNekHdAlfLARPC4Oto.jpg"
+        },
+        {
+          "tit": "S01E05 🌀",
+          "linkFisico": "v/naquela-noite-s01e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/lreax2U5xDNekHdAlfLARPC4Oto.jpg"
+        },
+        {
+          "tit": "S01E06 🌀",
+          "linkFisico": "v/naquela-noite-s01e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/lreax2U5xDNekHdAlfLARPC4Oto.jpg"
+        }
+      ]
+    }
   }
 ]
