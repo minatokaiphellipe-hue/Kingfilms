@@ -28727,5 +28727,27 @@
         }
       ]
     }
+  },
+  {
+    "id": "o-esquadrao-suicida",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "O Esquadrão Suicida 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/wTS3dS2DJiMFFgqKDz5fxMTri.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/4hr4AxS3nWQqYjipgkDi4Bpkp98.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/81urzmB0jn6uxUMhxMpwWXl4UOQ.png",
+    "sinopse": "Bem-vindos ao inferno: Belle Reve, a prisão com a maior taxa de mortalidade dos Estados Unidos. É aqui que os piores supervilões são mantidos e onde eles fazem de tudo para sair, até mesmo se unir à misteriosa e supersecreta Força-Tarefa X.",
+    "nota": "7.5",
+    "avaliacao": "7.5",
+    "classificacao": "16",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/o-esquadrao-suicida.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/4hr4AxS3nWQqYjipgkDi4Bpkp98.jpg"
+        }
+      ]
+    }
   }
 ]
