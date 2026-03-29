@@ -28980,5 +28980,27 @@
         }
       ]
     }
+  },
+  {
+    "id": "um-monstro-em-paris",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Um Monstro em Paris 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/sK9nmpWH3YRamFTIdTHpAOXGrh2.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/uLg9t6c34soxT4UAebbL3Cnlbl5.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/fakOtY2t801VmnhUN7PU5TbKdkp.png",
+    "sinopse": "Paris, 1910. Emile é apaixonado por filmes e trabalha como projecionista em uma sala de exibição. Ele está interessada em Maud, que também trabalha no cinema, mas tem medo de expressar seus sentimentos. Seu melhor amigo é Raoul, um criativo inventor que embarca com ele na caça a um misterioso monstro que está aterrorizando a cidade. Na jornada a dupla conta com a ajuda de Lucille, a estrela do cabaré LOiseau Rare.",
+    "nota": "6.9",
+    "avaliacao": "6.9",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/um-monstro-em-paris.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/uLg9t6c34soxT4UAebbL3Cnlbl5.jpg"
+        }
+      ]
+    }
   }
 ]
