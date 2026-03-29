@@ -13419,26 +13419,6 @@
     "logo_horizontal": "https://image.tmdb.org/t/p/w1280/wFN8llYh215M8i2fqWAcPV8CSyL.jpg"
   },
   {
-    "id": "os-croods-2-uma-nova-era",
-    "tipo": "filme",
-    "categoria": "Animações",
-    "titulo": "Os Croods 2: Uma Nova Era 🌀",
-    "logo": "https://image.tmdb.org/t/p/w780/f7BIa9xIerwviSMsa9BEY28sC3Y.jpg",
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/4fA8ig0zsUmsr5EnDeZQfxzOib7.jpg",
-    "sinopse": "A família Crood se muda para um lugar seguro, onde encontram seus novos vizinhos, os Bettermans. À medida que as tensões aumentam, uma nova ameaça impulsiona os dois clãs em uma aventura épica que os força a se unirem e sobreviverem juntos.",
-    "avaliacao": "7.4",
-    "classificacao": "Livre",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "Assistir 🌀",
-          "linkFisico": "v/os-croods-2-uma-nova-era.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/4fA8ig0zsUmsr5EnDeZQfxzOib7.jpg"
-        }
-      ]
-    }
-  },
-  {
     "id": "os-incriveis",
     "tipo": "filme",
     "categoria": "Animações",
@@ -28768,6 +28748,28 @@
           "tit": "Assistir 🌀",
           "linkFisico": "v/esquadrao-suicida.html",
           "logoEp": "https://image.tmdb.org/t/p/w1280/rRLefWWOjtOoL6kHNygt1fN99QY.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "os-croods-2-uma-nova-era",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Os Croods 2: Uma Nova Era 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/f7BIa9xIerwviSMsa9BEY28sC3Y.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/4fA8ig0zsUmsr5EnDeZQfxzOib7.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/o2morrqN2j7CVbbuShbu9PlVngg.png",
+    "sinopse": "A família Crood se muda para um lugar seguro, onde encontram seus novos vizinhos, os Bettermans. À medida que as tensões aumentam, uma nova ameaça impulsiona os dois clãs em uma aventura épica que os força a se unirem e sobreviverem juntos.",
+    "nota": "7.4",
+    "avaliacao": "7.4",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/os-croods-2-uma-nova-era.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/4fA8ig0zsUmsr5EnDeZQfxzOib7.jpg"
         }
       ]
     }
