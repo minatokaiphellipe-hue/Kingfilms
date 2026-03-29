@@ -28839,5 +28839,124 @@
         }
       ]
     }
+  },
+  {
+    "id": "projeto-clonagem",
+    "tipo": "serie",
+    "categoria": "Séries",
+    "titulo": "Projeto Clonagem 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/y207Qq9zmx3cCIDdKpAt44WRrOE.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/eZiFqZcgq93P6KFFwx7HpCeRguS.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/xuLWxOwioS2hNBMvoXNzHoB3jZM.png",
+    "sinopse": "Vinte anos depois de terem sido congelados, Abe, Cleo, JFK e Joan são repentinamente reativados no mundo moderno, onde precisam enfrentar uma nova leva de clones históricos, triângulos amorosos dramáticos e um novo e formidável inimigo.",
+    "nota": "6.7",
+    "avaliacao": "6.7",
+    "classificacao": "14",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "S01E01 🌀",
+          "linkFisico": "v/projeto-clonagem-s01e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/eZiFqZcgq93P6KFFwx7HpCeRguS.jpg"
+        },
+        {
+          "tit": "S01E02 🌀",
+          "linkFisico": "v/projeto-clonagem-s01e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/eZiFqZcgq93P6KFFwx7HpCeRguS.jpg"
+        },
+        {
+          "tit": "S01E03 🌀",
+          "linkFisico": "v/projeto-clonagem-s01e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/eZiFqZcgq93P6KFFwx7HpCeRguS.jpg"
+        },
+        {
+          "tit": "S01E04 🌀",
+          "linkFisico": "v/projeto-clonagem-s01e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/eZiFqZcgq93P6KFFwx7HpCeRguS.jpg"
+        },
+        {
+          "tit": "S01E05 🌀",
+          "linkFisico": "v/projeto-clonagem-s01e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/eZiFqZcgq93P6KFFwx7HpCeRguS.jpg"
+        },
+        {
+          "tit": "S01E06 🌀",
+          "linkFisico": "v/projeto-clonagem-s01e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/eZiFqZcgq93P6KFFwx7HpCeRguS.jpg"
+        },
+        {
+          "tit": "S01E07 🌀",
+          "linkFisico": "v/projeto-clonagem-s01e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/eZiFqZcgq93P6KFFwx7HpCeRguS.jpg"
+        },
+        {
+          "tit": "S01E08 🌀",
+          "linkFisico": "v/projeto-clonagem-s01e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/eZiFqZcgq93P6KFFwx7HpCeRguS.jpg"
+        },
+        {
+          "tit": "S01E09 🌀",
+          "linkFisico": "v/projeto-clonagem-s01e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/eZiFqZcgq93P6KFFwx7HpCeRguS.jpg"
+        },
+        {
+          "tit": "S01E10 🌀",
+          "linkFisico": "v/projeto-clonagem-s01e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/eZiFqZcgq93P6KFFwx7HpCeRguS.jpg"
+        }
+      ],
+      "2": [
+        {
+          "tit": "S02E01 🌀",
+          "linkFisico": "v/projeto-clonagem-s02e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/eZiFqZcgq93P6KFFwx7HpCeRguS.jpg"
+        },
+        {
+          "tit": "S02E02 🌀",
+          "linkFisico": "v/projeto-clonagem-s02e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/eZiFqZcgq93P6KFFwx7HpCeRguS.jpg"
+        },
+        {
+          "tit": "S02E03 🌀",
+          "linkFisico": "v/projeto-clonagem-s02e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/eZiFqZcgq93P6KFFwx7HpCeRguS.jpg"
+        },
+        {
+          "tit": "S02E04 🌀",
+          "linkFisico": "v/projeto-clonagem-s02e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/eZiFqZcgq93P6KFFwx7HpCeRguS.jpg"
+        },
+        {
+          "tit": "S02E05 🌀",
+          "linkFisico": "v/projeto-clonagem-s02e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/eZiFqZcgq93P6KFFwx7HpCeRguS.jpg"
+        },
+        {
+          "tit": "S02E06 🌀",
+          "linkFisico": "v/projeto-clonagem-s02e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/eZiFqZcgq93P6KFFwx7HpCeRguS.jpg"
+        },
+        {
+          "tit": "S02E07 🌀",
+          "linkFisico": "v/projeto-clonagem-s02e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/eZiFqZcgq93P6KFFwx7HpCeRguS.jpg"
+        },
+        {
+          "tit": "S02E08 🌀",
+          "linkFisico": "v/projeto-clonagem-s02e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/eZiFqZcgq93P6KFFwx7HpCeRguS.jpg"
+        },
+        {
+          "tit": "S02E09 🌀",
+          "linkFisico": "v/projeto-clonagem-s02e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/eZiFqZcgq93P6KFFwx7HpCeRguS.jpg"
+        },
+        {
+          "tit": "S02E10 🌀",
+          "linkFisico": "v/projeto-clonagem-s02e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/eZiFqZcgq93P6KFFwx7HpCeRguS.jpg"
+        }
+      ]
+    }
   }
 ]
