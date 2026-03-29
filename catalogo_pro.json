@@ -28773,5 +28773,27 @@
         }
       ]
     }
+  },
+  {
+    "id": "todo-tempo-que-temos",
+    "tipo": "filme",
+    "categoria": "Romance",
+    "titulo": "Todo Tempo Que Temos 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/qqOmf6702TDz8esL4oJW6uTCijT.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/8Mo3K5YOTaRdTVwaQqo0DfgrDRQ.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/441tZwDbX7JkiJQnIq98dF0Y6RX.png",
+    "sinopse": "As vidas de Almut, uma talentosa chef de cozinha, e Tobias, um homem recém-divorciado, mudam para sempre quando eles se conhecem. Após um encontro inusitado, eles se apaixonam e constroem o lar e a família que sempre sonharam, até que uma verdade dolorosa põe à prova essa história de amor. Decididos a enfrentar as dificuldades, Almut e Tobias embarcam numa jornada emocionante, onde vão aprender que cada minuto conta quando estamos ao lado de quem amamos.",
+    "nota": "7.2",
+    "avaliacao": "7.2",
+    "classificacao": "14",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/todo-tempo-que-temos.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/8Mo3K5YOTaRdTVwaQqo0DfgrDRQ.jpg"
+        }
+      ]
+    }
   }
 ]
