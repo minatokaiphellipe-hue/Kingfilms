@@ -28705,5 +28705,27 @@
         }
       ]
     }
+  },
+  {
+    "id": "bright",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "Bright 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/wfWmA2k03GDWQmrcjusUcqBiYWT.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/gfJ7mRDihw9WU0fmLbM51kMKjh6.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/sevOvVuq7YipeIR7yV2xwsMQQEl.png",
+    "sinopse": "Em um mundo habitado por diferentes espécies, um policial humano e seu parceiro orc encontram um artefato que os coloca no centro de uma profética guerra por território.",
+    "nota": "6.2",
+    "avaliacao": "6.2",
+    "classificacao": "16",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/bright.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gfJ7mRDihw9WU0fmLbM51kMKjh6.jpg"
+        }
+      ]
+    }
   }
 ]
