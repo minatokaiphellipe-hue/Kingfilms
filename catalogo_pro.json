@@ -28817,5 +28817,27 @@
         }
       ]
     }
+  },
+  {
+    "id": "a-meia-irma-feia",
+    "tipo": "filme",
+    "categoria": "Terror",
+    "titulo": "A Meia-Irmã Feia 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/2dEoQ2eWk3evQQBNUxPnZsPDq1N.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/mUAFCyQGsTOek0o7LeCci2NNXHX.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/1HMtaIvXk6InrYK6b0UsFaHx2oQ.png",
+    "sinopse": "Elvira, meia-irmã de Cinderela, vive com a família em um poderoso reino onde poucas coisas são tão importantes quanto a beleza. Ela recorre a medidas extremas para cativar o príncipe, em meio a uma competição implacável pela perfeição física.",
+    "nota": "7.3",
+    "avaliacao": "7.3",
+    "classificacao": "18",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/a-meia-irma-feia.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mUAFCyQGsTOek0o7LeCci2NNXHX.jpg"
+        }
+      ]
+    }
   }
 ]
