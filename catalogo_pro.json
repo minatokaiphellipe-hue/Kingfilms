@@ -28795,5 +28795,27 @@
         }
       ]
     }
+  },
+  {
+    "id": "o-homem-invisivel",
+    "tipo": "filme",
+    "categoria": "Terror",
+    "titulo": "O Homem Invisível 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/aQhkamz4n7UHlDOJJ8paDijEf4E.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/bZdR0bB3bjbU9N0rkJtYpQ9cAXG.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/u0qL2xFNQ9TNGipnVS0XOLO6E5f.png",
+    "sinopse": "Quando o ex abusivo de Cecilia tira a própria vida e deixa sua fortuna, ela suspeita que a morte dele tenha sido uma farsa. Como uma série de coincidências se torna letal, Cecilia trabalha para provar que está sendo caçada por alguém que ninguém pode ver.",
+    "nota": "7.1",
+    "avaliacao": "7.1",
+    "classificacao": "14",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/o-homem-invisivel.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bZdR0bB3bjbU9N0rkJtYpQ9cAXG.jpg"
+        }
+      ]
+    }
   }
 ]
