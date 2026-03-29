@@ -28958,5 +28958,27 @@
         }
       ]
     }
+  },
+  {
+    "id": "novocaine-a-prova-de-dor",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "Novocaine: À Prova de Dor 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/knIEw2jWOxrb6ugNPEoaiYI6p77.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/v95ebNrXPipRDRQVxhK0e4fHyTK.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/kvGbnHurl8kxKUT4TuaeDyxvdej.png",
+    "sinopse": "Quando a garota de seus sonhos é sequestrada, Nathan, um homem comum, transforma sua condição de não sentir dor em sua maior força para recuperar a amada das garras dos criminosos.",
+    "nota": "6.8",
+    "avaliacao": "6.8",
+    "classificacao": "18",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/novocaine-a-prova-de-dor.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/v95ebNrXPipRDRQVxhK0e4fHyTK.jpg"
+        }
+      ]
+    }
   }
 ]
