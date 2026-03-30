@@ -32957,5 +32957,27 @@
         }
       ]
     }
+  },
+  {
+    "id": "jogo-de-amor-em-las-vegas",
+    "tipo": "filme",
+    "categoria": "Romance",
+    "titulo": "Jogo de Amor em Las Vegas 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/wPfCkAZjxcgbCN7X65Aut8Vtq4c.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/a7fB2UzLtLYEG3tMeGRc9SDxjXE.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/vLX62VEM50L0oRwVmjprOs5XQ2d.png",
+    "sinopse": "Depois da noite mais insana de suas vidas em Las Vegas, dois estranhos sem nada em comum, Jack e Joy, acordam e descobrem que não apenas se divertiram, eles também estão casados! Mas a anulação não vai ser algo tão fácil, pois Jack ganha um prêmio de US$ 3 milhões de dólares apostando com uma moeda de Joy, e um juiz irritado sentencia o casal a seis meses de \"casamento para valer\" antes  de dividir o dinheiro.",
+    "nota": "6.1",
+    "avaliacao": "6.1",
+    "classificacao": "12",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/jogo-de-amor-em-las-vegas.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/a7fB2UzLtLYEG3tMeGRc9SDxjXE.jpg"
+        }
+      ]
+    }
   }
 ]
