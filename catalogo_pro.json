@@ -29307,5 +29307,256 @@
         }
       ]
     }
+  },
+  {
+    "id": "ben-10-forca-alienigena",
+    "tipo": "serie",
+    "categoria": "Séries",
+    "titulo": "Ben 10: Força Alienígena 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/h49Jc6onlySVTI2Tb9HFxr0exfV.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/kMM9FsQe0oTXlV7BwNRXeNWaRYb.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/qkUsCVaDw7KIAJLQiJcfWhhTzIu.png",
+    "sinopse": "Faz 5 anos desde que Ben usou o Omnitrix pela última vez. Mas quando o Vô Max desaparece, Ben precisa se tornar um herói mais uma vez.",
+    "nota": "8.3",
+    "avaliacao": "8.3",
+    "classificacao": "14",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "S01E01 🌀",
+          "linkFisico": "v/ben-10-forca-alienigena-s01e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kMM9FsQe0oTXlV7BwNRXeNWaRYb.jpg"
+        },
+        {
+          "tit": "S01E02 🌀",
+          "linkFisico": "v/ben-10-forca-alienigena-s01e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kMM9FsQe0oTXlV7BwNRXeNWaRYb.jpg"
+        },
+        {
+          "tit": "S01E03 🌀",
+          "linkFisico": "v/ben-10-forca-alienigena-s01e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kMM9FsQe0oTXlV7BwNRXeNWaRYb.jpg"
+        },
+        {
+          "tit": "S01E04 🌀",
+          "linkFisico": "v/ben-10-forca-alienigena-s01e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kMM9FsQe0oTXlV7BwNRXeNWaRYb.jpg"
+        },
+        {
+          "tit": "S01E05 🌀",
+          "linkFisico": "v/ben-10-forca-alienigena-s01e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kMM9FsQe0oTXlV7BwNRXeNWaRYb.jpg"
+        },
+        {
+          "tit": "S01E06 🌀",
+          "linkFisico": "v/ben-10-forca-alienigena-s01e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kMM9FsQe0oTXlV7BwNRXeNWaRYb.jpg"
+        },
+        {
+          "tit": "S01E07 🌀",
+          "linkFisico": "v/ben-10-forca-alienigena-s01e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kMM9FsQe0oTXlV7BwNRXeNWaRYb.jpg"
+        },
+        {
+          "tit": "S01E08 🌀",
+          "linkFisico": "v/ben-10-forca-alienigena-s01e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kMM9FsQe0oTXlV7BwNRXeNWaRYb.jpg"
+        },
+        {
+          "tit": "S01E09 🌀",
+          "linkFisico": "v/ben-10-forca-alienigena-s01e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kMM9FsQe0oTXlV7BwNRXeNWaRYb.jpg"
+        },
+        {
+          "tit": "S01E10 🌀",
+          "linkFisico": "v/ben-10-forca-alienigena-s01e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kMM9FsQe0oTXlV7BwNRXeNWaRYb.jpg"
+        },
+        {
+          "tit": "S01E11 🌀",
+          "linkFisico": "v/ben-10-forca-alienigena-s01e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kMM9FsQe0oTXlV7BwNRXeNWaRYb.jpg"
+        },
+        {
+          "tit": "S01E12 🌀",
+          "linkFisico": "v/ben-10-forca-alienigena-s01e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kMM9FsQe0oTXlV7BwNRXeNWaRYb.jpg"
+        },
+        {
+          "tit": "S01E13 🌀",
+          "linkFisico": "v/ben-10-forca-alienigena-s01e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kMM9FsQe0oTXlV7BwNRXeNWaRYb.jpg"
+        }
+      ],
+      "2": [
+        {
+          "tit": "S02E01 🌀",
+          "linkFisico": "v/ben-10-forca-alienigena-s02e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kMM9FsQe0oTXlV7BwNRXeNWaRYb.jpg"
+        },
+        {
+          "tit": "S02E02 🌀",
+          "linkFisico": "v/ben-10-forca-alienigena-s02e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kMM9FsQe0oTXlV7BwNRXeNWaRYb.jpg"
+        },
+        {
+          "tit": "S02E03 🌀",
+          "linkFisico": "v/ben-10-forca-alienigena-s02e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kMM9FsQe0oTXlV7BwNRXeNWaRYb.jpg"
+        },
+        {
+          "tit": "S02E04 🌀",
+          "linkFisico": "v/ben-10-forca-alienigena-s02e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kMM9FsQe0oTXlV7BwNRXeNWaRYb.jpg"
+        },
+        {
+          "tit": "S02E05 🌀",
+          "linkFisico": "v/ben-10-forca-alienigena-s02e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kMM9FsQe0oTXlV7BwNRXeNWaRYb.jpg"
+        },
+        {
+          "tit": "S02E06 🌀",
+          "linkFisico": "v/ben-10-forca-alienigena-s02e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kMM9FsQe0oTXlV7BwNRXeNWaRYb.jpg"
+        },
+        {
+          "tit": "S02E07 🌀",
+          "linkFisico": "v/ben-10-forca-alienigena-s02e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kMM9FsQe0oTXlV7BwNRXeNWaRYb.jpg"
+        },
+        {
+          "tit": "S02E08 🌀",
+          "linkFisico": "v/ben-10-forca-alienigena-s02e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kMM9FsQe0oTXlV7BwNRXeNWaRYb.jpg"
+        },
+        {
+          "tit": "S02E09 🌀",
+          "linkFisico": "v/ben-10-forca-alienigena-s02e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kMM9FsQe0oTXlV7BwNRXeNWaRYb.jpg"
+        },
+        {
+          "tit": "S02E10 🌀",
+          "linkFisico": "v/ben-10-forca-alienigena-s02e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kMM9FsQe0oTXlV7BwNRXeNWaRYb.jpg"
+        },
+        {
+          "tit": "S02E11 🌀",
+          "linkFisico": "v/ben-10-forca-alienigena-s02e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kMM9FsQe0oTXlV7BwNRXeNWaRYb.jpg"
+        },
+        {
+          "tit": "S02E12 🌀",
+          "linkFisico": "v/ben-10-forca-alienigena-s02e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kMM9FsQe0oTXlV7BwNRXeNWaRYb.jpg"
+        },
+        {
+          "tit": "S02E13 🌀",
+          "linkFisico": "v/ben-10-forca-alienigena-s02e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kMM9FsQe0oTXlV7BwNRXeNWaRYb.jpg"
+        }
+      ],
+      "3": [
+        {
+          "tit": "S03E01 🌀",
+          "linkFisico": "v/ben-10-forca-alienigena-s03e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kMM9FsQe0oTXlV7BwNRXeNWaRYb.jpg"
+        },
+        {
+          "tit": "S03E02 🌀",
+          "linkFisico": "v/ben-10-forca-alienigena-s03e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kMM9FsQe0oTXlV7BwNRXeNWaRYb.jpg"
+        },
+        {
+          "tit": "S03E03 🌀",
+          "linkFisico": "v/ben-10-forca-alienigena-s03e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kMM9FsQe0oTXlV7BwNRXeNWaRYb.jpg"
+        },
+        {
+          "tit": "S03E04 🌀",
+          "linkFisico": "v/ben-10-forca-alienigena-s03e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kMM9FsQe0oTXlV7BwNRXeNWaRYb.jpg"
+        },
+        {
+          "tit": "S03E05 🌀",
+          "linkFisico": "v/ben-10-forca-alienigena-s03e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kMM9FsQe0oTXlV7BwNRXeNWaRYb.jpg"
+        },
+        {
+          "tit": "S03E06 🌀",
+          "linkFisico": "v/ben-10-forca-alienigena-s03e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kMM9FsQe0oTXlV7BwNRXeNWaRYb.jpg"
+        },
+        {
+          "tit": "S03E07 🌀",
+          "linkFisico": "v/ben-10-forca-alienigena-s03e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kMM9FsQe0oTXlV7BwNRXeNWaRYb.jpg"
+        },
+        {
+          "tit": "S03E08 🌀",
+          "linkFisico": "v/ben-10-forca-alienigena-s03e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kMM9FsQe0oTXlV7BwNRXeNWaRYb.jpg"
+        },
+        {
+          "tit": "S03E09 🌀",
+          "linkFisico": "v/ben-10-forca-alienigena-s03e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kMM9FsQe0oTXlV7BwNRXeNWaRYb.jpg"
+        },
+        {
+          "tit": "S03E10 🌀",
+          "linkFisico": "v/ben-10-forca-alienigena-s03e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kMM9FsQe0oTXlV7BwNRXeNWaRYb.jpg"
+        },
+        {
+          "tit": "S03E11 🌀",
+          "linkFisico": "v/ben-10-forca-alienigena-s03e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kMM9FsQe0oTXlV7BwNRXeNWaRYb.jpg"
+        },
+        {
+          "tit": "S03E12 🌀",
+          "linkFisico": "v/ben-10-forca-alienigena-s03e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kMM9FsQe0oTXlV7BwNRXeNWaRYb.jpg"
+        },
+        {
+          "tit": "S03E13 🌀",
+          "linkFisico": "v/ben-10-forca-alienigena-s03e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kMM9FsQe0oTXlV7BwNRXeNWaRYb.jpg"
+        },
+        {
+          "tit": "S03E14 🌀",
+          "linkFisico": "v/ben-10-forca-alienigena-s03e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kMM9FsQe0oTXlV7BwNRXeNWaRYb.jpg"
+        },
+        {
+          "tit": "S03E15 🌀",
+          "linkFisico": "v/ben-10-forca-alienigena-s03e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kMM9FsQe0oTXlV7BwNRXeNWaRYb.jpg"
+        },
+        {
+          "tit": "S03E16 🌀",
+          "linkFisico": "v/ben-10-forca-alienigena-s03e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kMM9FsQe0oTXlV7BwNRXeNWaRYb.jpg"
+        },
+        {
+          "tit": "S03E17 🌀",
+          "linkFisico": "v/ben-10-forca-alienigena-s03e17.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kMM9FsQe0oTXlV7BwNRXeNWaRYb.jpg"
+        },
+        {
+          "tit": "S03E18 🌀",
+          "linkFisico": "v/ben-10-forca-alienigena-s03e18.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kMM9FsQe0oTXlV7BwNRXeNWaRYb.jpg"
+        },
+        {
+          "tit": "S03E19 🌀",
+          "linkFisico": "v/ben-10-forca-alienigena-s03e19.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kMM9FsQe0oTXlV7BwNRXeNWaRYb.jpg"
+        },
+        {
+          "tit": "S03E20 🌀",
+          "linkFisico": "v/ben-10-forca-alienigena-s03e20.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kMM9FsQe0oTXlV7BwNRXeNWaRYb.jpg"
+        }
+      ]
+    }
   }
 ]
