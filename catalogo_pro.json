@@ -29024,5 +29024,288 @@
         }
       ]
     }
+  },
+  {
+    "id": "ben-10",
+    "tipo": "serie",
+    "categoria": "Séries",
+    "titulo": "Ben 10 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/eogRp6oAPK0SEvQmCrQ78LTlSdp.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/8LMFbTW0sgsyAkwdR4gqpzzhngf.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/xAYOCRp2nBc9SUKzuwaNcSGfHPp.png",
+    "sinopse": "Ben Tennyson era um garoto comum de 10 anos de idade que durante uma aborrecida viagem de férias em companhia de seu avô Max e de sua prima Gwen descobre um estranho objeto alienígena chamado Omnitrix trazido para a Terra por um meteorito. Agora com o Omnitrix, ele pode se transformar em 10 diferentes heróis alienígenas cada um com seus próprios poderes. Ben vai precisar de todos os poderes para salvar o mundo da presença de Vilgax e de ameaças extraterrestres",
+    "nota": "8.2",
+    "avaliacao": "8.2",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "S01E01 🌀",
+          "linkFisico": "v/ben-10-s01e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/8LMFbTW0sgsyAkwdR4gqpzzhngf.jpg"
+        },
+        {
+          "tit": "S01E02 🌀",
+          "linkFisico": "v/ben-10-s01e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/8LMFbTW0sgsyAkwdR4gqpzzhngf.jpg"
+        },
+        {
+          "tit": "S01E03 🌀",
+          "linkFisico": "v/ben-10-s01e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/8LMFbTW0sgsyAkwdR4gqpzzhngf.jpg"
+        },
+        {
+          "tit": "S01E04 🌀",
+          "linkFisico": "v/ben-10-s01e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/8LMFbTW0sgsyAkwdR4gqpzzhngf.jpg"
+        },
+        {
+          "tit": "S01E05 🌀",
+          "linkFisico": "v/ben-10-s01e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/8LMFbTW0sgsyAkwdR4gqpzzhngf.jpg"
+        },
+        {
+          "tit": "S01E06 🌀",
+          "linkFisico": "v/ben-10-s01e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/8LMFbTW0sgsyAkwdR4gqpzzhngf.jpg"
+        },
+        {
+          "tit": "S01E07 🌀",
+          "linkFisico": "v/ben-10-s01e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/8LMFbTW0sgsyAkwdR4gqpzzhngf.jpg"
+        },
+        {
+          "tit": "S01E08 🌀",
+          "linkFisico": "v/ben-10-s01e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/8LMFbTW0sgsyAkwdR4gqpzzhngf.jpg"
+        },
+        {
+          "tit": "S01E09 🌀",
+          "linkFisico": "v/ben-10-s01e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/8LMFbTW0sgsyAkwdR4gqpzzhngf.jpg"
+        },
+        {
+          "tit": "S01E10 🌀",
+          "linkFisico": "v/ben-10-s01e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/8LMFbTW0sgsyAkwdR4gqpzzhngf.jpg"
+        },
+        {
+          "tit": "S01E11 🌀",
+          "linkFisico": "v/ben-10-s01e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/8LMFbTW0sgsyAkwdR4gqpzzhngf.jpg"
+        },
+        {
+          "tit": "S01E12 🌀",
+          "linkFisico": "v/ben-10-s01e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/8LMFbTW0sgsyAkwdR4gqpzzhngf.jpg"
+        },
+        {
+          "tit": "S01E13 🌀",
+          "linkFisico": "v/ben-10-s01e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/8LMFbTW0sgsyAkwdR4gqpzzhngf.jpg"
+        }
+      ],
+      "2": [
+        {
+          "tit": "S02E01 🌀",
+          "linkFisico": "v/ben-10-s02e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/8LMFbTW0sgsyAkwdR4gqpzzhngf.jpg"
+        },
+        {
+          "tit": "S02E02 🌀",
+          "linkFisico": "v/ben-10-s02e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/8LMFbTW0sgsyAkwdR4gqpzzhngf.jpg"
+        },
+        {
+          "tit": "S02E03 🌀",
+          "linkFisico": "v/ben-10-s02e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/8LMFbTW0sgsyAkwdR4gqpzzhngf.jpg"
+        },
+        {
+          "tit": "S02E04 🌀",
+          "linkFisico": "v/ben-10-s02e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/8LMFbTW0sgsyAkwdR4gqpzzhngf.jpg"
+        },
+        {
+          "tit": "S02E05 🌀",
+          "linkFisico": "v/ben-10-s02e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/8LMFbTW0sgsyAkwdR4gqpzzhngf.jpg"
+        },
+        {
+          "tit": "S02E06 🌀",
+          "linkFisico": "v/ben-10-s02e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/8LMFbTW0sgsyAkwdR4gqpzzhngf.jpg"
+        },
+        {
+          "tit": "S02E07 🌀",
+          "linkFisico": "v/ben-10-s02e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/8LMFbTW0sgsyAkwdR4gqpzzhngf.jpg"
+        },
+        {
+          "tit": "S02E08 🌀",
+          "linkFisico": "v/ben-10-s02e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/8LMFbTW0sgsyAkwdR4gqpzzhngf.jpg"
+        },
+        {
+          "tit": "S02E09 🌀",
+          "linkFisico": "v/ben-10-s02e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/8LMFbTW0sgsyAkwdR4gqpzzhngf.jpg"
+        },
+        {
+          "tit": "S02E10 🌀",
+          "linkFisico": "v/ben-10-s02e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/8LMFbTW0sgsyAkwdR4gqpzzhngf.jpg"
+        },
+        {
+          "tit": "S02E11 🌀",
+          "linkFisico": "v/ben-10-s02e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/8LMFbTW0sgsyAkwdR4gqpzzhngf.jpg"
+        },
+        {
+          "tit": "S02E12 🌀",
+          "linkFisico": "v/ben-10-s02e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/8LMFbTW0sgsyAkwdR4gqpzzhngf.jpg"
+        },
+        {
+          "tit": "S02E13 🌀",
+          "linkFisico": "v/ben-10-s02e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/8LMFbTW0sgsyAkwdR4gqpzzhngf.jpg"
+        }
+      ],
+      "3": [
+        {
+          "tit": "S03E01 🌀",
+          "linkFisico": "v/ben-10-s03e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/8LMFbTW0sgsyAkwdR4gqpzzhngf.jpg"
+        },
+        {
+          "tit": "S03E02 🌀",
+          "linkFisico": "v/ben-10-s03e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/8LMFbTW0sgsyAkwdR4gqpzzhngf.jpg"
+        },
+        {
+          "tit": "S03E03 🌀",
+          "linkFisico": "v/ben-10-s03e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/8LMFbTW0sgsyAkwdR4gqpzzhngf.jpg"
+        },
+        {
+          "tit": "S03E04 🌀",
+          "linkFisico": "v/ben-10-s03e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/8LMFbTW0sgsyAkwdR4gqpzzhngf.jpg"
+        },
+        {
+          "tit": "S03E05 🌀",
+          "linkFisico": "v/ben-10-s03e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/8LMFbTW0sgsyAkwdR4gqpzzhngf.jpg"
+        },
+        {
+          "tit": "S03E06 🌀",
+          "linkFisico": "v/ben-10-s03e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/8LMFbTW0sgsyAkwdR4gqpzzhngf.jpg"
+        },
+        {
+          "tit": "S03E07 🌀",
+          "linkFisico": "v/ben-10-s03e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/8LMFbTW0sgsyAkwdR4gqpzzhngf.jpg"
+        },
+        {
+          "tit": "S03E08 🌀",
+          "linkFisico": "v/ben-10-s03e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/8LMFbTW0sgsyAkwdR4gqpzzhngf.jpg"
+        },
+        {
+          "tit": "S03E09 🌀",
+          "linkFisico": "v/ben-10-s03e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/8LMFbTW0sgsyAkwdR4gqpzzhngf.jpg"
+        },
+        {
+          "tit": "S03E10 🌀",
+          "linkFisico": "v/ben-10-s03e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/8LMFbTW0sgsyAkwdR4gqpzzhngf.jpg"
+        },
+        {
+          "tit": "S03E11 🌀",
+          "linkFisico": "v/ben-10-s03e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/8LMFbTW0sgsyAkwdR4gqpzzhngf.jpg"
+        },
+        {
+          "tit": "S03E12 🌀",
+          "linkFisico": "v/ben-10-s03e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/8LMFbTW0sgsyAkwdR4gqpzzhngf.jpg"
+        },
+        {
+          "tit": "S03E13 🌀",
+          "linkFisico": "v/ben-10-s03e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/8LMFbTW0sgsyAkwdR4gqpzzhngf.jpg"
+        }
+      ],
+      "4": [
+        {
+          "tit": "S04E01 🌀",
+          "linkFisico": "v/ben-10-s04e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/8LMFbTW0sgsyAkwdR4gqpzzhngf.jpg"
+        },
+        {
+          "tit": "S04E02 🌀",
+          "linkFisico": "v/ben-10-s04e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/8LMFbTW0sgsyAkwdR4gqpzzhngf.jpg"
+        },
+        {
+          "tit": "S04E03 🌀",
+          "linkFisico": "v/ben-10-s04e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/8LMFbTW0sgsyAkwdR4gqpzzhngf.jpg"
+        },
+        {
+          "tit": "S04E04 🌀",
+          "linkFisico": "v/ben-10-s04e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/8LMFbTW0sgsyAkwdR4gqpzzhngf.jpg"
+        },
+        {
+          "tit": "S04E05 🌀",
+          "linkFisico": "v/ben-10-s04e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/8LMFbTW0sgsyAkwdR4gqpzzhngf.jpg"
+        },
+        {
+          "tit": "S04E06 🌀",
+          "linkFisico": "v/ben-10-s04e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/8LMFbTW0sgsyAkwdR4gqpzzhngf.jpg"
+        },
+        {
+          "tit": "S04E07 🌀",
+          "linkFisico": "v/ben-10-s04e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/8LMFbTW0sgsyAkwdR4gqpzzhngf.jpg"
+        },
+        {
+          "tit": "S04E08 🌀",
+          "linkFisico": "v/ben-10-s04e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/8LMFbTW0sgsyAkwdR4gqpzzhngf.jpg"
+        },
+        {
+          "tit": "S04E09 🌀",
+          "linkFisico": "v/ben-10-s04e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/8LMFbTW0sgsyAkwdR4gqpzzhngf.jpg"
+        },
+        {
+          "tit": "S04E10 🌀",
+          "linkFisico": "v/ben-10-s04e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/8LMFbTW0sgsyAkwdR4gqpzzhngf.jpg"
+        },
+        {
+          "tit": "S04E11 🌀",
+          "linkFisico": "v/ben-10-s04e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/8LMFbTW0sgsyAkwdR4gqpzzhngf.jpg"
+        },
+        {
+          "tit": "S04E12 🌀",
+          "linkFisico": "v/ben-10-s04e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/8LMFbTW0sgsyAkwdR4gqpzzhngf.jpg"
+        },
+        {
+          "tit": "S04E13 🌀",
+          "linkFisico": "v/ben-10-s04e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/8LMFbTW0sgsyAkwdR4gqpzzhngf.jpg"
+        }
+      ]
+    }
   }
 ]
