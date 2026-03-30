@@ -30290,5 +30290,27 @@
         }
       ]
     }
+  },
+  {
+    "id": "jay-kelly",
+    "tipo": "filme",
+    "categoria": "Drama",
+    "titulo": "Jay Kelly 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/4mE7GKRC9rkUqGPoS6t7vkJzUTn.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/82dSryKpmn0AxeQBAUJNvn0RmOG.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/7ehgvYvj5ZRaiifuqqjKUKLwhf1.png",
+    "sinopse": "O astro do cinema Jay Kelly confronta seu passado e seu presente em uma jornada caótica pela Europa com seu dedicado agente. Ao longo do caminho, os dois precisam confrontar os relacionamentos com pessoas queridas e o legado que vão deixar.",
+    "nota": "6.1",
+    "avaliacao": "6.1",
+    "classificacao": "12",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/jay-kelly.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/82dSryKpmn0AxeQBAUJNvn0RmOG.jpg"
+        }
+      ]
+    }
   }
 ]
