@@ -15692,28 +15692,6 @@
     }
   },
   {
-    "id": "invocacao-do-mal-2",
-    "tipo": "filme",
-    "categoria": "Terror",
-    "titulo": "Invocação do Mal 2 🌀",
-    "logo": "https://image.tmdb.org/t/p/w780/dOPVzDQdRQtSan36LpLwWcfzCgu.jpg",
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/wwMUYmehNmrhdRNvzxBXV4BcfbY.jpg",
-    "logo_png": "https://image.tmdb.org/t/p/w500/fZitSgQppxqDDA0Z45xQb05U5VS.png",
-    "sinopse": "Lorraine e Ed Warren ajudam uma mãe solteira a criar seus quatro filhos numa casa assombrada por espíritos malignos. Conhecido como a Amityville da Inglaterra, o Poltergeist de Enfield foi o caso mais documentado na história da paranormalidade. Descubra a verdade por trás do evento que chocou o mundo.",
-    "nota": "7.3",
-    "avaliacao": "7.3",
-    "classificacao": "14",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "Assistir 🌀",
-          "linkFisico": "v/invocacao-do-mal-2.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/wwMUYmehNmrhdRNvzxBXV4BcfbY.jpg"
-        }
-      ]
-    }
-  },
-  {
     "id": "invocacao-do-mal-3",
     "tipo": "filme",
     "categoria": "Terror",
