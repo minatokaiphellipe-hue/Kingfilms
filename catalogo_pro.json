@@ -35389,5 +35389,810 @@
         }
       ]
     }
+  },
+  {
+    "id": "futurama",
+    "tipo": "serie",
+    "categoria": "Séries",
+    "titulo": "Futurama 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/6ZS8SOno6kTmWz4eQ8lX8EBXOMv.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/6jNQtbazLLAu5gLzW46FP8EGePb.png",
+    "sinopse": "Fry era um entregador de pizza de 25 anos, cuja vida não tinha o  menor significado. Depois de congelar-se acidentalmente na véspera do  Ano Novo de 1999, ele acorda mil anos mais tarde, tendo a chance de  começar tudo de novo em um futuro repleto de alienígenas misteriosos e  de robôs ameaçadores.",
+    "nota": "8.4",
+    "avaliacao": "8.4",
+    "classificacao": "12",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "S01E01 🌀",
+          "linkFisico": "v/futurama-s01e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S01E02 🌀",
+          "linkFisico": "v/futurama-s01e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S01E03 🌀",
+          "linkFisico": "v/futurama-s01e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S01E04 🌀",
+          "linkFisico": "v/futurama-s01e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S01E05 🌀",
+          "linkFisico": "v/futurama-s01e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S01E06 🌀",
+          "linkFisico": "v/futurama-s01e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S01E07 🌀",
+          "linkFisico": "v/futurama-s01e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S01E08 🌀",
+          "linkFisico": "v/futurama-s01e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S01E09 🌀",
+          "linkFisico": "v/futurama-s01e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        }
+      ],
+      "2": [
+        {
+          "tit": "S02E01 🌀",
+          "linkFisico": "v/futurama-s02e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S02E02 🌀",
+          "linkFisico": "v/futurama-s02e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S02E03 🌀",
+          "linkFisico": "v/futurama-s02e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S02E04 🌀",
+          "linkFisico": "v/futurama-s02e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S02E05 🌀",
+          "linkFisico": "v/futurama-s02e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S02E06 🌀",
+          "linkFisico": "v/futurama-s02e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S02E07 🌀",
+          "linkFisico": "v/futurama-s02e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S02E08 🌀",
+          "linkFisico": "v/futurama-s02e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S02E09 🌀",
+          "linkFisico": "v/futurama-s02e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S02E10 🌀",
+          "linkFisico": "v/futurama-s02e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S02E11 🌀",
+          "linkFisico": "v/futurama-s02e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S02E12 🌀",
+          "linkFisico": "v/futurama-s02e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S02E13 🌀",
+          "linkFisico": "v/futurama-s02e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S02E14 🌀",
+          "linkFisico": "v/futurama-s02e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S02E15 🌀",
+          "linkFisico": "v/futurama-s02e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S02E16 🌀",
+          "linkFisico": "v/futurama-s02e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S02E17 🌀",
+          "linkFisico": "v/futurama-s02e17.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S02E18 🌀",
+          "linkFisico": "v/futurama-s02e18.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S02E19 🌀",
+          "linkFisico": "v/futurama-s02e19.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S02E20 🌀",
+          "linkFisico": "v/futurama-s02e20.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        }
+      ],
+      "3": [
+        {
+          "tit": "S03E01 🌀",
+          "linkFisico": "v/futurama-s03e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S03E02 🌀",
+          "linkFisico": "v/futurama-s03e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S03E03 🌀",
+          "linkFisico": "v/futurama-s03e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S03E04 🌀",
+          "linkFisico": "v/futurama-s03e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S03E05 🌀",
+          "linkFisico": "v/futurama-s03e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S03E06 🌀",
+          "linkFisico": "v/futurama-s03e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S03E07 🌀",
+          "linkFisico": "v/futurama-s03e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S03E08 🌀",
+          "linkFisico": "v/futurama-s03e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S03E09 🌀",
+          "linkFisico": "v/futurama-s03e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S03E10 🌀",
+          "linkFisico": "v/futurama-s03e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S03E11 🌀",
+          "linkFisico": "v/futurama-s03e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S03E12 🌀",
+          "linkFisico": "v/futurama-s03e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S03E13 🌀",
+          "linkFisico": "v/futurama-s03e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S03E14 🌀",
+          "linkFisico": "v/futurama-s03e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S03E15 🌀",
+          "linkFisico": "v/futurama-s03e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        }
+      ],
+      "4": [
+        {
+          "tit": "S04E01 🌀",
+          "linkFisico": "v/futurama-s04e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S04E02 🌀",
+          "linkFisico": "v/futurama-s04e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S04E03 🌀",
+          "linkFisico": "v/futurama-s04e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S04E04 🌀",
+          "linkFisico": "v/futurama-s04e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S04E05 🌀",
+          "linkFisico": "v/futurama-s04e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S04E06 🌀",
+          "linkFisico": "v/futurama-s04e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S04E07 🌀",
+          "linkFisico": "v/futurama-s04e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S04E08 🌀",
+          "linkFisico": "v/futurama-s04e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S04E09 🌀",
+          "linkFisico": "v/futurama-s04e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S04E10 🌀",
+          "linkFisico": "v/futurama-s04e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S04E11 🌀",
+          "linkFisico": "v/futurama-s04e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S04E12 🌀",
+          "linkFisico": "v/futurama-s04e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        }
+      ],
+      "5": [
+        {
+          "tit": "S05E01 🌀",
+          "linkFisico": "v/futurama-s05e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S05E02 🌀",
+          "linkFisico": "v/futurama-s05e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S05E03 🌀",
+          "linkFisico": "v/futurama-s05e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S05E04 🌀",
+          "linkFisico": "v/futurama-s05e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S05E05 🌀",
+          "linkFisico": "v/futurama-s05e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S05E06 🌀",
+          "linkFisico": "v/futurama-s05e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S05E07 🌀",
+          "linkFisico": "v/futurama-s05e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S05E08 🌀",
+          "linkFisico": "v/futurama-s05e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S05E09 🌀",
+          "linkFisico": "v/futurama-s05e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S05E10 🌀",
+          "linkFisico": "v/futurama-s05e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S05E11 🌀",
+          "linkFisico": "v/futurama-s05e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S05E12 🌀",
+          "linkFisico": "v/futurama-s05e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S05E13 🌀",
+          "linkFisico": "v/futurama-s05e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S05E14 🌀",
+          "linkFisico": "v/futurama-s05e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S05E15 🌀",
+          "linkFisico": "v/futurama-s05e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S05E16 🌀",
+          "linkFisico": "v/futurama-s05e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        }
+      ],
+      "6": [
+        {
+          "tit": "S06E01 🌀",
+          "linkFisico": "v/futurama-s06e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S06E02 🌀",
+          "linkFisico": "v/futurama-s06e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S06E03 🌀",
+          "linkFisico": "v/futurama-s06e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S06E04 🌀",
+          "linkFisico": "v/futurama-s06e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S06E05 🌀",
+          "linkFisico": "v/futurama-s06e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S06E06 🌀",
+          "linkFisico": "v/futurama-s06e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S06E07 🌀",
+          "linkFisico": "v/futurama-s06e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S06E08 🌀",
+          "linkFisico": "v/futurama-s06e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S06E09 🌀",
+          "linkFisico": "v/futurama-s06e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S06E10 🌀",
+          "linkFisico": "v/futurama-s06e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S06E11 🌀",
+          "linkFisico": "v/futurama-s06e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S06E12 🌀",
+          "linkFisico": "v/futurama-s06e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S06E13 🌀",
+          "linkFisico": "v/futurama-s06e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S06E14 🌀",
+          "linkFisico": "v/futurama-s06e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S06E15 🌀",
+          "linkFisico": "v/futurama-s06e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S06E16 🌀",
+          "linkFisico": "v/futurama-s06e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S06E17 🌀",
+          "linkFisico": "v/futurama-s06e17.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S06E18 🌀",
+          "linkFisico": "v/futurama-s06e18.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S06E19 🌀",
+          "linkFisico": "v/futurama-s06e19.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S06E20 🌀",
+          "linkFisico": "v/futurama-s06e20.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S06E21 🌀",
+          "linkFisico": "v/futurama-s06e21.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S06E22 🌀",
+          "linkFisico": "v/futurama-s06e22.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S06E23 🌀",
+          "linkFisico": "v/futurama-s06e23.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S06E24 🌀",
+          "linkFisico": "v/futurama-s06e24.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S06E25 🌀",
+          "linkFisico": "v/futurama-s06e25.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S06E26 🌀",
+          "linkFisico": "v/futurama-s06e26.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        }
+      ],
+      "7": [
+        {
+          "tit": "S07E01 🌀",
+          "linkFisico": "v/futurama-s07e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S07E02 🌀",
+          "linkFisico": "v/futurama-s07e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S07E03 🌀",
+          "linkFisico": "v/futurama-s07e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S07E04 🌀",
+          "linkFisico": "v/futurama-s07e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S07E05 🌀",
+          "linkFisico": "v/futurama-s07e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S07E06 🌀",
+          "linkFisico": "v/futurama-s07e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S07E07 🌀",
+          "linkFisico": "v/futurama-s07e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S07E08 🌀",
+          "linkFisico": "v/futurama-s07e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S07E09 🌀",
+          "linkFisico": "v/futurama-s07e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S07E10 🌀",
+          "linkFisico": "v/futurama-s07e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S07E11 🌀",
+          "linkFisico": "v/futurama-s07e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S07E12 🌀",
+          "linkFisico": "v/futurama-s07e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S07E13 🌀",
+          "linkFisico": "v/futurama-s07e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S07E14 🌀",
+          "linkFisico": "v/futurama-s07e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S07E15 🌀",
+          "linkFisico": "v/futurama-s07e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S07E16 🌀",
+          "linkFisico": "v/futurama-s07e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S07E17 🌀",
+          "linkFisico": "v/futurama-s07e17.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S07E18 🌀",
+          "linkFisico": "v/futurama-s07e18.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S07E19 🌀",
+          "linkFisico": "v/futurama-s07e19.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S07E20 🌀",
+          "linkFisico": "v/futurama-s07e20.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S07E21 🌀",
+          "linkFisico": "v/futurama-s07e21.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S07E22 🌀",
+          "linkFisico": "v/futurama-s07e22.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S07E23 🌀",
+          "linkFisico": "v/futurama-s07e23.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S07E24 🌀",
+          "linkFisico": "v/futurama-s07e24.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S07E25 🌀",
+          "linkFisico": "v/futurama-s07e25.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S07E26 🌀",
+          "linkFisico": "v/futurama-s07e26.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        }
+      ],
+      "8": [
+        {
+          "tit": "S08E01 🌀",
+          "linkFisico": "v/futurama-s08e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S08E02 🌀",
+          "linkFisico": "v/futurama-s08e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S08E03 🌀",
+          "linkFisico": "v/futurama-s08e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S08E04 🌀",
+          "linkFisico": "v/futurama-s08e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S08E05 🌀",
+          "linkFisico": "v/futurama-s08e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S08E06 🌀",
+          "linkFisico": "v/futurama-s08e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S08E07 🌀",
+          "linkFisico": "v/futurama-s08e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S08E08 🌀",
+          "linkFisico": "v/futurama-s08e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S08E09 🌀",
+          "linkFisico": "v/futurama-s08e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S08E10 🌀",
+          "linkFisico": "v/futurama-s08e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        }
+      ],
+      "9": [
+        {
+          "tit": "S09E01 🌀",
+          "linkFisico": "v/futurama-s09e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S09E02 🌀",
+          "linkFisico": "v/futurama-s09e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S09E03 🌀",
+          "linkFisico": "v/futurama-s09e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S09E04 🌀",
+          "linkFisico": "v/futurama-s09e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S09E05 🌀",
+          "linkFisico": "v/futurama-s09e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S09E06 🌀",
+          "linkFisico": "v/futurama-s09e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S09E07 🌀",
+          "linkFisico": "v/futurama-s09e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S09E08 🌀",
+          "linkFisico": "v/futurama-s09e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S09E09 🌀",
+          "linkFisico": "v/futurama-s09e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S09E10 🌀",
+          "linkFisico": "v/futurama-s09e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        }
+      ],
+      "10": [
+        {
+          "tit": "S10E01 🌀",
+          "linkFisico": "v/futurama-s10e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S10E02 🌀",
+          "linkFisico": "v/futurama-s10e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S10E03 🌀",
+          "linkFisico": "v/futurama-s10e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S10E04 🌀",
+          "linkFisico": "v/futurama-s10e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S10E05 🌀",
+          "linkFisico": "v/futurama-s10e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S10E06 🌀",
+          "linkFisico": "v/futurama-s10e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S10E07 🌀",
+          "linkFisico": "v/futurama-s10e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S10E08 🌀",
+          "linkFisico": "v/futurama-s10e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S10E09 🌀",
+          "linkFisico": "v/futurama-s10e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        },
+        {
+          "tit": "S10E10 🌀",
+          "linkFisico": "v/futurama-s10e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        }
+      ]
+    }
   }
 ]
