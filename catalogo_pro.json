@@ -35367,5 +35367,27 @@
         }
       ]
     }
+  },
+  {
+    "id": "um-cabra-bom-de-bola",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Um Cabra Bom de Bola 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/x0SRTrltSJi1iQiIAUpyvkxnr41.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/ukiVnwmKQGWqQ9SVq3KVWPdpZIK.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/e5HUaDHGUXCgEmblAhbwsegts5V.png",
+    "sinopse": "Uma pequena cabra com grandes sonhos recebe uma oportunidade única na vida de se juntar aos profissionais e jogar berrobol, um esporte de alta intensidade, misto e de contato total, dominado pelos animais mais rápidos e ferozes do mundo.",
+    "nota": "7.8",
+    "avaliacao": "7.8",
+    "classificacao": "10",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/um-cabra-bom-de-bola.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/ukiVnwmKQGWqQ9SVq3KVWPdpZIK.jpg"
+        }
+      ]
+    }
   }
 ]
