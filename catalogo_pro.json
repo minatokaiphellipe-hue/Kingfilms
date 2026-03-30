@@ -32961,5 +32961,27 @@
         }
       ]
     }
+  },
+  {
+    "id": "a-espera-da-morte",
+    "tipo": "filme",
+    "categoria": "Terror",
+    "titulo": "À Espera da Morte 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/kwCIrIEAQaUfzopPSM8iwBzCjDG.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/b4zY1w8ZoKgW0bOGUEqjUQVoLXp.jpg",
+    "logo_png": "",
+    "sinopse": "Uma jovem em busca de respostas para um mistério do seu passado aceita um emprego para cuidar de uma adolescente doente que está passando por uma transformação misteriosa, a qual sua família fará de tudo para impedir.",
+    "nota": "5.3",
+    "avaliacao": "5.3",
+    "classificacao": "16",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/a-espera-da-morte.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/b4zY1w8ZoKgW0bOGUEqjUQVoLXp.jpg"
+        }
+      ]
+    }
   }
 ]
