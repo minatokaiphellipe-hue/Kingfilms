@@ -30268,5 +30268,27 @@
         }
       ]
     }
+  },
+  {
+    "id": "desejos-proibidos",
+    "tipo": "filme",
+    "categoria": "Romance",
+    "titulo": "Desejos Proibidos 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/tjlBZxFrqEAZP73BFPO4iOlS0yY.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/vUqG0YXKUWEM1HJO7DbbDh8ZOHT.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/oGyto8GhY8xTpt9Ovwk8FZ6UWJ3.png",
+    "sinopse": "Elise está infeliz, desempregada e vivendo como dona de casa para seu marido Rick, um rico empresário. Ao investigar se está sendo traída, ela conhece Felix, um fotógrafo misterioso e sedutor. Uma paixão arrebatadora surge entre os dois, e ele leva Elise a experimentar sensações e fantasias sexuais que ela nunca imaginou.",
+    "nota": "3.9",
+    "avaliacao": "3.9",
+    "classificacao": "16",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/desejos-proibidos.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/vUqG0YXKUWEM1HJO7DbbDh8ZOHT.jpg"
+        }
+      ]
+    }
   }
 ]
