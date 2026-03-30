@@ -15692,26 +15692,6 @@
     }
   },
   {
-    "id": "invocacao-do-mal-3",
-    "tipo": "filme",
-    "categoria": "Terror",
-    "titulo": "Invocação do Mal 3: A Ordem do Demônio 🌀",
-    "logo": "https://image.tmdb.org/t/p/w780/fNu88PdpStJGe09AUYmqTn6NEXB.jpg",
-    "sinopse": "Um dos casos mais sensacionais de seus arquivos começa com a luta pela alma de um garoto e depois os leva para além de qualquer coisa que já tenham visto. Esse caso marcou a primeira vez na história dos Estados Unidos em que um suspeito de assassinato alegou possessão demoníaca como defesa.",
-    "avaliacao": "7.4",
-    "classificacao": "16",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "Assistir Filme 🌀",
-          "linkFisico": "v/invocacao-do-mal-3.html",
-          "logoEp": "https://image.tmdb.org/t/p/original/hE0SyWRQ7KACrwn7SJevv5Qjb5Z.jpg"
-        }
-      ]
-    },
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/6Z0FhoZM56YkuXhvklMTpc7rc5u.jpg"
-  },
-  {
     "id": "invocacao-do-mal-4-o-ultimo-ritual",
     "tipo": "filme",
     "categoria": "Terror",
