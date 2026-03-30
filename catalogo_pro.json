@@ -29837,5 +29837,436 @@
         }
       ]
     }
+  },
+  {
+    "id": "ben-10-omniverse",
+    "tipo": "serie",
+    "categoria": "Séries",
+    "titulo": "Ben 10: Omniverse 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/Re9I5tauOspaJxYCIqRqavKT4F.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/tyyl1UN8b2KBWz1eAjSB5gaPM1L.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/asuRPNNjUu3XFr3urKcIF7vhiyU.png",
+    "sinopse": "Ben 10 está pronto para ser um herói independente, mas o Vô Max o faz se juntar a um parceiro novato.",
+    "nota": "8.3",
+    "avaliacao": "8.3",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "S01E01 🌀",
+          "linkFisico": "v/ben-10-omniverse-s01e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/tyyl1UN8b2KBWz1eAjSB5gaPM1L.jpg"
+        },
+        {
+          "tit": "S01E02 🌀",
+          "linkFisico": "v/ben-10-omniverse-s01e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/tyyl1UN8b2KBWz1eAjSB5gaPM1L.jpg"
+        },
+        {
+          "tit": "S01E03 🌀",
+          "linkFisico": "v/ben-10-omniverse-s01e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/tyyl1UN8b2KBWz1eAjSB5gaPM1L.jpg"
+        },
+        {
+          "tit": "S01E04 🌀",
+          "linkFisico": "v/ben-10-omniverse-s01e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/tyyl1UN8b2KBWz1eAjSB5gaPM1L.jpg"
+        },
+        {
+          "tit": "S01E05 🌀",
+          "linkFisico": "v/ben-10-omniverse-s01e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/tyyl1UN8b2KBWz1eAjSB5gaPM1L.jpg"
+        },
+        {
+          "tit": "S01E06 🌀",
+          "linkFisico": "v/ben-10-omniverse-s01e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/tyyl1UN8b2KBWz1eAjSB5gaPM1L.jpg"
+        },
+        {
+          "tit": "S01E07 🌀",
+          "linkFisico": "v/ben-10-omniverse-s01e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/tyyl1UN8b2KBWz1eAjSB5gaPM1L.jpg"
+        },
+        {
+          "tit": "S01E08 🌀",
+          "linkFisico": "v/ben-10-omniverse-s01e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/tyyl1UN8b2KBWz1eAjSB5gaPM1L.jpg"
+        },
+        {
+          "tit": "S01E09 🌀",
+          "linkFisico": "v/ben-10-omniverse-s01e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/tyyl1UN8b2KBWz1eAjSB5gaPM1L.jpg"
+        },
+        {
+          "tit": "S01E10 🌀",
+          "linkFisico": "v/ben-10-omniverse-s01e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/tyyl1UN8b2KBWz1eAjSB5gaPM1L.jpg"
+        }
+      ],
+      "2": [
+        {
+          "tit": "S02E01 🌀",
+          "linkFisico": "v/ben-10-omniverse-s02e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/tyyl1UN8b2KBWz1eAjSB5gaPM1L.jpg"
+        },
+        {
+          "tit": "S02E02 🌀",
+          "linkFisico": "v/ben-10-omniverse-s02e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/tyyl1UN8b2KBWz1eAjSB5gaPM1L.jpg"
+        },
+        {
+          "tit": "S02E03 🌀",
+          "linkFisico": "v/ben-10-omniverse-s02e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/tyyl1UN8b2KBWz1eAjSB5gaPM1L.jpg"
+        },
+        {
+          "tit": "S02E04 🌀",
+          "linkFisico": "v/ben-10-omniverse-s02e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/tyyl1UN8b2KBWz1eAjSB5gaPM1L.jpg"
+        },
+        {
+          "tit": "S02E05 🌀",
+          "linkFisico": "v/ben-10-omniverse-s02e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/tyyl1UN8b2KBWz1eAjSB5gaPM1L.jpg"
+        },
+        {
+          "tit": "S02E06 🌀",
+          "linkFisico": "v/ben-10-omniverse-s02e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/tyyl1UN8b2KBWz1eAjSB5gaPM1L.jpg"
+        },
+        {
+          "tit": "S02E07 🌀",
+          "linkFisico": "v/ben-10-omniverse-s02e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/tyyl1UN8b2KBWz1eAjSB5gaPM1L.jpg"
+        },
+        {
+          "tit": "S02E08 🌀",
+          "linkFisico": "v/ben-10-omniverse-s02e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/tyyl1UN8b2KBWz1eAjSB5gaPM1L.jpg"
+        },
+        {
+          "tit": "S02E09 🌀",
+          "linkFisico": "v/ben-10-omniverse-s02e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/tyyl1UN8b2KBWz1eAjSB5gaPM1L.jpg"
+        },
+        {
+          "tit": "S02E10 🌀",
+          "linkFisico": "v/ben-10-omniverse-s02e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/tyyl1UN8b2KBWz1eAjSB5gaPM1L.jpg"
+        }
+      ],
+      "3": [
+        {
+          "tit": "S03E01 🌀",
+          "linkFisico": "v/ben-10-omniverse-s03e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/tyyl1UN8b2KBWz1eAjSB5gaPM1L.jpg"
+        },
+        {
+          "tit": "S03E02 🌀",
+          "linkFisico": "v/ben-10-omniverse-s03e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/tyyl1UN8b2KBWz1eAjSB5gaPM1L.jpg"
+        },
+        {
+          "tit": "S03E03 🌀",
+          "linkFisico": "v/ben-10-omniverse-s03e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/tyyl1UN8b2KBWz1eAjSB5gaPM1L.jpg"
+        },
+        {
+          "tit": "S03E04 🌀",
+          "linkFisico": "v/ben-10-omniverse-s03e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/tyyl1UN8b2KBWz1eAjSB5gaPM1L.jpg"
+        },
+        {
+          "tit": "S03E05 🌀",
+          "linkFisico": "v/ben-10-omniverse-s03e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/tyyl1UN8b2KBWz1eAjSB5gaPM1L.jpg"
+        },
+        {
+          "tit": "S03E06 🌀",
+          "linkFisico": "v/ben-10-omniverse-s03e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/tyyl1UN8b2KBWz1eAjSB5gaPM1L.jpg"
+        },
+        {
+          "tit": "S03E07 🌀",
+          "linkFisico": "v/ben-10-omniverse-s03e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/tyyl1UN8b2KBWz1eAjSB5gaPM1L.jpg"
+        },
+        {
+          "tit": "S03E08 🌀",
+          "linkFisico": "v/ben-10-omniverse-s03e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/tyyl1UN8b2KBWz1eAjSB5gaPM1L.jpg"
+        },
+        {
+          "tit": "S03E09 🌀",
+          "linkFisico": "v/ben-10-omniverse-s03e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/tyyl1UN8b2KBWz1eAjSB5gaPM1L.jpg"
+        },
+        {
+          "tit": "S03E10 🌀",
+          "linkFisico": "v/ben-10-omniverse-s03e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/tyyl1UN8b2KBWz1eAjSB5gaPM1L.jpg"
+        }
+      ],
+      "4": [
+        {
+          "tit": "S04E01 🌀",
+          "linkFisico": "v/ben-10-omniverse-s04e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/tyyl1UN8b2KBWz1eAjSB5gaPM1L.jpg"
+        },
+        {
+          "tit": "S04E02 🌀",
+          "linkFisico": "v/ben-10-omniverse-s04e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/tyyl1UN8b2KBWz1eAjSB5gaPM1L.jpg"
+        },
+        {
+          "tit": "S04E03 🌀",
+          "linkFisico": "v/ben-10-omniverse-s04e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/tyyl1UN8b2KBWz1eAjSB5gaPM1L.jpg"
+        },
+        {
+          "tit": "S04E04 🌀",
+          "linkFisico": "v/ben-10-omniverse-s04e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/tyyl1UN8b2KBWz1eAjSB5gaPM1L.jpg"
+        },
+        {
+          "tit": "S04E05 🌀",
+          "linkFisico": "v/ben-10-omniverse-s04e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/tyyl1UN8b2KBWz1eAjSB5gaPM1L.jpg"
+        },
+        {
+          "tit": "S04E06 🌀",
+          "linkFisico": "v/ben-10-omniverse-s04e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/tyyl1UN8b2KBWz1eAjSB5gaPM1L.jpg"
+        },
+        {
+          "tit": "S04E07 🌀",
+          "linkFisico": "v/ben-10-omniverse-s04e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/tyyl1UN8b2KBWz1eAjSB5gaPM1L.jpg"
+        },
+        {
+          "tit": "S04E08 🌀",
+          "linkFisico": "v/ben-10-omniverse-s04e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/tyyl1UN8b2KBWz1eAjSB5gaPM1L.jpg"
+        },
+        {
+          "tit": "S04E09 🌀",
+          "linkFisico": "v/ben-10-omniverse-s04e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/tyyl1UN8b2KBWz1eAjSB5gaPM1L.jpg"
+        },
+        {
+          "tit": "S04E10 🌀",
+          "linkFisico": "v/ben-10-omniverse-s04e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/tyyl1UN8b2KBWz1eAjSB5gaPM1L.jpg"
+        }
+      ],
+      "5": [
+        {
+          "tit": "S05E01 🌀",
+          "linkFisico": "v/ben-10-omniverse-s05e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/tyyl1UN8b2KBWz1eAjSB5gaPM1L.jpg"
+        },
+        {
+          "tit": "S05E02 🌀",
+          "linkFisico": "v/ben-10-omniverse-s05e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/tyyl1UN8b2KBWz1eAjSB5gaPM1L.jpg"
+        },
+        {
+          "tit": "S05E03 🌀",
+          "linkFisico": "v/ben-10-omniverse-s05e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/tyyl1UN8b2KBWz1eAjSB5gaPM1L.jpg"
+        },
+        {
+          "tit": "S05E04 🌀",
+          "linkFisico": "v/ben-10-omniverse-s05e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/tyyl1UN8b2KBWz1eAjSB5gaPM1L.jpg"
+        },
+        {
+          "tit": "S05E05 🌀",
+          "linkFisico": "v/ben-10-omniverse-s05e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/tyyl1UN8b2KBWz1eAjSB5gaPM1L.jpg"
+        },
+        {
+          "tit": "S05E06 🌀",
+          "linkFisico": "v/ben-10-omniverse-s05e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/tyyl1UN8b2KBWz1eAjSB5gaPM1L.jpg"
+        },
+        {
+          "tit": "S05E07 🌀",
+          "linkFisico": "v/ben-10-omniverse-s05e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/tyyl1UN8b2KBWz1eAjSB5gaPM1L.jpg"
+        },
+        {
+          "tit": "S05E08 🌀",
+          "linkFisico": "v/ben-10-omniverse-s05e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/tyyl1UN8b2KBWz1eAjSB5gaPM1L.jpg"
+        },
+        {
+          "tit": "S05E09 🌀",
+          "linkFisico": "v/ben-10-omniverse-s05e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/tyyl1UN8b2KBWz1eAjSB5gaPM1L.jpg"
+        },
+        {
+          "tit": "S05E10 🌀",
+          "linkFisico": "v/ben-10-omniverse-s05e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/tyyl1UN8b2KBWz1eAjSB5gaPM1L.jpg"
+        }
+      ],
+      "6": [
+        {
+          "tit": "S06E01 🌀",
+          "linkFisico": "v/ben-10-omniverse-s06e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/tyyl1UN8b2KBWz1eAjSB5gaPM1L.jpg"
+        },
+        {
+          "tit": "S06E02 🌀",
+          "linkFisico": "v/ben-10-omniverse-s06e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/tyyl1UN8b2KBWz1eAjSB5gaPM1L.jpg"
+        },
+        {
+          "tit": "S06E03 🌀",
+          "linkFisico": "v/ben-10-omniverse-s06e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/tyyl1UN8b2KBWz1eAjSB5gaPM1L.jpg"
+        },
+        {
+          "tit": "S06E04 🌀",
+          "linkFisico": "v/ben-10-omniverse-s06e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/tyyl1UN8b2KBWz1eAjSB5gaPM1L.jpg"
+        },
+        {
+          "tit": "S06E05 🌀",
+          "linkFisico": "v/ben-10-omniverse-s06e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/tyyl1UN8b2KBWz1eAjSB5gaPM1L.jpg"
+        },
+        {
+          "tit": "S06E06 🌀",
+          "linkFisico": "v/ben-10-omniverse-s06e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/tyyl1UN8b2KBWz1eAjSB5gaPM1L.jpg"
+        },
+        {
+          "tit": "S06E07 🌀",
+          "linkFisico": "v/ben-10-omniverse-s06e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/tyyl1UN8b2KBWz1eAjSB5gaPM1L.jpg"
+        },
+        {
+          "tit": "S06E08 🌀",
+          "linkFisico": "v/ben-10-omniverse-s06e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/tyyl1UN8b2KBWz1eAjSB5gaPM1L.jpg"
+        },
+        {
+          "tit": "S06E09 🌀",
+          "linkFisico": "v/ben-10-omniverse-s06e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/tyyl1UN8b2KBWz1eAjSB5gaPM1L.jpg"
+        },
+        {
+          "tit": "S06E10 🌀",
+          "linkFisico": "v/ben-10-omniverse-s06e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/tyyl1UN8b2KBWz1eAjSB5gaPM1L.jpg"
+        }
+      ],
+      "7": [
+        {
+          "tit": "S07E01 🌀",
+          "linkFisico": "v/ben-10-omniverse-s07e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/tyyl1UN8b2KBWz1eAjSB5gaPM1L.jpg"
+        },
+        {
+          "tit": "S07E02 🌀",
+          "linkFisico": "v/ben-10-omniverse-s07e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/tyyl1UN8b2KBWz1eAjSB5gaPM1L.jpg"
+        },
+        {
+          "tit": "S07E03 🌀",
+          "linkFisico": "v/ben-10-omniverse-s07e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/tyyl1UN8b2KBWz1eAjSB5gaPM1L.jpg"
+        },
+        {
+          "tit": "S07E04 🌀",
+          "linkFisico": "v/ben-10-omniverse-s07e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/tyyl1UN8b2KBWz1eAjSB5gaPM1L.jpg"
+        },
+        {
+          "tit": "S07E05 🌀",
+          "linkFisico": "v/ben-10-omniverse-s07e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/tyyl1UN8b2KBWz1eAjSB5gaPM1L.jpg"
+        },
+        {
+          "tit": "S07E06 🌀",
+          "linkFisico": "v/ben-10-omniverse-s07e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/tyyl1UN8b2KBWz1eAjSB5gaPM1L.jpg"
+        },
+        {
+          "tit": "S07E07 🌀",
+          "linkFisico": "v/ben-10-omniverse-s07e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/tyyl1UN8b2KBWz1eAjSB5gaPM1L.jpg"
+        },
+        {
+          "tit": "S07E08 🌀",
+          "linkFisico": "v/ben-10-omniverse-s07e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/tyyl1UN8b2KBWz1eAjSB5gaPM1L.jpg"
+        },
+        {
+          "tit": "S07E09 🌀",
+          "linkFisico": "v/ben-10-omniverse-s07e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/tyyl1UN8b2KBWz1eAjSB5gaPM1L.jpg"
+        },
+        {
+          "tit": "S07E10 🌀",
+          "linkFisico": "v/ben-10-omniverse-s07e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/tyyl1UN8b2KBWz1eAjSB5gaPM1L.jpg"
+        }
+      ],
+      "8": [
+        {
+          "tit": "S08E01 🌀",
+          "linkFisico": "v/ben-10-omniverse-s08e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/tyyl1UN8b2KBWz1eAjSB5gaPM1L.jpg"
+        },
+        {
+          "tit": "S08E02 🌀",
+          "linkFisico": "v/ben-10-omniverse-s08e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/tyyl1UN8b2KBWz1eAjSB5gaPM1L.jpg"
+        },
+        {
+          "tit": "S08E03 🌀",
+          "linkFisico": "v/ben-10-omniverse-s08e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/tyyl1UN8b2KBWz1eAjSB5gaPM1L.jpg"
+        },
+        {
+          "tit": "S08E04 🌀",
+          "linkFisico": "v/ben-10-omniverse-s08e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/tyyl1UN8b2KBWz1eAjSB5gaPM1L.jpg"
+        },
+        {
+          "tit": "S08E05 🌀",
+          "linkFisico": "v/ben-10-omniverse-s08e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/tyyl1UN8b2KBWz1eAjSB5gaPM1L.jpg"
+        },
+        {
+          "tit": "S08E06 🌀",
+          "linkFisico": "v/ben-10-omniverse-s08e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/tyyl1UN8b2KBWz1eAjSB5gaPM1L.jpg"
+        },
+        {
+          "tit": "S08E07 🌀",
+          "linkFisico": "v/ben-10-omniverse-s08e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/tyyl1UN8b2KBWz1eAjSB5gaPM1L.jpg"
+        },
+        {
+          "tit": "S08E08 🌀",
+          "linkFisico": "v/ben-10-omniverse-s08e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/tyyl1UN8b2KBWz1eAjSB5gaPM1L.jpg"
+        },
+        {
+          "tit": "S08E09 🌀",
+          "linkFisico": "v/ben-10-omniverse-s08e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/tyyl1UN8b2KBWz1eAjSB5gaPM1L.jpg"
+        },
+        {
+          "tit": "S08E10 🌀",
+          "linkFisico": "v/ben-10-omniverse-s08e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/tyyl1UN8b2KBWz1eAjSB5gaPM1L.jpg"
+        }
+      ]
+    }
   }
 ]
