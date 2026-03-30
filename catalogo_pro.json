@@ -30334,5 +30334,27 @@
         }
       ]
     }
+  },
+  {
+    "id": "nao-solte",
+    "tipo": "filme",
+    "categoria": "Terror",
+    "titulo": "Não Solte! 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/8YwdoPD89FZImGD5wi9cSx1y8rQ.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/dCl9g0NC02aYJQmj3B3PfgFeroC.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/dL8kf6aQoT27pO1kzxB4zA7BiU9.png",
+    "sinopse": "Uma ameaça sobrenatural desconhecida domina o mundo exterior, deixando a segurança de uma mãe e seus filhos gêmeos restrita à proteção de sua casa e ao vínculo familiar. A mãe e seus filhos se mantêm ligados por cordas dentro de sua residência para protegerem-se do mal que assola o mundo exterior. No entanto, quando um dos meninos começa a questionar a realidade do mal que os cercam, a frágil segurança da família começa a se desintegrar.",
+    "nota": "6.1",
+    "avaliacao": "6.1",
+    "classificacao": "16",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/nao-solte.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/dCl9g0NC02aYJQmj3B3PfgFeroC.jpg"
+        }
+      ]
+    }
   }
 ]
