@@ -32895,5 +32895,71 @@
         }
       ]
     }
+  },
+  {
+    "id": "invocacao-do-mal",
+    "tipo": "filme",
+    "categoria": "Terror",
+    "titulo": "Invocação do Mal 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/1NxHKZW5DPbUFtbF3MxbdSyxRqU.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/s59v2hO63DKLmM3FZPdsXML42rF.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/9owIVS5XtfAjemRJKFVIOSIzg5v.png",
+    "sinopse": "Harrisville, Rhode Island, Estados Unidos, 1968. Os investigadores paranormais Ed e Lorraine Warren trabalham para ajudar uma família aterrorizada por uma presença sombria em sua fazenda. Forçados a confrontar uma entidade poderosa, os Warrens se vêem presos no caso mais aterrorizante de suas vidas. Baseado numa história real.",
+    "nota": "7.5",
+    "avaliacao": "7.5",
+    "classificacao": "14",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/invocacao-do-mal.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/s59v2hO63DKLmM3FZPdsXML42rF.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "invocacao-do-mal-2",
+    "tipo": "filme",
+    "categoria": "Terror",
+    "titulo": "Invocação do Mal 2 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/dOPVzDQdRQtSan36LpLwWcfzCgu.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/wwMUYmehNmrhdRNvzxBXV4BcfbY.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/fZitSgQppxqDDA0Z45xQb05U5VS.png",
+    "sinopse": "Lorraine e Ed Warren ajudam uma mãe solteira a criar seus quatro filhos numa casa assombrada por espíritos malignos. Conhecido como a Amityville da Inglaterra, o Poltergeist de Enfield foi o caso mais documentado na história da paranormalidade. Descubra a verdade por trás do evento que chocou o mundo.",
+    "nota": "7.3",
+    "avaliacao": "7.3",
+    "classificacao": "14",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/invocacao-do-mal-2.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/wwMUYmehNmrhdRNvzxBXV4BcfbY.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "invocacao-do-mal-3-a-ordem-do-demonio",
+    "tipo": "filme",
+    "categoria": "Terror",
+    "titulo": "Invocação do Mal 3: A Ordem do Demônio 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/fNu88PdpStJGe09AUYmqTn6NEXB.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/6oLwaoPtU7TVpPQ1VqDsELSJpnw.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/3e8hVFKJlYAGkub1RVxBwhdoeIb.png",
+    "sinopse": "Um dos casos mais sensacionais de seus arquivos começa com a luta pela alma de um garoto e depois os leva para além de qualquer coisa que já tenham visto. Esse caso marcou a primeira vez na história dos Estados Unidos em que um suspeito de assassinato alegou possessão demoníaca como defesa.",
+    "nota": "7.4",
+    "avaliacao": "7.4",
+    "classificacao": "14",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/invocacao-do-mal-3-a-ordem-do-demonio.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/6oLwaoPtU7TVpPQ1VqDsELSJpnw.jpg"
+        }
+      ]
+    }
   }
 ]
