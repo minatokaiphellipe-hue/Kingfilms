@@ -32979,5 +32979,27 @@
         }
       ]
     }
+  },
+  {
+    "id": "recem-casados",
+    "tipo": "filme",
+    "categoria": "Romance",
+    "titulo": "Recém-Casados 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/59qslSGcqImMmx1muC5XbpFBnWP.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/vmrH6oToRgJt9leKoaU7WQkR1R7.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/u66kHT7BJm4v5Ng0xorHv2zBI0E.png",
+    "sinopse": "A jovem e rica Sarah decide se casar com Tom, um homem comum e com um trabalho de baixo nível, mesmo sabendo que esta não é a vontade de seus familiares e amigos. Logo após o casamento, eles partem rumo à Europa em uma lua de mel atrapalhada. Mas os problemas do jovem casal começam realmente a complicar com a chegada de Peter, ex-namorado de Sarah e que foi enviado pelos pais dela, na intenção de acabar de uma vez por todas com o casamento recém-firmado.",
+    "nota": "5.8",
+    "avaliacao": "5.8",
+    "classificacao": "12",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/recem-casados.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/vmrH6oToRgJt9leKoaU7WQkR1R7.jpg"
+        }
+      ]
+    }
   }
 ]
