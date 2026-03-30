@@ -30312,5 +30312,27 @@
         }
       ]
     }
+  },
+  {
+    "id": "o-paizao",
+    "tipo": "filme",
+    "categoria": "Comédia",
+    "titulo": "O Paizão 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/ci7KJRsHS1FfGAbF0BgIHEsnaTe.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/gAcYAy5Bd1FiWsdvgETLz5yPHPG.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/xMjsAIjr9KkMSUJYevwBN0dBt6u.png",
+    "sinopse": "Sonny Koufax tem 32 anos de idade e passou toda a sua vida fugindo das responsabilidades. Mas quando sua namorada decide trocá-lo por um homem muito mais velho, ele resolve provar que está pronto para uma vida adulta com o objetivo de reconquistar o seu grande amor. Desesperado, Sonny adota um menino de cinco anos, Julian, para tentar impressionar a ex-namorada. Sem jeito para ser pai, aos poucos Sonny aprende a lidar com a nova situação e passa a gostar da criança.",
+    "nota": "6.5",
+    "avaliacao": "6.5",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/o-paizao.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gAcYAy5Bd1FiWsdvgETLz5yPHPG.jpg"
+        }
+      ]
+    }
   }
 ]
