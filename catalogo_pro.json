@@ -32983,5 +32983,766 @@
         }
       ]
     }
+  },
+  {
+    "id": "hunter-x-hunter",
+    "tipo": "serie",
+    "categoria": "Animes",
+    "titulo": "Hunter x Hunter 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/9WxfAQquTun9ATkV6iAeFHMkqxv.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/jTzF5T8Ob6oZRinUCnhbLqrxFsM.png",
+    "sinopse": "Monstros amedrontadores, criaturas exóticas, riquezas vastas, tesouros misteriosos, terras vis e terras inexploradas... Gon parte em uma aventura para se tornar um caçador profissional que arrisca a própria vida em busca do desconhecido. Pelo caminho, ele conhece outros participantes da Prova dos Caçadores: Kurapika, Leorio e Killua. Será Gon capaz de vencer os grandes desafios da Prova de Caçadores e se tornar o melhor do mundo? Esta jornada selvagem e épica está prestes a começar!!",
+    "nota": "8.7",
+    "avaliacao": "8.7",
+    "classificacao": "12",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "S01E01 🌀",
+          "linkFisico": "v/hunter-x-hunter-s01e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S01E02 🌀",
+          "linkFisico": "v/hunter-x-hunter-s01e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S01E03 🌀",
+          "linkFisico": "v/hunter-x-hunter-s01e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S01E04 🌀",
+          "linkFisico": "v/hunter-x-hunter-s01e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S01E05 🌀",
+          "linkFisico": "v/hunter-x-hunter-s01e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S01E06 🌀",
+          "linkFisico": "v/hunter-x-hunter-s01e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S01E07 🌀",
+          "linkFisico": "v/hunter-x-hunter-s01e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S01E08 🌀",
+          "linkFisico": "v/hunter-x-hunter-s01e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S01E09 🌀",
+          "linkFisico": "v/hunter-x-hunter-s01e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S01E10 🌀",
+          "linkFisico": "v/hunter-x-hunter-s01e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S01E11 🌀",
+          "linkFisico": "v/hunter-x-hunter-s01e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S01E12 🌀",
+          "linkFisico": "v/hunter-x-hunter-s01e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S01E13 🌀",
+          "linkFisico": "v/hunter-x-hunter-s01e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S01E14 🌀",
+          "linkFisico": "v/hunter-x-hunter-s01e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S01E15 🌀",
+          "linkFisico": "v/hunter-x-hunter-s01e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S01E16 🌀",
+          "linkFisico": "v/hunter-x-hunter-s01e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S01E17 🌀",
+          "linkFisico": "v/hunter-x-hunter-s01e17.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S01E18 🌀",
+          "linkFisico": "v/hunter-x-hunter-s01e18.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S01E19 🌀",
+          "linkFisico": "v/hunter-x-hunter-s01e19.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S01E20 🌀",
+          "linkFisico": "v/hunter-x-hunter-s01e20.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S01E21 🌀",
+          "linkFisico": "v/hunter-x-hunter-s01e21.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S01E22 🌀",
+          "linkFisico": "v/hunter-x-hunter-s01e22.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S01E23 🌀",
+          "linkFisico": "v/hunter-x-hunter-s01e23.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S01E24 🌀",
+          "linkFisico": "v/hunter-x-hunter-s01e24.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S01E25 🌀",
+          "linkFisico": "v/hunter-x-hunter-s01e25.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S01E26 🌀",
+          "linkFisico": "v/hunter-x-hunter-s01e26.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S01E27 🌀",
+          "linkFisico": "v/hunter-x-hunter-s01e27.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S01E28 🌀",
+          "linkFisico": "v/hunter-x-hunter-s01e28.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S01E29 🌀",
+          "linkFisico": "v/hunter-x-hunter-s01e29.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S01E30 🌀",
+          "linkFisico": "v/hunter-x-hunter-s01e30.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S01E31 🌀",
+          "linkFisico": "v/hunter-x-hunter-s01e31.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S01E32 🌀",
+          "linkFisico": "v/hunter-x-hunter-s01e32.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S01E33 🌀",
+          "linkFisico": "v/hunter-x-hunter-s01e33.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S01E34 🌀",
+          "linkFisico": "v/hunter-x-hunter-s01e34.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S01E35 🌀",
+          "linkFisico": "v/hunter-x-hunter-s01e35.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S01E36 🌀",
+          "linkFisico": "v/hunter-x-hunter-s01e36.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S01E37 🌀",
+          "linkFisico": "v/hunter-x-hunter-s01e37.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S01E38 🌀",
+          "linkFisico": "v/hunter-x-hunter-s01e38.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S01E39 🌀",
+          "linkFisico": "v/hunter-x-hunter-s01e39.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S01E40 🌀",
+          "linkFisico": "v/hunter-x-hunter-s01e40.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S01E41 🌀",
+          "linkFisico": "v/hunter-x-hunter-s01e41.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S01E42 🌀",
+          "linkFisico": "v/hunter-x-hunter-s01e42.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S01E43 🌀",
+          "linkFisico": "v/hunter-x-hunter-s01e43.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S01E44 🌀",
+          "linkFisico": "v/hunter-x-hunter-s01e44.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S01E45 🌀",
+          "linkFisico": "v/hunter-x-hunter-s01e45.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S01E46 🌀",
+          "linkFisico": "v/hunter-x-hunter-s01e46.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S01E47 🌀",
+          "linkFisico": "v/hunter-x-hunter-s01e47.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S01E48 🌀",
+          "linkFisico": "v/hunter-x-hunter-s01e48.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S01E49 🌀",
+          "linkFisico": "v/hunter-x-hunter-s01e49.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S01E50 🌀",
+          "linkFisico": "v/hunter-x-hunter-s01e50.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S01E51 🌀",
+          "linkFisico": "v/hunter-x-hunter-s01e51.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S01E52 🌀",
+          "linkFisico": "v/hunter-x-hunter-s01e52.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S01E53 🌀",
+          "linkFisico": "v/hunter-x-hunter-s01e53.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S01E54 🌀",
+          "linkFisico": "v/hunter-x-hunter-s01e54.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S01E55 🌀",
+          "linkFisico": "v/hunter-x-hunter-s01e55.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S01E56 🌀",
+          "linkFisico": "v/hunter-x-hunter-s01e56.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S01E57 🌀",
+          "linkFisico": "v/hunter-x-hunter-s01e57.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S01E58 🌀",
+          "linkFisico": "v/hunter-x-hunter-s01e58.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S01E59 🌀",
+          "linkFisico": "v/hunter-x-hunter-s01e59.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S01E60 🌀",
+          "linkFisico": "v/hunter-x-hunter-s01e60.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S01E61 🌀",
+          "linkFisico": "v/hunter-x-hunter-s01e61.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S01E62 🌀",
+          "linkFisico": "v/hunter-x-hunter-s01e62.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        }
+      ],
+      "2": [
+        {
+          "tit": "S02E01 🌀",
+          "linkFisico": "v/hunter-x-hunter-s02e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S02E02 🌀",
+          "linkFisico": "v/hunter-x-hunter-s02e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S02E03 🌀",
+          "linkFisico": "v/hunter-x-hunter-s02e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S02E04 🌀",
+          "linkFisico": "v/hunter-x-hunter-s02e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S02E05 🌀",
+          "linkFisico": "v/hunter-x-hunter-s02e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S02E06 🌀",
+          "linkFisico": "v/hunter-x-hunter-s02e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S02E07 🌀",
+          "linkFisico": "v/hunter-x-hunter-s02e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S02E08 🌀",
+          "linkFisico": "v/hunter-x-hunter-s02e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S02E09 🌀",
+          "linkFisico": "v/hunter-x-hunter-s02e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S02E10 🌀",
+          "linkFisico": "v/hunter-x-hunter-s02e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S02E11 🌀",
+          "linkFisico": "v/hunter-x-hunter-s02e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S02E12 🌀",
+          "linkFisico": "v/hunter-x-hunter-s02e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S02E13 🌀",
+          "linkFisico": "v/hunter-x-hunter-s02e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S02E14 🌀",
+          "linkFisico": "v/hunter-x-hunter-s02e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S02E15 🌀",
+          "linkFisico": "v/hunter-x-hunter-s02e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S02E16 🌀",
+          "linkFisico": "v/hunter-x-hunter-s02e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S02E17 🌀",
+          "linkFisico": "v/hunter-x-hunter-s02e17.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S02E18 🌀",
+          "linkFisico": "v/hunter-x-hunter-s02e18.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S02E19 🌀",
+          "linkFisico": "v/hunter-x-hunter-s02e19.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S02E20 🌀",
+          "linkFisico": "v/hunter-x-hunter-s02e20.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S02E21 🌀",
+          "linkFisico": "v/hunter-x-hunter-s02e21.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S02E22 🌀",
+          "linkFisico": "v/hunter-x-hunter-s02e22.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S02E23 🌀",
+          "linkFisico": "v/hunter-x-hunter-s02e23.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S02E24 🌀",
+          "linkFisico": "v/hunter-x-hunter-s02e24.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S02E25 🌀",
+          "linkFisico": "v/hunter-x-hunter-s02e25.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S02E26 🌀",
+          "linkFisico": "v/hunter-x-hunter-s02e26.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S02E27 🌀",
+          "linkFisico": "v/hunter-x-hunter-s02e27.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S02E28 🌀",
+          "linkFisico": "v/hunter-x-hunter-s02e28.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S02E29 🌀",
+          "linkFisico": "v/hunter-x-hunter-s02e29.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S02E30 🌀",
+          "linkFisico": "v/hunter-x-hunter-s02e30.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S02E31 🌀",
+          "linkFisico": "v/hunter-x-hunter-s02e31.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S02E32 🌀",
+          "linkFisico": "v/hunter-x-hunter-s02e32.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S02E33 🌀",
+          "linkFisico": "v/hunter-x-hunter-s02e33.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S02E34 🌀",
+          "linkFisico": "v/hunter-x-hunter-s02e34.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S02E35 🌀",
+          "linkFisico": "v/hunter-x-hunter-s02e35.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S02E36 🌀",
+          "linkFisico": "v/hunter-x-hunter-s02e36.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S02E37 🌀",
+          "linkFisico": "v/hunter-x-hunter-s02e37.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S02E38 🌀",
+          "linkFisico": "v/hunter-x-hunter-s02e38.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S02E39 🌀",
+          "linkFisico": "v/hunter-x-hunter-s02e39.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S02E40 🌀",
+          "linkFisico": "v/hunter-x-hunter-s02e40.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S02E41 🌀",
+          "linkFisico": "v/hunter-x-hunter-s02e41.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S02E42 🌀",
+          "linkFisico": "v/hunter-x-hunter-s02e42.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S02E43 🌀",
+          "linkFisico": "v/hunter-x-hunter-s02e43.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S02E44 🌀",
+          "linkFisico": "v/hunter-x-hunter-s02e44.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S02E45 🌀",
+          "linkFisico": "v/hunter-x-hunter-s02e45.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S02E46 🌀",
+          "linkFisico": "v/hunter-x-hunter-s02e46.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S02E47 🌀",
+          "linkFisico": "v/hunter-x-hunter-s02e47.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S02E48 🌀",
+          "linkFisico": "v/hunter-x-hunter-s02e48.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S02E49 🌀",
+          "linkFisico": "v/hunter-x-hunter-s02e49.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S02E50 🌀",
+          "linkFisico": "v/hunter-x-hunter-s02e50.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S02E51 🌀",
+          "linkFisico": "v/hunter-x-hunter-s02e51.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S02E52 🌀",
+          "linkFisico": "v/hunter-x-hunter-s02e52.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S02E53 🌀",
+          "linkFisico": "v/hunter-x-hunter-s02e53.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S02E54 🌀",
+          "linkFisico": "v/hunter-x-hunter-s02e54.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S02E55 🌀",
+          "linkFisico": "v/hunter-x-hunter-s02e55.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S02E56 🌀",
+          "linkFisico": "v/hunter-x-hunter-s02e56.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S02E57 🌀",
+          "linkFisico": "v/hunter-x-hunter-s02e57.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S02E58 🌀",
+          "linkFisico": "v/hunter-x-hunter-s02e58.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S02E59 🌀",
+          "linkFisico": "v/hunter-x-hunter-s02e59.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S02E60 🌀",
+          "linkFisico": "v/hunter-x-hunter-s02e60.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S02E61 🌀",
+          "linkFisico": "v/hunter-x-hunter-s02e61.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S02E62 🌀",
+          "linkFisico": "v/hunter-x-hunter-s02e62.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S02E63 🌀",
+          "linkFisico": "v/hunter-x-hunter-s02e63.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S02E64 🌀",
+          "linkFisico": "v/hunter-x-hunter-s02e64.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S02E65 🌀",
+          "linkFisico": "v/hunter-x-hunter-s02e65.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S02E66 🌀",
+          "linkFisico": "v/hunter-x-hunter-s02e66.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S02E67 🌀",
+          "linkFisico": "v/hunter-x-hunter-s02e67.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S02E68 🌀",
+          "linkFisico": "v/hunter-x-hunter-s02e68.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S02E69 🌀",
+          "linkFisico": "v/hunter-x-hunter-s02e69.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S02E70 🌀",
+          "linkFisico": "v/hunter-x-hunter-s02e70.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S02E71 🌀",
+          "linkFisico": "v/hunter-x-hunter-s02e71.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S02E72 🌀",
+          "linkFisico": "v/hunter-x-hunter-s02e72.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S02E73 🌀",
+          "linkFisico": "v/hunter-x-hunter-s02e73.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S02E74 🌀",
+          "linkFisico": "v/hunter-x-hunter-s02e74.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        }
+      ],
+      "3": [
+        {
+          "tit": "S03E01 🌀",
+          "linkFisico": "v/hunter-x-hunter-s03e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S03E02 🌀",
+          "linkFisico": "v/hunter-x-hunter-s03e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S03E03 🌀",
+          "linkFisico": "v/hunter-x-hunter-s03e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S03E04 🌀",
+          "linkFisico": "v/hunter-x-hunter-s03e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S03E05 🌀",
+          "linkFisico": "v/hunter-x-hunter-s03e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S03E06 🌀",
+          "linkFisico": "v/hunter-x-hunter-s03e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S03E07 🌀",
+          "linkFisico": "v/hunter-x-hunter-s03e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S03E08 🌀",
+          "linkFisico": "v/hunter-x-hunter-s03e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S03E09 🌀",
+          "linkFisico": "v/hunter-x-hunter-s03e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S03E10 🌀",
+          "linkFisico": "v/hunter-x-hunter-s03e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S03E11 🌀",
+          "linkFisico": "v/hunter-x-hunter-s03e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        },
+        {
+          "tit": "S03E12 🌀",
+          "linkFisico": "v/hunter-x-hunter-s03e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg"
+        }
+      ]
+    }
   }
 ]
