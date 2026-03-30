@@ -35345,5 +35345,27 @@
         }
       ]
     }
+  },
+  {
+    "id": "gigantes-de-aco",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "Gigantes de Aço 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/pp74uUjwQTknGPqNrerj4FvU0ce.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/td9cRn9wdFVDHakQQTnxt3jtbmW.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/q9pJC8iXbCB9yhiWo85R50Yr7ZX.png",
+    "sinopse": "Em um futuro próximo, as máquinas substituem os seres humanos no ringue. As lutas de boxe, nesse contexto, acontecem entre robôs de alta tecnologia e Charlie, um ex-lutador frustrado, não consegue se adaptar a isso. Quando tudo parece perdido, ele se une ao filho para construir um competidor imbatível.",
+    "nota": "7.1",
+    "avaliacao": "7.1",
+    "classificacao": "10",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/gigantes-de-aco.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/td9cRn9wdFVDHakQQTnxt3jtbmW.jpg"
+        }
+      ]
+    }
   }
 ]
