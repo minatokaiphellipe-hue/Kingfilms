@@ -15692,26 +15692,6 @@
     }
   },
   {
-    "id": "invocacao-do-mal-1",
-    "tipo": "filme",
-    "categoria": "Terror",
-    "titulo": "Invocação do Mal 🌀",
-    "logo": "https://image.tmdb.org/t/p/w780/1NxHKZW5DPbUFtbF3MxbdSyxRqU.jpg",
-    "sinopse": "Harrisville, Rhode Island, Estados Unidos, 1968. Os investigadores paranormais Ed e Lorraine Warren trabalham para ajudar uma família aterrorizada por uma presença sombria em sua fazenda. Forçados a confrontar uma entidade poderosa, os Warrens se vêem presos no caso mais aterrorizante de suas vidas. Baseado numa história real.",
-    "avaliacao": "7.5",
-    "classificacao": "16",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "Assistir Filme 🌀",
-          "linkFisico": "v/invocacao-do-mal-1.html",
-          "logoEp": "https://image.tmdb.org/t/p/original/jVNgc2ht6Jzkw3t7kf1DPJ95iTf.jpg"
-        }
-      ]
-    },
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/aQCCpAIdWAp6wyFgjMry4okwrZo.jpg"
-  },
-  {
     "id": "invocacao-do-mal-2",
     "tipo": "filme",
     "categoria": "Terror",
