@@ -36560,5 +36560,27 @@
         }
       ]
     }
+  },
+  {
+    "id": "o-misterio-de-silver-lake",
+    "tipo": "filme",
+    "categoria": "Drama",
+    "titulo": "O Mistério de Silver Lake 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/sD15785DoLbx9asdJoI3Q98QzRU.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/jPcMrn8WFkwnnDBtpBDvYkcuOKa.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/bwmWJIWN2ChIcsBrIXd3ujzd6Uz.png",
+    "sinopse": "Sam é um jovem meio perdido na vida, que um dia encontra a garota perfeita: sua vizinha, com quem passa uma noite. No dia seguinte, ela desaparece. Não existem mais sinais da garota, e todas as suas coisas desapareceram do apartamento onde habitava. Sam começa a investigar o caso, buscando todos os indícios possíveis: os pequenos rabiscos na parede, as mensagens escondidas em músicas. Seria tudo isso parte de uma grande conspiração, ou Sam está ficando louco?",
+    "nota": "6.4",
+    "avaliacao": "6.4",
+    "classificacao": "18",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/o-misterio-de-silver-lake.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/jPcMrn8WFkwnnDBtpBDvYkcuOKa.jpg"
+        }
+      ]
+    }
   }
 ]
