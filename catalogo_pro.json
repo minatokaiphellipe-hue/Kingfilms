@@ -36315,5 +36315,176 @@
         }
       ]
     }
+  },
+  {
+    "id": "origem",
+    "tipo": "serie",
+    "categoria": "Séries",
+    "titulo": "Origem 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/j4DJV91VGx7eAIWPeolV0nOtT1G.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/gxVnt8tzuzrNSokL9BHjImG5AfP.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/uyMBLkWUBgwysZf29Ty1DhwKIIP.png",
+    "sinopse": "Desvende o mistério de uma cidade no centro dos EUA. Enquanto os moradores lutam para manter um senso de normalidade, eles também devem sobreviver às ameaças da floresta ao redor, incluindo as criaturas aterrorizantes que surgem quando o sol se põe.",
+    "nota": "8.2",
+    "avaliacao": "8.2",
+    "classificacao": "18",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "S01E01 🌀",
+          "linkFisico": "v/origem-s01e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gxVnt8tzuzrNSokL9BHjImG5AfP.jpg"
+        },
+        {
+          "tit": "S01E02 🌀",
+          "linkFisico": "v/origem-s01e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gxVnt8tzuzrNSokL9BHjImG5AfP.jpg"
+        },
+        {
+          "tit": "S01E03 🌀",
+          "linkFisico": "v/origem-s01e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gxVnt8tzuzrNSokL9BHjImG5AfP.jpg"
+        },
+        {
+          "tit": "S01E04 🌀",
+          "linkFisico": "v/origem-s01e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gxVnt8tzuzrNSokL9BHjImG5AfP.jpg"
+        },
+        {
+          "tit": "S01E05 🌀",
+          "linkFisico": "v/origem-s01e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gxVnt8tzuzrNSokL9BHjImG5AfP.jpg"
+        },
+        {
+          "tit": "S01E06 🌀",
+          "linkFisico": "v/origem-s01e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gxVnt8tzuzrNSokL9BHjImG5AfP.jpg"
+        },
+        {
+          "tit": "S01E07 🌀",
+          "linkFisico": "v/origem-s01e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gxVnt8tzuzrNSokL9BHjImG5AfP.jpg"
+        },
+        {
+          "tit": "S01E08 🌀",
+          "linkFisico": "v/origem-s01e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gxVnt8tzuzrNSokL9BHjImG5AfP.jpg"
+        },
+        {
+          "tit": "S01E09 🌀",
+          "linkFisico": "v/origem-s01e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gxVnt8tzuzrNSokL9BHjImG5AfP.jpg"
+        },
+        {
+          "tit": "S01E10 🌀",
+          "linkFisico": "v/origem-s01e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gxVnt8tzuzrNSokL9BHjImG5AfP.jpg"
+        }
+      ],
+      "2": [
+        {
+          "tit": "S02E01 🌀",
+          "linkFisico": "v/origem-s02e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gxVnt8tzuzrNSokL9BHjImG5AfP.jpg"
+        },
+        {
+          "tit": "S02E02 🌀",
+          "linkFisico": "v/origem-s02e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gxVnt8tzuzrNSokL9BHjImG5AfP.jpg"
+        },
+        {
+          "tit": "S02E03 🌀",
+          "linkFisico": "v/origem-s02e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gxVnt8tzuzrNSokL9BHjImG5AfP.jpg"
+        },
+        {
+          "tit": "S02E04 🌀",
+          "linkFisico": "v/origem-s02e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gxVnt8tzuzrNSokL9BHjImG5AfP.jpg"
+        },
+        {
+          "tit": "S02E05 🌀",
+          "linkFisico": "v/origem-s02e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gxVnt8tzuzrNSokL9BHjImG5AfP.jpg"
+        },
+        {
+          "tit": "S02E06 🌀",
+          "linkFisico": "v/origem-s02e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gxVnt8tzuzrNSokL9BHjImG5AfP.jpg"
+        },
+        {
+          "tit": "S02E07 🌀",
+          "linkFisico": "v/origem-s02e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gxVnt8tzuzrNSokL9BHjImG5AfP.jpg"
+        },
+        {
+          "tit": "S02E08 🌀",
+          "linkFisico": "v/origem-s02e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gxVnt8tzuzrNSokL9BHjImG5AfP.jpg"
+        },
+        {
+          "tit": "S02E09 🌀",
+          "linkFisico": "v/origem-s02e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gxVnt8tzuzrNSokL9BHjImG5AfP.jpg"
+        },
+        {
+          "tit": "S02E10 🌀",
+          "linkFisico": "v/origem-s02e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gxVnt8tzuzrNSokL9BHjImG5AfP.jpg"
+        }
+      ],
+      "3": [
+        {
+          "tit": "S03E01 🌀",
+          "linkFisico": "v/origem-s03e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gxVnt8tzuzrNSokL9BHjImG5AfP.jpg"
+        },
+        {
+          "tit": "S03E02 🌀",
+          "linkFisico": "v/origem-s03e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gxVnt8tzuzrNSokL9BHjImG5AfP.jpg"
+        },
+        {
+          "tit": "S03E03 🌀",
+          "linkFisico": "v/origem-s03e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gxVnt8tzuzrNSokL9BHjImG5AfP.jpg"
+        },
+        {
+          "tit": "S03E04 🌀",
+          "linkFisico": "v/origem-s03e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gxVnt8tzuzrNSokL9BHjImG5AfP.jpg"
+        },
+        {
+          "tit": "S03E05 🌀",
+          "linkFisico": "v/origem-s03e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gxVnt8tzuzrNSokL9BHjImG5AfP.jpg"
+        },
+        {
+          "tit": "S03E06 🌀",
+          "linkFisico": "v/origem-s03e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gxVnt8tzuzrNSokL9BHjImG5AfP.jpg"
+        },
+        {
+          "tit": "S03E07 🌀",
+          "linkFisico": "v/origem-s03e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gxVnt8tzuzrNSokL9BHjImG5AfP.jpg"
+        },
+        {
+          "tit": "S03E08 🌀",
+          "linkFisico": "v/origem-s03e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gxVnt8tzuzrNSokL9BHjImG5AfP.jpg"
+        },
+        {
+          "tit": "S03E09 🌀",
+          "linkFisico": "v/origem-s03e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gxVnt8tzuzrNSokL9BHjImG5AfP.jpg"
+        },
+        {
+          "tit": "S03E10 🌀",
+          "linkFisico": "v/origem-s03e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gxVnt8tzuzrNSokL9BHjImG5AfP.jpg"
+        }
+      ]
+    }
   }
 ]
