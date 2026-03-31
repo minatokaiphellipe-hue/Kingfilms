@@ -36538,5 +36538,27 @@
         }
       ]
     }
+  },
+  {
+    "id": "perdido-em-marte",
+    "tipo": "filme",
+    "categoria": "Drama",
+    "titulo": "Perdido em Marte 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/fG3S4zdgnsaF77tJGK3rA9tHBu4.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/mdvkmvwoghgtA9DxEsgw18m5uIB.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/5CJUsFrgzP4PPX6ysFf56mbDhAa.png",
+    "sinopse": "O astronauta Mark Watney é enviado a uma missão em Marte. Após uma severa tempestade ele é dado como morto, abandonado pelos colegas e acorda sozinho no misterioso planeta com escassos suprimentos, sem saber como reencontrar os companheiros ou retornar à Terra.",
+    "nota": "7.7",
+    "avaliacao": "7.7",
+    "classificacao": "12",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/perdido-em-marte.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mdvkmvwoghgtA9DxEsgw18m5uIB.jpg"
+        }
+      ]
+    }
   }
 ]
