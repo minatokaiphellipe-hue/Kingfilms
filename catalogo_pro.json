@@ -36486,5 +36486,57 @@
         }
       ]
     }
+  },
+  {
+    "id": "a-mais-pura-verdade",
+    "tipo": "serie",
+    "categoria": "Séries",
+    "titulo": "A Mais Pura Verdade 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/r54v12tgVRMpuRQwA8xrSOSLPVM.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/2MktHtDDv1o4wIirOmSwLHi86oo.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/WGl1g5VvkbDQJqJoNAxTjU8CIg.png",
+    "sinopse": "Após uma noite desastrosa com o irmão, um comediante famoso vê sua vida virar de cabeça para baixo, correndo o risco de perder tudo o que conquistou.",
+    "nota": "7.1",
+    "avaliacao": "7.1",
+    "classificacao": "16",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "S01E01 🌀",
+          "linkFisico": "v/a-mais-pura-verdade-s01e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/2MktHtDDv1o4wIirOmSwLHi86oo.jpg"
+        },
+        {
+          "tit": "S01E02 🌀",
+          "linkFisico": "v/a-mais-pura-verdade-s01e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/2MktHtDDv1o4wIirOmSwLHi86oo.jpg"
+        },
+        {
+          "tit": "S01E03 🌀",
+          "linkFisico": "v/a-mais-pura-verdade-s01e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/2MktHtDDv1o4wIirOmSwLHi86oo.jpg"
+        },
+        {
+          "tit": "S01E04 🌀",
+          "linkFisico": "v/a-mais-pura-verdade-s01e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/2MktHtDDv1o4wIirOmSwLHi86oo.jpg"
+        },
+        {
+          "tit": "S01E05 🌀",
+          "linkFisico": "v/a-mais-pura-verdade-s01e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/2MktHtDDv1o4wIirOmSwLHi86oo.jpg"
+        },
+        {
+          "tit": "S01E06 🌀",
+          "linkFisico": "v/a-mais-pura-verdade-s01e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/2MktHtDDv1o4wIirOmSwLHi86oo.jpg"
+        },
+        {
+          "tit": "S01E07 🌀",
+          "linkFisico": "v/a-mais-pura-verdade-s01e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/2MktHtDDv1o4wIirOmSwLHi86oo.jpg"
+        }
+      ]
+    }
   }
 ]
