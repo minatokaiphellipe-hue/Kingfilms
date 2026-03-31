@@ -36582,5 +36582,27 @@
         }
       ]
     }
+  },
+  {
+    "id": "panico-7",
+    "tipo": "filme",
+    "categoria": "Terror",
+    "titulo": "Pânico 7 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/rEevavl5vebCVEd5imx7D1k8nmV.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/td2Plb8rWGa91Vkiizzx3UEq1bQ.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/5g72qKCTW85O3MPmnyfYRNp0Ak5.png",
+    "sinopse": "Quando um novo Ghostface surge na pacata cidade onde Sidney Prescott reconstruiu sua vida, seus medos mais sombrios se tornam reais enquanto sua filha se torna o próximo alvo do assassino. Determinada a proteger sua família, Sidney terá que enfrentar os horrores do seu passado para acabar com o massacre de uma vez por todas.",
+    "nota": "5.8",
+    "avaliacao": "5.8",
+    "classificacao": "18",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/panico-7.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/td2Plb8rWGa91Vkiizzx3UEq1bQ.jpg"
+        }
+      ]
+    }
   }
 ]
