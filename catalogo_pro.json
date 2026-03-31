@@ -36194,5 +36194,27 @@
         }
       ]
     }
+  },
+  {
+    "id": "amor-a-toda-prova",
+    "tipo": "filme",
+    "categoria": "Comédia",
+    "titulo": "Amor a Toda Prova 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/4YzXVfBvFv9WdR0EChMacCr4Qwu.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/cLhslYNSkIwH6YhOkFPCJKaNnzP.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/onwfEOx5Uz4xGaW1rUr7T6vYRul.png",
+    "sinopse": "O quarentão Carl Weaver leva uma vida feliz ao lado da mulher. Quando ela pede o divórcio, ele fica arrasado, até conhecer o mulherengo Jacob, que decide ajudá-lo a superar a baixa autoestima, transformando-o num verdadeiro Don Juan.",
+    "nota": "7.3",
+    "avaliacao": "7.3",
+    "classificacao": "12",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/amor-a-toda-prova.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/cLhslYNSkIwH6YhOkFPCJKaNnzP.jpg"
+        }
+      ]
+    }
   }
 ]
