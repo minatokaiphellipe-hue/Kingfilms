@@ -24098,799 +24098,6 @@
     }
   },
   {
-    "id": "os-simpsons",
-    "tipo": "serie",
-    "categoria": "Séries",
-    "titulo": "Os Simpsons 🌀",
-    "logo": "https://image.tmdb.org/t/p/w780/1jGPgDDcmg3Xgs3WO8sfYfbnFoA.jpg",
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg",
-    "sinopse": "Uma animação sobre uma típica família dos Estados Unidos. Homer é o pai de família nada saudável ou inteligente, que adora beber cerveja. Marge é a esposa e mãe de família dedicada. Bart é o filho de 10 anos, que não leva a escola a sério e tem orgulho disso. Lisa é a garota de 8 anos, um gênio não apreciado. E Maggie é a bebê que não larga a chupeta.",
-    "nota": "8.0",
-    "avaliacao": "8.0",
-    "classificacao": "12",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "S01E01 🌀",
-          "linkFisico": "v/os-simpsons-s01e01.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S01E02 🌀",
-          "linkFisico": "v/os-simpsons-s01e02.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S01E03 🌀",
-          "linkFisico": "v/os-simpsons-s01e03.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S01E04 🌀",
-          "linkFisico": "v/os-simpsons-s01e04.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S01E05 🌀",
-          "linkFisico": "v/os-simpsons-s01e05.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S01E06 🌀",
-          "linkFisico": "v/os-simpsons-s01e06.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S01E07 🌀",
-          "linkFisico": "v/os-simpsons-s01e07.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S01E08 🌀",
-          "linkFisico": "v/os-simpsons-s01e08.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S01E09 🌀",
-          "linkFisico": "v/os-simpsons-s01e09.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S01E10 🌀",
-          "linkFisico": "v/os-simpsons-s01e10.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S01E11 🌀",
-          "linkFisico": "v/os-simpsons-s01e11.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S01E12 🌀",
-          "linkFisico": "v/os-simpsons-s01e12.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S01E13 🌀",
-          "linkFisico": "v/os-simpsons-s01e13.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        }
-      ],
-      "2": [
-        {
-          "tit": "S02E01 🌀",
-          "linkFisico": "v/os-simpsons-s02e01.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S02E02 🌀",
-          "linkFisico": "v/os-simpsons-s02e02.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S02E03 🌀",
-          "linkFisico": "v/os-simpsons-s02e03.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S02E04 🌀",
-          "linkFisico": "v/os-simpsons-s02e04.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S02E05 🌀",
-          "linkFisico": "v/os-simpsons-s02e05.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S02E06 🌀",
-          "linkFisico": "v/os-simpsons-s02e06.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S02E07 🌀",
-          "linkFisico": "v/os-simpsons-s02e07.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S02E08 🌀",
-          "linkFisico": "v/os-simpsons-s02e08.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S02E09 🌀",
-          "linkFisico": "v/os-simpsons-s02e09.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S02E10 🌀",
-          "linkFisico": "v/os-simpsons-s02e10.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S02E11 🌀",
-          "linkFisico": "v/os-simpsons-s02e11.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S02E12 🌀",
-          "linkFisico": "v/os-simpsons-s02e12.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S02E13 🌀",
-          "linkFisico": "v/os-simpsons-s02e13.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S02E14 🌀",
-          "linkFisico": "v/os-simpsons-s02e14.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S02E15 🌀",
-          "linkFisico": "v/os-simpsons-s02e15.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S02E16 🌀",
-          "linkFisico": "v/os-simpsons-s02e16.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S02E17 🌀",
-          "linkFisico": "v/os-simpsons-s02e17.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S02E18 🌀",
-          "linkFisico": "v/os-simpsons-s02e18.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S02E19 🌀",
-          "linkFisico": "v/os-simpsons-s02e19.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S02E20 🌀",
-          "linkFisico": "v/os-simpsons-s02e20.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S02E21 🌀",
-          "linkFisico": "v/os-simpsons-s02e21.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S02E22 🌀",
-          "linkFisico": "v/os-simpsons-s02e22.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        }
-      ],
-      "3": [
-        {
-          "tit": "S03E01 🌀",
-          "linkFisico": "v/os-simpsons-s03e01.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S03E02 🌀",
-          "linkFisico": "v/os-simpsons-s03e02.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S03E03 🌀",
-          "linkFisico": "v/os-simpsons-s03e03.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S03E04 🌀",
-          "linkFisico": "v/os-simpsons-s03e04.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S03E05 🌀",
-          "linkFisico": "v/os-simpsons-s03e05.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S03E06 🌀",
-          "linkFisico": "v/os-simpsons-s03e06.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S03E07 🌀",
-          "linkFisico": "v/os-simpsons-s03e07.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S03E08 🌀",
-          "linkFisico": "v/os-simpsons-s03e08.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S03E09 🌀",
-          "linkFisico": "v/os-simpsons-s03e09.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S03E10 🌀",
-          "linkFisico": "v/os-simpsons-s03e10.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S03E11 🌀",
-          "linkFisico": "v/os-simpsons-s03e11.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S03E12 🌀",
-          "linkFisico": "v/os-simpsons-s03e12.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S03E13 🌀",
-          "linkFisico": "v/os-simpsons-s03e13.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S03E14 🌀",
-          "linkFisico": "v/os-simpsons-s03e14.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S03E15 🌀",
-          "linkFisico": "v/os-simpsons-s03e15.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S03E16 🌀",
-          "linkFisico": "v/os-simpsons-s03e16.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S03E17 🌀",
-          "linkFisico": "v/os-simpsons-s03e17.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S03E18 🌀",
-          "linkFisico": "v/os-simpsons-s03e18.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S03E19 🌀",
-          "linkFisico": "v/os-simpsons-s03e19.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S03E20 🌀",
-          "linkFisico": "v/os-simpsons-s03e20.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S03E21 🌀",
-          "linkFisico": "v/os-simpsons-s03e21.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S03E22 🌀",
-          "linkFisico": "v/os-simpsons-s03e22.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S03E23 🌀",
-          "linkFisico": "v/os-simpsons-s03e23.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S03E24 🌀",
-          "linkFisico": "v/os-simpsons-s03e24.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        }
-      ],
-      "4": [
-        {
-          "tit": "S04E01 🌀",
-          "linkFisico": "v/os-simpsons-s04e01.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S04E02 🌀",
-          "linkFisico": "v/os-simpsons-s04e02.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S04E03 🌀",
-          "linkFisico": "v/os-simpsons-s04e03.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S04E04 🌀",
-          "linkFisico": "v/os-simpsons-s04e04.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S04E05 🌀",
-          "linkFisico": "v/os-simpsons-s04e05.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S04E06 🌀",
-          "linkFisico": "v/os-simpsons-s04e06.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S04E07 🌀",
-          "linkFisico": "v/os-simpsons-s04e07.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S04E08 🌀",
-          "linkFisico": "v/os-simpsons-s04e08.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S04E09 🌀",
-          "linkFisico": "v/os-simpsons-s04e09.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S04E10 🌀",
-          "linkFisico": "v/os-simpsons-s04e10.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S04E11 🌀",
-          "linkFisico": "v/os-simpsons-s04e11.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S04E12 🌀",
-          "linkFisico": "v/os-simpsons-s04e12.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S04E13 🌀",
-          "linkFisico": "v/os-simpsons-s04e13.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S04E14 🌀",
-          "linkFisico": "v/os-simpsons-s04e14.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S04E15 🌀",
-          "linkFisico": "v/os-simpsons-s04e15.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S04E16 🌀",
-          "linkFisico": "v/os-simpsons-s04e16.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S04E17 🌀",
-          "linkFisico": "v/os-simpsons-s04e17.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S04E18 🌀",
-          "linkFisico": "v/os-simpsons-s04e18.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S04E19 🌀",
-          "linkFisico": "v/os-simpsons-s04e19.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S04E20 🌀",
-          "linkFisico": "v/os-simpsons-s04e20.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S04E21 🌀",
-          "linkFisico": "v/os-simpsons-s04e21.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S04E22 🌀",
-          "linkFisico": "v/os-simpsons-s04e22.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        }
-      ],
-      "5": [
-        {
-          "tit": "S05E01 🌀",
-          "linkFisico": "v/os-simpsons-s05e01.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S05E02 🌀",
-          "linkFisico": "v/os-simpsons-s05e02.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S05E03 🌀",
-          "linkFisico": "v/os-simpsons-s05e03.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S05E04 🌀",
-          "linkFisico": "v/os-simpsons-s05e04.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S05E05 🌀",
-          "linkFisico": "v/os-simpsons-s05e05.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S05E06 🌀",
-          "linkFisico": "v/os-simpsons-s05e06.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S05E07 🌀",
-          "linkFisico": "v/os-simpsons-s05e07.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S05E08 🌀",
-          "linkFisico": "v/os-simpsons-s05e08.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S05E09 🌀",
-          "linkFisico": "v/os-simpsons-s05e09.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S05E10 🌀",
-          "linkFisico": "v/os-simpsons-s05e10.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S05E11 🌀",
-          "linkFisico": "v/os-simpsons-s05e11.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S05E12 🌀",
-          "linkFisico": "v/os-simpsons-s05e12.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S05E13 🌀",
-          "linkFisico": "v/os-simpsons-s05e13.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S05E14 🌀",
-          "linkFisico": "v/os-simpsons-s05e14.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S05E15 🌀",
-          "linkFisico": "v/os-simpsons-s05e15.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S05E16 🌀",
-          "linkFisico": "v/os-simpsons-s05e16.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S05E17 🌀",
-          "linkFisico": "v/os-simpsons-s05e17.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S05E18 🌀",
-          "linkFisico": "v/os-simpsons-s05e18.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S05E19 🌀",
-          "linkFisico": "v/os-simpsons-s05e19.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S05E20 🌀",
-          "linkFisico": "v/os-simpsons-s05e20.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S05E21 🌀",
-          "linkFisico": "v/os-simpsons-s05e21.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S05E22 🌀",
-          "linkFisico": "v/os-simpsons-s05e22.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        }
-      ],
-      "6": [
-        {
-          "tit": "S06E01 🌀",
-          "linkFisico": "v/os-simpsons-s06e01.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S06E02 🌀",
-          "linkFisico": "v/os-simpsons-s06e02.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S06E03 🌀",
-          "linkFisico": "v/os-simpsons-s06e03.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S06E04 🌀",
-          "linkFisico": "v/os-simpsons-s06e04.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S06E05 🌀",
-          "linkFisico": "v/os-simpsons-s06e05.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S06E06 🌀",
-          "linkFisico": "v/os-simpsons-s06e06.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S06E07 🌀",
-          "linkFisico": "v/os-simpsons-s06e07.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S06E08 🌀",
-          "linkFisico": "v/os-simpsons-s06e08.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S06E09 🌀",
-          "linkFisico": "v/os-simpsons-s06e09.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S06E10 🌀",
-          "linkFisico": "v/os-simpsons-s06e10.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S06E11 🌀",
-          "linkFisico": "v/os-simpsons-s06e11.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S06E12 🌀",
-          "linkFisico": "v/os-simpsons-s06e12.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S06E13 🌀",
-          "linkFisico": "v/os-simpsons-s06e13.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S06E14 🌀",
-          "linkFisico": "v/os-simpsons-s06e14.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S06E15 🌀",
-          "linkFisico": "v/os-simpsons-s06e15.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S06E16 🌀",
-          "linkFisico": "v/os-simpsons-s06e16.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S06E17 🌀",
-          "linkFisico": "v/os-simpsons-s06e17.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S06E18 🌀",
-          "linkFisico": "v/os-simpsons-s06e18.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S06E19 🌀",
-          "linkFisico": "v/os-simpsons-s06e19.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S06E20 🌀",
-          "linkFisico": "v/os-simpsons-s06e20.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S06E21 🌀",
-          "linkFisico": "v/os-simpsons-s06e21.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S06E22 🌀",
-          "linkFisico": "v/os-simpsons-s06e22.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S06E23 🌀",
-          "linkFisico": "v/os-simpsons-s06e23.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S06E24 🌀",
-          "linkFisico": "v/os-simpsons-s06e24.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S06E25 🌀",
-          "linkFisico": "v/os-simpsons-s06e25.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        }
-      ],
-      "7": [
-        {
-          "tit": "S07E01 🌀",
-          "linkFisico": "v/os-simpsons-s07e01.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S07E02 🌀",
-          "linkFisico": "v/os-simpsons-s07e02.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S07E03 🌀",
-          "linkFisico": "v/os-simpsons-s07e03.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S07E04 🌀",
-          "linkFisico": "v/os-simpsons-s07e04.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S07E05 🌀",
-          "linkFisico": "v/os-simpsons-s07e05.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S07E06 🌀",
-          "linkFisico": "v/os-simpsons-s07e06.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S07E07 🌀",
-          "linkFisico": "v/os-simpsons-s07e07.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S07E08 🌀",
-          "linkFisico": "v/os-simpsons-s07e08.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S07E09 🌀",
-          "linkFisico": "v/os-simpsons-s07e09.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S07E10 🌀",
-          "linkFisico": "v/os-simpsons-s07e10.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S07E11 🌀",
-          "linkFisico": "v/os-simpsons-s07e11.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S07E12 🌀",
-          "linkFisico": "v/os-simpsons-s07e12.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S07E13 🌀",
-          "linkFisico": "v/os-simpsons-s07e13.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S07E14 🌀",
-          "linkFisico": "v/os-simpsons-s07e14.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S07E15 🌀",
-          "linkFisico": "v/os-simpsons-s07e15.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S07E16 🌀",
-          "linkFisico": "v/os-simpsons-s07e16.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S07E17 🌀",
-          "linkFisico": "v/os-simpsons-s07e17.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S07E18 🌀",
-          "linkFisico": "v/os-simpsons-s07e18.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S07E19 🌀",
-          "linkFisico": "v/os-simpsons-s07e19.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S07E20 🌀",
-          "linkFisico": "v/os-simpsons-s07e20.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S07E21 🌀",
-          "linkFisico": "v/os-simpsons-s07e21.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S07E22 🌀",
-          "linkFisico": "v/os-simpsons-s07e22.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S07E23 🌀",
-          "linkFisico": "v/os-simpsons-s07e23.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S07E24 🌀",
-          "linkFisico": "v/os-simpsons-s07e24.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        },
-        {
-          "tit": "S07E25 🌀",
-          "linkFisico": "v/os-simpsons-s07e25.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
-        }
-      ]
-    }
-  },
-  {
     "id": "os-vingadores-the-avengers",
     "tipo": "filme",
     "categoria": "Ação",
@@ -36601,6 +35808,4100 @@
           "tit": "Assistir 🌀",
           "linkFisico": "v/panico-7.html",
           "logoEp": "https://image.tmdb.org/t/p/w1280/td2Plb8rWGa91Vkiizzx3UEq1bQ.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "os-simpsons",
+    "tipo": "serie",
+    "categoria": "Séries",
+    "titulo": "Os Simpsons 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/1jGPgDDcmg3Xgs3WO8sfYfbnFoA.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/4ReGMfsXbbsgJHfEumuzGoob8Ol.png",
+    "sinopse": "Uma animação sobre uma típica família dos Estados Unidos. Homer é o pai de família nada saudável ou inteligente, que adora beber cerveja. Marge é a esposa e mãe de família dedicada. Bart é o filho de 10 anos, que não leva a escola a sério e tem orgulho disso. Lisa é a garota de 8 anos, um gênio não apreciado. E Maggie é a bebê que não larga a chupeta.",
+    "nota": "8.0",
+    "avaliacao": "8.0",
+    "classificacao": "12",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "S01E01 🌀",
+          "linkFisico": "v/os-simpsons-s01e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S01E02 🌀",
+          "linkFisico": "v/os-simpsons-s01e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S01E03 🌀",
+          "linkFisico": "v/os-simpsons-s01e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S01E04 🌀",
+          "linkFisico": "v/os-simpsons-s01e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S01E05 🌀",
+          "linkFisico": "v/os-simpsons-s01e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S01E06 🌀",
+          "linkFisico": "v/os-simpsons-s01e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S01E07 🌀",
+          "linkFisico": "v/os-simpsons-s01e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S01E08 🌀",
+          "linkFisico": "v/os-simpsons-s01e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S01E09 🌀",
+          "linkFisico": "v/os-simpsons-s01e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S01E10 🌀",
+          "linkFisico": "v/os-simpsons-s01e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S01E11 🌀",
+          "linkFisico": "v/os-simpsons-s01e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S01E12 🌀",
+          "linkFisico": "v/os-simpsons-s01e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S01E13 🌀",
+          "linkFisico": "v/os-simpsons-s01e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        }
+      ],
+      "2": [
+        {
+          "tit": "S02E01 🌀",
+          "linkFisico": "v/os-simpsons-s02e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S02E02 🌀",
+          "linkFisico": "v/os-simpsons-s02e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S02E03 🌀",
+          "linkFisico": "v/os-simpsons-s02e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S02E04 🌀",
+          "linkFisico": "v/os-simpsons-s02e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S02E05 🌀",
+          "linkFisico": "v/os-simpsons-s02e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S02E06 🌀",
+          "linkFisico": "v/os-simpsons-s02e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S02E07 🌀",
+          "linkFisico": "v/os-simpsons-s02e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S02E08 🌀",
+          "linkFisico": "v/os-simpsons-s02e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S02E09 🌀",
+          "linkFisico": "v/os-simpsons-s02e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S02E10 🌀",
+          "linkFisico": "v/os-simpsons-s02e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S02E11 🌀",
+          "linkFisico": "v/os-simpsons-s02e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S02E12 🌀",
+          "linkFisico": "v/os-simpsons-s02e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S02E13 🌀",
+          "linkFisico": "v/os-simpsons-s02e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S02E14 🌀",
+          "linkFisico": "v/os-simpsons-s02e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S02E15 🌀",
+          "linkFisico": "v/os-simpsons-s02e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S02E16 🌀",
+          "linkFisico": "v/os-simpsons-s02e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S02E17 🌀",
+          "linkFisico": "v/os-simpsons-s02e17.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S02E18 🌀",
+          "linkFisico": "v/os-simpsons-s02e18.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S02E19 🌀",
+          "linkFisico": "v/os-simpsons-s02e19.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S02E20 🌀",
+          "linkFisico": "v/os-simpsons-s02e20.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S02E21 🌀",
+          "linkFisico": "v/os-simpsons-s02e21.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S02E22 🌀",
+          "linkFisico": "v/os-simpsons-s02e22.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        }
+      ],
+      "3": [
+        {
+          "tit": "S03E01 🌀",
+          "linkFisico": "v/os-simpsons-s03e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S03E02 🌀",
+          "linkFisico": "v/os-simpsons-s03e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S03E03 🌀",
+          "linkFisico": "v/os-simpsons-s03e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S03E04 🌀",
+          "linkFisico": "v/os-simpsons-s03e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S03E05 🌀",
+          "linkFisico": "v/os-simpsons-s03e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S03E06 🌀",
+          "linkFisico": "v/os-simpsons-s03e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S03E07 🌀",
+          "linkFisico": "v/os-simpsons-s03e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S03E08 🌀",
+          "linkFisico": "v/os-simpsons-s03e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S03E09 🌀",
+          "linkFisico": "v/os-simpsons-s03e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S03E10 🌀",
+          "linkFisico": "v/os-simpsons-s03e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S03E11 🌀",
+          "linkFisico": "v/os-simpsons-s03e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S03E12 🌀",
+          "linkFisico": "v/os-simpsons-s03e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S03E13 🌀",
+          "linkFisico": "v/os-simpsons-s03e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S03E14 🌀",
+          "linkFisico": "v/os-simpsons-s03e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S03E15 🌀",
+          "linkFisico": "v/os-simpsons-s03e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S03E16 🌀",
+          "linkFisico": "v/os-simpsons-s03e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S03E17 🌀",
+          "linkFisico": "v/os-simpsons-s03e17.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S03E18 🌀",
+          "linkFisico": "v/os-simpsons-s03e18.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S03E19 🌀",
+          "linkFisico": "v/os-simpsons-s03e19.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S03E20 🌀",
+          "linkFisico": "v/os-simpsons-s03e20.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S03E21 🌀",
+          "linkFisico": "v/os-simpsons-s03e21.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S03E22 🌀",
+          "linkFisico": "v/os-simpsons-s03e22.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S03E23 🌀",
+          "linkFisico": "v/os-simpsons-s03e23.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S03E24 🌀",
+          "linkFisico": "v/os-simpsons-s03e24.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        }
+      ],
+      "4": [
+        {
+          "tit": "S04E01 🌀",
+          "linkFisico": "v/os-simpsons-s04e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S04E02 🌀",
+          "linkFisico": "v/os-simpsons-s04e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S04E03 🌀",
+          "linkFisico": "v/os-simpsons-s04e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S04E04 🌀",
+          "linkFisico": "v/os-simpsons-s04e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S04E05 🌀",
+          "linkFisico": "v/os-simpsons-s04e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S04E06 🌀",
+          "linkFisico": "v/os-simpsons-s04e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S04E07 🌀",
+          "linkFisico": "v/os-simpsons-s04e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S04E08 🌀",
+          "linkFisico": "v/os-simpsons-s04e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S04E09 🌀",
+          "linkFisico": "v/os-simpsons-s04e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S04E10 🌀",
+          "linkFisico": "v/os-simpsons-s04e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S04E11 🌀",
+          "linkFisico": "v/os-simpsons-s04e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S04E12 🌀",
+          "linkFisico": "v/os-simpsons-s04e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S04E13 🌀",
+          "linkFisico": "v/os-simpsons-s04e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S04E14 🌀",
+          "linkFisico": "v/os-simpsons-s04e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S04E15 🌀",
+          "linkFisico": "v/os-simpsons-s04e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S04E16 🌀",
+          "linkFisico": "v/os-simpsons-s04e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S04E17 🌀",
+          "linkFisico": "v/os-simpsons-s04e17.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S04E18 🌀",
+          "linkFisico": "v/os-simpsons-s04e18.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S04E19 🌀",
+          "linkFisico": "v/os-simpsons-s04e19.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S04E20 🌀",
+          "linkFisico": "v/os-simpsons-s04e20.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S04E21 🌀",
+          "linkFisico": "v/os-simpsons-s04e21.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S04E22 🌀",
+          "linkFisico": "v/os-simpsons-s04e22.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        }
+      ],
+      "5": [
+        {
+          "tit": "S05E01 🌀",
+          "linkFisico": "v/os-simpsons-s05e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S05E02 🌀",
+          "linkFisico": "v/os-simpsons-s05e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S05E03 🌀",
+          "linkFisico": "v/os-simpsons-s05e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S05E04 🌀",
+          "linkFisico": "v/os-simpsons-s05e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S05E05 🌀",
+          "linkFisico": "v/os-simpsons-s05e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S05E06 🌀",
+          "linkFisico": "v/os-simpsons-s05e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S05E07 🌀",
+          "linkFisico": "v/os-simpsons-s05e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S05E08 🌀",
+          "linkFisico": "v/os-simpsons-s05e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S05E09 🌀",
+          "linkFisico": "v/os-simpsons-s05e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S05E10 🌀",
+          "linkFisico": "v/os-simpsons-s05e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S05E11 🌀",
+          "linkFisico": "v/os-simpsons-s05e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S05E12 🌀",
+          "linkFisico": "v/os-simpsons-s05e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S05E13 🌀",
+          "linkFisico": "v/os-simpsons-s05e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S05E14 🌀",
+          "linkFisico": "v/os-simpsons-s05e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S05E15 🌀",
+          "linkFisico": "v/os-simpsons-s05e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S05E16 🌀",
+          "linkFisico": "v/os-simpsons-s05e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S05E17 🌀",
+          "linkFisico": "v/os-simpsons-s05e17.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S05E18 🌀",
+          "linkFisico": "v/os-simpsons-s05e18.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S05E19 🌀",
+          "linkFisico": "v/os-simpsons-s05e19.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S05E20 🌀",
+          "linkFisico": "v/os-simpsons-s05e20.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S05E21 🌀",
+          "linkFisico": "v/os-simpsons-s05e21.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S05E22 🌀",
+          "linkFisico": "v/os-simpsons-s05e22.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        }
+      ],
+      "6": [
+        {
+          "tit": "S06E01 🌀",
+          "linkFisico": "v/os-simpsons-s06e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S06E02 🌀",
+          "linkFisico": "v/os-simpsons-s06e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S06E03 🌀",
+          "linkFisico": "v/os-simpsons-s06e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S06E04 🌀",
+          "linkFisico": "v/os-simpsons-s06e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S06E05 🌀",
+          "linkFisico": "v/os-simpsons-s06e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S06E06 🌀",
+          "linkFisico": "v/os-simpsons-s06e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S06E07 🌀",
+          "linkFisico": "v/os-simpsons-s06e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S06E08 🌀",
+          "linkFisico": "v/os-simpsons-s06e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S06E09 🌀",
+          "linkFisico": "v/os-simpsons-s06e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S06E10 🌀",
+          "linkFisico": "v/os-simpsons-s06e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S06E11 🌀",
+          "linkFisico": "v/os-simpsons-s06e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S06E12 🌀",
+          "linkFisico": "v/os-simpsons-s06e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S06E13 🌀",
+          "linkFisico": "v/os-simpsons-s06e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S06E14 🌀",
+          "linkFisico": "v/os-simpsons-s06e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S06E15 🌀",
+          "linkFisico": "v/os-simpsons-s06e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S06E16 🌀",
+          "linkFisico": "v/os-simpsons-s06e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S06E17 🌀",
+          "linkFisico": "v/os-simpsons-s06e17.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S06E18 🌀",
+          "linkFisico": "v/os-simpsons-s06e18.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S06E19 🌀",
+          "linkFisico": "v/os-simpsons-s06e19.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S06E20 🌀",
+          "linkFisico": "v/os-simpsons-s06e20.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S06E21 🌀",
+          "linkFisico": "v/os-simpsons-s06e21.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S06E22 🌀",
+          "linkFisico": "v/os-simpsons-s06e22.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S06E23 🌀",
+          "linkFisico": "v/os-simpsons-s06e23.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S06E24 🌀",
+          "linkFisico": "v/os-simpsons-s06e24.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S06E25 🌀",
+          "linkFisico": "v/os-simpsons-s06e25.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        }
+      ],
+      "7": [
+        {
+          "tit": "S07E01 🌀",
+          "linkFisico": "v/os-simpsons-s07e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S07E02 🌀",
+          "linkFisico": "v/os-simpsons-s07e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S07E03 🌀",
+          "linkFisico": "v/os-simpsons-s07e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S07E04 🌀",
+          "linkFisico": "v/os-simpsons-s07e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S07E05 🌀",
+          "linkFisico": "v/os-simpsons-s07e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S07E06 🌀",
+          "linkFisico": "v/os-simpsons-s07e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S07E07 🌀",
+          "linkFisico": "v/os-simpsons-s07e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S07E08 🌀",
+          "linkFisico": "v/os-simpsons-s07e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S07E09 🌀",
+          "linkFisico": "v/os-simpsons-s07e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S07E10 🌀",
+          "linkFisico": "v/os-simpsons-s07e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S07E11 🌀",
+          "linkFisico": "v/os-simpsons-s07e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S07E12 🌀",
+          "linkFisico": "v/os-simpsons-s07e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S07E13 🌀",
+          "linkFisico": "v/os-simpsons-s07e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S07E14 🌀",
+          "linkFisico": "v/os-simpsons-s07e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S07E15 🌀",
+          "linkFisico": "v/os-simpsons-s07e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S07E16 🌀",
+          "linkFisico": "v/os-simpsons-s07e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S07E17 🌀",
+          "linkFisico": "v/os-simpsons-s07e17.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S07E18 🌀",
+          "linkFisico": "v/os-simpsons-s07e18.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S07E19 🌀",
+          "linkFisico": "v/os-simpsons-s07e19.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S07E20 🌀",
+          "linkFisico": "v/os-simpsons-s07e20.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S07E21 🌀",
+          "linkFisico": "v/os-simpsons-s07e21.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S07E22 🌀",
+          "linkFisico": "v/os-simpsons-s07e22.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S07E23 🌀",
+          "linkFisico": "v/os-simpsons-s07e23.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S07E24 🌀",
+          "linkFisico": "v/os-simpsons-s07e24.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S07E25 🌀",
+          "linkFisico": "v/os-simpsons-s07e25.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        }
+      ],
+      "8": [
+        {
+          "tit": "S08E01 🌀",
+          "linkFisico": "v/os-simpsons-s08e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S08E02 🌀",
+          "linkFisico": "v/os-simpsons-s08e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S08E03 🌀",
+          "linkFisico": "v/os-simpsons-s08e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S08E04 🌀",
+          "linkFisico": "v/os-simpsons-s08e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S08E05 🌀",
+          "linkFisico": "v/os-simpsons-s08e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S08E06 🌀",
+          "linkFisico": "v/os-simpsons-s08e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S08E07 🌀",
+          "linkFisico": "v/os-simpsons-s08e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S08E08 🌀",
+          "linkFisico": "v/os-simpsons-s08e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S08E09 🌀",
+          "linkFisico": "v/os-simpsons-s08e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S08E10 🌀",
+          "linkFisico": "v/os-simpsons-s08e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S08E11 🌀",
+          "linkFisico": "v/os-simpsons-s08e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S08E12 🌀",
+          "linkFisico": "v/os-simpsons-s08e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S08E13 🌀",
+          "linkFisico": "v/os-simpsons-s08e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S08E14 🌀",
+          "linkFisico": "v/os-simpsons-s08e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S08E15 🌀",
+          "linkFisico": "v/os-simpsons-s08e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S08E16 🌀",
+          "linkFisico": "v/os-simpsons-s08e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S08E17 🌀",
+          "linkFisico": "v/os-simpsons-s08e17.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S08E18 🌀",
+          "linkFisico": "v/os-simpsons-s08e18.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S08E19 🌀",
+          "linkFisico": "v/os-simpsons-s08e19.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S08E20 🌀",
+          "linkFisico": "v/os-simpsons-s08e20.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S08E21 🌀",
+          "linkFisico": "v/os-simpsons-s08e21.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S08E22 🌀",
+          "linkFisico": "v/os-simpsons-s08e22.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S08E23 🌀",
+          "linkFisico": "v/os-simpsons-s08e23.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S08E24 🌀",
+          "linkFisico": "v/os-simpsons-s08e24.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S08E25 🌀",
+          "linkFisico": "v/os-simpsons-s08e25.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        }
+      ],
+      "9": [
+        {
+          "tit": "S09E01 🌀",
+          "linkFisico": "v/os-simpsons-s09e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S09E02 🌀",
+          "linkFisico": "v/os-simpsons-s09e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S09E03 🌀",
+          "linkFisico": "v/os-simpsons-s09e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S09E04 🌀",
+          "linkFisico": "v/os-simpsons-s09e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S09E05 🌀",
+          "linkFisico": "v/os-simpsons-s09e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S09E06 🌀",
+          "linkFisico": "v/os-simpsons-s09e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S09E07 🌀",
+          "linkFisico": "v/os-simpsons-s09e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S09E08 🌀",
+          "linkFisico": "v/os-simpsons-s09e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S09E09 🌀",
+          "linkFisico": "v/os-simpsons-s09e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S09E10 🌀",
+          "linkFisico": "v/os-simpsons-s09e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S09E11 🌀",
+          "linkFisico": "v/os-simpsons-s09e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S09E12 🌀",
+          "linkFisico": "v/os-simpsons-s09e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S09E13 🌀",
+          "linkFisico": "v/os-simpsons-s09e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S09E14 🌀",
+          "linkFisico": "v/os-simpsons-s09e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S09E15 🌀",
+          "linkFisico": "v/os-simpsons-s09e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S09E16 🌀",
+          "linkFisico": "v/os-simpsons-s09e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S09E17 🌀",
+          "linkFisico": "v/os-simpsons-s09e17.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S09E18 🌀",
+          "linkFisico": "v/os-simpsons-s09e18.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S09E19 🌀",
+          "linkFisico": "v/os-simpsons-s09e19.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S09E20 🌀",
+          "linkFisico": "v/os-simpsons-s09e20.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S09E21 🌀",
+          "linkFisico": "v/os-simpsons-s09e21.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S09E22 🌀",
+          "linkFisico": "v/os-simpsons-s09e22.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S09E23 🌀",
+          "linkFisico": "v/os-simpsons-s09e23.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S09E24 🌀",
+          "linkFisico": "v/os-simpsons-s09e24.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S09E25 🌀",
+          "linkFisico": "v/os-simpsons-s09e25.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        }
+      ],
+      "10": [
+        {
+          "tit": "S10E01 🌀",
+          "linkFisico": "v/os-simpsons-s10e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S10E02 🌀",
+          "linkFisico": "v/os-simpsons-s10e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S10E03 🌀",
+          "linkFisico": "v/os-simpsons-s10e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S10E04 🌀",
+          "linkFisico": "v/os-simpsons-s10e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S10E05 🌀",
+          "linkFisico": "v/os-simpsons-s10e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S10E06 🌀",
+          "linkFisico": "v/os-simpsons-s10e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S10E07 🌀",
+          "linkFisico": "v/os-simpsons-s10e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S10E08 🌀",
+          "linkFisico": "v/os-simpsons-s10e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S10E09 🌀",
+          "linkFisico": "v/os-simpsons-s10e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S10E10 🌀",
+          "linkFisico": "v/os-simpsons-s10e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S10E11 🌀",
+          "linkFisico": "v/os-simpsons-s10e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S10E12 🌀",
+          "linkFisico": "v/os-simpsons-s10e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S10E13 🌀",
+          "linkFisico": "v/os-simpsons-s10e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S10E14 🌀",
+          "linkFisico": "v/os-simpsons-s10e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S10E15 🌀",
+          "linkFisico": "v/os-simpsons-s10e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S10E16 🌀",
+          "linkFisico": "v/os-simpsons-s10e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S10E17 🌀",
+          "linkFisico": "v/os-simpsons-s10e17.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S10E18 🌀",
+          "linkFisico": "v/os-simpsons-s10e18.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S10E19 🌀",
+          "linkFisico": "v/os-simpsons-s10e19.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S10E20 🌀",
+          "linkFisico": "v/os-simpsons-s10e20.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S10E21 🌀",
+          "linkFisico": "v/os-simpsons-s10e21.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S10E22 🌀",
+          "linkFisico": "v/os-simpsons-s10e22.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S10E23 🌀",
+          "linkFisico": "v/os-simpsons-s10e23.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        }
+      ],
+      "11": [
+        {
+          "tit": "S11E01 🌀",
+          "linkFisico": "v/os-simpsons-s11e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S11E02 🌀",
+          "linkFisico": "v/os-simpsons-s11e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S11E03 🌀",
+          "linkFisico": "v/os-simpsons-s11e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S11E04 🌀",
+          "linkFisico": "v/os-simpsons-s11e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S11E05 🌀",
+          "linkFisico": "v/os-simpsons-s11e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S11E06 🌀",
+          "linkFisico": "v/os-simpsons-s11e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S11E07 🌀",
+          "linkFisico": "v/os-simpsons-s11e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S11E08 🌀",
+          "linkFisico": "v/os-simpsons-s11e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S11E09 🌀",
+          "linkFisico": "v/os-simpsons-s11e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S11E10 🌀",
+          "linkFisico": "v/os-simpsons-s11e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S11E11 🌀",
+          "linkFisico": "v/os-simpsons-s11e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S11E12 🌀",
+          "linkFisico": "v/os-simpsons-s11e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S11E13 🌀",
+          "linkFisico": "v/os-simpsons-s11e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S11E14 🌀",
+          "linkFisico": "v/os-simpsons-s11e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S11E15 🌀",
+          "linkFisico": "v/os-simpsons-s11e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S11E16 🌀",
+          "linkFisico": "v/os-simpsons-s11e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S11E17 🌀",
+          "linkFisico": "v/os-simpsons-s11e17.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S11E18 🌀",
+          "linkFisico": "v/os-simpsons-s11e18.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S11E19 🌀",
+          "linkFisico": "v/os-simpsons-s11e19.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S11E20 🌀",
+          "linkFisico": "v/os-simpsons-s11e20.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S11E21 🌀",
+          "linkFisico": "v/os-simpsons-s11e21.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S11E22 🌀",
+          "linkFisico": "v/os-simpsons-s11e22.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        }
+      ],
+      "12": [
+        {
+          "tit": "S12E01 🌀",
+          "linkFisico": "v/os-simpsons-s12e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S12E02 🌀",
+          "linkFisico": "v/os-simpsons-s12e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S12E03 🌀",
+          "linkFisico": "v/os-simpsons-s12e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S12E04 🌀",
+          "linkFisico": "v/os-simpsons-s12e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S12E05 🌀",
+          "linkFisico": "v/os-simpsons-s12e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S12E06 🌀",
+          "linkFisico": "v/os-simpsons-s12e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S12E07 🌀",
+          "linkFisico": "v/os-simpsons-s12e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S12E08 🌀",
+          "linkFisico": "v/os-simpsons-s12e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S12E09 🌀",
+          "linkFisico": "v/os-simpsons-s12e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S12E10 🌀",
+          "linkFisico": "v/os-simpsons-s12e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S12E11 🌀",
+          "linkFisico": "v/os-simpsons-s12e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S12E12 🌀",
+          "linkFisico": "v/os-simpsons-s12e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S12E13 🌀",
+          "linkFisico": "v/os-simpsons-s12e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S12E14 🌀",
+          "linkFisico": "v/os-simpsons-s12e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S12E15 🌀",
+          "linkFisico": "v/os-simpsons-s12e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S12E16 🌀",
+          "linkFisico": "v/os-simpsons-s12e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S12E17 🌀",
+          "linkFisico": "v/os-simpsons-s12e17.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S12E18 🌀",
+          "linkFisico": "v/os-simpsons-s12e18.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S12E19 🌀",
+          "linkFisico": "v/os-simpsons-s12e19.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S12E20 🌀",
+          "linkFisico": "v/os-simpsons-s12e20.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S12E21 🌀",
+          "linkFisico": "v/os-simpsons-s12e21.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        }
+      ],
+      "13": [
+        {
+          "tit": "S13E01 🌀",
+          "linkFisico": "v/os-simpsons-s13e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S13E02 🌀",
+          "linkFisico": "v/os-simpsons-s13e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S13E03 🌀",
+          "linkFisico": "v/os-simpsons-s13e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S13E04 🌀",
+          "linkFisico": "v/os-simpsons-s13e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S13E05 🌀",
+          "linkFisico": "v/os-simpsons-s13e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S13E06 🌀",
+          "linkFisico": "v/os-simpsons-s13e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S13E07 🌀",
+          "linkFisico": "v/os-simpsons-s13e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S13E08 🌀",
+          "linkFisico": "v/os-simpsons-s13e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S13E09 🌀",
+          "linkFisico": "v/os-simpsons-s13e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S13E10 🌀",
+          "linkFisico": "v/os-simpsons-s13e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S13E11 🌀",
+          "linkFisico": "v/os-simpsons-s13e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S13E12 🌀",
+          "linkFisico": "v/os-simpsons-s13e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S13E13 🌀",
+          "linkFisico": "v/os-simpsons-s13e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S13E14 🌀",
+          "linkFisico": "v/os-simpsons-s13e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S13E15 🌀",
+          "linkFisico": "v/os-simpsons-s13e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S13E16 🌀",
+          "linkFisico": "v/os-simpsons-s13e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S13E17 🌀",
+          "linkFisico": "v/os-simpsons-s13e17.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S13E18 🌀",
+          "linkFisico": "v/os-simpsons-s13e18.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S13E19 🌀",
+          "linkFisico": "v/os-simpsons-s13e19.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S13E20 🌀",
+          "linkFisico": "v/os-simpsons-s13e20.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S13E21 🌀",
+          "linkFisico": "v/os-simpsons-s13e21.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S13E22 🌀",
+          "linkFisico": "v/os-simpsons-s13e22.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        }
+      ],
+      "14": [
+        {
+          "tit": "S14E01 🌀",
+          "linkFisico": "v/os-simpsons-s14e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S14E02 🌀",
+          "linkFisico": "v/os-simpsons-s14e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S14E03 🌀",
+          "linkFisico": "v/os-simpsons-s14e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S14E04 🌀",
+          "linkFisico": "v/os-simpsons-s14e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S14E05 🌀",
+          "linkFisico": "v/os-simpsons-s14e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S14E06 🌀",
+          "linkFisico": "v/os-simpsons-s14e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S14E07 🌀",
+          "linkFisico": "v/os-simpsons-s14e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S14E08 🌀",
+          "linkFisico": "v/os-simpsons-s14e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S14E09 🌀",
+          "linkFisico": "v/os-simpsons-s14e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S14E10 🌀",
+          "linkFisico": "v/os-simpsons-s14e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S14E11 🌀",
+          "linkFisico": "v/os-simpsons-s14e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S14E12 🌀",
+          "linkFisico": "v/os-simpsons-s14e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S14E13 🌀",
+          "linkFisico": "v/os-simpsons-s14e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S14E14 🌀",
+          "linkFisico": "v/os-simpsons-s14e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S14E15 🌀",
+          "linkFisico": "v/os-simpsons-s14e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S14E16 🌀",
+          "linkFisico": "v/os-simpsons-s14e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S14E17 🌀",
+          "linkFisico": "v/os-simpsons-s14e17.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S14E18 🌀",
+          "linkFisico": "v/os-simpsons-s14e18.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S14E19 🌀",
+          "linkFisico": "v/os-simpsons-s14e19.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S14E20 🌀",
+          "linkFisico": "v/os-simpsons-s14e20.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S14E21 🌀",
+          "linkFisico": "v/os-simpsons-s14e21.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S14E22 🌀",
+          "linkFisico": "v/os-simpsons-s14e22.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        }
+      ],
+      "15": [
+        {
+          "tit": "S15E01 🌀",
+          "linkFisico": "v/os-simpsons-s15e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S15E02 🌀",
+          "linkFisico": "v/os-simpsons-s15e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S15E03 🌀",
+          "linkFisico": "v/os-simpsons-s15e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S15E04 🌀",
+          "linkFisico": "v/os-simpsons-s15e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S15E05 🌀",
+          "linkFisico": "v/os-simpsons-s15e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S15E06 🌀",
+          "linkFisico": "v/os-simpsons-s15e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S15E07 🌀",
+          "linkFisico": "v/os-simpsons-s15e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S15E08 🌀",
+          "linkFisico": "v/os-simpsons-s15e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S15E09 🌀",
+          "linkFisico": "v/os-simpsons-s15e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S15E10 🌀",
+          "linkFisico": "v/os-simpsons-s15e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S15E11 🌀",
+          "linkFisico": "v/os-simpsons-s15e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S15E12 🌀",
+          "linkFisico": "v/os-simpsons-s15e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S15E13 🌀",
+          "linkFisico": "v/os-simpsons-s15e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S15E14 🌀",
+          "linkFisico": "v/os-simpsons-s15e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S15E15 🌀",
+          "linkFisico": "v/os-simpsons-s15e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S15E16 🌀",
+          "linkFisico": "v/os-simpsons-s15e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S15E17 🌀",
+          "linkFisico": "v/os-simpsons-s15e17.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S15E18 🌀",
+          "linkFisico": "v/os-simpsons-s15e18.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S15E19 🌀",
+          "linkFisico": "v/os-simpsons-s15e19.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S15E20 🌀",
+          "linkFisico": "v/os-simpsons-s15e20.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S15E21 🌀",
+          "linkFisico": "v/os-simpsons-s15e21.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S15E22 🌀",
+          "linkFisico": "v/os-simpsons-s15e22.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        }
+      ],
+      "16": [
+        {
+          "tit": "S16E01 🌀",
+          "linkFisico": "v/os-simpsons-s16e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S16E02 🌀",
+          "linkFisico": "v/os-simpsons-s16e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S16E03 🌀",
+          "linkFisico": "v/os-simpsons-s16e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S16E04 🌀",
+          "linkFisico": "v/os-simpsons-s16e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S16E05 🌀",
+          "linkFisico": "v/os-simpsons-s16e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S16E06 🌀",
+          "linkFisico": "v/os-simpsons-s16e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S16E07 🌀",
+          "linkFisico": "v/os-simpsons-s16e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S16E08 🌀",
+          "linkFisico": "v/os-simpsons-s16e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S16E09 🌀",
+          "linkFisico": "v/os-simpsons-s16e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S16E10 🌀",
+          "linkFisico": "v/os-simpsons-s16e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S16E11 🌀",
+          "linkFisico": "v/os-simpsons-s16e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S16E12 🌀",
+          "linkFisico": "v/os-simpsons-s16e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S16E13 🌀",
+          "linkFisico": "v/os-simpsons-s16e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S16E14 🌀",
+          "linkFisico": "v/os-simpsons-s16e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S16E15 🌀",
+          "linkFisico": "v/os-simpsons-s16e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S16E16 🌀",
+          "linkFisico": "v/os-simpsons-s16e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S16E17 🌀",
+          "linkFisico": "v/os-simpsons-s16e17.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S16E18 🌀",
+          "linkFisico": "v/os-simpsons-s16e18.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S16E19 🌀",
+          "linkFisico": "v/os-simpsons-s16e19.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S16E20 🌀",
+          "linkFisico": "v/os-simpsons-s16e20.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S16E21 🌀",
+          "linkFisico": "v/os-simpsons-s16e21.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        }
+      ],
+      "17": [
+        {
+          "tit": "S17E01 🌀",
+          "linkFisico": "v/os-simpsons-s17e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S17E02 🌀",
+          "linkFisico": "v/os-simpsons-s17e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S17E03 🌀",
+          "linkFisico": "v/os-simpsons-s17e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S17E04 🌀",
+          "linkFisico": "v/os-simpsons-s17e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S17E05 🌀",
+          "linkFisico": "v/os-simpsons-s17e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S17E06 🌀",
+          "linkFisico": "v/os-simpsons-s17e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S17E07 🌀",
+          "linkFisico": "v/os-simpsons-s17e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S17E08 🌀",
+          "linkFisico": "v/os-simpsons-s17e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S17E09 🌀",
+          "linkFisico": "v/os-simpsons-s17e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S17E10 🌀",
+          "linkFisico": "v/os-simpsons-s17e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S17E11 🌀",
+          "linkFisico": "v/os-simpsons-s17e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S17E12 🌀",
+          "linkFisico": "v/os-simpsons-s17e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S17E13 🌀",
+          "linkFisico": "v/os-simpsons-s17e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S17E14 🌀",
+          "linkFisico": "v/os-simpsons-s17e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S17E15 🌀",
+          "linkFisico": "v/os-simpsons-s17e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S17E16 🌀",
+          "linkFisico": "v/os-simpsons-s17e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S17E17 🌀",
+          "linkFisico": "v/os-simpsons-s17e17.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S17E18 🌀",
+          "linkFisico": "v/os-simpsons-s17e18.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S17E19 🌀",
+          "linkFisico": "v/os-simpsons-s17e19.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S17E20 🌀",
+          "linkFisico": "v/os-simpsons-s17e20.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S17E21 🌀",
+          "linkFisico": "v/os-simpsons-s17e21.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S17E22 🌀",
+          "linkFisico": "v/os-simpsons-s17e22.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        }
+      ],
+      "18": [
+        {
+          "tit": "S18E01 🌀",
+          "linkFisico": "v/os-simpsons-s18e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S18E02 🌀",
+          "linkFisico": "v/os-simpsons-s18e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S18E03 🌀",
+          "linkFisico": "v/os-simpsons-s18e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S18E04 🌀",
+          "linkFisico": "v/os-simpsons-s18e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S18E05 🌀",
+          "linkFisico": "v/os-simpsons-s18e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S18E06 🌀",
+          "linkFisico": "v/os-simpsons-s18e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S18E07 🌀",
+          "linkFisico": "v/os-simpsons-s18e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S18E08 🌀",
+          "linkFisico": "v/os-simpsons-s18e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S18E09 🌀",
+          "linkFisico": "v/os-simpsons-s18e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S18E10 🌀",
+          "linkFisico": "v/os-simpsons-s18e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S18E11 🌀",
+          "linkFisico": "v/os-simpsons-s18e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S18E12 🌀",
+          "linkFisico": "v/os-simpsons-s18e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S18E13 🌀",
+          "linkFisico": "v/os-simpsons-s18e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S18E14 🌀",
+          "linkFisico": "v/os-simpsons-s18e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S18E15 🌀",
+          "linkFisico": "v/os-simpsons-s18e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S18E16 🌀",
+          "linkFisico": "v/os-simpsons-s18e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S18E17 🌀",
+          "linkFisico": "v/os-simpsons-s18e17.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S18E18 🌀",
+          "linkFisico": "v/os-simpsons-s18e18.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S18E19 🌀",
+          "linkFisico": "v/os-simpsons-s18e19.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S18E20 🌀",
+          "linkFisico": "v/os-simpsons-s18e20.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S18E21 🌀",
+          "linkFisico": "v/os-simpsons-s18e21.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S18E22 🌀",
+          "linkFisico": "v/os-simpsons-s18e22.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        }
+      ],
+      "19": [
+        {
+          "tit": "S19E01 🌀",
+          "linkFisico": "v/os-simpsons-s19e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S19E02 🌀",
+          "linkFisico": "v/os-simpsons-s19e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S19E03 🌀",
+          "linkFisico": "v/os-simpsons-s19e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S19E04 🌀",
+          "linkFisico": "v/os-simpsons-s19e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S19E05 🌀",
+          "linkFisico": "v/os-simpsons-s19e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S19E06 🌀",
+          "linkFisico": "v/os-simpsons-s19e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S19E07 🌀",
+          "linkFisico": "v/os-simpsons-s19e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S19E08 🌀",
+          "linkFisico": "v/os-simpsons-s19e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S19E09 🌀",
+          "linkFisico": "v/os-simpsons-s19e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S19E10 🌀",
+          "linkFisico": "v/os-simpsons-s19e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S19E11 🌀",
+          "linkFisico": "v/os-simpsons-s19e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S19E12 🌀",
+          "linkFisico": "v/os-simpsons-s19e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S19E13 🌀",
+          "linkFisico": "v/os-simpsons-s19e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S19E14 🌀",
+          "linkFisico": "v/os-simpsons-s19e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S19E15 🌀",
+          "linkFisico": "v/os-simpsons-s19e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S19E16 🌀",
+          "linkFisico": "v/os-simpsons-s19e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S19E17 🌀",
+          "linkFisico": "v/os-simpsons-s19e17.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S19E18 🌀",
+          "linkFisico": "v/os-simpsons-s19e18.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S19E19 🌀",
+          "linkFisico": "v/os-simpsons-s19e19.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S19E20 🌀",
+          "linkFisico": "v/os-simpsons-s19e20.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        }
+      ],
+      "20": [
+        {
+          "tit": "S20E01 🌀",
+          "linkFisico": "v/os-simpsons-s20e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S20E02 🌀",
+          "linkFisico": "v/os-simpsons-s20e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S20E03 🌀",
+          "linkFisico": "v/os-simpsons-s20e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S20E04 🌀",
+          "linkFisico": "v/os-simpsons-s20e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S20E05 🌀",
+          "linkFisico": "v/os-simpsons-s20e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S20E06 🌀",
+          "linkFisico": "v/os-simpsons-s20e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S20E07 🌀",
+          "linkFisico": "v/os-simpsons-s20e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S20E08 🌀",
+          "linkFisico": "v/os-simpsons-s20e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S20E09 🌀",
+          "linkFisico": "v/os-simpsons-s20e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S20E10 🌀",
+          "linkFisico": "v/os-simpsons-s20e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S20E11 🌀",
+          "linkFisico": "v/os-simpsons-s20e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S20E12 🌀",
+          "linkFisico": "v/os-simpsons-s20e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S20E13 🌀",
+          "linkFisico": "v/os-simpsons-s20e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S20E14 🌀",
+          "linkFisico": "v/os-simpsons-s20e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S20E15 🌀",
+          "linkFisico": "v/os-simpsons-s20e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S20E16 🌀",
+          "linkFisico": "v/os-simpsons-s20e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S20E17 🌀",
+          "linkFisico": "v/os-simpsons-s20e17.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S20E18 🌀",
+          "linkFisico": "v/os-simpsons-s20e18.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S20E19 🌀",
+          "linkFisico": "v/os-simpsons-s20e19.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S20E20 🌀",
+          "linkFisico": "v/os-simpsons-s20e20.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S20E21 🌀",
+          "linkFisico": "v/os-simpsons-s20e21.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        }
+      ],
+      "21": [
+        {
+          "tit": "S21E01 🌀",
+          "linkFisico": "v/os-simpsons-s21e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S21E02 🌀",
+          "linkFisico": "v/os-simpsons-s21e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S21E03 🌀",
+          "linkFisico": "v/os-simpsons-s21e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S21E04 🌀",
+          "linkFisico": "v/os-simpsons-s21e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S21E05 🌀",
+          "linkFisico": "v/os-simpsons-s21e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S21E06 🌀",
+          "linkFisico": "v/os-simpsons-s21e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S21E07 🌀",
+          "linkFisico": "v/os-simpsons-s21e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S21E08 🌀",
+          "linkFisico": "v/os-simpsons-s21e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S21E09 🌀",
+          "linkFisico": "v/os-simpsons-s21e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S21E10 🌀",
+          "linkFisico": "v/os-simpsons-s21e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S21E11 🌀",
+          "linkFisico": "v/os-simpsons-s21e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S21E12 🌀",
+          "linkFisico": "v/os-simpsons-s21e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S21E13 🌀",
+          "linkFisico": "v/os-simpsons-s21e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S21E14 🌀",
+          "linkFisico": "v/os-simpsons-s21e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S21E15 🌀",
+          "linkFisico": "v/os-simpsons-s21e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S21E16 🌀",
+          "linkFisico": "v/os-simpsons-s21e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S21E17 🌀",
+          "linkFisico": "v/os-simpsons-s21e17.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S21E18 🌀",
+          "linkFisico": "v/os-simpsons-s21e18.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S21E19 🌀",
+          "linkFisico": "v/os-simpsons-s21e19.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S21E20 🌀",
+          "linkFisico": "v/os-simpsons-s21e20.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S21E21 🌀",
+          "linkFisico": "v/os-simpsons-s21e21.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S21E22 🌀",
+          "linkFisico": "v/os-simpsons-s21e22.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S21E23 🌀",
+          "linkFisico": "v/os-simpsons-s21e23.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        }
+      ],
+      "22": [
+        {
+          "tit": "S22E01 🌀",
+          "linkFisico": "v/os-simpsons-s22e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S22E02 🌀",
+          "linkFisico": "v/os-simpsons-s22e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S22E03 🌀",
+          "linkFisico": "v/os-simpsons-s22e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S22E04 🌀",
+          "linkFisico": "v/os-simpsons-s22e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S22E05 🌀",
+          "linkFisico": "v/os-simpsons-s22e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S22E06 🌀",
+          "linkFisico": "v/os-simpsons-s22e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S22E07 🌀",
+          "linkFisico": "v/os-simpsons-s22e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S22E08 🌀",
+          "linkFisico": "v/os-simpsons-s22e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S22E09 🌀",
+          "linkFisico": "v/os-simpsons-s22e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S22E10 🌀",
+          "linkFisico": "v/os-simpsons-s22e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S22E11 🌀",
+          "linkFisico": "v/os-simpsons-s22e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S22E12 🌀",
+          "linkFisico": "v/os-simpsons-s22e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S22E13 🌀",
+          "linkFisico": "v/os-simpsons-s22e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S22E14 🌀",
+          "linkFisico": "v/os-simpsons-s22e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S22E15 🌀",
+          "linkFisico": "v/os-simpsons-s22e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S22E16 🌀",
+          "linkFisico": "v/os-simpsons-s22e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S22E17 🌀",
+          "linkFisico": "v/os-simpsons-s22e17.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S22E18 🌀",
+          "linkFisico": "v/os-simpsons-s22e18.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S22E19 🌀",
+          "linkFisico": "v/os-simpsons-s22e19.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S22E20 🌀",
+          "linkFisico": "v/os-simpsons-s22e20.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S22E21 🌀",
+          "linkFisico": "v/os-simpsons-s22e21.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S22E22 🌀",
+          "linkFisico": "v/os-simpsons-s22e22.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        }
+      ],
+      "23": [
+        {
+          "tit": "S23E01 🌀",
+          "linkFisico": "v/os-simpsons-s23e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S23E02 🌀",
+          "linkFisico": "v/os-simpsons-s23e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S23E03 🌀",
+          "linkFisico": "v/os-simpsons-s23e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S23E04 🌀",
+          "linkFisico": "v/os-simpsons-s23e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S23E05 🌀",
+          "linkFisico": "v/os-simpsons-s23e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S23E06 🌀",
+          "linkFisico": "v/os-simpsons-s23e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S23E07 🌀",
+          "linkFisico": "v/os-simpsons-s23e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S23E08 🌀",
+          "linkFisico": "v/os-simpsons-s23e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S23E09 🌀",
+          "linkFisico": "v/os-simpsons-s23e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S23E10 🌀",
+          "linkFisico": "v/os-simpsons-s23e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S23E11 🌀",
+          "linkFisico": "v/os-simpsons-s23e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S23E12 🌀",
+          "linkFisico": "v/os-simpsons-s23e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S23E13 🌀",
+          "linkFisico": "v/os-simpsons-s23e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S23E14 🌀",
+          "linkFisico": "v/os-simpsons-s23e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S23E15 🌀",
+          "linkFisico": "v/os-simpsons-s23e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S23E16 🌀",
+          "linkFisico": "v/os-simpsons-s23e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S23E17 🌀",
+          "linkFisico": "v/os-simpsons-s23e17.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S23E18 🌀",
+          "linkFisico": "v/os-simpsons-s23e18.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S23E19 🌀",
+          "linkFisico": "v/os-simpsons-s23e19.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S23E20 🌀",
+          "linkFisico": "v/os-simpsons-s23e20.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S23E21 🌀",
+          "linkFisico": "v/os-simpsons-s23e21.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S23E22 🌀",
+          "linkFisico": "v/os-simpsons-s23e22.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        }
+      ],
+      "24": [
+        {
+          "tit": "S24E01 🌀",
+          "linkFisico": "v/os-simpsons-s24e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S24E02 🌀",
+          "linkFisico": "v/os-simpsons-s24e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S24E03 🌀",
+          "linkFisico": "v/os-simpsons-s24e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S24E04 🌀",
+          "linkFisico": "v/os-simpsons-s24e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S24E05 🌀",
+          "linkFisico": "v/os-simpsons-s24e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S24E06 🌀",
+          "linkFisico": "v/os-simpsons-s24e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S24E07 🌀",
+          "linkFisico": "v/os-simpsons-s24e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S24E08 🌀",
+          "linkFisico": "v/os-simpsons-s24e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S24E09 🌀",
+          "linkFisico": "v/os-simpsons-s24e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S24E10 🌀",
+          "linkFisico": "v/os-simpsons-s24e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S24E11 🌀",
+          "linkFisico": "v/os-simpsons-s24e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S24E12 🌀",
+          "linkFisico": "v/os-simpsons-s24e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S24E13 🌀",
+          "linkFisico": "v/os-simpsons-s24e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S24E14 🌀",
+          "linkFisico": "v/os-simpsons-s24e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S24E15 🌀",
+          "linkFisico": "v/os-simpsons-s24e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S24E16 🌀",
+          "linkFisico": "v/os-simpsons-s24e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S24E17 🌀",
+          "linkFisico": "v/os-simpsons-s24e17.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S24E18 🌀",
+          "linkFisico": "v/os-simpsons-s24e18.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S24E19 🌀",
+          "linkFisico": "v/os-simpsons-s24e19.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S24E20 🌀",
+          "linkFisico": "v/os-simpsons-s24e20.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S24E21 🌀",
+          "linkFisico": "v/os-simpsons-s24e21.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S24E22 🌀",
+          "linkFisico": "v/os-simpsons-s24e22.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        }
+      ],
+      "25": [
+        {
+          "tit": "S25E01 🌀",
+          "linkFisico": "v/os-simpsons-s25e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S25E02 🌀",
+          "linkFisico": "v/os-simpsons-s25e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S25E03 🌀",
+          "linkFisico": "v/os-simpsons-s25e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S25E04 🌀",
+          "linkFisico": "v/os-simpsons-s25e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S25E05 🌀",
+          "linkFisico": "v/os-simpsons-s25e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S25E06 🌀",
+          "linkFisico": "v/os-simpsons-s25e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S25E07 🌀",
+          "linkFisico": "v/os-simpsons-s25e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S25E08 🌀",
+          "linkFisico": "v/os-simpsons-s25e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S25E09 🌀",
+          "linkFisico": "v/os-simpsons-s25e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S25E10 🌀",
+          "linkFisico": "v/os-simpsons-s25e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S25E11 🌀",
+          "linkFisico": "v/os-simpsons-s25e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S25E12 🌀",
+          "linkFisico": "v/os-simpsons-s25e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S25E13 🌀",
+          "linkFisico": "v/os-simpsons-s25e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S25E14 🌀",
+          "linkFisico": "v/os-simpsons-s25e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S25E15 🌀",
+          "linkFisico": "v/os-simpsons-s25e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S25E16 🌀",
+          "linkFisico": "v/os-simpsons-s25e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S25E17 🌀",
+          "linkFisico": "v/os-simpsons-s25e17.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S25E18 🌀",
+          "linkFisico": "v/os-simpsons-s25e18.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S25E19 🌀",
+          "linkFisico": "v/os-simpsons-s25e19.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S25E20 🌀",
+          "linkFisico": "v/os-simpsons-s25e20.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S25E21 🌀",
+          "linkFisico": "v/os-simpsons-s25e21.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S25E22 🌀",
+          "linkFisico": "v/os-simpsons-s25e22.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        }
+      ],
+      "26": [
+        {
+          "tit": "S26E01 🌀",
+          "linkFisico": "v/os-simpsons-s26e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S26E02 🌀",
+          "linkFisico": "v/os-simpsons-s26e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S26E03 🌀",
+          "linkFisico": "v/os-simpsons-s26e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S26E04 🌀",
+          "linkFisico": "v/os-simpsons-s26e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S26E05 🌀",
+          "linkFisico": "v/os-simpsons-s26e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S26E06 🌀",
+          "linkFisico": "v/os-simpsons-s26e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S26E07 🌀",
+          "linkFisico": "v/os-simpsons-s26e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S26E08 🌀",
+          "linkFisico": "v/os-simpsons-s26e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S26E09 🌀",
+          "linkFisico": "v/os-simpsons-s26e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S26E10 🌀",
+          "linkFisico": "v/os-simpsons-s26e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S26E11 🌀",
+          "linkFisico": "v/os-simpsons-s26e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S26E12 🌀",
+          "linkFisico": "v/os-simpsons-s26e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S26E13 🌀",
+          "linkFisico": "v/os-simpsons-s26e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S26E14 🌀",
+          "linkFisico": "v/os-simpsons-s26e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S26E15 🌀",
+          "linkFisico": "v/os-simpsons-s26e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S26E16 🌀",
+          "linkFisico": "v/os-simpsons-s26e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S26E17 🌀",
+          "linkFisico": "v/os-simpsons-s26e17.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S26E18 🌀",
+          "linkFisico": "v/os-simpsons-s26e18.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S26E19 🌀",
+          "linkFisico": "v/os-simpsons-s26e19.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S26E20 🌀",
+          "linkFisico": "v/os-simpsons-s26e20.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S26E21 🌀",
+          "linkFisico": "v/os-simpsons-s26e21.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S26E22 🌀",
+          "linkFisico": "v/os-simpsons-s26e22.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        }
+      ],
+      "27": [
+        {
+          "tit": "S27E01 🌀",
+          "linkFisico": "v/os-simpsons-s27e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S27E02 🌀",
+          "linkFisico": "v/os-simpsons-s27e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S27E03 🌀",
+          "linkFisico": "v/os-simpsons-s27e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S27E04 🌀",
+          "linkFisico": "v/os-simpsons-s27e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S27E05 🌀",
+          "linkFisico": "v/os-simpsons-s27e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S27E06 🌀",
+          "linkFisico": "v/os-simpsons-s27e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S27E07 🌀",
+          "linkFisico": "v/os-simpsons-s27e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S27E08 🌀",
+          "linkFisico": "v/os-simpsons-s27e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S27E09 🌀",
+          "linkFisico": "v/os-simpsons-s27e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S27E10 🌀",
+          "linkFisico": "v/os-simpsons-s27e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S27E11 🌀",
+          "linkFisico": "v/os-simpsons-s27e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S27E12 🌀",
+          "linkFisico": "v/os-simpsons-s27e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S27E13 🌀",
+          "linkFisico": "v/os-simpsons-s27e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S27E14 🌀",
+          "linkFisico": "v/os-simpsons-s27e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S27E15 🌀",
+          "linkFisico": "v/os-simpsons-s27e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S27E16 🌀",
+          "linkFisico": "v/os-simpsons-s27e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S27E17 🌀",
+          "linkFisico": "v/os-simpsons-s27e17.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S27E18 🌀",
+          "linkFisico": "v/os-simpsons-s27e18.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S27E19 🌀",
+          "linkFisico": "v/os-simpsons-s27e19.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S27E20 🌀",
+          "linkFisico": "v/os-simpsons-s27e20.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S27E21 🌀",
+          "linkFisico": "v/os-simpsons-s27e21.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S27E22 🌀",
+          "linkFisico": "v/os-simpsons-s27e22.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        }
+      ],
+      "28": [
+        {
+          "tit": "S28E01 🌀",
+          "linkFisico": "v/os-simpsons-s28e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S28E02 🌀",
+          "linkFisico": "v/os-simpsons-s28e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S28E03 🌀",
+          "linkFisico": "v/os-simpsons-s28e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S28E04 🌀",
+          "linkFisico": "v/os-simpsons-s28e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S28E05 🌀",
+          "linkFisico": "v/os-simpsons-s28e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S28E06 🌀",
+          "linkFisico": "v/os-simpsons-s28e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S28E07 🌀",
+          "linkFisico": "v/os-simpsons-s28e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S28E08 🌀",
+          "linkFisico": "v/os-simpsons-s28e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S28E09 🌀",
+          "linkFisico": "v/os-simpsons-s28e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S28E10 🌀",
+          "linkFisico": "v/os-simpsons-s28e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S28E11 🌀",
+          "linkFisico": "v/os-simpsons-s28e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S28E12 🌀",
+          "linkFisico": "v/os-simpsons-s28e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S28E13 🌀",
+          "linkFisico": "v/os-simpsons-s28e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S28E14 🌀",
+          "linkFisico": "v/os-simpsons-s28e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S28E15 🌀",
+          "linkFisico": "v/os-simpsons-s28e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S28E16 🌀",
+          "linkFisico": "v/os-simpsons-s28e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S28E17 🌀",
+          "linkFisico": "v/os-simpsons-s28e17.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S28E18 🌀",
+          "linkFisico": "v/os-simpsons-s28e18.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S28E19 🌀",
+          "linkFisico": "v/os-simpsons-s28e19.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S28E20 🌀",
+          "linkFisico": "v/os-simpsons-s28e20.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S28E21 🌀",
+          "linkFisico": "v/os-simpsons-s28e21.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S28E22 🌀",
+          "linkFisico": "v/os-simpsons-s28e22.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        }
+      ],
+      "29": [
+        {
+          "tit": "S29E01 🌀",
+          "linkFisico": "v/os-simpsons-s29e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S29E02 🌀",
+          "linkFisico": "v/os-simpsons-s29e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S29E03 🌀",
+          "linkFisico": "v/os-simpsons-s29e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S29E04 🌀",
+          "linkFisico": "v/os-simpsons-s29e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S29E05 🌀",
+          "linkFisico": "v/os-simpsons-s29e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S29E06 🌀",
+          "linkFisico": "v/os-simpsons-s29e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S29E07 🌀",
+          "linkFisico": "v/os-simpsons-s29e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S29E08 🌀",
+          "linkFisico": "v/os-simpsons-s29e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S29E09 🌀",
+          "linkFisico": "v/os-simpsons-s29e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S29E10 🌀",
+          "linkFisico": "v/os-simpsons-s29e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S29E11 🌀",
+          "linkFisico": "v/os-simpsons-s29e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S29E12 🌀",
+          "linkFisico": "v/os-simpsons-s29e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S29E13 🌀",
+          "linkFisico": "v/os-simpsons-s29e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S29E14 🌀",
+          "linkFisico": "v/os-simpsons-s29e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S29E15 🌀",
+          "linkFisico": "v/os-simpsons-s29e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S29E16 🌀",
+          "linkFisico": "v/os-simpsons-s29e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S29E17 🌀",
+          "linkFisico": "v/os-simpsons-s29e17.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S29E18 🌀",
+          "linkFisico": "v/os-simpsons-s29e18.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S29E19 🌀",
+          "linkFisico": "v/os-simpsons-s29e19.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S29E20 🌀",
+          "linkFisico": "v/os-simpsons-s29e20.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S29E21 🌀",
+          "linkFisico": "v/os-simpsons-s29e21.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        }
+      ],
+      "30": [
+        {
+          "tit": "S30E01 🌀",
+          "linkFisico": "v/os-simpsons-s30e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S30E02 🌀",
+          "linkFisico": "v/os-simpsons-s30e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S30E03 🌀",
+          "linkFisico": "v/os-simpsons-s30e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S30E04 🌀",
+          "linkFisico": "v/os-simpsons-s30e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S30E05 🌀",
+          "linkFisico": "v/os-simpsons-s30e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S30E06 🌀",
+          "linkFisico": "v/os-simpsons-s30e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S30E07 🌀",
+          "linkFisico": "v/os-simpsons-s30e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S30E08 🌀",
+          "linkFisico": "v/os-simpsons-s30e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S30E09 🌀",
+          "linkFisico": "v/os-simpsons-s30e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S30E10 🌀",
+          "linkFisico": "v/os-simpsons-s30e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S30E11 🌀",
+          "linkFisico": "v/os-simpsons-s30e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S30E12 🌀",
+          "linkFisico": "v/os-simpsons-s30e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S30E13 🌀",
+          "linkFisico": "v/os-simpsons-s30e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S30E14 🌀",
+          "linkFisico": "v/os-simpsons-s30e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S30E15 🌀",
+          "linkFisico": "v/os-simpsons-s30e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S30E16 🌀",
+          "linkFisico": "v/os-simpsons-s30e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S30E17 🌀",
+          "linkFisico": "v/os-simpsons-s30e17.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S30E18 🌀",
+          "linkFisico": "v/os-simpsons-s30e18.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S30E19 🌀",
+          "linkFisico": "v/os-simpsons-s30e19.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S30E20 🌀",
+          "linkFisico": "v/os-simpsons-s30e20.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S30E21 🌀",
+          "linkFisico": "v/os-simpsons-s30e21.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S30E22 🌀",
+          "linkFisico": "v/os-simpsons-s30e22.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S30E23 🌀",
+          "linkFisico": "v/os-simpsons-s30e23.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        }
+      ],
+      "31": [
+        {
+          "tit": "S31E01 🌀",
+          "linkFisico": "v/os-simpsons-s31e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S31E02 🌀",
+          "linkFisico": "v/os-simpsons-s31e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S31E03 🌀",
+          "linkFisico": "v/os-simpsons-s31e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S31E04 🌀",
+          "linkFisico": "v/os-simpsons-s31e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S31E05 🌀",
+          "linkFisico": "v/os-simpsons-s31e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S31E06 🌀",
+          "linkFisico": "v/os-simpsons-s31e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S31E07 🌀",
+          "linkFisico": "v/os-simpsons-s31e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S31E08 🌀",
+          "linkFisico": "v/os-simpsons-s31e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S31E09 🌀",
+          "linkFisico": "v/os-simpsons-s31e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S31E10 🌀",
+          "linkFisico": "v/os-simpsons-s31e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S31E11 🌀",
+          "linkFisico": "v/os-simpsons-s31e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S31E12 🌀",
+          "linkFisico": "v/os-simpsons-s31e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S31E13 🌀",
+          "linkFisico": "v/os-simpsons-s31e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S31E14 🌀",
+          "linkFisico": "v/os-simpsons-s31e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S31E15 🌀",
+          "linkFisico": "v/os-simpsons-s31e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S31E16 🌀",
+          "linkFisico": "v/os-simpsons-s31e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S31E17 🌀",
+          "linkFisico": "v/os-simpsons-s31e17.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S31E18 🌀",
+          "linkFisico": "v/os-simpsons-s31e18.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S31E19 🌀",
+          "linkFisico": "v/os-simpsons-s31e19.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S31E20 🌀",
+          "linkFisico": "v/os-simpsons-s31e20.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S31E21 🌀",
+          "linkFisico": "v/os-simpsons-s31e21.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S31E22 🌀",
+          "linkFisico": "v/os-simpsons-s31e22.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        }
+      ],
+      "32": [
+        {
+          "tit": "S32E01 🌀",
+          "linkFisico": "v/os-simpsons-s32e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S32E02 🌀",
+          "linkFisico": "v/os-simpsons-s32e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S32E03 🌀",
+          "linkFisico": "v/os-simpsons-s32e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S32E04 🌀",
+          "linkFisico": "v/os-simpsons-s32e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S32E05 🌀",
+          "linkFisico": "v/os-simpsons-s32e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S32E06 🌀",
+          "linkFisico": "v/os-simpsons-s32e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S32E07 🌀",
+          "linkFisico": "v/os-simpsons-s32e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S32E08 🌀",
+          "linkFisico": "v/os-simpsons-s32e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S32E09 🌀",
+          "linkFisico": "v/os-simpsons-s32e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S32E10 🌀",
+          "linkFisico": "v/os-simpsons-s32e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S32E11 🌀",
+          "linkFisico": "v/os-simpsons-s32e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S32E12 🌀",
+          "linkFisico": "v/os-simpsons-s32e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S32E13 🌀",
+          "linkFisico": "v/os-simpsons-s32e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S32E14 🌀",
+          "linkFisico": "v/os-simpsons-s32e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S32E15 🌀",
+          "linkFisico": "v/os-simpsons-s32e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S32E16 🌀",
+          "linkFisico": "v/os-simpsons-s32e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S32E17 🌀",
+          "linkFisico": "v/os-simpsons-s32e17.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S32E18 🌀",
+          "linkFisico": "v/os-simpsons-s32e18.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S32E19 🌀",
+          "linkFisico": "v/os-simpsons-s32e19.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S32E20 🌀",
+          "linkFisico": "v/os-simpsons-s32e20.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S32E21 🌀",
+          "linkFisico": "v/os-simpsons-s32e21.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S32E22 🌀",
+          "linkFisico": "v/os-simpsons-s32e22.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        }
+      ],
+      "33": [
+        {
+          "tit": "S33E01 🌀",
+          "linkFisico": "v/os-simpsons-s33e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S33E02 🌀",
+          "linkFisico": "v/os-simpsons-s33e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S33E03 🌀",
+          "linkFisico": "v/os-simpsons-s33e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S33E04 🌀",
+          "linkFisico": "v/os-simpsons-s33e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S33E05 🌀",
+          "linkFisico": "v/os-simpsons-s33e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S33E06 🌀",
+          "linkFisico": "v/os-simpsons-s33e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S33E07 🌀",
+          "linkFisico": "v/os-simpsons-s33e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S33E08 🌀",
+          "linkFisico": "v/os-simpsons-s33e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S33E09 🌀",
+          "linkFisico": "v/os-simpsons-s33e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S33E10 🌀",
+          "linkFisico": "v/os-simpsons-s33e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S33E11 🌀",
+          "linkFisico": "v/os-simpsons-s33e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S33E12 🌀",
+          "linkFisico": "v/os-simpsons-s33e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S33E13 🌀",
+          "linkFisico": "v/os-simpsons-s33e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S33E14 🌀",
+          "linkFisico": "v/os-simpsons-s33e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S33E15 🌀",
+          "linkFisico": "v/os-simpsons-s33e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S33E16 🌀",
+          "linkFisico": "v/os-simpsons-s33e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S33E17 🌀",
+          "linkFisico": "v/os-simpsons-s33e17.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S33E18 🌀",
+          "linkFisico": "v/os-simpsons-s33e18.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S33E19 🌀",
+          "linkFisico": "v/os-simpsons-s33e19.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S33E20 🌀",
+          "linkFisico": "v/os-simpsons-s33e20.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S33E21 🌀",
+          "linkFisico": "v/os-simpsons-s33e21.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S33E22 🌀",
+          "linkFisico": "v/os-simpsons-s33e22.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        }
+      ],
+      "34": [
+        {
+          "tit": "S34E01 🌀",
+          "linkFisico": "v/os-simpsons-s34e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S34E02 🌀",
+          "linkFisico": "v/os-simpsons-s34e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S34E03 🌀",
+          "linkFisico": "v/os-simpsons-s34e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S34E04 🌀",
+          "linkFisico": "v/os-simpsons-s34e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S34E05 🌀",
+          "linkFisico": "v/os-simpsons-s34e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S34E06 🌀",
+          "linkFisico": "v/os-simpsons-s34e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S34E07 🌀",
+          "linkFisico": "v/os-simpsons-s34e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S34E08 🌀",
+          "linkFisico": "v/os-simpsons-s34e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S34E09 🌀",
+          "linkFisico": "v/os-simpsons-s34e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S34E10 🌀",
+          "linkFisico": "v/os-simpsons-s34e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S34E11 🌀",
+          "linkFisico": "v/os-simpsons-s34e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S34E12 🌀",
+          "linkFisico": "v/os-simpsons-s34e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S34E13 🌀",
+          "linkFisico": "v/os-simpsons-s34e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S34E14 🌀",
+          "linkFisico": "v/os-simpsons-s34e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S34E15 🌀",
+          "linkFisico": "v/os-simpsons-s34e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S34E16 🌀",
+          "linkFisico": "v/os-simpsons-s34e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S34E17 🌀",
+          "linkFisico": "v/os-simpsons-s34e17.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S34E18 🌀",
+          "linkFisico": "v/os-simpsons-s34e18.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S34E19 🌀",
+          "linkFisico": "v/os-simpsons-s34e19.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S34E20 🌀",
+          "linkFisico": "v/os-simpsons-s34e20.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S34E21 🌀",
+          "linkFisico": "v/os-simpsons-s34e21.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S34E22 🌀",
+          "linkFisico": "v/os-simpsons-s34e22.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        }
+      ],
+      "35": [
+        {
+          "tit": "S35E01 🌀",
+          "linkFisico": "v/os-simpsons-s35e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S35E02 🌀",
+          "linkFisico": "v/os-simpsons-s35e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S35E03 🌀",
+          "linkFisico": "v/os-simpsons-s35e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S35E04 🌀",
+          "linkFisico": "v/os-simpsons-s35e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S35E05 🌀",
+          "linkFisico": "v/os-simpsons-s35e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S35E06 🌀",
+          "linkFisico": "v/os-simpsons-s35e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S35E07 🌀",
+          "linkFisico": "v/os-simpsons-s35e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S35E08 🌀",
+          "linkFisico": "v/os-simpsons-s35e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S35E09 🌀",
+          "linkFisico": "v/os-simpsons-s35e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S35E10 🌀",
+          "linkFisico": "v/os-simpsons-s35e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S35E11 🌀",
+          "linkFisico": "v/os-simpsons-s35e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S35E12 🌀",
+          "linkFisico": "v/os-simpsons-s35e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S35E13 🌀",
+          "linkFisico": "v/os-simpsons-s35e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S35E14 🌀",
+          "linkFisico": "v/os-simpsons-s35e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S35E15 🌀",
+          "linkFisico": "v/os-simpsons-s35e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S35E16 🌀",
+          "linkFisico": "v/os-simpsons-s35e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S35E17 🌀",
+          "linkFisico": "v/os-simpsons-s35e17.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S35E18 🌀",
+          "linkFisico": "v/os-simpsons-s35e18.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        }
+      ],
+      "36": [
+        {
+          "tit": "S36E01 🌀",
+          "linkFisico": "v/os-simpsons-s36e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S36E02 🌀",
+          "linkFisico": "v/os-simpsons-s36e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S36E03 🌀",
+          "linkFisico": "v/os-simpsons-s36e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S36E04 🌀",
+          "linkFisico": "v/os-simpsons-s36e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S36E05 🌀",
+          "linkFisico": "v/os-simpsons-s36e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S36E06 🌀",
+          "linkFisico": "v/os-simpsons-s36e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S36E07 🌀",
+          "linkFisico": "v/os-simpsons-s36e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S36E08 🌀",
+          "linkFisico": "v/os-simpsons-s36e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S36E09 🌀",
+          "linkFisico": "v/os-simpsons-s36e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S36E10 🌀",
+          "linkFisico": "v/os-simpsons-s36e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S36E11 🌀",
+          "linkFisico": "v/os-simpsons-s36e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S36E12 🌀",
+          "linkFisico": "v/os-simpsons-s36e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S36E13 🌀",
+          "linkFisico": "v/os-simpsons-s36e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S36E14 🌀",
+          "linkFisico": "v/os-simpsons-s36e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S36E15 🌀",
+          "linkFisico": "v/os-simpsons-s36e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S36E16 🌀",
+          "linkFisico": "v/os-simpsons-s36e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S36E17 🌀",
+          "linkFisico": "v/os-simpsons-s36e17.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S36E18 🌀",
+          "linkFisico": "v/os-simpsons-s36e18.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        }
+      ],
+      "37": [
+        {
+          "tit": "S37E01 🌀",
+          "linkFisico": "v/os-simpsons-s37e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S37E02 🌀",
+          "linkFisico": "v/os-simpsons-s37e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S37E03 🌀",
+          "linkFisico": "v/os-simpsons-s37e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S37E04 🌀",
+          "linkFisico": "v/os-simpsons-s37e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S37E05 🌀",
+          "linkFisico": "v/os-simpsons-s37e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S37E06 🌀",
+          "linkFisico": "v/os-simpsons-s37e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S37E07 🌀",
+          "linkFisico": "v/os-simpsons-s37e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S37E08 🌀",
+          "linkFisico": "v/os-simpsons-s37e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S37E09 🌀",
+          "linkFisico": "v/os-simpsons-s37e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S37E10 🌀",
+          "linkFisico": "v/os-simpsons-s37e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S37E11 🌀",
+          "linkFisico": "v/os-simpsons-s37e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S37E12 🌀",
+          "linkFisico": "v/os-simpsons-s37e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S37E13 🌀",
+          "linkFisico": "v/os-simpsons-s37e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S37E14 🌀",
+          "linkFisico": "v/os-simpsons-s37e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
+        },
+        {
+          "tit": "S37E15 🌀",
+          "linkFisico": "v/os-simpsons-s37e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1E5ZrSaxz2nucQZJZSgmkyq1fIf.jpg"
         }
       ]
     }
