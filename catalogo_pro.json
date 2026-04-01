@@ -39927,5 +39927,27 @@
         }
       ]
     }
+  },
+  {
+    "id": "sem-remorso",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "Sem Remorso 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/uHEZ4ZMziIjlAgCTQAEh9ROvtj0.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/v5nM0bmVL2Cs4GRO6C5kf3xwZSq.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/lEFqDnRx4SQsjxG8p9ajaSBkAU1.png",
+    "sinopse": "Um fuzileiro naval de elite descobre uma conspiração internacional enquanto busca justiça pelo assassinato de sua esposa grávida.",
+    "nota": "6.9",
+    "avaliacao": "6.9",
+    "classificacao": "16",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/sem-remorso.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/v5nM0bmVL2Cs4GRO6C5kf3xwZSq.jpg"
+        }
+      ]
+    }
   }
 ]
