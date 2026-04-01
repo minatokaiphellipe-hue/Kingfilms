@@ -39949,5 +39949,27 @@
         }
       ]
     }
+  },
+  {
+    "id": "lanterna-verde-primeiro-voo",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Lanterna Verde: Primeiro Vôo 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/ifUEtuvQeIrVh9ajaxMWKBBsDwx.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/t0cBA6eDp7AeeeZrULWVHnQEKkQ.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/ceviWZsf18Lvrq0yO8wQ6ZtbbAE.png",
+    "sinopse": "Depois de receber das mãos de uma lienígena um anel eu lhe dá poderes sobre-humanos, o piloto Hal Jordan entra para a Tropa dos Lanternas Verdes, onde é supervisionado pelo respeitado Sinestro, Quando Jordan descobre que seu supervisor é na verdade o cabeça de uma conspiração que ameaça a filosofia e as tradições da Tropa, ele busca dominar rapidamente seus novos poderes para combater os traidores e manter a ordem no universo.",
+    "nota": "7.0",
+    "avaliacao": "7.0",
+    "classificacao": "12",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/lanterna-verde-primeiro-voo.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t0cBA6eDp7AeeeZrULWVHnQEKkQ.jpg"
+        }
+      ]
+    }
   }
 ]
