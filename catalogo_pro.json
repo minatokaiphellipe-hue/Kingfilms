@@ -39905,5 +39905,27 @@
         }
       ]
     }
+  },
+  {
+    "id": "guerra-sem-regras",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "Guerra Sem Regras 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/oVC6BPY8DlvjssARKyDVDEWFw27.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/3rAmcwWP1C1POpSI3mqUQcKWg7P.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/7kiMrDS87ixDv6bn50m8E3haztv.png",
+    "sinopse": "O Exército Britânico recruta um reduzido grupo de soldados altamente qualificados para lutar contra as forças alemãs durante a Segunda Guerra Mundial.",
+    "nota": "7.0",
+    "avaliacao": "7.0",
+    "classificacao": "16",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/guerra-sem-regras.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/3rAmcwWP1C1POpSI3mqUQcKWg7P.jpg"
+        }
+      ]
+    }
   }
 ]
