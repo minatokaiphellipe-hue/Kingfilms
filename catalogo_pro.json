@@ -39971,5 +39971,27 @@
         }
       ]
     }
+  },
+  {
+    "id": "percy-jackson-e-o-ladrao-de-raios",
+    "tipo": "filme",
+    "categoria": "Fantasia",
+    "titulo": "Percy Jackson e o Ladrão de Raios 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/nuQFRVgKAXZNmjJhNuPO0dXcZqn.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/gbVlx7RXKnbDTIp8ev4EhcAPlQ3.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/kKihjVts16c4TTzjMovOnfNhWr2.png",
+    "sinopse": "O adolescente Percy Jackson descobre que os deuses gregos e as criaturas mitológicas são reais. Ele é filho de uma divindade e logo entra para um acampamento de treinamento para semideuses. Enquanto tenta se adaptar a seus novos poderes, ele descobre que o Raio-Mestre do poderoso Zeus foi roubado e ele é o principal suspeito. Assim, ele tenta solucionar o mistério junto com seus novos amigos, Grover e Annabeth.",
+    "nota": "6.2",
+    "avaliacao": "6.2",
+    "classificacao": "12",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/percy-jackson-e-o-ladrao-de-raios.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gbVlx7RXKnbDTIp8ev4EhcAPlQ3.jpg"
+        }
+      ]
+    }
   }
 ]
