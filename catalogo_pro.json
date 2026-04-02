@@ -40037,5 +40037,27 @@
         }
       ]
     }
+  },
+  {
+    "id": "pica-pau-as-ferias-no-acampamento",
+    "tipo": "filme",
+    "categoria": "Comédia",
+    "titulo": "Pica-Pau: As Férias no Acampamento 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/dtZcntP9YCOi04iga6tR6UnZqAO.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/752m4vp0ludL1bmhWGF9BLZhCz2.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/5AaLLRFlBOMzrXNjNJc5bycsdUa.png",
+    "sinopse": "Após ser expulso da floresta, o Pica-Pau acha que encontrou seu novo lar no Acampamento Woo Hoo. Até que um inspetor ameaça fechar tudo!",
+    "nota": "6.4",
+    "avaliacao": "6.4",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/pica-pau-as-ferias-no-acampamento.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/752m4vp0ludL1bmhWGF9BLZhCz2.jpg"
+        }
+      ]
+    }
   }
 ]
