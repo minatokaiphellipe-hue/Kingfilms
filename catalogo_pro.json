@@ -206,26 +206,6 @@
     }
   },
   {
-    "id": "a-casa-monstro",
-    "tipo": "filme",
-    "categoria": "Animações",
-    "titulo": "A Casa Monstro 🌀",
-    "logo": "https://image.tmdb.org/t/p/w780/qBEpDF693Bql7roL6LY3SsNHg52.jpg",
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/9qqHOVBfuU2gZd3GGFHRMObIWft.jpg",
-    "sinopse": "D.J. Walters é um garoto de 12 anos que acredita que há algo de estranho na casa do velho Epaminondas, localizada do outro lado da rua. Tudo que passa perto da casa simplesmente desaparece, incluindo triciclos, brinquedos e animais de estimação. Na véspera do Dia das Bruxas, D.J. e seu amigo Bocão deixam a bola de basquete com a qual estão jogando cair no terreno de Epaminondas, que logo some misteriosamente. Logo em seguida, a casa tenta devorar Jenny, uma vendedora de doces, que é salva do ataque. Eles tentam avisar a todos do perigo que é a casa, mas ninguém acredita neles.",
-    "avaliacao": "6.7",
-    "classificacao": "Livre",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "Assistir 🌀",
-          "linkFisico": "v/a-casa-monstro.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/9qqHOVBfuU2gZd3GGFHRMObIWft.jpg"
-        }
-      ]
-    }
-  },
-  {
     "id": "a-era-do-gelo",
     "tipo": "filme",
     "categoria": "Animações",
@@ -40056,6 +40036,28 @@
           "tit": "Assistir 🌀",
           "linkFisico": "v/pica-pau-as-ferias-no-acampamento.html",
           "logoEp": "https://image.tmdb.org/t/p/w1280/752m4vp0ludL1bmhWGF9BLZhCz2.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "a-casa-monstro",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "A Casa Monstro 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/qBEpDF693Bql7roL6LY3SsNHg52.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/9qqHOVBfuU2gZd3GGFHRMObIWft.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/i1HgBRRi2y8tMWFhYY61e6NFHqB.png",
+    "sinopse": "D.J. Walters é um garoto de 12 anos que acredita que há algo de estranho na casa do velho Epaminondas, localizada do outro lado da rua. Tudo que passa perto da casa simplesmente desaparece, incluindo triciclos, brinquedos e animais de estimação. Na véspera do Dia das Bruxas, D.J. e seu amigo Bocão deixam a bola de basquete com a qual estão jogando cair no terreno de Epaminondas, que logo some misteriosamente. Logo em seguida, a casa tenta devorar Jenny, uma vendedora de doces, que é salva do ataque. Eles tentam avisar a todos do perigo que é a casa, mas ninguém acredita neles.",
+    "nota": "6.7",
+    "avaliacao": "6.7",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/a-casa-monstro.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/9qqHOVBfuU2gZd3GGFHRMObIWft.jpg"
         }
       ]
     }
