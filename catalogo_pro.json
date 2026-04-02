@@ -39993,5 +39993,27 @@
         }
       ]
     }
+  },
+  {
+    "id": "percy-jackson-e-o-mar-de-monstros",
+    "tipo": "filme",
+    "categoria": "Fantasia",
+    "titulo": "Percy Jackson e o Mar de Monstros 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/izLw6mf5coAJZV6n9wDfbYWXXHW.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/ylZ8Yr5NguHA5d6jocncu9SNsgJ.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/yfsxuvmHrpJ6Cw9Y5wxQCzIi3Fv.png",
+    "sinopse": "Percy e seus amigos estão na busca pelo Velocino de Ouro, o único artefato mágico capaz de proteger o Acampamento Meio-Sangue da destruição. É com essa missão que ele e outros campistas partem para uma eletrizante viagem pelo Mar de Monstros, onde deparam com seres fantásticos, perigos e situações inusitadas, que põem à prova seu heroísmo e sua herança. Está em jogo a existência de seu refúgio predileto e, até então, o lugar mais seguro do mundo para eles.",
+    "nota": "6.0",
+    "avaliacao": "6.0",
+    "classificacao": "10",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/percy-jackson-e-o-mar-de-monstros.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/ylZ8Yr5NguHA5d6jocncu9SNsgJ.jpg"
+        }
+      ]
+    }
   }
 ]
