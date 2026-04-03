@@ -21638,27 +21638,6 @@
     }
   },
   {
-    "id": "o-bicho-vai-pegar",
-    "tipo": "filme",
-    "categoria": "Animações",
-    "titulo": "O Bicho Vai Pegar 🌀",
-    "logo": "https://image.tmdb.org/t/p/w780/t6n81JDmbKnjjdagHmPx3gSGVNr.jpg",
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/oMV1hgeGNRuMVHLvssJNH0BRgm7.jpg",
-    "sinopse": "Boog, um urso pardo domesticado sem instinto de sobrevivência, vê seu mundo virar de cabeça para baixo quando ele conhece Elliot, um esquelético alce falante. Eles unem forças com as criaturas da floresta para restabelecer o controle de volta à natureza!",
-    "nota": "6.2",
-    "avaliacao": "6.2",
-    "classificacao": "Livre",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "Assistir 🌀",
-          "linkFisico": "v/o-bicho-vai-pegar.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/oMV1hgeGNRuMVHLvssJNH0BRgm7.jpg"
-        }
-      ]
-    }
-  },
-  {
     "id": "o-bom-dinossauro",
     "tipo": "filme",
     "categoria": "Animações",
@@ -40128,6 +40107,28 @@
           "tit": "Assistir 🌀",
           "linkFisico": "v/gato-de-botas.html",
           "logoEp": "https://image.tmdb.org/t/p/w1280/sAwE57kT5pLHlMQb3mETgh42lS2.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "o-bicho-vai-pegar",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "O Bicho Vai Pegar 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/t6n81JDmbKnjjdagHmPx3gSGVNr.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/oMV1hgeGNRuMVHLvssJNH0BRgm7.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/aY9iE1VhXqHWmigpQuxrw2YD5wd.png",
+    "sinopse": "Boog, um urso pardo domesticado sem instinto de sobrevivência, vê seu mundo virar de cabeça para baixo quando ele conhece Elliot, um esquelético alce falante. Eles unem forças com as criaturas da floresta para restabelecer o controle de volta à natureza!",
+    "nota": "6.2",
+    "avaliacao": "6.2",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/o-bicho-vai-pegar.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/oMV1hgeGNRuMVHLvssJNH0BRgm7.jpg"
         }
       ]
     }
