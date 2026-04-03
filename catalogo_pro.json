@@ -40061,5 +40061,27 @@
         }
       ]
     }
+  },
+  {
+    "id": "13-horas-os-soldados-secretos-de-benghazi",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "13 Horas: Os Soldados Secretos de Benghazi 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/K4lEgO47Axbidt5MJo5KljpP3G.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/sj2kcq3iCdWobmdipW42lHji3e5.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/i7JfIdcoE6lYXCavzHFe7oV9Xz4.png",
+    "sinopse": "Seis membros de um grupo de elite da Marinha americana defendem o Consulado dos Estados Unidos em Bengazi, Líbia, alvo de um ataque terrorista que causou a morte do embaixador J. Christopher Stevens em 2012.",
+    "nota": "7.3",
+    "avaliacao": "7.3",
+    "classificacao": "16",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/13-horas-os-soldados-secretos-de-benghazi.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/sj2kcq3iCdWobmdipW42lHji3e5.jpg"
+        }
+      ]
+    }
   }
 ]
