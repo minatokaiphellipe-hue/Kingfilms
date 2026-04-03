@@ -30,9 +30,7 @@
             background: rgba(15, 23, 42, 0.6); padding: 15px; border-radius: 10px;
             border: 1px solid #334155; max-width: 600px; margin-left: auto; margin-right: auto;
         }
-        .server-selector label {
-            cursor: pointer; font-size: 14px; font-weight: 600; display: flex; align-items: center; gap: 8px;
-        }
+        .server-selector label { cursor: pointer; font-size: 14px; font-weight: 600; display: flex; align-items: center; gap: 8px; }
 
         input[type="text"] {
             width: 100%; padding: 15px; background: var(--input-bg);
@@ -134,23 +132,15 @@
 
 <div class="container">
     <h1>KINGFILMS STUDIO</h1>
-    <p class="subtitle">Central Multi-Servidores (Life10 e Hubby.cx)</p>
+    <p class="subtitle">Central Multi-Servidores (Life10 e Hubby.cx) - HASH ENCRYPTED</p>
 
     <div class="server-selector">
-        <label>
-            <input type="radio" name="server_choice" value="life10" checked style="accent-color: var(--brand-green);">
-            🟢 Life10 (Novo)
-        </label>
-        <label>
-            <input type="radio" name="server_choice" value="hubby" style="accent-color: var(--brand-blue);">
-            🔵 Hubby.cx (Antigo)
-        </label>
+        <label><input type="radio" name="server_choice" value="life10" checked style="accent-color: var(--brand-green);">🟢 Life10 (Novo)</label>
+        <label><input type="radio" name="server_choice" value="hubby" style="accent-color: var(--brand-blue);">🔵 Hubby.cx (Antigo)</label>
     </div>
 
     <div id="area-conexao" class="upload-area">
-        <p style="font-size: 13px; color: var(--text-muted); margin-top: 0;">
-            1. Descarregue o ficheiro JSON do servidor correspondente.<br>2. Selecione-o no botão abaixo:
-        </p>
+        <p style="font-size: 13px; color: var(--text-muted); margin-top: 0;">1. Descarregue o ficheiro JSON do servidor.<br>2. Selecione-o no botão abaixo:</p>
         <label for="file-input" class="btn-upload">📂 ESCOLHER FICHEIRO JSON</label>
         <input type="file" id="file-input" accept=".json,.txt,.htm,.html" onchange="mostrarNomeFicheiro()">
         <div id="file-name">Nenhum ficheiro selecionado.</div>
@@ -176,9 +166,7 @@
     let bancoDeDados = [];
 
     document.querySelectorAll('input[name="server_choice"]').forEach(radio => {
-        radio.addEventListener('change', () => {
-            if(bancoDeDados.length > 0) filtrarResultados(true);
-        });
+        radio.addEventListener('change', () => { if(bancoDeDados.length > 0) filtrarResultados(true); });
     });
 
     function mostrarNomeFicheiro() {
@@ -204,7 +192,6 @@
                         tempDiv.innerHTML = texto;
                         texto = tempDiv.innerText || tempDiv.textContent;
                     }
-
                     bancoDeDados = JSON.parse(texto.trim());
                     if (!Array.isArray(bancoDeDados)) throw new Error("Lista inválida.");
 
@@ -212,7 +199,6 @@
                     btn.style.display = 'none';
                     document.getElementById('area-busca').style.display = 'block';
                     document.getElementById('contador').innerText = `✅ Vitrine Armada! ${bancoDeDados.length.toLocaleString('pt-BR')} conteúdos na memória.`;
-                    
                     document.getElementById('busca-input').focus();
                     filtrarResultados(true);
                 } catch (erro) { 
@@ -253,10 +239,13 @@
                     let linkBruto = "";
 
                     if (serverChoice === 'life10') {
-                        linkProtegido = `https://kingfilms-api.onrender.com/vip/play?id=${id}`;
+                        // ASSINATURA '-m-kf' indica Filme do Life10
+                        let hashF = btoa(id + "-m-kf").replace(/=/g, '');
+                        linkProtegido = `https://kingfilms-api.onrender.com/vip/play?hash=${hashF}`;
                         linkBruto = `http://life10.top:80/movie/969003341029/006662669402/${id}.${ext}`;
                     } else {
-                        linkProtegido = `https://kingfilms-api.onrender.com/indicaai/filme?nome=${id}`;
+                        let hashH = btoa(id + "-kf").replace(/=/g, '');
+                        linkProtegido = `https://kingfilms-api.onrender.com/indicaai/filme?hash=${hashH}`;
                         linkBruto = `http://hubby.cx/movie/playcine-vods/gKQJjXulgb/${id}.${ext}`;
                     }
                     
@@ -264,7 +253,6 @@
                     <div style="margin-top: auto;">
                         <div class="label-link" style="color: #4ade80;">✅ Link Protegido (Render):</div>
                         <div class="card-link" style="background:#064e3b; color:#fff; border-color:#059669;" title="Clique para copiar">${linkProtegido}</div>
-                        
                         <div class="label-link" style="color: #ef4444;">⚠️ Link Bruto (Perigoso):</div>
                         <div class="card-link" style="color:#ef4444; border-color:#ef4444;" title="Link Bruto">${linkBruto}</div>
                     </div>`;
@@ -276,7 +264,7 @@
                     <div class="card-content">
                         ${badge}
                         <div class="card-title">${item.name || "Sem Nome"}</div>
-                        <div class="card-id">ID: ${id}</div>
+                        <div class="card-id">ID Oculto</div>
                         ${acaoBase}
                     </div>
                 </div>`;
@@ -296,13 +284,9 @@
         titulo.innerText = nomeSerie;
         conteudo.innerHTML = "<p style='text-align:center; color:#fbbf24; font-weight:bold;'>⏳ Acionando Múltiplos Proxies para evitar cortes... Aguarde!</p>";
 
-        let urlApi = "";
-        
-        if (serverChoice === 'life10') {
-            urlApi = `http://life10.top:80/player_api.php?username=969003341029&password=006662669402&action=get_series_info&series_id=${serieId}`;
-        } else {
-            urlApi = `http://hubby.cx/player_api.php?username=playcine-vods&password=gKQJjXulgb&action=get_series_info&series_id=${serieId}`;
-        }
+        let urlApi = serverChoice === 'life10' 
+            ? `http://life10.top:80/player_api.php?username=969003341029&password=006662669402&action=get_series_info&series_id=${serieId}`
+            : `http://hubby.cx/player_api.php?username=playcine-vods&password=gKQJjXulgb&action=get_series_info&series_id=${serieId}`;
         
         let proxies = [
             "https://corsproxy.io/?" + encodeURIComponent(urlApi),
@@ -310,102 +294,64 @@
             "https://api.allorigins.win/raw?url=" + encodeURIComponent(urlApi)
         ];
 
-        let dados = null;
-        let erroFinal = "";
+        let dados = null; let erroFinal = "";
 
         for (let p of proxies) {
             try {
                 let res = await fetch(p);
                 if (!res.ok) continue;
-                
                 let text = await res.text();
-                dados = JSON.parse(text); 
-                break; 
-            } catch(e) {
-                erroFinal = e.message;
-            }
+                dados = JSON.parse(text); break; 
+            } catch(e) { erroFinal = e.message; }
         }
 
         try {
-            if (!dados) throw new Error(`O servidor cortou a resposta. Tente novamente! (${erroFinal})`);
+            if (!dados) throw new Error(`Servidor falhou. (${erroFinal})`);
+            if (!dados.episodes || Object.keys(dados.episodes).length === 0) { conteudo.innerHTML = "<p style='color:#ef4444;'>❌ Sem episódios disponíveis.</p>"; return; }
 
-            if (!dados.episodes || Object.keys(dados.episodes).length === 0) {
-                conteudo.innerHTML = "<p style='color:#ef4444;'>❌ O servidor IPTV não tem episódios disponíveis para esta série.</p>";
-                return;
-            }
-
-            // Botão Mágico de Copiar Tudo
             let htmlTemp = `<button class="btn-copy-all" onclick="copiarTudo()">📋 COPIAR TODOS OS LINKS PROTEGIDOS DE UMA VEZ</button>`;
 
             for (let temp in dados.episodes) {
                 htmlTemp += `<div class="temporada-title">▶ Temporada ${temp}</div>`;
                 dados.episodes[temp].forEach(ep => {
-                    let linkBruto = "";
-                    let linkProtegido = "";
-                    let ext = ep.container_extension || 'mp4';
+                    let linkBruto = ""; let linkProtegido = ""; let ext = ep.container_extension || 'mp4';
 
                     if (serverChoice === 'life10') {
-                        // Life10 com a URL Render gerada automaticamente e pronta a copiar!
-                        linkProtegido = `https://kingfilms-api.onrender.com/vip/play?id=${ep.id}`;
+                        // ASSINATURA '-s-kf' indica Série do Life10
+                        let hashE = btoa(ep.id + "-s-kf").replace(/=/g, '');
+                        linkProtegido = `https://kingfilms-api.onrender.com/vip/play?hash=${hashE}`;
                         linkBruto = `http://life10.top:80/series/969003341029/006662669402/${ep.id}.${ext}`;
-                        htmlTemp += `
-                        <div class="ep-card">
-                            <div class="ep-title">Ep ${ep.episode_num} - ${ep.title || 'Episódio'}</div>
-                            
-                            <div class="label-link" style="color: #4ade80;">✅ Protegido (Render):</div>
-                            <div class="card-link link-alvo-copia" style="background:#064e3b; color:#fff; border-color:#059669;" title="Clique para copiar">${linkProtegido}</div>
-                            
-                            <div class="label-link" style="color: #ef4444;">⚠️ Bruto (Perigoso):</div>
-                            <div class="card-link" style="color:#ef4444; border-color:#ef4444;" title="Clique para copiar">${linkBruto}</div>
-                        </div>`;
                     } else {
-                        linkProtegido = `https://kingfilms-api.onrender.com/indicaai/episodio?id=${ep.id}`;
+                        let hashE = btoa(ep.id + "-kf").replace(/=/g, '');
+                        linkProtegido = `https://kingfilms-api.onrender.com/indicaai/episodio?hash=${hashE}`;
                         linkBruto = `http://hubby.cx/series/playcine-vods/gKQJjXulgb/${ep.id}.${ext}`;
-                        htmlTemp += `
-                        <div class="ep-card">
-                            <div class="ep-title">Ep ${ep.episode_num} - ${ep.title || 'Episódio'}</div>
-                            
-                            <div class="label-link" style="color: #4ade80;">✅ Protegido:</div>
-                            <div class="card-link link-alvo-copia" style="background:#064e3b; color:#fff; border-color:#059669;" title="Clique para copiar">${linkProtegido}</div>
-                            
-                            <div class="label-link" style="color: #ef4444;">⚠️ Bruto:</div>
-                            <div class="card-link" style="color:#ef4444; border-color:#ef4444;" title="Clique para copiar">${linkBruto}</div>
-                        </div>`;
                     }
+                    
+                    htmlTemp += `
+                    <div class="ep-card">
+                        <div class="ep-title">Ep ${ep.episode_num} - ${ep.title || 'Episódio'}</div>
+                        <div class="label-link" style="color: #4ade80;">✅ Protegido (Render):</div>
+                        <div class="card-link link-alvo-copia" style="background:#064e3b; color:#fff; border-color:#059669;" title="Clique para copiar">${linkProtegido}</div>
+                        <div class="label-link" style="color: #ef4444;">⚠️ Bruto (Perigoso):</div>
+                        <div class="card-link" style="color:#ef4444; border-color:#ef4444;" title="Clique para copiar">${linkBruto}</div>
+                    </div>`;
                 });
             }
- conteudo.innerHTML = htmlTemp;
-
-        } catch(e) {
-            conteudo.innerHTML = `<p style='color:#ef4444;'>❌ Erro ao extrair: ${e.message}</p>`;
-        }
+            conteudo.innerHTML = htmlTemp;
+        } catch(e) { conteudo.innerHTML = `<p style='color:#ef4444;'>❌ Erro ao extrair: ${e.message}</p>`; }
     }
 
-    // FUNÇÃO QUE FAZ A MÁGICA DE COPIAR TUDO (E AGORA PUXA OS SEUS LINKS PROTEGIDOS)
     window.copiarTudo = function() {
         let elementos = document.querySelectorAll('.link-alvo-copia');
         let links = [];
-        elementos.forEach(el => {
-            links.push(el.innerText.trim());
-        });
-
-        if(links.length === 0) {
-            alert("Nenhum link encontrado!");
-            return;
-        }
-
-        let textoFinal = links.join("\n");
-
-        navigator.clipboard.writeText(textoFinal).then(() => {
-            alert(`✅ Sucesso! ${links.length} links protegidos foram copiados para a área de transferência.\n\nAgora é só colar na caixa de texto do KINGFILMS PRO!`);
-        }).catch(err => {
-            alert("❌ Ocorreu um erro ao copiar. O seu navegador pode ter bloqueado a ação.");
-        });
+        elementos.forEach(el => { links.push(el.innerText.trim()); });
+        if(links.length === 0) return alert("Nenhum link encontrado!");
+        navigator.clipboard.writeText(links.join("\n")).then(() => {
+            alert(`✅ Sucesso! ${links.length} links protegidos copiados!`);
+        }).catch(err => { alert("❌ Erro ao copiar."); });
     }
 
-    function fecharModal() {
-        document.getElementById('modal-episodios').style.display = 'none';
-    }
+    function fecharModal() { document.getElementById('modal-episodios').style.display = 'none'; }
 </script>
 </body>
 </html>
