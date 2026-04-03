@@ -40105,5 +40105,27 @@
         }
       ]
     }
+  },
+  {
+    "id": "caminhos-do-crime",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "Caminhos do Crime 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/3u8Pr8WF9hqMptlnuYL52YXSs8F.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/7RRMxsusImGmVmN8AURGGvtNBSz.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/zE3O6uWTqiRaM839l0lot3i66uU.png",
+    "sinopse": "Um ladrão enigmático realiza assaltos de alto risco ao longo da icônica rodovia 101. Quando ele mira o golpe de sua vida — na esperança de que este seja seu último trabalho —, seu caminho cruza com o de uma corretora de seguros desiludida, forçando os dois a colaborar. Determinado a desvendar o caso, um detetive implacável se aproxima da operação.",
+    "nota": "7.0",
+    "avaliacao": "7.0",
+    "classificacao": "14",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/caminhos-do-crime.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/7RRMxsusImGmVmN8AURGGvtNBSz.jpg"
+        }
+      ]
+    }
   }
 ]
