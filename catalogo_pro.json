@@ -22318,46 +22318,6 @@
     }
   },
   {
-    "id": "os-incriveis",
-    "tipo": "filme",
-    "categoria": "Animações",
-    "titulo": "Os Incríveis 🌀",
-    "logo": "https://image.tmdb.org/t/p/w780/z8k5EhZZTLsCRF8NWjSe6snWNZg.jpg",
-    "sinopse": "Beto Pêra e sua mulher Helena estavam entre os maiores super-heróis do mundo, salvando inúmeras vidas e combatendo o mal diariamente. Quinze anos depois, eles foram forçados a adotar novas identidades e a mudar-se para o subúrbio, onde vivem como cidadãos comuns com seus três filhos, Violeta, Flecha e Zezé. Louco para voltar à ação, Beto tem a sua chance quando uma misteriosa ligação o intima a comparecer a uma ilha distante para receber uma missão ultra-secreta. Ele logo descobre que só uma família inteira de super-heróis será capaz de salvar o mundo e impedir sua total destruição.",
-    "avaliacao": "7.7",
-    "classificacao": "Livre",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "Assistir 🌀",
-          "linkFisico": "v/os-incriveis.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/n8NVp21C7Xx3mPVgaZhVEb1iXcs.jpg"
-        }
-      ]
-    },
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/lxwzY9vNwjDgxWKt3zZ6zcU6rEJ.jpg"
-  },
-  {
-    "id": "os-incriveis-2",
-    "tipo": "filme",
-    "categoria": "Animações",
-    "titulo": "Os Incríveis 2 🌀",
-    "logo": "https://image.tmdb.org/t/p/w780/6et98yxnctR6uH16x3uJuIVKsPf.jpg",
-    "sinopse": "Helena é chamada para liderar uma campanha para trazer os superheróis de volta. Enquanto Roberto deve enfrentar os desafios heroicos do dia a dia da vida doméstica. Mas quando um novo vilão aparece com um plano brilhante e perigoso, a família Pêra enfrenta o desafio juntos  com Gelado do lado deles.",
-    "avaliacao": "7.5",
-    "classificacao": "Livre",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "Assistir 🌀",
-          "linkFisico": "v/os-incriveis-2.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/nJbu3xpE9mz0MrvuhG9dc4lzemK.jpg"
-        }
-      ]
-    },
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/mabuNsGJgRuCTuGqjFkWe1xdu19.jpg"
-  },
-  {
     "id": "os-jovens-titas",
     "tipo": "serie",
     "categoria": "Séries",
@@ -37906,6 +37866,50 @@
           "tit": "Assistir 🌀",
           "linkFisico": "v/a-origem-dos-guardioes.html",
           "logoEp": "https://image.tmdb.org/t/p/w1280/oMeKKWJcQMBN5c7hnOcVn0Juzxx.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "os-incriveis",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Os Incríveis 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/z8k5EhZZTLsCRF8NWjSe6snWNZg.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/n8NVp21C7Xx3mPVgaZhVEb1iXcs.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/xjCHaP3gEe9KMz8d9He9Fiz4hTl.png",
+    "sinopse": "Beto Pêra e sua mulher Helena estavam entre os maiores super-heróis do mundo, salvando inúmeras vidas e combatendo o mal diariamente. Quinze anos depois, eles foram forçados a adotar novas identidades e a mudar-se para o subúrbio, onde vivem como cidadãos comuns com seus três filhos, Violeta, Flecha e Zezé. Louco para voltar à ação, Beto tem a sua chance quando uma misteriosa ligação o intima a comparecer a uma ilha distante para receber uma missão ultra-secreta. Ele logo descobre que só uma família inteira de super-heróis será capaz de salvar o mundo e impedir sua total destruição.",
+    "nota": "7.7",
+    "avaliacao": "7.7",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/os-incriveis.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/n8NVp21C7Xx3mPVgaZhVEb1iXcs.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "os-incriveis-2",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Os Incríveis 2 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/6et98yxnctR6uH16x3uJuIVKsPf.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/nJbu3xpE9mz0MrvuhG9dc4lzemK.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/6IsQ77YPv3VcGrWZNr1mpxEx4OQ.png",
+    "sinopse": "Helena é chamada para liderar uma campanha para trazer os superheróis de volta. Enquanto Roberto deve enfrentar os desafios heroicos do dia a dia da vida doméstica. Mas quando um novo vilão aparece com um plano brilhante e perigoso, a família Pêra enfrenta o desafio juntos  com Gelado do lado deles.",
+    "nota": "7.5",
+    "avaliacao": "7.5",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/os-incriveis-2.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/nJbu3xpE9mz0MrvuhG9dc4lzemK.jpg"
         }
       ]
     }
