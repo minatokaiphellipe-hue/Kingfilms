@@ -40083,5 +40083,27 @@
         }
       ]
     }
+  },
+  {
+    "id": "ruidos",
+    "tipo": "filme",
+    "categoria": "Terror",
+    "titulo": "Ruídos 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/v2tmlVGfCZMOWWwSakXP2cKMFiB.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/eJMZTw3Bu9IzTcPb3qYyZuggpxX.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/pasfLvuMieMlWhXqcvUKqdVQibQ.png",
+    "sinopse": "Decidida a desvendar o mistério do desaparecimento de sua irmã, uma jovem com deficiência auditiva inicia uma investigação própria. O que começa como uma busca por respostas rapidamente se transforma em um pesadelo: ela passa a perceber sons estranhos e a notar uma presença maligna que a cerca, revelando uma nova e aterrorizante dimensão de sua deficiência.",
+    "nota": "6.7",
+    "avaliacao": "6.7",
+    "classificacao": "16",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/ruidos.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/eJMZTw3Bu9IzTcPb3qYyZuggpxX.jpg"
+        }
+      ]
+    }
   }
 ]
