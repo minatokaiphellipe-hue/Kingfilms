@@ -132,7 +132,7 @@
 
 <div class="container">
     <h1>KINGFILMS STUDIO</h1>
-    <p class="subtitle">Central Multi-Servidores (Life10 e Hubby.cx) - HASH ENCRYPTED</p>
+    <p class="subtitle">Central Multi-Servidores (IDs Visíveis)</p>
 
     <div class="server-selector">
         <label><input type="radio" name="server_choice" value="life10" checked style="accent-color: var(--brand-green);">🟢 Life10 (Novo)</label>
@@ -239,13 +239,12 @@
                     let linkBruto = "";
 
                     if (serverChoice === 'life10') {
-                        // ASSINATURA '-m-kf' indica Filme do Life10
-                        let hashF = btoa(id + "-m-kf").replace(/=/g, '');
-                        linkProtegido = `https://kingfilms-api.onrender.com/vip/play?hash=${hashF}`;
+                        // ID DE VOLTA NA URL
+                        linkProtegido = `https://kingfilms-api.onrender.com/vip/play?id=${id}`;
                         linkBruto = `http://life10.top:80/movie/969003341029/006662669402/${id}.${ext}`;
                     } else {
-                        let hashH = btoa(id + "-kf").replace(/=/g, '');
-                        linkProtegido = `https://kingfilms-api.onrender.com/indicaai/filme?hash=${hashH}`;
+                        // ID DE VOLTA NA URL
+                        linkProtegido = `https://kingfilms-api.onrender.com/indicaai/filme?nome=${id}`;
                         linkBruto = `http://hubby.cx/movie/playcine-vods/gKQJjXulgb/${id}.${ext}`;
                     }
                     
@@ -264,7 +263,7 @@
                     <div class="card-content">
                         ${badge}
                         <div class="card-title">${item.name || "Sem Nome"}</div>
-                        <div class="card-id">ID Oculto</div>
+                        <div class="card-id">ID: ${id}</div>
                         ${acaoBase}
                     </div>
                 </div>`;
@@ -317,13 +316,12 @@
                     let linkBruto = ""; let linkProtegido = ""; let ext = ep.container_extension || 'mp4';
 
                     if (serverChoice === 'life10') {
-                        // ASSINATURA '-s-kf' indica Série do Life10
-                        let hashE = btoa(ep.id + "-s-kf").replace(/=/g, '');
-                        linkProtegido = `https://kingfilms-api.onrender.com/vip/play?hash=${hashE}`;
+                        // IDs DE VOLTA. Adicionei &t=s de forma secreta para a API saber que é série!
+                        linkProtegido = `https://kingfilms-api.onrender.com/vip/play?id=${ep.id}&t=s`;
                         linkBruto = `http://life10.top:80/series/969003341029/006662669402/${ep.id}.${ext}`;
                     } else {
-                        let hashE = btoa(ep.id + "-kf").replace(/=/g, '');
-                        linkProtegido = `https://kingfilms-api.onrender.com/indicaai/episodio?hash=${hashE}`;
+                        // IDs DE VOLTA
+                        linkProtegido = `https://kingfilms-api.onrender.com/indicaai/episodio?id=${ep.id}`;
                         linkBruto = `http://hubby.cx/series/playcine-vods/gKQJjXulgb/${ep.id}.${ext}`;
                     }
                     
