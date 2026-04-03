@@ -40134,5 +40134,27 @@
         }
       ]
     }
+  },
+  {
+    "id": "o-segredo-dos-animais",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "O Segredo dos Animais 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/nG4eJPNA4M4odMPR9bso3RZUKOL.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/n9tMW9oB4k8NyxvY1dERthtZmLj.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/rhN072U48gpMACZphUkt8uKjIBG.png",
+    "sinopse": "Otis (Kevin James) é um bezerro de bem com a vida, que vive em uma fazenda e adora dançar, cantar e se divertir pregando peças nos humanos. Ao contrário de seus pais, Ben (Sam Elliott) e Miles (Danny Glover), Otis não está preocupado em esconder dos humanos os talentos que os animais da fazenda possuem. Até ser colocado à prova, quando precisa demonstrar coragem e responsabilidade.",
+    "nota": "5.9",
+    "avaliacao": "5.9",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/o-segredo-dos-animais.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/n9tMW9oB4k8NyxvY1dERthtZmLj.jpg"
+        }
+      ]
+    }
   }
 ]
