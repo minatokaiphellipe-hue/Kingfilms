@@ -40158,5 +40158,27 @@
         }
       ]
     }
+  },
+  {
+    "id": "duro-de-matar-3-a-vinganca",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "Duro de Matar 3: A Vingança 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/57Qa54Y9P4Vjr7kzcniQnzLqped.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/d7KPOsDKM9XFM9l4pMjAN5JJNmF.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/no2YS00tQ6uKsmbNAtNgS6f6Wx1.png",
+    "sinopse": "John McClane está separado da mulher e afastado da polícia. Mas um terrorista alemão começa a colocar bombas em lugares movimentados de Nova York e dá ao policial uma série de enigmas. Ele conta com a ajuda de Zeus para desvendar toda a trama e salvar muitas vidas.",
+    "nota": "7.3",
+    "avaliacao": "7.3",
+    "classificacao": "12",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/duro-de-matar-3-a-vinganca.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/d7KPOsDKM9XFM9l4pMjAN5JJNmF.jpg"
+        }
+      ]
+    }
   }
 ]
