@@ -184,28 +184,6 @@
     }
   },
   {
-    "id": "a-casa-de-cera",
-    "tipo": "filme",
-    "categoria": "Terror",
-    "titulo": "A Casa de Cera 🌀",
-    "logo": "https://image.tmdb.org/t/p/w780/ElZtqGvOxzI1SBR3cCmFkwKQu1.jpg",
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/wLThHQtp7eV5eXOofLWYI6susoq.jpg",
-    "logo_png": "https://image.tmdb.org/t/p/w500/3AdWCFAPb04hX5WpN3XapmDe5gJ.png",
-    "sinopse": "Um grupo de amigos da faculdade está a caminho de um jogo de futebol quando, em uma cidade fantasma, o carro quebra e são obrigados a procurar auxílio no único lugar que está aberto: o museu de cera local. Eles ficam impressionados com a perfeição das esculturas e logo percebem a razão de tanto realismo. Aterrorizados, fogem para não se transformarem em peças de museu.",
-    "nota": "6.0",
-    "avaliacao": "6.0",
-    "classificacao": "18",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "Assistir 🌀",
-          "linkFisico": "v/a-casa-de-cera.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/wLThHQtp7eV5eXOofLWYI6susoq.jpg"
-        }
-      ]
-    }
-  },
-  {
     "id": "a-era-do-gelo",
     "tipo": "filme",
     "categoria": "Animações",
@@ -40153,6 +40131,28 @@
           "tit": "Assistir 🌀",
           "linkFisico": "v/o-segredo-dos-animais.html",
           "logoEp": "https://image.tmdb.org/t/p/w1280/n9tMW9oB4k8NyxvY1dERthtZmLj.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "a-casa-de-cera",
+    "tipo": "filme",
+    "categoria": "Terror",
+    "titulo": "A Casa de Cera 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/ElZtqGvOxzI1SBR3cCmFkwKQu1.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/wLThHQtp7eV5eXOofLWYI6susoq.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/3AdWCFAPb04hX5WpN3XapmDe5gJ.png",
+    "sinopse": "Um grupo de amigos da faculdade está a caminho de um jogo de futebol quando, em uma cidade fantasma, o carro quebra e são obrigados a procurar auxílio no único lugar que está aberto: o museu de cera local. Eles ficam impressionados com a perfeição das esculturas e logo percebem a razão de tanto realismo. Aterrorizados, fogem para não se transformarem em peças de museu.",
+    "nota": "6.0",
+    "avaliacao": "6.0",
+    "classificacao": "18",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/a-casa-de-cera.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/wLThHQtp7eV5eXOofLWYI6susoq.jpg"
         }
       ]
     }
