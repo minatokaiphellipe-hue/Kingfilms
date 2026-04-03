@@ -17241,26 +17241,6 @@
     }
   },
   {
-    "id": "maquina-de-guerra",
-    "tipo": "filme",
-    "categoria": "Ação",
-    "titulo": "Máquina de Guerra 🌀",
-    "logo": "https://image.tmdb.org/t/p/w780/48h40o6Q97hZaqH0g7bOiXOrImX.jpg",
-    "sinopse": "Em sua última missão de treinamento, um engenheiro de combate precisa liderar sua equipe de elite em uma luta pela sobrevivência contra uma máquina mortal.",
-    "avaliacao": "7.2",
-    "classificacao": "16",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "Assistir 🌀",
-          "linkFisico": "v/maquina-de-guerra.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/xb1cAgidUKcOVxpXJWIEJmPpAvV.jpg"
-        }
-      ]
-    },
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/6yeVcxFR0j08vlv2OlL6zbewm4D.jpg"
-  },
-  {
     "id": "marcados-para-morrer",
     "tipo": "filme",
     "categoria": "Ação",
@@ -40153,6 +40133,28 @@
           "tit": "Assistir 🌀",
           "linkFisico": "v/a-casa-de-cera.html",
           "logoEp": "https://image.tmdb.org/t/p/w1280/wLThHQtp7eV5eXOofLWYI6susoq.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "maquina-de-guerra",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "Máquina de Guerra 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/48h40o6Q97hZaqH0g7bOiXOrImX.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/xb1cAgidUKcOVxpXJWIEJmPpAvV.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/jSfDwUKkL9qgQjbKsJi6e0Oy3sL.png",
+    "sinopse": "Em sua última missão de treinamento, um engenheiro de combate precisa liderar sua equipe de elite em uma luta pela sobrevivência contra uma máquina mortal.",
+    "nota": "7.3",
+    "avaliacao": "7.3",
+    "classificacao": "16",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/maquina-de-guerra.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/xb1cAgidUKcOVxpXJWIEJmPpAvV.jpg"
         }
       ]
     }
