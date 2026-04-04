@@ -39761,5 +39761,27 @@
         }
       ]
     }
+  },
+  {
+    "id": "panico-no-lago",
+    "tipo": "filme",
+    "categoria": "Terror",
+    "titulo": "Pânico no Lago 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/f6RxmeFAENVzko7j2GmXCSwPcCu.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/56Lw0cB1Reo4w5zqDVvGmzyQjtD.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/fD9u9RwbGnsLCerBpFSXCd8dLZ7.png",
+    "sinopse": "Depois da morte violenta de um navegador, o xerife de uma cidadezinha pede ajuda de um especialista em pesca e de uma paleontóloga, que têm de lidar com o aparecimento de um crocodilo imenso e extremamente agressivo que faz vítima atrás de vítima.",
+    "nota": "5.9",
+    "avaliacao": "5.9",
+    "classificacao": "18",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/panico-no-lago.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/56Lw0cB1Reo4w5zqDVvGmzyQjtD.jpg"
+        }
+      ]
+    }
   }
 ]
