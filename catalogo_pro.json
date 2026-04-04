@@ -39893,5 +39893,62 @@
         }
       ]
     }
+  },
+  {
+    "id": "algo-horrivel-vai-acontecer",
+    "tipo": "serie",
+    "categoria": "Séries",
+    "titulo": "Algo Horrível Vai Acontecer 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/lygFcZpcU5txuvRw1rkhkE1F7Ab.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/1mBt0KKBb6CgCY1klfNWeVq5xkW.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/vaS7rQTYELpW5xzONs5uJCy3qnQ.png",
+    "sinopse": "Uma noiva tem a sensação de que algo horrível vai acontecer no dia do seu casamento. E quanto mais a hora do “sim” se aproxima, pior fica.",
+    "nota": "6.7",
+    "avaliacao": "6.7",
+    "classificacao": "16",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "S01E01 🌀",
+          "linkFisico": "v/algo-horrivel-vai-acontecer-s01e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1mBt0KKBb6CgCY1klfNWeVq5xkW.jpg"
+        },
+        {
+          "tit": "S01E02 🌀",
+          "linkFisico": "v/algo-horrivel-vai-acontecer-s01e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1mBt0KKBb6CgCY1klfNWeVq5xkW.jpg"
+        },
+        {
+          "tit": "S01E03 🌀",
+          "linkFisico": "v/algo-horrivel-vai-acontecer-s01e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1mBt0KKBb6CgCY1klfNWeVq5xkW.jpg"
+        },
+        {
+          "tit": "S01E04 🌀",
+          "linkFisico": "v/algo-horrivel-vai-acontecer-s01e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1mBt0KKBb6CgCY1klfNWeVq5xkW.jpg"
+        },
+        {
+          "tit": "S01E05 🌀",
+          "linkFisico": "v/algo-horrivel-vai-acontecer-s01e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1mBt0KKBb6CgCY1klfNWeVq5xkW.jpg"
+        },
+        {
+          "tit": "S01E06 🌀",
+          "linkFisico": "v/algo-horrivel-vai-acontecer-s01e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1mBt0KKBb6CgCY1klfNWeVq5xkW.jpg"
+        },
+        {
+          "tit": "S01E07 🌀",
+          "linkFisico": "v/algo-horrivel-vai-acontecer-s01e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1mBt0KKBb6CgCY1klfNWeVq5xkW.jpg"
+        },
+        {
+          "tit": "S01E08 🌀",
+          "linkFisico": "v/algo-horrivel-vai-acontecer-s01e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1mBt0KKBb6CgCY1klfNWeVq5xkW.jpg"
+        }
+      ]
+    }
   }
 ]
