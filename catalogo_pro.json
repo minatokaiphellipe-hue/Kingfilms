@@ -37613,28 +37613,6 @@
     }
   },
   {
-    "id": "a-paixao-de-cristo",
-    "tipo": "filme",
-    "categoria": "Drama",
-    "titulo": "A Paixão de Cristo 🌀",
-    "logo": "https://image.tmdb.org/t/p/w780/d7QIYy7cyKz8mr6QzhdSekaKdlN.jpg",
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/d240UBMaCEXwJwjz7WgrVGrZQEQ.jpg",
-    "logo_png": "https://image.tmdb.org/t/p/w500/leZ0XXYE9WpDKoOj0WsQXdGM7UE.png",
-    "sinopse": "O filme narra as últimas 12 horas de Jesus Cristo, que, após ser traído por Judas, é preso e levado para o julgamento de Poncio Pilatos. Sem conseguir encontrar um motivo para sua condenação, ele sofre com a pressão popular, que pede a crucificação de Jesus.",
-    "nota": "7.5",
-    "avaliacao": "7.5",
-    "classificacao": "14",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "Assistir 🌀",
-          "linkFisico": "v/a-paixao-de-cristo.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/d240UBMaCEXwJwjz7WgrVGrZQEQ.jpg"
-        }
-      ]
-    }
-  },
-  {
     "id": "chernobyl",
     "tipo": "serie",
     "categoria": "Séries",
@@ -39670,6 +39648,28 @@
           "tit": "S02E26 🌀",
           "linkFisico": "v/os-vingadores-os-super-herois-mais-poderosos-da-terra-s02e26.html",
           "logoEp": "https://image.tmdb.org/t/p/w1280/gtJUZh2MZRaME1zxzgJ0QOsX3zm.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "a-paixao-de-cristo",
+    "tipo": "filme",
+    "categoria": "Drama",
+    "titulo": "A Paixão de Cristo 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/d7QIYy7cyKz8mr6QzhdSekaKdlN.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/d240UBMaCEXwJwjz7WgrVGrZQEQ.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/leZ0XXYE9WpDKoOj0WsQXdGM7UE.png",
+    "sinopse": "O filme narra as últimas 12 horas de Jesus Cristo, que, após ser traído por Judas, é preso e levado para o julgamento de Poncio Pilatos. Sem conseguir encontrar um motivo para sua condenação, ele sofre com a pressão popular, que pede a crucificação de Jesus.",
+    "nota": "7.5",
+    "avaliacao": "7.5",
+    "classificacao": "14",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/a-paixao-de-cristo.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/d240UBMaCEXwJwjz7WgrVGrZQEQ.jpg"
         }
       ]
     }
