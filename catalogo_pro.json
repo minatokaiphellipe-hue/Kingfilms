@@ -39673,5 +39673,27 @@
         }
       ]
     }
+  },
+  {
+    "id": "panico",
+    "tipo": "filme",
+    "categoria": "Terror",
+    "titulo": "Pânico 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/cJj2gYzkPFSqYGGOhfLgeANlXkB.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/uV12DreqrKYrMVS22YXmGhPKnt8.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/gYUCRhCQRZFGYhgE3Fp23mi2sm.png",
+    "sinopse": "Após uma série de mortes misteriosas, um grupo de amigos são ameaçados por um assassino. Em uma mistura de emoções fortes e muitos sustos, aqui a única coisa que se pode ter certeza é que todos são vítimas e todos são suspeitos.",
+    "nota": "7.4",
+    "avaliacao": "7.4",
+    "classificacao": "14",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/panico.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/uV12DreqrKYrMVS22YXmGhPKnt8.jpg"
+        }
+      ]
+    }
   }
 ]
