@@ -39849,5 +39849,27 @@
         }
       ]
     }
+  },
+  {
+    "id": "panico-no-lago-projeto-anaconda",
+    "tipo": "filme",
+    "categoria": "Terror",
+    "titulo": "Pânico no Lago: Projeto Anaconda 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/nrMexDnyEBfdXIJhW4CIBw5Izir.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/5VkjoTwSWFmBPUNehVTFvymWS9p.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/mpaw1wBrqiXxrAkopz5sXon3QZT.png",
+    "sinopse": "Quando um crocodilo colossal e uma cobra gigante entram em confronto, é preciso encontrar uma maneira de detê-los antes que destruam a cidade.",
+    "nota": "5.0",
+    "avaliacao": "5.0",
+    "classificacao": "18",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/panico-no-lago-projeto-anaconda.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/5VkjoTwSWFmBPUNehVTFvymWS9p.jpg"
+        }
+      ]
+    }
   }
 ]
