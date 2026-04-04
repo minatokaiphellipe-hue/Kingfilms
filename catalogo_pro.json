@@ -39895,6 +39895,50 @@
     }
   },
   {
+    "id": "verdade-ou-desafio",
+    "tipo": "filme",
+    "categoria": "Terror",
+    "titulo": "Verdade ou Desafio 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/oEIeZE4oBSTKjBMxQWNdGdI13a0.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/yclaWj28yktRHEy3hFbFVTC9E7.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/jqZ1jj5cyDDTtRlwE7gwqqqOOH.png",
+    "sinopse": "Olivia, Lucas e um grupo de amigos viajam ao México como uma despedida antes da formatura. Lá, um estranho convence um dos estudantes a jogar um aparentemente inofensivo jogo de verdade ou desafio com os outros. Ao começar, o jogo desperta algo maligno - um demônio que força os amigos a compartilharem segredos sombrios e confrontarem seus medos mais profundos. A regra é simples, porém cruel: fale a verdade ou morra, faça o desafio ou morra, e se parar de jogar, também morre.",
+    "nota": "5.9",
+    "avaliacao": "5.9",
+    "classificacao": "14",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/verdade-ou-desafio.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yclaWj28yktRHEy3hFbFVTC9E7.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "o-enforcador",
+    "tipo": "filme",
+    "categoria": "Terror",
+    "titulo": "O Enforcador 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/5MWVUSfuwnGJsjfdH6Y1l95FZbf.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/iEmovSH6anlipXNSFGXjSh8PlVW.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/oZO16DzYl7iSor0cGMHBimD7dxZ.png",
+    "sinopse": "O pai problemático Leon leva o filho para acampar nos Apalaches. Culto local invoca o maligno demônio Hangman. Filho desaparece. Leon precisa confrontar o culto e o monstro para encontrá-lo em meio ao aumento da contagem de corpos.",
+    "nota": "5.9",
+    "avaliacao": "5.9",
+    "classificacao": "14",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/o-enforcador.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/iEmovSH6anlipXNSFGXjSh8PlVW.jpg"
+        }
+      ]
+    }
+  },
+  {
     "id": "algo-horrivel-vai-acontecer",
     "tipo": "serie",
     "categoria": "Séries",
@@ -39947,50 +39991,6 @@
           "tit": "S01E08 🌀",
           "linkFisico": "v/algo-horrivel-vai-acontecer-s01e08.html",
           "logoEp": "https://image.tmdb.org/t/p/w1280/1mBt0KKBb6CgCY1klfNWeVq5xkW.jpg"
-        }
-      ]
-    }
-  },
-  {
-    "id": "verdade-ou-desafio",
-    "tipo": "filme",
-    "categoria": "Terror",
-    "titulo": "Verdade ou Desafio 🌀",
-    "logo": "https://image.tmdb.org/t/p/w780/oEIeZE4oBSTKjBMxQWNdGdI13a0.jpg",
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/yclaWj28yktRHEy3hFbFVTC9E7.jpg",
-    "logo_png": "https://image.tmdb.org/t/p/w500/jqZ1jj5cyDDTtRlwE7gwqqqOOH.png",
-    "sinopse": "Olivia, Lucas e um grupo de amigos viajam ao México como uma despedida antes da formatura. Lá, um estranho convence um dos estudantes a jogar um aparentemente inofensivo jogo de verdade ou desafio com os outros. Ao começar, o jogo desperta algo maligno - um demônio que força os amigos a compartilharem segredos sombrios e confrontarem seus medos mais profundos. A regra é simples, porém cruel: fale a verdade ou morra, faça o desafio ou morra, e se parar de jogar, também morre.",
-    "nota": "5.9",
-    "avaliacao": "5.9",
-    "classificacao": "14",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "Assistir 🌀",
-          "linkFisico": "v/verdade-ou-desafio.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/yclaWj28yktRHEy3hFbFVTC9E7.jpg"
-        }
-      ]
-    }
-  },
-  {
-    "id": "o-enforcador",
-    "tipo": "filme",
-    "categoria": "Terror",
-    "titulo": "O Enforcador 🌀",
-    "logo": "https://image.tmdb.org/t/p/w780/5MWVUSfuwnGJsjfdH6Y1l95FZbf.jpg",
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/iEmovSH6anlipXNSFGXjSh8PlVW.jpg",
-    "logo_png": "https://image.tmdb.org/t/p/w500/oZO16DzYl7iSor0cGMHBimD7dxZ.png",
-    "sinopse": "O pai problemático Leon leva o filho para acampar nos Apalaches. Culto local invoca o maligno demônio Hangman. Filho desaparece. Leon precisa confrontar o culto e o monstro para encontrá-lo em meio ao aumento da contagem de corpos.",
-    "nota": "5.9",
-    "avaliacao": "5.9",
-    "classificacao": "14",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "Assistir 🌀",
-          "linkFisico": "v/o-enforcador.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/iEmovSH6anlipXNSFGXjSh8PlVW.jpg"
         }
       ]
     }
