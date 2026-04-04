@@ -39972,5 +39972,27 @@
         }
       ]
     }
+  },
+  {
+    "id": "o-enforcador",
+    "tipo": "filme",
+    "categoria": "Terror",
+    "titulo": "O Enforcador 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/5MWVUSfuwnGJsjfdH6Y1l95FZbf.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/iEmovSH6anlipXNSFGXjSh8PlVW.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/oZO16DzYl7iSor0cGMHBimD7dxZ.png",
+    "sinopse": "O pai problemático Leon leva o filho para acampar nos Apalaches. Culto local invoca o maligno demônio Hangman. Filho desaparece. Leon precisa confrontar o culto e o monstro para encontrá-lo em meio ao aumento da contagem de corpos.",
+    "nota": "5.9",
+    "avaliacao": "5.9",
+    "classificacao": "14",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/o-enforcador.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/iEmovSH6anlipXNSFGXjSh8PlVW.jpg"
+        }
+      ]
+    }
   }
 ]
