@@ -39695,5 +39695,49 @@
         }
       ]
     }
+  },
+  {
+    "id": "panico-2",
+    "tipo": "filme",
+    "categoria": "Terror",
+    "titulo": "Pânico 2 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/8Oxm5IS9CsXulLXPUk0ddU6nRjk.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/nUWms0RAo3BR7wUA1wTRFEUg0EJ.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/30T8xOjtOcIwENoG2ChsIsnGMsY.png",
+    "sinopse": "Dois anos após o massacre em Woodsboro, Sidney Prescott e Randy Meeks estão tentando refazer suas vidas em uma nova cidade. Estudando no colégio de Windsor, eles vão lidar com uma nova onda de assassinatos quando o terrível psicopata retorna para assombrá-los nas vésperas do lançamento do filme baseado nos seus crimes.",
+    "nota": "6.5",
+    "avaliacao": "6.5",
+    "classificacao": "14",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/panico-2.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/nUWms0RAo3BR7wUA1wTRFEUg0EJ.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "panico-3",
+    "tipo": "filme",
+    "categoria": "Terror",
+    "titulo": "Pânico 3 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/mLBHils4UNaKVwYbYAiIJuv5Fdi.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/4peIwCkftM9fNCUKpgjYRBnbjPB.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/e3WW4hqsJdfJGPjwqIQGevL5AHl.png",
+    "sinopse": "Assassinatos levam uma jovem, um repórter e um ex-policial ao set de um filme de horror inspirado por acontecimentos aterrorizantes aos quais eles sobreviveram.",
+    "nota": "6.0",
+    "avaliacao": "6.0",
+    "classificacao": "18",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/panico-3.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/4peIwCkftM9fNCUKpgjYRBnbjPB.jpg"
+        }
+      ]
+    }
   }
 ]
