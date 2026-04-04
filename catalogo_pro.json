@@ -39675,28 +39675,6 @@
     }
   },
   {
-    "id": "panico",
-    "tipo": "filme",
-    "categoria": "Terror",
-    "titulo": "Pânico 🌀",
-    "logo": "https://image.tmdb.org/t/p/w780/cJj2gYzkPFSqYGGOhfLgeANlXkB.jpg",
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/uV12DreqrKYrMVS22YXmGhPKnt8.jpg",
-    "logo_png": "https://image.tmdb.org/t/p/w500/gYUCRhCQRZFGYhgE3Fp23mi2sm.png",
-    "sinopse": "Após uma série de mortes misteriosas, um grupo de amigos são ameaçados por um assassino. Em uma mistura de emoções fortes e muitos sustos, aqui a única coisa que se pode ter certeza é que todos são vítimas e todos são suspeitos.",
-    "nota": "7.4",
-    "avaliacao": "7.4",
-    "classificacao": "14",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "Assistir 🌀",
-          "linkFisico": "v/panico.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/uV12DreqrKYrMVS22YXmGhPKnt8.jpg"
-        }
-      ]
-    }
-  },
-  {
     "id": "panico-2",
     "tipo": "filme",
     "categoria": "Terror",
@@ -39736,6 +39714,50 @@
           "tit": "Assistir 🌀",
           "linkFisico": "v/panico-3.html",
           "logoEp": "https://image.tmdb.org/t/p/w1280/4peIwCkftM9fNCUKpgjYRBnbjPB.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "panico",
+    "tipo": "filme",
+    "categoria": "Terror",
+    "titulo": "Pânico 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/lvskZGlyH9LuGKO8OdBWQWTGlGx.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/lL4Ocurx63XTp3a9wpKKCGNFToe.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/qBxvoPU3tMKNaWGPT3puQjGK8uJ.png",
+    "sinopse": "Vinte e cinco anos após uma série de crimes brutais chocar a tranquila Woodsboro, um novo assassino se apropria da máscara de Ghostface e começa a perseguir um grupo de adolescentes para trazer à tona segredos do passado mortal da cidade.",
+    "nota": "6.7",
+    "avaliacao": "6.7",
+    "classificacao": "16",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/panico.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/lL4Ocurx63XTp3a9wpKKCGNFToe.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "panico-vi",
+    "tipo": "filme",
+    "categoria": "Terror",
+    "titulo": "Pânico VI 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/vSCqFktU5FzjtkW5XRlp8JndRdV.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/eXetMgoCgfkRW0g0fQWIZ7buHCq.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/jpoWafMj7KyvF9fFSb8z2hJD3Hq.png",
+    "sinopse": "Sam, Tara, Chad e Mindy, os quatro sobreviventes do massacre realizado pelo Ghostface, decidem deixar Woodsboro para trás em busca de um novo começo em uma cidade diferente. Mas não demora muito para eles se tornarem alvo de um novo serial killer mascarado.",
+    "nota": "7.0",
+    "avaliacao": "7.0",
+    "classificacao": "18",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/panico-vi.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/eXetMgoCgfkRW0g0fQWIZ7buHCq.jpg"
         }
       ]
     }
