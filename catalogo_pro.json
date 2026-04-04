@@ -37957,5 +37957,47 @@
         }
       ]
     }
+  },
+  {
+    "id": "chernobyl",
+    "tipo": "serie",
+    "categoria": "Séries",
+    "titulo": "Chernobyl 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/4wRS5xwa9ilqof1vPi9jFTCipTH.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/lwG78tb6wZoKE1UgrfqhK2JydTh.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/qsdq9j0ekTsBKp1ookIpTJrUkfS.png",
+    "sinopse": "Aqui é contada a história da explosão que aconteceu na Usina Nuclear de Chernobyl. Em 1986, na Ucrânia, o acidente dizimou dezenas de pessoas e acabou por se tornar o maior desastre nuclear da história. Enquanto o mundo lamentava o ocorrido, o cientista Valery Legasov (Jared Harris), a física Ulana Khomyuk (Emily Watson) e o vice-presidente do Conselho de Ministros Boris Shcherbina (Stellan Skarsgård) tentam descobrir as causas do acidente.",
+    "nota": "8.7",
+    "avaliacao": "8.7",
+    "classificacao": "16",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "S01E01 🌀",
+          "linkFisico": "v/chernobyl-s01e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/lwG78tb6wZoKE1UgrfqhK2JydTh.jpg"
+        },
+        {
+          "tit": "S01E02 🌀",
+          "linkFisico": "v/chernobyl-s01e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/lwG78tb6wZoKE1UgrfqhK2JydTh.jpg"
+        },
+        {
+          "tit": "S01E03 🌀",
+          "linkFisico": "v/chernobyl-s01e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/lwG78tb6wZoKE1UgrfqhK2JydTh.jpg"
+        },
+        {
+          "tit": "S01E04 🌀",
+          "linkFisico": "v/chernobyl-s01e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/lwG78tb6wZoKE1UgrfqhK2JydTh.jpg"
+        },
+        {
+          "tit": "S01E05 🌀",
+          "linkFisico": "v/chernobyl-s01e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/lwG78tb6wZoKE1UgrfqhK2JydTh.jpg"
+        }
+      ]
+    }
   }
 ]
