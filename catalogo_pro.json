@@ -30127,26 +30127,6 @@
     "logo_horizontal": "https://image.tmdb.org/t/p/w1280/xnqust9Li4oxfhXD5kcPi3UC8i4.jpg"
   },
   {
-    "id": "viva-a-vida-e-uma-festa",
-    "tipo": "filme",
-    "categoria": "Animações",
-    "titulo": "Viva a Vida é uma Festa 🌀",
-    "logo": "https://image.tmdb.org/t/p/w780/6oNm06TPz2vGiPc2I52oXW3JwPS.jpg",
-    "sinopse": "Apesar da desconcertante proibição da música imposta pela sua família há várias gerações, Miguel sonha em tornar-se um músico de sucesso como o seu ídolo, Ernesto de la Cruz. Desesperado para provar o seu talento, Miguel encontra-se na deslumbrante e colorida Terra dos Mortos, seguindo uma misteriosa cadeia de acontecimentos. Pelo caminho, conhece o encantador Hector e, juntos, partem numa extraordinária viagem para desvendar a verdadeira história por detrás da história da família de Miguel.",
-    "avaliacao": "8.2",
-    "classificacao": "Livre",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "Assistir Filme Completo 🌀",
-          "linkFisico": "v/viva-a-vida-e-uma-festa.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/6ch101aK2f2a1jY2dByhAli47Kf.jpg"
-        }
-      ]
-    },
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/g7CHF8gTLGooTbP4GznIGwaqAGL.jpg"
-  },
-  {
     "id": "wallace-gromit-a-batalha-dos-vegetais",
     "tipo": "filme",
     "categoria": "Animações",
@@ -39991,6 +39971,28 @@
           "tit": "S01E08 🌀",
           "linkFisico": "v/algo-horrivel-vai-acontecer-s01e08.html",
           "logoEp": "https://image.tmdb.org/t/p/w1280/1mBt0KKBb6CgCY1klfNWeVq5xkW.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "viva-a-vida-e-uma-festa",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Viva: A Vida é uma Festa 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/6oNm06TPz2vGiPc2I52oXW3JwPS.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/6ch101aK2f2a1jY2dByhAli47Kf.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/kcOfom68nnt8wbWcw6mZ9xUwRn4.png",
+    "sinopse": "Apesar da desconcertante proibição da música imposta pela sua família há várias gerações, Miguel sonha em tornar-se um músico de sucesso como o seu ídolo, Ernesto de la Cruz. Desesperado para provar o seu talento, Miguel encontra-se na deslumbrante e colorida Terra dos Mortos, seguindo uma misteriosa cadeia de acontecimentos. Pelo caminho, conhece o encantador Hector e, juntos, partem numa extraordinária viagem para desvendar a verdadeira história por detrás da história da família de Miguel.",
+    "nota": "8.2",
+    "avaliacao": "8.2",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/viva-a-vida-e-uma-festa.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/6ch101aK2f2a1jY2dByhAli47Kf.jpg"
         }
       ]
     }
