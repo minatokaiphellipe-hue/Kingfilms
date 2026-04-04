@@ -39783,5 +39783,71 @@
         }
       ]
     }
+  },
+  {
+    "id": "panico-no-lago-2",
+    "tipo": "filme",
+    "categoria": "Terror",
+    "titulo": "Pânico no Lago 2 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/spLJTEsaQwlkXdfwvzrZJvq9qAp.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/rKlhRIfyrU4hRCuVEmuhxqUkTJk.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/8kNxzq39i2CwM1EqTDhjK4esFF5.png",
+    "sinopse": "Na seqüência do clássico terror cômico de Pânico No Lago, o chefe de polícia local se une a um cientista paleontólogo de Nova York para achar o monstro que anda rondando a cidade. Eles logo descobrem que não estão procurando somente um crocodilo gigante, mas sim, três !!! Adicione ainda um excêntrico filantropo com uma queda por \"Crocs\" e uma eremita local.",
+    "nota": "4.9",
+    "avaliacao": "4.9",
+    "classificacao": "18",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/panico-no-lago-2.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/rKlhRIfyrU4hRCuVEmuhxqUkTJk.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "panico-no-lago-3",
+    "tipo": "filme",
+    "categoria": "Terror",
+    "titulo": "Pânico no Lago 3 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/pms0w4qAQ0roWzd8T1AcKtZHpEz.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/szeniA7OPDVqz8FCnGTwBFuyF0M.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/vyeXCVAvXkB3GVrcnFjM2f9vcdg.png",
+    "sinopse": "Crocodilos gigantes continuam aterrorizando a região de Lake Placid. O biólogo Nathan Bickerman (Colin Ferguson) está disposto a encarar o terrível predador, assim como Reba (Yancy Butler), uma destemida caçadora que busca seu próximo troféu.",
+    "nota": "5.0",
+    "avaliacao": "5.0",
+    "classificacao": "18",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/panico-no-lago-3.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/szeniA7OPDVqz8FCnGTwBFuyF0M.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "panico-no-lago-o-capitulo-final",
+    "tipo": "filme",
+    "categoria": "Terror",
+    "titulo": "Pânico no Lago: O Capítulo Final 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/gDnQ1T2xI5Sl7BNiK3UvNu2eOTb.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/vsVd3xwh0HfP2sejPZZtgsTpOpF.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/cuFxpFs2g9U7MTe6RGVwQZrDs1j.png",
+    "sinopse": "O lago Negro foi transformado numa espécie de santuário para os crocodilos, rodeado por uma cerca elétrica para proteger os incautos que cheguem ao local. Lá eles se multiplicam em número recorde. Justamente na noite em que uma cerca é deixada aberta, a equipe de natação de uma escola pega o caminho errado e vai parar no local. Além de terem que lidar com o terror trazido pelos animais, os jovens ainda encaram uma policial desonesta (Yancy Butler) e um caçador ilegal (Robert Englund).",
+    "nota": "5.1",
+    "avaliacao": "5.1",
+    "classificacao": "16",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/panico-no-lago-o-capitulo-final.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/vsVd3xwh0HfP2sejPZZtgsTpOpF.jpg"
+        }
+      ]
+    }
   }
 ]
