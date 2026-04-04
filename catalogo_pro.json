@@ -39871,5 +39871,27 @@
         }
       ]
     }
+  },
+  {
+    "id": "panico-no-lago-o-legado",
+    "tipo": "filme",
+    "categoria": "Terror",
+    "titulo": "Pânico No Lago: O Legado 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/jMQBRaMoktWm46uIUYKeOHWXXxe.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/60iQU0QpRkXDLkWXFE65GSgk0Ef.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/nblqa3LrLVxEaStNwTaRQmsgLaU.png",
+    "sinopse": "Legacy descobre a equipe de jovens exploradores para revelar os segredos de uma área removida dos mapas modernos e escondida atrás de cercas elétricas. No entanto, uma vez que eles chegam ao centro do lago, eles descobrem uma ilha que abriga uma instalação abandonada com um legado horrível: a ilha é o lar de um predador mortal ansioso para se divertir com aqueles idiotas o suficiente para ignorar os avisos. Mas antes que eles possam voltar atrás, nossos infelizes heróis são arrastados para uma batalha por suas vidas - e precisarão trabalhar juntos se quiserem sobreviver.",
+    "nota": "4.9",
+    "avaliacao": "4.9",
+    "classificacao": "16",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/panico-no-lago-o-legado.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/60iQU0QpRkXDLkWXFE65GSgk0Ef.jpg"
+        }
+      ]
+    }
   }
 ]
