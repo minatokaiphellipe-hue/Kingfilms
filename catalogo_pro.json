@@ -38569,5 +38569,241 @@
         }
       ]
     }
+  },
+  {
+    "id": "a-casa-coruja",
+    "tipo": "serie",
+    "categoria": "Séries",
+    "titulo": "A Casa Coruja 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/c3ygNz5qEETOUSAWa7v6B7gT8JS.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/gAC5PyKyCrbloKxBXkmbjNziAVj.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/zxGLjyHFYmYBED4ltULZavVH8rE.png",
+    "sinopse": "Luz, uma adolescente humana segura de si, tropeça acidentalmente em um portal para um reino mágico, onde faz amizade com uma bruxa rebelde.",
+    "nota": "8.7",
+    "avaliacao": "8.7",
+    "classificacao": "10",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "S01E01 🌀",
+          "linkFisico": "v/a-casa-coruja-s01e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gAC5PyKyCrbloKxBXkmbjNziAVj.jpg"
+        },
+        {
+          "tit": "S01E02 🌀",
+          "linkFisico": "v/a-casa-coruja-s01e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gAC5PyKyCrbloKxBXkmbjNziAVj.jpg"
+        },
+        {
+          "tit": "S01E03 🌀",
+          "linkFisico": "v/a-casa-coruja-s01e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gAC5PyKyCrbloKxBXkmbjNziAVj.jpg"
+        },
+        {
+          "tit": "S01E04 🌀",
+          "linkFisico": "v/a-casa-coruja-s01e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gAC5PyKyCrbloKxBXkmbjNziAVj.jpg"
+        },
+        {
+          "tit": "S01E05 🌀",
+          "linkFisico": "v/a-casa-coruja-s01e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gAC5PyKyCrbloKxBXkmbjNziAVj.jpg"
+        },
+        {
+          "tit": "S01E06 🌀",
+          "linkFisico": "v/a-casa-coruja-s01e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gAC5PyKyCrbloKxBXkmbjNziAVj.jpg"
+        },
+        {
+          "tit": "S01E07 🌀",
+          "linkFisico": "v/a-casa-coruja-s01e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gAC5PyKyCrbloKxBXkmbjNziAVj.jpg"
+        },
+        {
+          "tit": "S01E08 🌀",
+          "linkFisico": "v/a-casa-coruja-s01e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gAC5PyKyCrbloKxBXkmbjNziAVj.jpg"
+        },
+        {
+          "tit": "S01E09 🌀",
+          "linkFisico": "v/a-casa-coruja-s01e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gAC5PyKyCrbloKxBXkmbjNziAVj.jpg"
+        },
+        {
+          "tit": "S01E10 🌀",
+          "linkFisico": "v/a-casa-coruja-s01e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gAC5PyKyCrbloKxBXkmbjNziAVj.jpg"
+        },
+        {
+          "tit": "S01E11 🌀",
+          "linkFisico": "v/a-casa-coruja-s01e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gAC5PyKyCrbloKxBXkmbjNziAVj.jpg"
+        },
+        {
+          "tit": "S01E12 🌀",
+          "linkFisico": "v/a-casa-coruja-s01e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gAC5PyKyCrbloKxBXkmbjNziAVj.jpg"
+        },
+        {
+          "tit": "S01E13 🌀",
+          "linkFisico": "v/a-casa-coruja-s01e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gAC5PyKyCrbloKxBXkmbjNziAVj.jpg"
+        },
+        {
+          "tit": "S01E14 🌀",
+          "linkFisico": "v/a-casa-coruja-s01e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gAC5PyKyCrbloKxBXkmbjNziAVj.jpg"
+        },
+        {
+          "tit": "S01E15 🌀",
+          "linkFisico": "v/a-casa-coruja-s01e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gAC5PyKyCrbloKxBXkmbjNziAVj.jpg"
+        },
+        {
+          "tit": "S01E16 🌀",
+          "linkFisico": "v/a-casa-coruja-s01e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gAC5PyKyCrbloKxBXkmbjNziAVj.jpg"
+        },
+        {
+          "tit": "S01E17 🌀",
+          "linkFisico": "v/a-casa-coruja-s01e17.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gAC5PyKyCrbloKxBXkmbjNziAVj.jpg"
+        },
+        {
+          "tit": "S01E18 🌀",
+          "linkFisico": "v/a-casa-coruja-s01e18.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gAC5PyKyCrbloKxBXkmbjNziAVj.jpg"
+        },
+        {
+          "tit": "S01E19 🌀",
+          "linkFisico": "v/a-casa-coruja-s01e19.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gAC5PyKyCrbloKxBXkmbjNziAVj.jpg"
+        }
+      ],
+      "2": [
+        {
+          "tit": "S02E01 🌀",
+          "linkFisico": "v/a-casa-coruja-s02e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gAC5PyKyCrbloKxBXkmbjNziAVj.jpg"
+        },
+        {
+          "tit": "S02E02 🌀",
+          "linkFisico": "v/a-casa-coruja-s02e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gAC5PyKyCrbloKxBXkmbjNziAVj.jpg"
+        },
+        {
+          "tit": "S02E03 🌀",
+          "linkFisico": "v/a-casa-coruja-s02e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gAC5PyKyCrbloKxBXkmbjNziAVj.jpg"
+        },
+        {
+          "tit": "S02E04 🌀",
+          "linkFisico": "v/a-casa-coruja-s02e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gAC5PyKyCrbloKxBXkmbjNziAVj.jpg"
+        },
+        {
+          "tit": "S02E05 🌀",
+          "linkFisico": "v/a-casa-coruja-s02e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gAC5PyKyCrbloKxBXkmbjNziAVj.jpg"
+        },
+        {
+          "tit": "S02E06 🌀",
+          "linkFisico": "v/a-casa-coruja-s02e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gAC5PyKyCrbloKxBXkmbjNziAVj.jpg"
+        },
+        {
+          "tit": "S02E07 🌀",
+          "linkFisico": "v/a-casa-coruja-s02e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gAC5PyKyCrbloKxBXkmbjNziAVj.jpg"
+        },
+        {
+          "tit": "S02E08 🌀",
+          "linkFisico": "v/a-casa-coruja-s02e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gAC5PyKyCrbloKxBXkmbjNziAVj.jpg"
+        },
+        {
+          "tit": "S02E09 🌀",
+          "linkFisico": "v/a-casa-coruja-s02e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gAC5PyKyCrbloKxBXkmbjNziAVj.jpg"
+        },
+        {
+          "tit": "S02E10 🌀",
+          "linkFisico": "v/a-casa-coruja-s02e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gAC5PyKyCrbloKxBXkmbjNziAVj.jpg"
+        },
+        {
+          "tit": "S02E11 🌀",
+          "linkFisico": "v/a-casa-coruja-s02e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gAC5PyKyCrbloKxBXkmbjNziAVj.jpg"
+        },
+        {
+          "tit": "S02E12 🌀",
+          "linkFisico": "v/a-casa-coruja-s02e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gAC5PyKyCrbloKxBXkmbjNziAVj.jpg"
+        },
+        {
+          "tit": "S02E13 🌀",
+          "linkFisico": "v/a-casa-coruja-s02e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gAC5PyKyCrbloKxBXkmbjNziAVj.jpg"
+        },
+        {
+          "tit": "S02E14 🌀",
+          "linkFisico": "v/a-casa-coruja-s02e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gAC5PyKyCrbloKxBXkmbjNziAVj.jpg"
+        },
+        {
+          "tit": "S02E15 🌀",
+          "linkFisico": "v/a-casa-coruja-s02e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gAC5PyKyCrbloKxBXkmbjNziAVj.jpg"
+        },
+        {
+          "tit": "S02E16 🌀",
+          "linkFisico": "v/a-casa-coruja-s02e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gAC5PyKyCrbloKxBXkmbjNziAVj.jpg"
+        },
+        {
+          "tit": "S02E17 🌀",
+          "linkFisico": "v/a-casa-coruja-s02e17.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gAC5PyKyCrbloKxBXkmbjNziAVj.jpg"
+        },
+        {
+          "tit": "S02E18 🌀",
+          "linkFisico": "v/a-casa-coruja-s02e18.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gAC5PyKyCrbloKxBXkmbjNziAVj.jpg"
+        },
+        {
+          "tit": "S02E19 🌀",
+          "linkFisico": "v/a-casa-coruja-s02e19.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gAC5PyKyCrbloKxBXkmbjNziAVj.jpg"
+        },
+        {
+          "tit": "S02E20 🌀",
+          "linkFisico": "v/a-casa-coruja-s02e20.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gAC5PyKyCrbloKxBXkmbjNziAVj.jpg"
+        },
+        {
+          "tit": "S02E21 🌀",
+          "linkFisico": "v/a-casa-coruja-s02e21.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gAC5PyKyCrbloKxBXkmbjNziAVj.jpg"
+        }
+      ],
+      "3": [
+        {
+          "tit": "S03E01 🌀",
+          "linkFisico": "v/a-casa-coruja-s03e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gAC5PyKyCrbloKxBXkmbjNziAVj.jpg"
+        },
+        {
+          "tit": "S03E02 🌀",
+          "linkFisico": "v/a-casa-coruja-s03e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gAC5PyKyCrbloKxBXkmbjNziAVj.jpg"
+        },
+        {
+          "tit": "S03E03 🌀",
+          "linkFisico": "v/a-casa-coruja-s03e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gAC5PyKyCrbloKxBXkmbjNziAVj.jpg"
+        }
+      ]
+    }
   }
 ]
