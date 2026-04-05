@@ -7737,27 +7737,6 @@
     }
   },
   {
-    "id": "doutor-estranho",
-    "tipo": "filme",
-    "categoria": "Ação",
-    "titulo": "Doutor Estranho 🌀",
-    "logo": "https://image.tmdb.org/t/p/w780/pb4clPWRJ5AKlSFu1HrrHdt5uAw.jpg",
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/3lLkuYx4ueZM8RnkOmXw4NQnKeH.jpg",
-    "sinopse": "Após sua carreira ser destruída, um brilhante, porém arrogante, cirurgião ganha uma nova chance em sua vida quando um feiticeiro o treina para se tornar o Mago Supremo.",
-    "nota": "7.4",
-    "avaliacao": "7.4",
-    "classificacao": "12",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "Assistir 🌀",
-          "linkFisico": "v/doutor-estranho.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/3lLkuYx4ueZM8RnkOmXw4NQnKeH.jpg"
-        }
-      ]
-    }
-  },
-  {
     "id": "doutor-estranho-no-multiverso-da-loucura",
     "tipo": "filme",
     "categoria": "Ação",
@@ -39993,6 +39972,28 @@
           "tit": "Assistir 🌀",
           "linkFisico": "v/viva-a-vida-e-uma-festa.html",
           "logoEp": "https://image.tmdb.org/t/p/w1280/6ch101aK2f2a1jY2dByhAli47Kf.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "doutor-estranho",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "Doutor Estranho 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/pb4clPWRJ5AKlSFu1HrrHdt5uAw.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/3lLkuYx4ueZM8RnkOmXw4NQnKeH.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/aVhinVUgKdvBnizrgvy7E2aeaei.png",
+    "sinopse": "Após sua carreira ser destruída, um brilhante, porém arrogante, cirurgião ganha uma nova chance em sua vida quando um feiticeiro o treina para se tornar o Mago Supremo.",
+    "nota": "7.4",
+    "avaliacao": "7.4",
+    "classificacao": "12",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/doutor-estranho.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/3lLkuYx4ueZM8RnkOmXw4NQnKeH.jpg"
         }
       ]
     }
