@@ -29120,26 +29120,6 @@
     }
   },
   {
-    "id": "toy-story-2",
-    "tipo": "filme",
-    "categoria": "Animações",
-    "titulo": "Toy Story 2 🌀",
-    "logo": "https://image.tmdb.org/t/p/w780/xVhEI1WCgNCCa5I86AqiwuZoog3.jpg",
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/zeAmGUzY1LUHF9YdvTXsck4HkQe.jpg",
-    "sinopse": "Quando Andy viaja para um acampamento de verão, Woody é sequestrado por Al, um ambiocioso colecionador, que precisa do brinquedo favorito de Andy para completar sua coleção da Gangue do Rodeio. Junto com Jessie, Bala no Alvo e Mineiro, Woody corre o risco de ter que passar o resto de sua vida em exposição num museu. Agora, Buzz, Sr. Cabeça de Batata, Porquinho, Rex e Slinky terão que salvar seu amigo e trazê-lo de volta à vida de brinquedos.",
-    "avaliacao": "7.6",
-    "classificacao": "Livre",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "Assistir 🌀",
-          "linkFisico": "v/toy-story-2.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/zeAmGUzY1LUHF9YdvTXsck4HkQe.jpg"
-        }
-      ]
-    }
-  },
-  {
     "id": "toy-story-3",
     "tipo": "filme",
     "categoria": "Animações",
@@ -40017,6 +39997,28 @@
           "tit": "Assistir 🌀",
           "linkFisico": "v/medo-da-verdade.html",
           "logoEp": "https://image.tmdb.org/t/p/w1280/n3MFkB1QBhsVr1fvwlPDpyFnvHM.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "toy-story-2",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Toy Story 2 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/xVhEI1WCgNCCa5I86AqiwuZoog3.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/zeAmGUzY1LUHF9YdvTXsck4HkQe.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/n6lkDBXYd7ItOJZu3oYxOSEtA6Q.png",
+    "sinopse": "Quando Andy viaja para um acampamento de verão, Woody é sequestrado por Al, um ambiocioso colecionador, que precisa do brinquedo favorito de Andy para completar sua coleção da Gangue do Rodeio. Junto com Jessie, Bala no Alvo e Mineiro, Woody corre o risco de ter que passar o resto de sua vida em exposição num museu. Agora, Buzz, Sr. Cabeça de Batata, Porquinho, Rex e Slinky terão que salvar seu amigo e trazê-lo de volta à vida de brinquedos.",
+    "nota": "7.6",
+    "avaliacao": "7.6",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/toy-story-2.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/zeAmGUzY1LUHF9YdvTXsck4HkQe.jpg"
         }
       ]
     }
