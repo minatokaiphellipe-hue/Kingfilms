@@ -7737,27 +7737,6 @@
     }
   },
   {
-    "id": "doutor-estranho-no-multiverso-da-loucura",
-    "tipo": "filme",
-    "categoria": "Ação",
-    "titulo": "Doutor Estranho no Multiverso da Loucura 🌀",
-    "logo": "https://image.tmdb.org/t/p/w780/7pLIVfovuIf2KQOOvMsKx3Lanrg.jpg",
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/dvI62PBuiYI4d0IaRfw8a0Hi05x.jpg",
-    "sinopse": "Doutor Estranho, com a ajuda de aliados místicos antigos e novos, atravessa as perigosas realidades alternativas e alucinantes do Multiverso para enfrentar um novo adversário misterioso.",
-    "nota": "7.2",
-    "avaliacao": "7.2",
-    "classificacao": "14",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "Assistir 🌀",
-          "linkFisico": "v/doutor-estranho-no-multiverso-da-loucura.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/dvI62PBuiYI4d0IaRfw8a0Hi05x.jpg"
-        }
-      ]
-    }
-  },
-  {
     "id": "dragon-ball-kai",
     "tipo": "serie",
     "categoria": "Animes",
@@ -39994,6 +39973,28 @@
           "tit": "Assistir 🌀",
           "linkFisico": "v/doutor-estranho.html",
           "logoEp": "https://image.tmdb.org/t/p/w1280/3lLkuYx4ueZM8RnkOmXw4NQnKeH.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "doutor-estranho-no-multiverso-da-loucura",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "Doutor Estranho no Multiverso da Loucura 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/7pLIVfovuIf2KQOOvMsKx3Lanrg.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/dvI62PBuiYI4d0IaRfw8a0Hi05x.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/k8nLdEmQkCHGdYT17v39xMWxnCN.png",
+    "sinopse": "Doutor Estranho, com a ajuda de aliados místicos antigos e novos, atravessa as perigosas realidades alternativas e alucinantes do Multiverso para enfrentar um novo adversário misterioso.",
+    "nota": "7.2",
+    "avaliacao": "7.2",
+    "classificacao": "14",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/doutor-estranho-no-multiverso-da-loucura.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/dvI62PBuiYI4d0IaRfw8a0Hi05x.jpg"
         }
       ]
     }
