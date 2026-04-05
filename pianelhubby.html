@@ -29,6 +29,7 @@
             display: flex; justify-content: center; gap: 20px; margin-bottom: 20px;
             background: rgba(15, 23, 42, 0.6); padding: 15px; border-radius: 10px;
             border: 1px solid #334155; max-width: 600px; margin-left: auto; margin-right: auto;
+            flex-wrap: wrap;
         }
         .server-selector label { cursor: pointer; font-size: 14px; font-weight: 600; display: flex; align-items: center; gap: 8px; }
 
@@ -136,6 +137,7 @@
 
     <div class="server-selector">
         <label><input type="radio" name="server_choice" value="life10" checked style="accent-color: var(--brand-green);">🟢 Life10 (Novo)</label>
+        <label><input type="radio" name="server_choice" value="falcon" style="accent-color: var(--brand-red);">🔴 Falcon12 (Rave)</label>
         <label><input type="radio" name="server_choice" value="hubby" style="accent-color: var(--brand-blue);">🔵 Hubby.cx (Antigo)</label>
     </div>
 
@@ -239,12 +241,13 @@
                     let linkBruto = "";
 
                     if (serverChoice === 'life10') {
-                        // CRIPTOGRAFIA BASE64 DO ID (FILME)
                         let hashF = btoa(id + "-m-kf").replace(/=/g, '');
                         linkProtegido = `https://kingfilms-api.onrender.com/vip/play?hash=${hashF}`;
                         linkBruto = `http://life10.top:80/movie/969003341029/006662669402/${id}.${ext}`;
+                    } else if (serverChoice === 'falcon') {
+                        linkProtegido = `https://kingfilms-api.onrender.com/falcon/filme/${id}`;
+                        linkBruto = `http://falcon12.top/movie/744873724/562511110/${id}.${ext}`;
                     } else {
-                        // CRIPTOGRAFIA BASE64 PARA HUBBY.CX
                         let hashH = btoa(id + "-kf").replace(/=/g, '');
                         linkProtegido = `https://kingfilms-api.onrender.com/indicaai/filme?hash=${hashH}`;
                         linkBruto = `http://hubby.cx/movie/playcine-vods/gKQJjXulgb/${id}.${ext}`;
@@ -284,10 +287,14 @@
         modal.style.display = 'flex';
         titulo.innerText = nomeSerie;
         conteudo.innerHTML = "<p style='text-align:center; color:#fbbf24; font-weight:bold;'>⏳ Acionando Múltiplos Proxies para evitar cortes... Aguarde!</p>";
-
-        let urlApi = serverChoice === 'life10' 
-            ? `http://life10.top:80/player_api.php?username=969003341029&password=006662669402&action=get_series_info&series_id=${serieId}`
-            : `http://hubby.cx/player_api.php?username=playcine-vods&password=gKQJjXulgb&action=get_series_info&series_id=${serieId}`;
+        let urlApi = "";
+        if (serverChoice === 'life10') {
+            urlApi = `http://life10.top:80/player_api.php?username=969003341029&password=006662669402&action=get_series_info&series_id=${serieId}`;
+        } else if (serverChoice === 'falcon') {
+            urlApi = `http://falcon12.top/player_api.php?username=744873724&password=562511110&action=get_series_info&series_id=${serieId}`;
+        } else {
+            urlApi = `http://hubby.cx/player_api.php?username=playcine-vods&password=gKQJjXulgb&action=get_series_info&series_id=${serieId}`;
+        }
         
         let proxies = [
             "https://corsproxy.io/?" + encodeURIComponent(urlApi),
@@ -317,11 +324,13 @@
                 dados.episodes[temp].forEach(ep => {
                     let linkBruto = ""; let linkProtegido = ""; let ext = ep.container_extension || 'mp4';
 
-                    // CRIPTOGRAFIA BASE64 DO ID (EPISÓDIOS)
                     if (serverChoice === 'life10') {
                         let hashE = btoa(ep.id + "-s-kf").replace(/=/g, '');
                         linkProtegido = `https://kingfilms-api.onrender.com/vip/play?hash=${hashE}`;
                         linkBruto = `http://life10.top:80/series/969003341029/006662669402/${ep.id}.${ext}`;
+                    } else if (serverChoice === 'falcon') {
+                        linkProtegido = `https://kingfilms-api.onrender.com/falcon/serie/${ep.id}`;
+                        linkBruto = `http://falcon12.top/series/744873724/562511110/${ep.id}.${ext}`;
                     } else {
                         let hashE = btoa(ep.id + "-kf").replace(/=/g, '');
                         linkProtegido = `https://kingfilms-api.onrender.com/indicaai/episodio?hash=${hashE}`;
