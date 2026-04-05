@@ -40026,5 +40026,49 @@
         }
       ]
     }
+  },
+  {
+    "id": "gente-grande",
+    "tipo": "filme",
+    "categoria": "Comédia",
+    "titulo": "Gente Grande 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/ppU2xJnlKdW3F01AtC9wMuXRZCg.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/i6F1X4UkRXoNpZ2pjqvR4PtjOAR.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/atIJcuOmmcqQ0DlX404i0EmEpdO.png",
+    "sinopse": "A morte do treinador de basquete da infância de velhos amigos os reúne no mesmo lugar que celebraram um campeonato anos atrás. Os amigos, acompanhados de suas esposas e filhos, descobrem que idade não significa o mesmo que maturidade.",
+    "nota": "6.4",
+    "avaliacao": "6.4",
+    "classificacao": "12",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/gente-grande.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/i6F1X4UkRXoNpZ2pjqvR4PtjOAR.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "gente-grande-2",
+    "tipo": "filme",
+    "categoria": "Comédia",
+    "titulo": "Gente Grande 2 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/fKYW0oKPvy6HF8x5egL1ljC36xb.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/stgO6dhwciDGmKtZvY6JDAWNc5X.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/oM9Jke3S4bP07UQW2JS75MFNfGg.png",
+    "sinopse": "Lenny Feder e sua família se mudam para sua cidade natal para ficar perto dos amigos, mas acabam tendo que enfrentar alguns fantasmas do passado, como a covardia diante de valentões e o famigerado bullying na escola.",
+    "nota": "6.1",
+    "avaliacao": "6.1",
+    "classificacao": "12",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/gente-grande-2.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/stgO6dhwciDGmKtZvY6JDAWNc5X.jpg"
+        }
+      ]
+    }
   }
 ]
