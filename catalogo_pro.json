@@ -39998,5 +39998,27 @@
         }
       ]
     }
+  },
+  {
+    "id": "medo-da-verdade",
+    "tipo": "filme",
+    "categoria": "Drama",
+    "titulo": "Medo da Verdade 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/znK3nBCjkbdqQKPZbXE3zlcB9lC.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/n3MFkB1QBhsVr1fvwlPDpyFnvHM.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/juVyGVPhwJUoXuxA7KhhBSTuazV.png",
+    "sinopse": "Ao lado da namorada, o detetive particular Patrick Kenzie se encarrega de uma difícil missão: localizar uma menina que foi sequestrada em Boston. O chefe de polícia Doyle não acredita que Patrick consiga encontrar a garota que já está desaparecida há mais de 76 horas. Mas o investigador não desiste e se prepara para enfrentar o perigo em um bairro violento da cidade.",
+    "nota": "7.3",
+    "avaliacao": "7.3",
+    "classificacao": "16",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/medo-da-verdade.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/n3MFkB1QBhsVr1fvwlPDpyFnvHM.jpg"
+        }
+      ]
+    }
   }
 ]
