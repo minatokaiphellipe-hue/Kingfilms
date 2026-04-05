@@ -27626,927 +27626,6 @@
     }
   },
   {
-    "id": "the-walking-dead",
-    "tipo": "serie",
-    "categoria": "Séries",
-    "titulo": "The Walking Dead 🌀",
-    "logo": "https://image.tmdb.org/t/p/w780/9lb02gTh4LLB17yAEXFd4C3R4JP.jpg",
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg",
-    "sinopse": "Nos Estados Unidos pós-apocalíptico, um pequeno grupo de sobreviventes segue viajando à procura de uma nova casa longe dos mortos-vivos. O desespero por segurança e suprimentos os coloca constantemente à beira da sanidade.",
-    "nota": "8.1",
-    "avaliacao": "8.1",
-    "classificacao": "16",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "S01E01 🌀",
-          "linkFisico": "v/the-walking-dead-s01e01.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S01E02 🌀",
-          "linkFisico": "v/the-walking-dead-s01e02.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S01E03 🌀",
-          "linkFisico": "v/the-walking-dead-s01e03.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S01E04 🌀",
-          "linkFisico": "v/the-walking-dead-s01e04.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S01E05 🌀",
-          "linkFisico": "v/the-walking-dead-s01e05.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S01E06 🌀",
-          "linkFisico": "v/the-walking-dead-s01e06.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        }
-      ],
-      "2": [
-        {
-          "tit": "S02E01 🌀",
-          "linkFisico": "v/the-walking-dead-s02e01.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S02E02 🌀",
-          "linkFisico": "v/the-walking-dead-s02e02.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S02E03 🌀",
-          "linkFisico": "v/the-walking-dead-s02e03.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S02E04 🌀",
-          "linkFisico": "v/the-walking-dead-s02e04.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S02E05 🌀",
-          "linkFisico": "v/the-walking-dead-s02e05.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S02E06 🌀",
-          "linkFisico": "v/the-walking-dead-s02e06.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S02E07 🌀",
-          "linkFisico": "v/the-walking-dead-s02e07.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S02E08 🌀",
-          "linkFisico": "v/the-walking-dead-s02e08.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S02E09 🌀",
-          "linkFisico": "v/the-walking-dead-s02e09.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S02E10 🌀",
-          "linkFisico": "v/the-walking-dead-s02e10.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S02E11 🌀",
-          "linkFisico": "v/the-walking-dead-s02e11.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S02E12 🌀",
-          "linkFisico": "v/the-walking-dead-s02e12.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S02E13 🌀",
-          "linkFisico": "v/the-walking-dead-s02e13.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        }
-      ],
-      "3": [
-        {
-          "tit": "S03E01 🌀",
-          "linkFisico": "v/the-walking-dead-s03e01.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S03E02 🌀",
-          "linkFisico": "v/the-walking-dead-s03e02.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S03E03 🌀",
-          "linkFisico": "v/the-walking-dead-s03e03.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S03E04 🌀",
-          "linkFisico": "v/the-walking-dead-s03e04.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S03E05 🌀",
-          "linkFisico": "v/the-walking-dead-s03e05.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S03E06 🌀",
-          "linkFisico": "v/the-walking-dead-s03e06.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S03E07 🌀",
-          "linkFisico": "v/the-walking-dead-s03e07.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S03E08 🌀",
-          "linkFisico": "v/the-walking-dead-s03e08.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S03E09 🌀",
-          "linkFisico": "v/the-walking-dead-s03e09.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S03E10 🌀",
-          "linkFisico": "v/the-walking-dead-s03e10.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S03E11 🌀",
-          "linkFisico": "v/the-walking-dead-s03e11.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S03E12 🌀",
-          "linkFisico": "v/the-walking-dead-s03e12.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S03E13 🌀",
-          "linkFisico": "v/the-walking-dead-s03e13.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S03E14 🌀",
-          "linkFisico": "v/the-walking-dead-s03e14.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S03E15 🌀",
-          "linkFisico": "v/the-walking-dead-s03e15.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S03E16 🌀",
-          "linkFisico": "v/the-walking-dead-s03e16.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        }
-      ],
-      "4": [
-        {
-          "tit": "S04E01 🌀",
-          "linkFisico": "v/the-walking-dead-s04e01.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S04E02 🌀",
-          "linkFisico": "v/the-walking-dead-s04e02.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S04E03 🌀",
-          "linkFisico": "v/the-walking-dead-s04e03.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S04E04 🌀",
-          "linkFisico": "v/the-walking-dead-s04e04.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S04E05 🌀",
-          "linkFisico": "v/the-walking-dead-s04e05.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S04E06 🌀",
-          "linkFisico": "v/the-walking-dead-s04e06.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S04E07 🌀",
-          "linkFisico": "v/the-walking-dead-s04e07.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S04E08 🌀",
-          "linkFisico": "v/the-walking-dead-s04e08.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S04E09 🌀",
-          "linkFisico": "v/the-walking-dead-s04e09.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S04E10 🌀",
-          "linkFisico": "v/the-walking-dead-s04e10.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S04E11 🌀",
-          "linkFisico": "v/the-walking-dead-s04e11.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S04E12 🌀",
-          "linkFisico": "v/the-walking-dead-s04e12.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S04E13 🌀",
-          "linkFisico": "v/the-walking-dead-s04e13.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S04E14 🌀",
-          "linkFisico": "v/the-walking-dead-s04e14.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S04E15 🌀",
-          "linkFisico": "v/the-walking-dead-s04e15.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S04E16 🌀",
-          "linkFisico": "v/the-walking-dead-s04e16.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        }
-      ],
-      "5": [
-        {
-          "tit": "S05E01 🌀",
-          "linkFisico": "v/the-walking-dead-s05e01.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S05E02 🌀",
-          "linkFisico": "v/the-walking-dead-s05e02.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S05E03 🌀",
-          "linkFisico": "v/the-walking-dead-s05e03.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S05E04 🌀",
-          "linkFisico": "v/the-walking-dead-s05e04.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S05E05 🌀",
-          "linkFisico": "v/the-walking-dead-s05e05.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S05E06 🌀",
-          "linkFisico": "v/the-walking-dead-s05e06.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S05E07 🌀",
-          "linkFisico": "v/the-walking-dead-s05e07.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S05E08 🌀",
-          "linkFisico": "v/the-walking-dead-s05e08.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S05E09 🌀",
-          "linkFisico": "v/the-walking-dead-s05e09.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S05E10 🌀",
-          "linkFisico": "v/the-walking-dead-s05e10.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S05E11 🌀",
-          "linkFisico": "v/the-walking-dead-s05e11.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S05E12 🌀",
-          "linkFisico": "v/the-walking-dead-s05e12.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S05E13 🌀",
-          "linkFisico": "v/the-walking-dead-s05e13.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S05E14 🌀",
-          "linkFisico": "v/the-walking-dead-s05e14.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S05E15 🌀",
-          "linkFisico": "v/the-walking-dead-s05e15.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S05E16 🌀",
-          "linkFisico": "v/the-walking-dead-s05e16.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        }
-      ],
-      "6": [
-        {
-          "tit": "S06E01 🌀",
-          "linkFisico": "v/the-walking-dead-s06e01.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S06E02 🌀",
-          "linkFisico": "v/the-walking-dead-s06e02.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S06E03 🌀",
-          "linkFisico": "v/the-walking-dead-s06e03.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S06E04 🌀",
-          "linkFisico": "v/the-walking-dead-s06e04.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S06E05 🌀",
-          "linkFisico": "v/the-walking-dead-s06e05.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S06E06 🌀",
-          "linkFisico": "v/the-walking-dead-s06e06.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S06E07 🌀",
-          "linkFisico": "v/the-walking-dead-s06e07.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S06E08 🌀",
-          "linkFisico": "v/the-walking-dead-s06e08.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S06E09 🌀",
-          "linkFisico": "v/the-walking-dead-s06e09.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S06E10 🌀",
-          "linkFisico": "v/the-walking-dead-s06e10.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S06E11 🌀",
-          "linkFisico": "v/the-walking-dead-s06e11.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S06E12 🌀",
-          "linkFisico": "v/the-walking-dead-s06e12.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S06E13 🌀",
-          "linkFisico": "v/the-walking-dead-s06e13.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S06E14 🌀",
-          "linkFisico": "v/the-walking-dead-s06e14.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S06E15 🌀",
-          "linkFisico": "v/the-walking-dead-s06e15.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S06E16 🌀",
-          "linkFisico": "v/the-walking-dead-s06e16.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        }
-      ],
-      "7": [
-        {
-          "tit": "S07E01 🌀",
-          "linkFisico": "v/the-walking-dead-s07e01.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S07E02 🌀",
-          "linkFisico": "v/the-walking-dead-s07e02.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S07E03 🌀",
-          "linkFisico": "v/the-walking-dead-s07e03.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S07E04 🌀",
-          "linkFisico": "v/the-walking-dead-s07e04.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S07E05 🌀",
-          "linkFisico": "v/the-walking-dead-s07e05.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S07E06 🌀",
-          "linkFisico": "v/the-walking-dead-s07e06.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S07E07 🌀",
-          "linkFisico": "v/the-walking-dead-s07e07.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S07E08 🌀",
-          "linkFisico": "v/the-walking-dead-s07e08.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S07E09 🌀",
-          "linkFisico": "v/the-walking-dead-s07e09.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S07E10 🌀",
-          "linkFisico": "v/the-walking-dead-s07e10.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S07E11 🌀",
-          "linkFisico": "v/the-walking-dead-s07e11.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S07E12 🌀",
-          "linkFisico": "v/the-walking-dead-s07e12.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S07E13 🌀",
-          "linkFisico": "v/the-walking-dead-s07e13.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S07E14 🌀",
-          "linkFisico": "v/the-walking-dead-s07e14.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S07E15 🌀",
-          "linkFisico": "v/the-walking-dead-s07e15.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S07E16 🌀",
-          "linkFisico": "v/the-walking-dead-s07e16.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        }
-      ],
-      "8": [
-        {
-          "tit": "S08E01 🌀",
-          "linkFisico": "v/the-walking-dead-s08e01.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S08E02 🌀",
-          "linkFisico": "v/the-walking-dead-s08e02.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S08E03 🌀",
-          "linkFisico": "v/the-walking-dead-s08e03.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S08E04 🌀",
-          "linkFisico": "v/the-walking-dead-s08e04.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S08E05 🌀",
-          "linkFisico": "v/the-walking-dead-s08e05.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S08E06 🌀",
-          "linkFisico": "v/the-walking-dead-s08e06.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S08E07 🌀",
-          "linkFisico": "v/the-walking-dead-s08e07.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S08E08 🌀",
-          "linkFisico": "v/the-walking-dead-s08e08.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S08E09 🌀",
-          "linkFisico": "v/the-walking-dead-s08e09.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S08E10 🌀",
-          "linkFisico": "v/the-walking-dead-s08e10.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S08E11 🌀",
-          "linkFisico": "v/the-walking-dead-s08e11.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S08E12 🌀",
-          "linkFisico": "v/the-walking-dead-s08e12.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S08E13 🌀",
-          "linkFisico": "v/the-walking-dead-s08e13.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S08E14 🌀",
-          "linkFisico": "v/the-walking-dead-s08e14.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S08E15 🌀",
-          "linkFisico": "v/the-walking-dead-s08e15.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S08E16 🌀",
-          "linkFisico": "v/the-walking-dead-s08e16.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        }
-      ],
-      "9": [
-        {
-          "tit": "S09E01 🌀",
-          "linkFisico": "v/the-walking-dead-s09e01.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S09E02 🌀",
-          "linkFisico": "v/the-walking-dead-s09e02.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S09E03 🌀",
-          "linkFisico": "v/the-walking-dead-s09e03.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S09E04 🌀",
-          "linkFisico": "v/the-walking-dead-s09e04.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S09E05 🌀",
-          "linkFisico": "v/the-walking-dead-s09e05.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S09E06 🌀",
-          "linkFisico": "v/the-walking-dead-s09e06.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S09E07 🌀",
-          "linkFisico": "v/the-walking-dead-s09e07.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S09E08 🌀",
-          "linkFisico": "v/the-walking-dead-s09e08.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S09E09 🌀",
-          "linkFisico": "v/the-walking-dead-s09e09.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S09E10 🌀",
-          "linkFisico": "v/the-walking-dead-s09e10.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S09E11 🌀",
-          "linkFisico": "v/the-walking-dead-s09e11.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S09E12 🌀",
-          "linkFisico": "v/the-walking-dead-s09e12.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S09E13 🌀",
-          "linkFisico": "v/the-walking-dead-s09e13.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S09E14 🌀",
-          "linkFisico": "v/the-walking-dead-s09e14.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S09E15 🌀",
-          "linkFisico": "v/the-walking-dead-s09e15.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S09E16 🌀",
-          "linkFisico": "v/the-walking-dead-s09e16.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        }
-      ],
-      "10": [
-        {
-          "tit": "S10E01 🌀",
-          "linkFisico": "v/the-walking-dead-s10e01.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S10E02 🌀",
-          "linkFisico": "v/the-walking-dead-s10e02.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S10E03 🌀",
-          "linkFisico": "v/the-walking-dead-s10e03.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S10E04 🌀",
-          "linkFisico": "v/the-walking-dead-s10e04.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S10E05 🌀",
-          "linkFisico": "v/the-walking-dead-s10e05.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S10E06 🌀",
-          "linkFisico": "v/the-walking-dead-s10e06.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S10E07 🌀",
-          "linkFisico": "v/the-walking-dead-s10e07.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S10E08 🌀",
-          "linkFisico": "v/the-walking-dead-s10e08.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S10E09 🌀",
-          "linkFisico": "v/the-walking-dead-s10e09.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S10E10 🌀",
-          "linkFisico": "v/the-walking-dead-s10e10.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S10E11 🌀",
-          "linkFisico": "v/the-walking-dead-s10e11.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S10E12 🌀",
-          "linkFisico": "v/the-walking-dead-s10e12.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S10E13 🌀",
-          "linkFisico": "v/the-walking-dead-s10e13.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S10E14 🌀",
-          "linkFisico": "v/the-walking-dead-s10e14.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S10E15 🌀",
-          "linkFisico": "v/the-walking-dead-s10e15.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S10E16 🌀",
-          "linkFisico": "v/the-walking-dead-s10e16.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S10E17 🌀",
-          "linkFisico": "v/the-walking-dead-s10e17.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S10E18 🌀",
-          "linkFisico": "v/the-walking-dead-s10e18.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S10E19 🌀",
-          "linkFisico": "v/the-walking-dead-s10e19.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S10E20 🌀",
-          "linkFisico": "v/the-walking-dead-s10e20.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S10E21 🌀",
-          "linkFisico": "v/the-walking-dead-s10e21.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S10E22 🌀",
-          "linkFisico": "v/the-walking-dead-s10e22.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        }
-      ],
-      "11": [
-        {
-          "tit": "S11E01 🌀",
-          "linkFisico": "v/the-walking-dead-s11e01.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S11E02 🌀",
-          "linkFisico": "v/the-walking-dead-s11e02.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S11E03 🌀",
-          "linkFisico": "v/the-walking-dead-s11e03.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S11E04 🌀",
-          "linkFisico": "v/the-walking-dead-s11e04.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S11E05 🌀",
-          "linkFisico": "v/the-walking-dead-s11e05.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S11E06 🌀",
-          "linkFisico": "v/the-walking-dead-s11e06.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S11E07 🌀",
-          "linkFisico": "v/the-walking-dead-s11e07.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S11E08 🌀",
-          "linkFisico": "v/the-walking-dead-s11e08.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S11E09 🌀",
-          "linkFisico": "v/the-walking-dead-s11e09.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S11E10 🌀",
-          "linkFisico": "v/the-walking-dead-s11e10.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S11E11 🌀",
-          "linkFisico": "v/the-walking-dead-s11e11.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S11E12 🌀",
-          "linkFisico": "v/the-walking-dead-s11e12.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S11E13 🌀",
-          "linkFisico": "v/the-walking-dead-s11e13.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S11E14 🌀",
-          "linkFisico": "v/the-walking-dead-s11e14.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S11E15 🌀",
-          "linkFisico": "v/the-walking-dead-s11e15.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S11E16 🌀",
-          "linkFisico": "v/the-walking-dead-s11e16.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S11E17 🌀",
-          "linkFisico": "v/the-walking-dead-s11e17.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S11E18 🌀",
-          "linkFisico": "v/the-walking-dead-s11e18.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S11E19 🌀",
-          "linkFisico": "v/the-walking-dead-s11e19.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S11E20 🌀",
-          "linkFisico": "v/the-walking-dead-s11e20.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S11E21 🌀",
-          "linkFisico": "v/the-walking-dead-s11e21.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S11E22 🌀",
-          "linkFisico": "v/the-walking-dead-s11e22.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S11E23 🌀",
-          "linkFisico": "v/the-walking-dead-s11e23.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        },
-        {
-          "tit": "S11E24 🌀",
-          "linkFisico": "v/the-walking-dead-s11e24.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
-        }
-      ]
-    }
-  },
-  {
     "id": "the-witcher",
     "tipo": "serie",
     "categoria": "Séries",
@@ -40067,6 +39146,928 @@
           "tit": "Assistir 🌀",
           "linkFisico": "v/gente-grande-2.html",
           "logoEp": "https://image.tmdb.org/t/p/w1280/stgO6dhwciDGmKtZvY6JDAWNc5X.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "the-walking-dead",
+    "tipo": "serie",
+    "categoria": "Séries",
+    "titulo": "The Walking Dead 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/9lb02gTh4LLB17yAEXFd4C3R4JP.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/t4mho6jfBs2D4VkLKGOE37lxxiQ.png",
+    "sinopse": "Nos Estados Unidos pós-apocalíptico, um pequeno grupo de sobreviventes segue viajando à procura de uma nova casa longe dos mortos-vivos. O desespero por segurança e suprimentos os coloca constantemente à beira da sanidade.",
+    "nota": "8.1",
+    "avaliacao": "8.1",
+    "classificacao": "16",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "S01E01 🌀",
+          "linkFisico": "v/the-walking-dead-s01e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S01E02 🌀",
+          "linkFisico": "v/the-walking-dead-s01e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S01E03 🌀",
+          "linkFisico": "v/the-walking-dead-s01e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S01E04 🌀",
+          "linkFisico": "v/the-walking-dead-s01e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S01E05 🌀",
+          "linkFisico": "v/the-walking-dead-s01e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S01E06 🌀",
+          "linkFisico": "v/the-walking-dead-s01e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        }
+      ],
+      "2": [
+        {
+          "tit": "S02E01 🌀",
+          "linkFisico": "v/the-walking-dead-s02e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S02E02 🌀",
+          "linkFisico": "v/the-walking-dead-s02e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S02E03 🌀",
+          "linkFisico": "v/the-walking-dead-s02e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S02E04 🌀",
+          "linkFisico": "v/the-walking-dead-s02e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S02E05 🌀",
+          "linkFisico": "v/the-walking-dead-s02e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S02E06 🌀",
+          "linkFisico": "v/the-walking-dead-s02e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S02E07 🌀",
+          "linkFisico": "v/the-walking-dead-s02e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S02E08 🌀",
+          "linkFisico": "v/the-walking-dead-s02e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S02E09 🌀",
+          "linkFisico": "v/the-walking-dead-s02e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S02E10 🌀",
+          "linkFisico": "v/the-walking-dead-s02e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S02E11 🌀",
+          "linkFisico": "v/the-walking-dead-s02e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S02E12 🌀",
+          "linkFisico": "v/the-walking-dead-s02e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S02E13 🌀",
+          "linkFisico": "v/the-walking-dead-s02e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        }
+      ],
+      "3": [
+        {
+          "tit": "S03E01 🌀",
+          "linkFisico": "v/the-walking-dead-s03e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S03E02 🌀",
+          "linkFisico": "v/the-walking-dead-s03e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S03E03 🌀",
+          "linkFisico": "v/the-walking-dead-s03e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S03E04 🌀",
+          "linkFisico": "v/the-walking-dead-s03e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S03E05 🌀",
+          "linkFisico": "v/the-walking-dead-s03e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S03E06 🌀",
+          "linkFisico": "v/the-walking-dead-s03e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S03E07 🌀",
+          "linkFisico": "v/the-walking-dead-s03e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S03E08 🌀",
+          "linkFisico": "v/the-walking-dead-s03e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S03E09 🌀",
+          "linkFisico": "v/the-walking-dead-s03e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S03E10 🌀",
+          "linkFisico": "v/the-walking-dead-s03e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S03E11 🌀",
+          "linkFisico": "v/the-walking-dead-s03e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S03E12 🌀",
+          "linkFisico": "v/the-walking-dead-s03e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S03E13 🌀",
+          "linkFisico": "v/the-walking-dead-s03e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S03E14 🌀",
+          "linkFisico": "v/the-walking-dead-s03e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S03E15 🌀",
+          "linkFisico": "v/the-walking-dead-s03e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S03E16 🌀",
+          "linkFisico": "v/the-walking-dead-s03e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        }
+      ],
+      "4": [
+        {
+          "tit": "S04E01 🌀",
+          "linkFisico": "v/the-walking-dead-s04e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S04E02 🌀",
+          "linkFisico": "v/the-walking-dead-s04e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S04E03 🌀",
+          "linkFisico": "v/the-walking-dead-s04e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S04E04 🌀",
+          "linkFisico": "v/the-walking-dead-s04e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S04E05 🌀",
+          "linkFisico": "v/the-walking-dead-s04e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S04E06 🌀",
+          "linkFisico": "v/the-walking-dead-s04e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S04E07 🌀",
+          "linkFisico": "v/the-walking-dead-s04e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S04E08 🌀",
+          "linkFisico": "v/the-walking-dead-s04e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S04E09 🌀",
+          "linkFisico": "v/the-walking-dead-s04e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S04E10 🌀",
+          "linkFisico": "v/the-walking-dead-s04e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S04E11 🌀",
+          "linkFisico": "v/the-walking-dead-s04e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S04E12 🌀",
+          "linkFisico": "v/the-walking-dead-s04e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S04E13 🌀",
+          "linkFisico": "v/the-walking-dead-s04e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S04E14 🌀",
+          "linkFisico": "v/the-walking-dead-s04e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S04E15 🌀",
+          "linkFisico": "v/the-walking-dead-s04e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S04E16 🌀",
+          "linkFisico": "v/the-walking-dead-s04e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        }
+      ],
+      "5": [
+        {
+          "tit": "S05E01 🌀",
+          "linkFisico": "v/the-walking-dead-s05e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S05E02 🌀",
+          "linkFisico": "v/the-walking-dead-s05e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S05E03 🌀",
+          "linkFisico": "v/the-walking-dead-s05e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S05E04 🌀",
+          "linkFisico": "v/the-walking-dead-s05e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S05E05 🌀",
+          "linkFisico": "v/the-walking-dead-s05e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S05E06 🌀",
+          "linkFisico": "v/the-walking-dead-s05e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S05E07 🌀",
+          "linkFisico": "v/the-walking-dead-s05e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S05E08 🌀",
+          "linkFisico": "v/the-walking-dead-s05e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S05E09 🌀",
+          "linkFisico": "v/the-walking-dead-s05e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S05E10 🌀",
+          "linkFisico": "v/the-walking-dead-s05e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S05E11 🌀",
+          "linkFisico": "v/the-walking-dead-s05e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S05E12 🌀",
+          "linkFisico": "v/the-walking-dead-s05e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S05E13 🌀",
+          "linkFisico": "v/the-walking-dead-s05e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S05E14 🌀",
+          "linkFisico": "v/the-walking-dead-s05e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S05E15 🌀",
+          "linkFisico": "v/the-walking-dead-s05e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S05E16 🌀",
+          "linkFisico": "v/the-walking-dead-s05e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        }
+      ],
+      "6": [
+        {
+          "tit": "S06E01 🌀",
+          "linkFisico": "v/the-walking-dead-s06e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S06E02 🌀",
+          "linkFisico": "v/the-walking-dead-s06e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S06E03 🌀",
+          "linkFisico": "v/the-walking-dead-s06e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S06E04 🌀",
+          "linkFisico": "v/the-walking-dead-s06e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S06E05 🌀",
+          "linkFisico": "v/the-walking-dead-s06e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S06E06 🌀",
+          "linkFisico": "v/the-walking-dead-s06e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S06E07 🌀",
+          "linkFisico": "v/the-walking-dead-s06e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S06E08 🌀",
+          "linkFisico": "v/the-walking-dead-s06e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S06E09 🌀",
+          "linkFisico": "v/the-walking-dead-s06e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S06E10 🌀",
+          "linkFisico": "v/the-walking-dead-s06e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S06E11 🌀",
+          "linkFisico": "v/the-walking-dead-s06e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S06E12 🌀",
+          "linkFisico": "v/the-walking-dead-s06e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S06E13 🌀",
+          "linkFisico": "v/the-walking-dead-s06e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S06E14 🌀",
+          "linkFisico": "v/the-walking-dead-s06e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S06E15 🌀",
+          "linkFisico": "v/the-walking-dead-s06e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S06E16 🌀",
+          "linkFisico": "v/the-walking-dead-s06e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        }
+      ],
+      "7": [
+        {
+          "tit": "S07E01 🌀",
+          "linkFisico": "v/the-walking-dead-s07e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S07E02 🌀",
+          "linkFisico": "v/the-walking-dead-s07e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S07E03 🌀",
+          "linkFisico": "v/the-walking-dead-s07e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S07E04 🌀",
+          "linkFisico": "v/the-walking-dead-s07e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S07E05 🌀",
+          "linkFisico": "v/the-walking-dead-s07e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S07E06 🌀",
+          "linkFisico": "v/the-walking-dead-s07e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S07E07 🌀",
+          "linkFisico": "v/the-walking-dead-s07e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S07E08 🌀",
+          "linkFisico": "v/the-walking-dead-s07e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S07E09 🌀",
+          "linkFisico": "v/the-walking-dead-s07e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S07E10 🌀",
+          "linkFisico": "v/the-walking-dead-s07e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S07E11 🌀",
+          "linkFisico": "v/the-walking-dead-s07e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S07E12 🌀",
+          "linkFisico": "v/the-walking-dead-s07e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S07E13 🌀",
+          "linkFisico": "v/the-walking-dead-s07e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S07E14 🌀",
+          "linkFisico": "v/the-walking-dead-s07e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S07E15 🌀",
+          "linkFisico": "v/the-walking-dead-s07e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S07E16 🌀",
+          "linkFisico": "v/the-walking-dead-s07e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        }
+      ],
+      "8": [
+        {
+          "tit": "S08E01 🌀",
+          "linkFisico": "v/the-walking-dead-s08e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S08E02 🌀",
+          "linkFisico": "v/the-walking-dead-s08e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S08E03 🌀",
+          "linkFisico": "v/the-walking-dead-s08e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S08E04 🌀",
+          "linkFisico": "v/the-walking-dead-s08e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S08E05 🌀",
+          "linkFisico": "v/the-walking-dead-s08e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S08E06 🌀",
+          "linkFisico": "v/the-walking-dead-s08e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S08E07 🌀",
+          "linkFisico": "v/the-walking-dead-s08e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S08E08 🌀",
+          "linkFisico": "v/the-walking-dead-s08e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S08E09 🌀",
+          "linkFisico": "v/the-walking-dead-s08e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S08E10 🌀",
+          "linkFisico": "v/the-walking-dead-s08e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S08E11 🌀",
+          "linkFisico": "v/the-walking-dead-s08e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S08E12 🌀",
+          "linkFisico": "v/the-walking-dead-s08e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S08E13 🌀",
+          "linkFisico": "v/the-walking-dead-s08e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S08E14 🌀",
+          "linkFisico": "v/the-walking-dead-s08e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S08E15 🌀",
+          "linkFisico": "v/the-walking-dead-s08e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S08E16 🌀",
+          "linkFisico": "v/the-walking-dead-s08e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        }
+      ],
+      "9": [
+        {
+          "tit": "S09E01 🌀",
+          "linkFisico": "v/the-walking-dead-s09e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S09E02 🌀",
+          "linkFisico": "v/the-walking-dead-s09e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S09E03 🌀",
+          "linkFisico": "v/the-walking-dead-s09e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S09E04 🌀",
+          "linkFisico": "v/the-walking-dead-s09e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S09E05 🌀",
+          "linkFisico": "v/the-walking-dead-s09e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S09E06 🌀",
+          "linkFisico": "v/the-walking-dead-s09e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S09E07 🌀",
+          "linkFisico": "v/the-walking-dead-s09e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S09E08 🌀",
+          "linkFisico": "v/the-walking-dead-s09e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S09E09 🌀",
+          "linkFisico": "v/the-walking-dead-s09e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S09E10 🌀",
+          "linkFisico": "v/the-walking-dead-s09e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S09E11 🌀",
+          "linkFisico": "v/the-walking-dead-s09e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S09E12 🌀",
+          "linkFisico": "v/the-walking-dead-s09e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S09E13 🌀",
+          "linkFisico": "v/the-walking-dead-s09e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S09E14 🌀",
+          "linkFisico": "v/the-walking-dead-s09e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S09E15 🌀",
+          "linkFisico": "v/the-walking-dead-s09e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S09E16 🌀",
+          "linkFisico": "v/the-walking-dead-s09e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        }
+      ],
+      "10": [
+        {
+          "tit": "S10E01 🌀",
+          "linkFisico": "v/the-walking-dead-s10e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S10E02 🌀",
+          "linkFisico": "v/the-walking-dead-s10e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S10E03 🌀",
+          "linkFisico": "v/the-walking-dead-s10e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S10E04 🌀",
+          "linkFisico": "v/the-walking-dead-s10e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S10E05 🌀",
+          "linkFisico": "v/the-walking-dead-s10e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S10E06 🌀",
+          "linkFisico": "v/the-walking-dead-s10e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S10E07 🌀",
+          "linkFisico": "v/the-walking-dead-s10e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S10E08 🌀",
+          "linkFisico": "v/the-walking-dead-s10e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S10E09 🌀",
+          "linkFisico": "v/the-walking-dead-s10e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S10E10 🌀",
+          "linkFisico": "v/the-walking-dead-s10e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S10E11 🌀",
+          "linkFisico": "v/the-walking-dead-s10e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S10E12 🌀",
+          "linkFisico": "v/the-walking-dead-s10e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S10E13 🌀",
+          "linkFisico": "v/the-walking-dead-s10e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S10E14 🌀",
+          "linkFisico": "v/the-walking-dead-s10e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S10E15 🌀",
+          "linkFisico": "v/the-walking-dead-s10e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S10E16 🌀",
+          "linkFisico": "v/the-walking-dead-s10e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S10E17 🌀",
+          "linkFisico": "v/the-walking-dead-s10e17.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S10E18 🌀",
+          "linkFisico": "v/the-walking-dead-s10e18.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S10E19 🌀",
+          "linkFisico": "v/the-walking-dead-s10e19.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S10E20 🌀",
+          "linkFisico": "v/the-walking-dead-s10e20.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S10E21 🌀",
+          "linkFisico": "v/the-walking-dead-s10e21.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S10E22 🌀",
+          "linkFisico": "v/the-walking-dead-s10e22.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        }
+      ],
+      "11": [
+        {
+          "tit": "S11E01 🌀",
+          "linkFisico": "v/the-walking-dead-s11e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S11E02 🌀",
+          "linkFisico": "v/the-walking-dead-s11e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S11E03 🌀",
+          "linkFisico": "v/the-walking-dead-s11e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S11E04 🌀",
+          "linkFisico": "v/the-walking-dead-s11e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S11E05 🌀",
+          "linkFisico": "v/the-walking-dead-s11e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S11E06 🌀",
+          "linkFisico": "v/the-walking-dead-s11e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S11E07 🌀",
+          "linkFisico": "v/the-walking-dead-s11e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S11E08 🌀",
+          "linkFisico": "v/the-walking-dead-s11e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S11E09 🌀",
+          "linkFisico": "v/the-walking-dead-s11e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S11E10 🌀",
+          "linkFisico": "v/the-walking-dead-s11e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S11E11 🌀",
+          "linkFisico": "v/the-walking-dead-s11e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S11E12 🌀",
+          "linkFisico": "v/the-walking-dead-s11e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S11E13 🌀",
+          "linkFisico": "v/the-walking-dead-s11e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S11E14 🌀",
+          "linkFisico": "v/the-walking-dead-s11e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S11E15 🌀",
+          "linkFisico": "v/the-walking-dead-s11e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S11E16 🌀",
+          "linkFisico": "v/the-walking-dead-s11e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S11E17 🌀",
+          "linkFisico": "v/the-walking-dead-s11e17.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S11E18 🌀",
+          "linkFisico": "v/the-walking-dead-s11e18.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S11E19 🌀",
+          "linkFisico": "v/the-walking-dead-s11e19.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S11E20 🌀",
+          "linkFisico": "v/the-walking-dead-s11e20.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S11E21 🌀",
+          "linkFisico": "v/the-walking-dead-s11e21.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S11E22 🌀",
+          "linkFisico": "v/the-walking-dead-s11e22.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S11E23 🌀",
+          "linkFisico": "v/the-walking-dead-s11e23.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        },
+        {
+          "tit": "S11E24 🌀",
+          "linkFisico": "v/the-walking-dead-s11e24.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
         }
       ]
     }
