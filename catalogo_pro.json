@@ -35430,28 +35430,6 @@
     }
   },
   {
-    "id": "toy-story-um-mundo-de-aventuras",
-    "tipo": "filme",
-    "categoria": "Animações",
-    "titulo": "Toy Story: Um Mundo de Aventuras 🌀",
-    "logo": "https://image.tmdb.org/t/p/w780/6AafgfifXkFS4g2xGJZIwsPQK6P.jpg",
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/dLUvaPD1WHXFLBTiQoJodGyrkkk.jpg",
-    "logo_png": "https://image.tmdb.org/t/p/w500/4vtDA6gfNy7V93HqFuwfqZAyNcx.png",
-    "sinopse": "Buzz Lightyear é o novo e sofisticado astronauta de brinquedo do garoto Andy. Buzz não imaginava que encontraria um rival: Woody, um cowboy de brinquedo que, dominado pelo ciúme, acredita ter perdido um lugar precioso no coração do seu dono. Os dois brinquedos vivem brigando até que vão parar nas garras do vizinho, um verdadeiro destruidor de brinquedos. Agora, mais do que nunca, Buzz e Woody precisam precisam se unir para escapar do perigo. Com a ajuda de seus amigos da caixa de brinquedos, eles vão viver uma incrível aventura.",
-    "nota": "8.0",
-    "avaliacao": "8.0",
-    "classificacao": "Livre",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "Assistir 🌀",
-          "linkFisico": "v/toy-story-um-mundo-de-aventuras.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/dLUvaPD1WHXFLBTiQoJodGyrkkk.jpg"
-        }
-      ]
-    }
-  },
-  {
     "id": "a-casa-de-cera",
     "tipo": "filme",
     "categoria": "Terror",
@@ -40023,6 +40001,28 @@
           "tit": "Assistir 🌀",
           "linkFisico": "v/toy-story-4.html",
           "logoEp": "https://image.tmdb.org/t/p/w1280/4KhVv7OAHn6vULgHymnnYWULQDz.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "toy-story-um-mundo-de-aventuras",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Toy Story: Um Mundo de Aventuras 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/6AafgfifXkFS4g2xGJZIwsPQK6P.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/dLUvaPD1WHXFLBTiQoJodGyrkkk.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/4vtDA6gfNy7V93HqFuwfqZAyNcx.png",
+    "sinopse": "Buzz Lightyear é o novo e sofisticado astronauta de brinquedo do garoto Andy. Buzz não imaginava que encontraria um rival: Woody, um cowboy de brinquedo que, dominado pelo ciúme, acredita ter perdido um lugar precioso no coração do seu dono. Os dois brinquedos vivem brigando até que vão parar nas garras do vizinho, um verdadeiro destruidor de brinquedos. Agora, mais do que nunca, Buzz e Woody precisam precisam se unir para escapar do perigo. Com a ajuda de seus amigos da caixa de brinquedos, eles vão viver uma incrível aventura.",
+    "nota": "8.0",
+    "avaliacao": "8.0",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/toy-story-um-mundo-de-aventuras.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/dLUvaPD1WHXFLBTiQoJodGyrkkk.jpg"
         }
       ]
     }
