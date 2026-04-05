@@ -29120,46 +29120,6 @@
     }
   },
   {
-    "id": "toy-story-3",
-    "tipo": "filme",
-    "categoria": "Animações",
-    "titulo": "Toy Story 3 🌀",
-    "logo": "https://image.tmdb.org/t/p/w780/rf67AeS9nP8DD7dZYbvhjEVoIBf.jpg",
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/6HguugAxjC9qwRu8B7nVGXhuLsu.jpg",
-    "sinopse": "Woody, Buzz e o resto dos brinquedos de Andy não são usados há anos. Com Andy prestes a ir para a faculdade, o grupo acaba por ser deixado acidentalmente numa creche. Os brinquedos devem se unir para escapar e voltar para casa de Andy.",
-    "avaliacao": "7.8",
-    "classificacao": "Livre",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "Assistir 🌀",
-          "linkFisico": "v/toy-story-3.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/6HguugAxjC9qwRu8B7nVGXhuLsu.jpg"
-        }
-      ]
-    }
-  },
-  {
-    "id": "toy-story-4",
-    "tipo": "filme",
-    "categoria": "Animações",
-    "titulo": "Toy Story 4 🌀",
-    "logo": "https://image.tmdb.org/t/p/w780/csiyO6q8rR74pfgJDjwINzhoick.jpg",
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/iG3Gu0T0AkL4D8T8ci2PcufuLyX.jpg",
-    "sinopse": "Agora morando na casa da pequena Bonnie, Woody apresenta aos amigos o novo brinquedo construído por ela: Garfinho, baseado em um garfo de verdade. O novo posto de brinquedo não o agrada nem um pouco, o que faz com que Garfinho fuja de casa. Decidido a trazer de volta o atual brinquedo favorito de Bonnie, Woody parte em seu encalço e, no caminho, reencontra Bo Peep, que agora vive em um parque de diversões.",
-    "avaliacao": "7.5",
-    "classificacao": "Livre",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "Assistir 🌀",
-          "linkFisico": "v/toy-story-4.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/iG3Gu0T0AkL4D8T8ci2PcufuLyX.jpg"
-        }
-      ]
-    }
-  },
-  {
     "id": "um-monstro-em-paris",
     "tipo": "filme",
     "categoria": "Animações",
@@ -40019,6 +39979,50 @@
           "tit": "Assistir 🌀",
           "linkFisico": "v/toy-story-2.html",
           "logoEp": "https://image.tmdb.org/t/p/w1280/zeAmGUzY1LUHF9YdvTXsck4HkQe.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "toy-story-3",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Toy Story 3 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/rf67AeS9nP8DD7dZYbvhjEVoIBf.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/6HguugAxjC9qwRu8B7nVGXhuLsu.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/rtVRqcMq5zbimjlp2Dw1NbG9FeH.png",
+    "sinopse": "Woody, Buzz e o resto dos brinquedos de Andy não são usados há anos. Com Andy prestes a ir para a faculdade, o grupo acaba por ser deixado acidentalmente numa creche. Os brinquedos devem se unir para escapar e voltar para casa de Andy.",
+    "nota": "7.8",
+    "avaliacao": "7.8",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/toy-story-3.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/6HguugAxjC9qwRu8B7nVGXhuLsu.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "toy-story-4",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Toy Story 4 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/csiyO6q8rR74pfgJDjwINzhoick.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/4KhVv7OAHn6vULgHymnnYWULQDz.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/xrTa6Y59uC1rURuGHllbzH5Qz2c.png",
+    "sinopse": "Agora morando na casa da pequena Bonnie, Woody apresenta aos amigos o novo brinquedo construído por ela: Garfinho, baseado em um garfo de verdade. O novo posto de brinquedo não o agrada nem um pouco, o que faz com que Garfinho fuja de casa. Decidido a trazer de volta o atual brinquedo favorito de Bonnie, Woody parte em seu encalço e, no caminho, reencontra Bo Peep, que agora vive em um parque de diversões.",
+    "nota": "7.5",
+    "avaliacao": "7.5",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/toy-story-4.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/4KhVv7OAHn6vULgHymnnYWULQDz.jpg"
         }
       ]
     }
