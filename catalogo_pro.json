@@ -37463,28 +37463,6 @@
     }
   },
   {
-    "id": "a-origem-dos-guardioes",
-    "tipo": "filme",
-    "categoria": "Animações",
-    "titulo": "A Origem dos Guardiões 🌀",
-    "logo": "https://image.tmdb.org/t/p/w780/hLiI13YstciHqiuHCkD786wpIYn.jpg",
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/oMeKKWJcQMBN5c7hnOcVn0Juzxx.jpg",
-    "logo_png": "https://image.tmdb.org/t/p/w500/2X2Mules4fd2MqBfz7RetTaFXjp.png",
-    "sinopse": "As crianças do mundo inteiro são protegidas por um seleto grupo de guardiões: Papai Noel, Fada do Dente, Coelho da Páscoa e Sandman. São eles que garantem a inocência e as lendas infantis. Mas um espírito maligno, o Breu, pretende transformar todos os sonhos em pesadelo, despertando medo em todas as crianças. Para combater este adversário poderoso, a Lua designa um novo guardião para ajudar o grupo: Jack Frost, um garotinho invisível que controla o inverno. Sem conhecer sua própria vocação de guardião, ele embarca em uma aventura na qual vai descobrir tanto sobre as crianças quanto sobre seu próprio passado.",
-    "nota": "7.4",
-    "avaliacao": "7.4",
-    "classificacao": "Livre",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "Assistir 🌀",
-          "linkFisico": "v/a-origem-dos-guardioes.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/oMeKKWJcQMBN5c7hnOcVn0Juzxx.jpg"
-        }
-      ]
-    }
-  },
-  {
     "id": "os-incriveis",
     "tipo": "filme",
     "categoria": "Animações",
@@ -39995,6 +39973,28 @@
           "tit": "Assistir 🌀",
           "linkFisico": "v/doutor-estranho-no-multiverso-da-loucura.html",
           "logoEp": "https://image.tmdb.org/t/p/w1280/dvI62PBuiYI4d0IaRfw8a0Hi05x.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "a-origem-dos-guardioes",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "A Origem dos Guardiões 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/hLiI13YstciHqiuHCkD786wpIYn.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/oMeKKWJcQMBN5c7hnOcVn0Juzxx.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/2X2Mules4fd2MqBfz7RetTaFXjp.png",
+    "sinopse": "As crianças do mundo inteiro são protegidas por um seleto grupo de guardiões: Papai Noel, Fada do Dente, Coelho da Páscoa e Sandman. São eles que garantem a inocência e as lendas infantis. Mas um espírito maligno, o Breu, pretende transformar todos os sonhos em pesadelo, despertando medo em todas as crianças. Para combater este adversário poderoso, a Lua designa um novo guardião para ajudar o grupo: Jack Frost, um garotinho invisível que controla o inverno. Sem conhecer sua própria vocação de guardião, ele embarca em uma aventura na qual vai descobrir tanto sobre as crianças quanto sobre seu próprio passado.",
+    "nota": "7.4",
+    "avaliacao": "7.4",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/a-origem-dos-guardioes.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/oMeKKWJcQMBN5c7hnOcVn0Juzxx.jpg"
         }
       ]
     }
