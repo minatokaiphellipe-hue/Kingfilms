@@ -15331,26 +15331,6 @@
     }
   },
   {
-    "id": "kung-fu-panda-3",
-    "tipo": "filme",
-    "categoria": "Animações",
-    "titulo": "Kung Fu Panda 3 🌀",
-    "logo": "https://image.tmdb.org/t/p/w780/uo4T7PDDYGCxK9uO68gJygLR8VT.jpg",
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/kWJ3KpY1uRu6k8a5qn5lW5LhW1T.jpg",
-    "sinopse": "Em uma visita a uma vila secreta com o pai, Po forma um exército de pandas para combater um espírito maligno que ameaça a China.",
-    "avaliacao": "6.9",
-    "classificacao": "Livre",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "Assistir 🌀",
-          "linkFisico": "v/kung-fu-panda-3.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/kWJ3KpY1uRu6k8a5qn5lW5LhW1T.jpg"
-        }
-      ]
-    }
-  },
-  {
     "id": "kung-fu-panda-4",
     "tipo": "filme",
     "categoria": "Animações",
@@ -40291,6 +40271,28 @@
           "tit": "Assistir 🌀",
           "linkFisico": "v/kung-fu-panda-2.html",
           "logoEp": "https://image.tmdb.org/t/p/w1280/FalvFLLRBBMFxCsjKUA8UnHg1q.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "kung-fu-panda-3",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Kung Fu Panda 3 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/uo4T7PDDYGCxK9uO68gJygLR8VT.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/kWJ3KpY1uRu6k8a5qn5lW5LhW1T.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/r4zJDv5NrTQSMQe1ShHQZ1KY65e.png",
+    "sinopse": "Em uma visita a uma vila secreta com o pai, Po forma um exército de pandas para combater um espírito maligno que ameaça a China.",
+    "nota": "6.9",
+    "avaliacao": "6.9",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/kung-fu-panda-3.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kWJ3KpY1uRu6k8a5qn5lW5LhW1T.jpg"
         }
       ]
     }
