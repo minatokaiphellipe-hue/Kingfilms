@@ -11498,28 +11498,6 @@
     "logo_horizontal": "https://image.tmdb.org/t/p/w1280/ze6Mx4QE5mQVXRYmG2flncqqle4.jpg"
   },
   {
-    "id": "harry-potter-e-o-prisioneiro-de-azkaban",
-    "tipo": "filme",
-    "categoria": "Fantasia",
-    "titulo": "Harry Potter e o Prisioneiro de Azkaban 🌀",
-    "logo": "https://image.tmdb.org/t/p/w780/1HdMUghqlgOIvbsU9ZtO40IPRzl.jpg",
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/ktj07Eajol5Y2aTQpvTADiQZXJV.jpg",
-    "logo_png": "https://image.tmdb.org/t/p/w500/5wJb9AcqUBbsCXpdXuHf0IT9DXg.png",
-    "sinopse": "É o início do terceiro ano na escola de magia e bruxaria de Hogwarts. Harry, Ron e Hermione têm muito o que aprender. Mas uma ameaça ronda a escola e ela se chama Sirius Black. Após doze anos encarcerado na prisão de Azkaban, ele consegue escapar e volta para vingar seu mestre, Lord Voldemort. Para piorar, os Dementores, guardas supostamente enviados para proteger Hogwarts e seguir os passos de Black, parecem ser ameaças ainda mais perigosas.",
-    "nota": "8.0",
-    "avaliacao": "8.0",
-    "classificacao": "12",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "Assistir 🌀",
-          "linkFisico": "v/harry-potter-e-o-prisioneiro-de-azkaban.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/ktj07Eajol5Y2aTQpvTADiQZXJV.jpg"
-        }
-      ]
-    }
-  },
-  {
     "id": "henry-danger",
     "tipo": "serie",
     "categoria": "Séries",
@@ -41565,6 +41543,28 @@
           "tit": "S06E28 🌀",
           "linkFisico": "v/looney-tunes-cartoons-s06e28.html",
           "logoEp": "https://image.tmdb.org/t/p/w1280/7uR8A4qUGguvlBoHZlT2AQSqpB.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "harry-potter-e-o-prisioneiro-de-azkaban",
+    "tipo": "filme",
+    "categoria": "Fantasia",
+    "titulo": "Harry Potter e o Prisioneiro de Azkaban 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/1HdMUghqlgOIvbsU9ZtO40IPRzl.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/ktj07Eajol5Y2aTQpvTADiQZXJV.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/5wJb9AcqUBbsCXpdXuHf0IT9DXg.png",
+    "sinopse": "É o início do terceiro ano na escola de magia e bruxaria de Hogwarts. Harry, Ron e Hermione têm muito o que aprender. Mas uma ameaça ronda a escola e ela se chama Sirius Black. Após doze anos encarcerado na prisão de Azkaban, ele consegue escapar e volta para vingar seu mestre, Lord Voldemort. Para piorar, os Dementores, guardas supostamente enviados para proteger Hogwarts e seguir os passos de Black, parecem ser ameaças ainda mais perigosas.",
+    "nota": "8.0",
+    "avaliacao": "8.0",
+    "classificacao": "12",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/harry-potter-e-o-prisioneiro-de-azkaban.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/ktj07Eajol5Y2aTQpvTADiQZXJV.jpg"
         }
       ]
     }
