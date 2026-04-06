@@ -41662,5 +41662,62 @@
         }
       ]
     }
+  },
+  {
+    "id": "sem-maturidade-para-isso",
+    "tipo": "serie",
+    "categoria": "Séries",
+    "titulo": "Sem Maturidade para Isso 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/tnN5SvJxHYkUccLfVbuVdahDYd1.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/9fno7s61Gqzu3HIJm2GE5lVkwqz.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/cPYF64m53qARPy3Fx3oerIvwFiQ.png",
+    "sinopse": "Nesta série de animação para adultos, um casal de 30 e poucos anos tenta se manter divertido após deixar a vida de festas para cuidar dos filhos.",
+    "nota": "7.9",
+    "avaliacao": "7.9",
+    "classificacao": "14",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "S01E01 🌀",
+          "linkFisico": "v/sem-maturidade-para-isso-s01e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/9fno7s61Gqzu3HIJm2GE5lVkwqz.jpg"
+        },
+        {
+          "tit": "S01E02 🌀",
+          "linkFisico": "v/sem-maturidade-para-isso-s01e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/9fno7s61Gqzu3HIJm2GE5lVkwqz.jpg"
+        },
+        {
+          "tit": "S01E03 🌀",
+          "linkFisico": "v/sem-maturidade-para-isso-s01e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/9fno7s61Gqzu3HIJm2GE5lVkwqz.jpg"
+        },
+        {
+          "tit": "S01E04 🌀",
+          "linkFisico": "v/sem-maturidade-para-isso-s01e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/9fno7s61Gqzu3HIJm2GE5lVkwqz.jpg"
+        },
+        {
+          "tit": "S01E05 🌀",
+          "linkFisico": "v/sem-maturidade-para-isso-s01e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/9fno7s61Gqzu3HIJm2GE5lVkwqz.jpg"
+        },
+        {
+          "tit": "S01E06 🌀",
+          "linkFisico": "v/sem-maturidade-para-isso-s01e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/9fno7s61Gqzu3HIJm2GE5lVkwqz.jpg"
+        },
+        {
+          "tit": "S01E07 🌀",
+          "linkFisico": "v/sem-maturidade-para-isso-s01e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/9fno7s61Gqzu3HIJm2GE5lVkwqz.jpg"
+        },
+        {
+          "tit": "S01E08 🌀",
+          "linkFisico": "v/sem-maturidade-para-isso-s01e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/9fno7s61Gqzu3HIJm2GE5lVkwqz.jpg"
+        }
+      ]
+    }
   }
 ]
