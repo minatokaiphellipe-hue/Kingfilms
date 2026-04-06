@@ -15331,26 +15331,6 @@
     }
   },
   {
-    "id": "kung-fu-panda-4",
-    "tipo": "filme",
-    "categoria": "Animações",
-    "titulo": "Kung Fu Panda 4 🌀",
-    "logo": "https://image.tmdb.org/t/p/w780/aNK6MA5EApIo0UJE7ZWSYcZBJKy.jpg",
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/kJQaz1hoUfJWZ44EYg027RH3AQq.jpg",
-    "sinopse": "Po está prestes a se tornar o novo líder espiritual do Vale da Paz, mas antes que possa fazer isso, ele deve encontrar um sucessor para se tornar o novo Dragão Guerreiro.  Ele parece encontrar uma em Zhen, uma raposa com muitas habilidades promissoras, mas que não gosta muito da ideia de Po treiná-la.",
-    "avaliacao": "7.0",
-    "classificacao": "Livre",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "Assistir 🌀",
-          "linkFisico": "v/kung-fu-panda-4.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/kJQaz1hoUfJWZ44EYg027RH3AQq.jpg"
-        }
-      ]
-    }
-  },
-  {
     "id": "lego-ninjago-o-filme",
     "tipo": "filme",
     "categoria": "Animações",
@@ -40293,6 +40273,28 @@
           "tit": "Assistir 🌀",
           "linkFisico": "v/kung-fu-panda-3.html",
           "logoEp": "https://image.tmdb.org/t/p/w1280/kWJ3KpY1uRu6k8a5qn5lW5LhW1T.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "kung-fu-panda-4",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Kung Fu Panda 4 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/aNK6MA5EApIo0UJE7ZWSYcZBJKy.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/kJQaz1hoUfJWZ44EYg027RH3AQq.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/8UbSYKGDYSFvWQhpMg5CdvYRfcf.png",
+    "sinopse": "Po está prestes a se tornar o novo líder espiritual do Vale da Paz, mas antes que possa fazer isso, ele deve encontrar um sucessor para se tornar o novo Dragão Guerreiro.  Ele parece encontrar uma em Zhen, uma raposa com muitas habilidades promissoras, mas que não gosta muito da ideia de Po treiná-la.",
+    "nota": "7.0",
+    "avaliacao": "7.0",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/kung-fu-panda-4.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kJQaz1hoUfJWZ44EYg027RH3AQq.jpg"
         }
       ]
     }
