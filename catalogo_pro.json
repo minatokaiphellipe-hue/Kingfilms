@@ -15331,46 +15331,6 @@
     }
   },
   {
-    "id": "kung-fu-panda",
-    "tipo": "filme",
-    "categoria": "Animações",
-    "titulo": "Kung Fu Panda 🌀",
-    "logo": "https://image.tmdb.org/t/p/w780/1YMs3zCt5kICK28RvVgDL1UUtkA.jpg",
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/1ZPecxsJGPGLey9Y93QKPgUBngM.jpg",
-    "sinopse": "Po é um panda que trabalha na loja de macarrão da sua família e sonha em transformar-se em um mestre de kung fu. Seu sonho se torna realidade quando, inesperadamente, ele deve cumprir uma profecia antiga e estudar a arte marcial com seus ídolos, os Cinco Furiosos. Po precisa de toda a sabedoria, força e habilidade que conseguir reunir para proteger seu povo de um leopardo da neve malvado.",
-    "avaliacao": "7.3",
-    "classificacao": "Livre",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "Assistir 🌀",
-          "linkFisico": "v/kung-fu-panda.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1ZPecxsJGPGLey9Y93QKPgUBngM.jpg"
-        }
-      ]
-    }
-  },
-  {
-    "id": "kung-fu-panda-2",
-    "tipo": "filme",
-    "categoria": "Animações",
-    "titulo": "Kung Fu Panda 2 🌀",
-    "logo": "https://image.tmdb.org/t/p/w780/dSF0v3XPCzKb30zv3fLeuoJuTRv.jpg",
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/FalvFLLRBBMFxCsjKUA8UnHg1q.jpg",
-    "sinopse": "Po vive o sonho de ser o dragão guerreiro, protegendo o Vale da Paz ao lado dos mestres Shifu, Tigresa, Macaco, Víbora, Louva-deus e Garça. Sua vida pacata chega ao fim quando surge um novo inimigo, o lorde Chen, que possui uma arma secreta capaz de permitir a conquista da China e provocar o fim do kung fu. Para impedi-lo, Po e os Cinco Furiosos precisam cruzar o país e derrotá-lo.",
-    "avaliacao": "7.1",
-    "classificacao": "Livre",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "Assistir 🌀",
-          "linkFisico": "v/kung-fu-panda-2.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/FalvFLLRBBMFxCsjKUA8UnHg1q.jpg"
-        }
-      ]
-    }
-  },
-  {
     "id": "kung-fu-panda-3",
     "tipo": "filme",
     "categoria": "Animações",
@@ -40287,6 +40247,50 @@
           "tit": "S03E10 🌀",
           "linkFisico": "v/tulsa-king-s03e10.html",
           "logoEp": "https://image.tmdb.org/t/p/w1280/sxoIItiW2rHZOCdeyHjE1YjbtOG.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "kung-fu-panda",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Kung Fu Panda 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/1YMs3zCt5kICK28RvVgDL1UUtkA.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/1ZPecxsJGPGLey9Y93QKPgUBngM.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/dOtcCZ4mO5LPdEf6XA0HbCJo40d.png",
+    "sinopse": "Po é um panda que trabalha na loja de macarrão da sua família e sonha em transformar-se em um mestre de kung fu. Seu sonho se torna realidade quando, inesperadamente, ele deve cumprir uma profecia antiga e estudar a arte marcial com seus ídolos, os Cinco Furiosos. Po precisa de toda a sabedoria, força e habilidade que conseguir reunir para proteger seu povo de um leopardo da neve malvado.",
+    "nota": "7.3",
+    "avaliacao": "7.3",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/kung-fu-panda.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1ZPecxsJGPGLey9Y93QKPgUBngM.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "kung-fu-panda-2",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Kung Fu Panda 2 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/dSF0v3XPCzKb30zv3fLeuoJuTRv.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/FalvFLLRBBMFxCsjKUA8UnHg1q.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/hyVRDpssk1Nz0AkYkHuK8lRsnDU.png",
+    "sinopse": "Po vive o sonho de ser o dragão guerreiro, protegendo o Vale da Paz ao lado dos mestres Shifu, Tigresa, Macaco, Víbora, Louva-deus e Garça. Sua vida pacata chega ao fim quando surge um novo inimigo, o lorde Chen, que possui uma arma secreta capaz de permitir a conquista da China e provocar o fim do kung fu. Para impedi-lo, Po e os Cinco Furiosos precisam cruzar o país e derrotá-lo.",
+    "nota": "7.1",
+    "avaliacao": "7.1",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/kung-fu-panda-2.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/FalvFLLRBBMFxCsjKUA8UnHg1q.jpg"
         }
       ]
     }
