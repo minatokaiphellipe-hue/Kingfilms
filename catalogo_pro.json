@@ -41639,5 +41639,27 @@
         }
       ]
     }
+  },
+  {
+    "id": "duro-de-matar-um-bom-dia-para-morrer",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "Duro de Matar: Um Bom Dia para Morrer 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/lwV8LxjFT6AdbUJxQrDIMZz5C8I.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/22YmCjkUgmRmkT5vhUgz0FgA5TI.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/ohF8UJY74XJxqJDwnLw8tMfjUIS.png",
+    "sinopse": "O policial John McClane não tem boa relação com seu filho. Os dois precisam deixar de lado suas diferenças para livrar o rapaz de uma acusação e proteger um terrorista que diz ter um dossiê contra um potencial candidato à presidência da Rússia.",
+    "nota": "5.3",
+    "avaliacao": "5.3",
+    "classificacao": "12",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/duro-de-matar-um-bom-dia-para-morrer.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/22YmCjkUgmRmkT5vhUgz0FgA5TI.jpg"
+        }
+      ]
+    }
   }
 ]
