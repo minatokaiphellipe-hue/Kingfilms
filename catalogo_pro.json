@@ -4391,340 +4391,6 @@
     }
   },
   {
-    "id": "breaking-bad",
-    "tipo": "serie",
-    "categoria": "Séries",
-    "titulo": "Breaking Bad 🌀",
-    "logo": "https://image.tmdb.org/t/p/w780/hGwm9Cj3CdbJIqQWNExQqiYmCd4.jpg",
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg",
-    "sinopse": "Ao saber que tem câncer, um professor passa a fabricar metanfetamina pelo futuro da família, mudando o destino de todos.",
-    "nota": "8.9",
-    "avaliacao": "8.9",
-    "classificacao": "16",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "S01E01 🌀",
-          "linkFisico": "v/breaking-bad-s01e01.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
-        },
-        {
-          "tit": "S01E02 🌀",
-          "linkFisico": "v/breaking-bad-s01e02.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
-        },
-        {
-          "tit": "S01E03 🌀",
-          "linkFisico": "v/breaking-bad-s01e03.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
-        },
-        {
-          "tit": "S01E04 🌀",
-          "linkFisico": "v/breaking-bad-s01e04.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
-        },
-        {
-          "tit": "S01E05 🌀",
-          "linkFisico": "v/breaking-bad-s01e05.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
-        },
-        {
-          "tit": "S01E06 🌀",
-          "linkFisico": "v/breaking-bad-s01e06.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
-        },
-        {
-          "tit": "S01E07 🌀",
-          "linkFisico": "v/breaking-bad-s01e07.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
-        }
-      ],
-      "2": [
-        {
-          "tit": "S02E01 🌀",
-          "linkFisico": "v/breaking-bad-s02e01.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
-        },
-        {
-          "tit": "S02E02 🌀",
-          "linkFisico": "v/breaking-bad-s02e02.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
-        },
-        {
-          "tit": "S02E03 🌀",
-          "linkFisico": "v/breaking-bad-s02e03.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
-        },
-        {
-          "tit": "S02E04 🌀",
-          "linkFisico": "v/breaking-bad-s02e04.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
-        },
-        {
-          "tit": "S02E05 🌀",
-          "linkFisico": "v/breaking-bad-s02e05.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
-        },
-        {
-          "tit": "S02E06 🌀",
-          "linkFisico": "v/breaking-bad-s02e06.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
-        },
-        {
-          "tit": "S02E07 🌀",
-          "linkFisico": "v/breaking-bad-s02e07.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
-        },
-        {
-          "tit": "S02E08 🌀",
-          "linkFisico": "v/breaking-bad-s02e08.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
-        },
-        {
-          "tit": "S02E09 🌀",
-          "linkFisico": "v/breaking-bad-s02e09.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
-        },
-        {
-          "tit": "S02E10 🌀",
-          "linkFisico": "v/breaking-bad-s02e10.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
-        },
-        {
-          "tit": "S02E11 🌀",
-          "linkFisico": "v/breaking-bad-s02e11.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
-        },
-        {
-          "tit": "S02E12 🌀",
-          "linkFisico": "v/breaking-bad-s02e12.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
-        },
-        {
-          "tit": "S02E13 🌀",
-          "linkFisico": "v/breaking-bad-s02e13.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
-        }
-      ],
-      "3": [
-        {
-          "tit": "S03E01 🌀",
-          "linkFisico": "v/breaking-bad-s03e01.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
-        },
-        {
-          "tit": "S03E02 🌀",
-          "linkFisico": "v/breaking-bad-s03e02.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
-        },
-        {
-          "tit": "S03E03 🌀",
-          "linkFisico": "v/breaking-bad-s03e03.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
-        },
-        {
-          "tit": "S03E04 🌀",
-          "linkFisico": "v/breaking-bad-s03e04.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
-        },
-        {
-          "tit": "S03E05 🌀",
-          "linkFisico": "v/breaking-bad-s03e05.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
-        },
-        {
-          "tit": "S03E06 🌀",
-          "linkFisico": "v/breaking-bad-s03e06.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
-        },
-        {
-          "tit": "S03E07 🌀",
-          "linkFisico": "v/breaking-bad-s03e07.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
-        },
-        {
-          "tit": "S03E08 🌀",
-          "linkFisico": "v/breaking-bad-s03e08.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
-        },
-        {
-          "tit": "S03E09 🌀",
-          "linkFisico": "v/breaking-bad-s03e09.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
-        },
-        {
-          "tit": "S03E10 🌀",
-          "linkFisico": "v/breaking-bad-s03e10.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
-        },
-        {
-          "tit": "S03E11 🌀",
-          "linkFisico": "v/breaking-bad-s03e11.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
-        },
-        {
-          "tit": "S03E12 🌀",
-          "linkFisico": "v/breaking-bad-s03e12.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
-        },
-        {
-          "tit": "S03E13 🌀",
-          "linkFisico": "v/breaking-bad-s03e13.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
-        }
-      ],
-      "4": [
-        {
-          "tit": "S04E01 🌀",
-          "linkFisico": "v/breaking-bad-s04e01.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
-        },
-        {
-          "tit": "S04E02 🌀",
-          "linkFisico": "v/breaking-bad-s04e02.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
-        },
-        {
-          "tit": "S04E03 🌀",
-          "linkFisico": "v/breaking-bad-s04e03.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
-        },
-        {
-          "tit": "S04E04 🌀",
-          "linkFisico": "v/breaking-bad-s04e04.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
-        },
-        {
-          "tit": "S04E05 🌀",
-          "linkFisico": "v/breaking-bad-s04e05.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
-        },
-        {
-          "tit": "S04E06 🌀",
-          "linkFisico": "v/breaking-bad-s04e06.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
-        },
-        {
-          "tit": "S04E07 🌀",
-          "linkFisico": "v/breaking-bad-s04e07.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
-        },
-        {
-          "tit": "S04E08 🌀",
-          "linkFisico": "v/breaking-bad-s04e08.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
-        },
-        {
-          "tit": "S04E09 🌀",
-          "linkFisico": "v/breaking-bad-s04e09.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
-        },
-        {
-          "tit": "S04E10 🌀",
-          "linkFisico": "v/breaking-bad-s04e10.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
-        },
-        {
-          "tit": "S04E11 🌀",
-          "linkFisico": "v/breaking-bad-s04e11.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
-        },
-        {
-          "tit": "S04E12 🌀",
-          "linkFisico": "v/breaking-bad-s04e12.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
-        },
-        {
-          "tit": "S04E13 🌀",
-          "linkFisico": "v/breaking-bad-s04e13.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
-        }
-      ],
-      "5": [
-        {
-          "tit": "S05E01 🌀",
-          "linkFisico": "v/breaking-bad-s05e01.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
-        },
-        {
-          "tit": "S05E02 🌀",
-          "linkFisico": "v/breaking-bad-s05e02.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
-        },
-        {
-          "tit": "S05E03 🌀",
-          "linkFisico": "v/breaking-bad-s05e03.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
-        },
-        {
-          "tit": "S05E04 🌀",
-          "linkFisico": "v/breaking-bad-s05e04.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
-        },
-        {
-          "tit": "S05E05 🌀",
-          "linkFisico": "v/breaking-bad-s05e05.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
-        },
-        {
-          "tit": "S05E06 🌀",
-          "linkFisico": "v/breaking-bad-s05e06.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
-        },
-        {
-          "tit": "S05E07 🌀",
-          "linkFisico": "v/breaking-bad-s05e07.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
-        },
-        {
-          "tit": "S05E08 🌀",
-          "linkFisico": "v/breaking-bad-s05e08.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
-        },
-        {
-          "tit": "S05E09 🌀",
-          "linkFisico": "v/breaking-bad-s05e09.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
-        },
-        {
-          "tit": "S05E10 🌀",
-          "linkFisico": "v/breaking-bad-s05e10.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
-        },
-        {
-          "tit": "S05E11 🌀",
-          "linkFisico": "v/breaking-bad-s05e11.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
-        },
-        {
-          "tit": "S05E12 🌀",
-          "linkFisico": "v/breaking-bad-s05e12.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
-        },
-        {
-          "tit": "S05E13 🌀",
-          "linkFisico": "v/breaking-bad-s05e13.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
-        },
-        {
-          "tit": "S05E14 🌀",
-          "linkFisico": "v/breaking-bad-s05e14.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
-        },
-        {
-          "tit": "S05E15 🌀",
-          "linkFisico": "v/breaking-bad-s05e15.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
-        },
-        {
-          "tit": "S05E16 🌀",
-          "linkFisico": "v/breaking-bad-s05e16.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
-        }
-      ]
-    }
-  },
-  {
     "id": "bridgerton",
     "tipo": "serie",
     "categoria": "Séries",
@@ -40120,6 +39786,341 @@
           "tit": "S10E10 🌀",
           "linkFisico": "v/futurama-s10e10.html",
           "logoEp": "https://image.tmdb.org/t/p/w1280/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "breaking-bad",
+    "tipo": "serie",
+    "categoria": "Séries",
+    "titulo": "Breaking Bad 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/hGwm9Cj3CdbJIqQWNExQqiYmCd4.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/6BjramNwtBRofUaARi3GON4VXGo.png",
+    "sinopse": "Ao saber que tem câncer, um professor passa a fabricar metanfetamina pelo futuro da família, mudando o destino de todos.",
+    "nota": "8.9",
+    "avaliacao": "8.9",
+    "classificacao": "16",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "S01E01 🌀",
+          "linkFisico": "v/breaking-bad-s01e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
+        },
+        {
+          "tit": "S01E02 🌀",
+          "linkFisico": "v/breaking-bad-s01e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
+        },
+        {
+          "tit": "S01E03 🌀",
+          "linkFisico": "v/breaking-bad-s01e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
+        },
+        {
+          "tit": "S01E04 🌀",
+          "linkFisico": "v/breaking-bad-s01e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
+        },
+        {
+          "tit": "S01E05 🌀",
+          "linkFisico": "v/breaking-bad-s01e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
+        },
+        {
+          "tit": "S01E06 🌀",
+          "linkFisico": "v/breaking-bad-s01e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
+        },
+        {
+          "tit": "S01E07 🌀",
+          "linkFisico": "v/breaking-bad-s01e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
+        }
+      ],
+      "2": [
+        {
+          "tit": "S02E01 🌀",
+          "linkFisico": "v/breaking-bad-s02e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
+        },
+        {
+          "tit": "S02E02 🌀",
+          "linkFisico": "v/breaking-bad-s02e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
+        },
+        {
+          "tit": "S02E03 🌀",
+          "linkFisico": "v/breaking-bad-s02e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
+        },
+        {
+          "tit": "S02E04 🌀",
+          "linkFisico": "v/breaking-bad-s02e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
+        },
+        {
+          "tit": "S02E05 🌀",
+          "linkFisico": "v/breaking-bad-s02e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
+        },
+        {
+          "tit": "S02E06 🌀",
+          "linkFisico": "v/breaking-bad-s02e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
+        },
+        {
+          "tit": "S02E07 🌀",
+          "linkFisico": "v/breaking-bad-s02e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
+        },
+        {
+          "tit": "S02E08 🌀",
+          "linkFisico": "v/breaking-bad-s02e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
+        },
+        {
+          "tit": "S02E09 🌀",
+          "linkFisico": "v/breaking-bad-s02e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
+        },
+        {
+          "tit": "S02E10 🌀",
+          "linkFisico": "v/breaking-bad-s02e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
+        },
+        {
+          "tit": "S02E11 🌀",
+          "linkFisico": "v/breaking-bad-s02e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
+        },
+        {
+          "tit": "S02E12 🌀",
+          "linkFisico": "v/breaking-bad-s02e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
+        },
+        {
+          "tit": "S02E13 🌀",
+          "linkFisico": "v/breaking-bad-s02e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
+        }
+      ],
+      "3": [
+        {
+          "tit": "S03E01 🌀",
+          "linkFisico": "v/breaking-bad-s03e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
+        },
+        {
+          "tit": "S03E02 🌀",
+          "linkFisico": "v/breaking-bad-s03e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
+        },
+        {
+          "tit": "S03E03 🌀",
+          "linkFisico": "v/breaking-bad-s03e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
+        },
+        {
+          "tit": "S03E04 🌀",
+          "linkFisico": "v/breaking-bad-s03e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
+        },
+        {
+          "tit": "S03E05 🌀",
+          "linkFisico": "v/breaking-bad-s03e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
+        },
+        {
+          "tit": "S03E06 🌀",
+          "linkFisico": "v/breaking-bad-s03e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
+        },
+        {
+          "tit": "S03E07 🌀",
+          "linkFisico": "v/breaking-bad-s03e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
+        },
+        {
+          "tit": "S03E08 🌀",
+          "linkFisico": "v/breaking-bad-s03e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
+        },
+        {
+          "tit": "S03E09 🌀",
+          "linkFisico": "v/breaking-bad-s03e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
+        },
+        {
+          "tit": "S03E10 🌀",
+          "linkFisico": "v/breaking-bad-s03e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
+        },
+        {
+          "tit": "S03E11 🌀",
+          "linkFisico": "v/breaking-bad-s03e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
+        },
+        {
+          "tit": "S03E12 🌀",
+          "linkFisico": "v/breaking-bad-s03e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
+        },
+        {
+          "tit": "S03E13 🌀",
+          "linkFisico": "v/breaking-bad-s03e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
+        }
+      ],
+      "4": [
+        {
+          "tit": "S04E01 🌀",
+          "linkFisico": "v/breaking-bad-s04e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
+        },
+        {
+          "tit": "S04E02 🌀",
+          "linkFisico": "v/breaking-bad-s04e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
+        },
+        {
+          "tit": "S04E03 🌀",
+          "linkFisico": "v/breaking-bad-s04e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
+        },
+        {
+          "tit": "S04E04 🌀",
+          "linkFisico": "v/breaking-bad-s04e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
+        },
+        {
+          "tit": "S04E05 🌀",
+          "linkFisico": "v/breaking-bad-s04e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
+        },
+        {
+          "tit": "S04E06 🌀",
+          "linkFisico": "v/breaking-bad-s04e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
+        },
+        {
+          "tit": "S04E07 🌀",
+          "linkFisico": "v/breaking-bad-s04e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
+        },
+        {
+          "tit": "S04E08 🌀",
+          "linkFisico": "v/breaking-bad-s04e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
+        },
+        {
+          "tit": "S04E09 🌀",
+          "linkFisico": "v/breaking-bad-s04e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
+        },
+        {
+          "tit": "S04E10 🌀",
+          "linkFisico": "v/breaking-bad-s04e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
+        },
+        {
+          "tit": "S04E11 🌀",
+          "linkFisico": "v/breaking-bad-s04e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
+        },
+        {
+          "tit": "S04E12 🌀",
+          "linkFisico": "v/breaking-bad-s04e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
+        },
+        {
+          "tit": "S04E13 🌀",
+          "linkFisico": "v/breaking-bad-s04e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
+        }
+      ],
+      "5": [
+        {
+          "tit": "S05E01 🌀",
+          "linkFisico": "v/breaking-bad-s05e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
+        },
+        {
+          "tit": "S05E02 🌀",
+          "linkFisico": "v/breaking-bad-s05e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
+        },
+        {
+          "tit": "S05E03 🌀",
+          "linkFisico": "v/breaking-bad-s05e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
+        },
+        {
+          "tit": "S05E04 🌀",
+          "linkFisico": "v/breaking-bad-s05e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
+        },
+        {
+          "tit": "S05E05 🌀",
+          "linkFisico": "v/breaking-bad-s05e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
+        },
+        {
+          "tit": "S05E06 🌀",
+          "linkFisico": "v/breaking-bad-s05e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
+        },
+        {
+          "tit": "S05E07 🌀",
+          "linkFisico": "v/breaking-bad-s05e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
+        },
+        {
+          "tit": "S05E08 🌀",
+          "linkFisico": "v/breaking-bad-s05e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
+        },
+        {
+          "tit": "S05E09 🌀",
+          "linkFisico": "v/breaking-bad-s05e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
+        },
+        {
+          "tit": "S05E10 🌀",
+          "linkFisico": "v/breaking-bad-s05e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
+        },
+        {
+          "tit": "S05E11 🌀",
+          "linkFisico": "v/breaking-bad-s05e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
+        },
+        {
+          "tit": "S05E12 🌀",
+          "linkFisico": "v/breaking-bad-s05e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
+        },
+        {
+          "tit": "S05E13 🌀",
+          "linkFisico": "v/breaking-bad-s05e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
+        },
+        {
+          "tit": "S05E14 🌀",
+          "linkFisico": "v/breaking-bad-s05e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
+        },
+        {
+          "tit": "S05E15 🌀",
+          "linkFisico": "v/breaking-bad-s05e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
+        },
+        {
+          "tit": "S05E16 🌀",
+          "linkFisico": "v/breaking-bad-s05e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
         }
       ]
     }
