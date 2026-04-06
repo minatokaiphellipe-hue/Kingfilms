@@ -23590,137 +23590,6 @@
     "logo_horizontal": "https://image.tmdb.org/t/p/w1280/eg2jxQ1FFi6ENDfyMIMC5odpcU0.jpg"
   },
   {
-    "id": "round-6",
-    "tipo": "serie",
-    "categoria": "Séries",
-    "titulo": "Round 6 🌀",
-    "logo": "https://image.tmdb.org/t/p/w780/6gcHdboppvplmBWxvROc96NJnmm.jpg",
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/k1ldDYOuVQn9uZ6QXFsDueOGAUg.jpg",
-    "logo_png": "https://image.tmdb.org/t/p/w500/d6w3wFwmmV5UP1qyjetUa4aFu56.png",
-    "sinopse": "Centenas de jogadores falidos aceitam um estranho convite para um jogo de sobrevivência. Um prêmio milionário aguarda, mas as apostas são altas e mortais.",
-    "nota": "7.9",
-    "avaliacao": "7.9",
-    "classificacao": "18",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "S01E01 🌀",
-          "linkFisico": "v/round-6-s01e01.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/k1ldDYOuVQn9uZ6QXFsDueOGAUg.jpg"
-        },
-        {
-          "tit": "S01E02 🌀",
-          "linkFisico": "v/round-6-s01e02.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/k1ldDYOuVQn9uZ6QXFsDueOGAUg.jpg"
-        },
-        {
-          "tit": "S01E03 🌀",
-          "linkFisico": "v/round-6-s01e03.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/k1ldDYOuVQn9uZ6QXFsDueOGAUg.jpg"
-        },
-        {
-          "tit": "S01E04 🌀",
-          "linkFisico": "v/round-6-s01e04.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/k1ldDYOuVQn9uZ6QXFsDueOGAUg.jpg"
-        },
-        {
-          "tit": "S01E05 🌀",
-          "linkFisico": "v/round-6-s01e05.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/k1ldDYOuVQn9uZ6QXFsDueOGAUg.jpg"
-        },
-        {
-          "tit": "S01E06 🌀",
-          "linkFisico": "v/round-6-s01e06.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/k1ldDYOuVQn9uZ6QXFsDueOGAUg.jpg"
-        },
-        {
-          "tit": "S01E07 🌀",
-          "linkFisico": "v/round-6-s01e07.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/k1ldDYOuVQn9uZ6QXFsDueOGAUg.jpg"
-        },
-        {
-          "tit": "S01E08 🌀",
-          "linkFisico": "v/round-6-s01e08.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/k1ldDYOuVQn9uZ6QXFsDueOGAUg.jpg"
-        },
-        {
-          "tit": "S01E09 🌀",
-          "linkFisico": "v/round-6-s01e09.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/k1ldDYOuVQn9uZ6QXFsDueOGAUg.jpg"
-        }
-      ],
-      "2": [
-        {
-          "tit": "S02E01 🌀",
-          "linkFisico": "v/round-6-s02e01.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/k1ldDYOuVQn9uZ6QXFsDueOGAUg.jpg"
-        },
-        {
-          "tit": "S02E02 🌀",
-          "linkFisico": "v/round-6-s02e02.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/k1ldDYOuVQn9uZ6QXFsDueOGAUg.jpg"
-        },
-        {
-          "tit": "S02E03 🌀",
-          "linkFisico": "v/round-6-s02e03.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/k1ldDYOuVQn9uZ6QXFsDueOGAUg.jpg"
-        },
-        {
-          "tit": "S02E04 🌀",
-          "linkFisico": "v/round-6-s02e04.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/k1ldDYOuVQn9uZ6QXFsDueOGAUg.jpg"
-        },
-        {
-          "tit": "S02E05 🌀",
-          "linkFisico": "v/round-6-s02e05.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/k1ldDYOuVQn9uZ6QXFsDueOGAUg.jpg"
-        },
-        {
-          "tit": "S02E06 🌀",
-          "linkFisico": "v/round-6-s02e06.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/k1ldDYOuVQn9uZ6QXFsDueOGAUg.jpg"
-        },
-        {
-          "tit": "S02E07 🌀",
-          "linkFisico": "v/round-6-s02e07.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/k1ldDYOuVQn9uZ6QXFsDueOGAUg.jpg"
-        }
-      ],
-      "3": [
-        {
-          "tit": "S03E01 🌀",
-          "linkFisico": "v/round-6-s03e01.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/k1ldDYOuVQn9uZ6QXFsDueOGAUg.jpg"
-        },
-        {
-          "tit": "S03E02 🌀",
-          "linkFisico": "v/round-6-s03e02.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/k1ldDYOuVQn9uZ6QXFsDueOGAUg.jpg"
-        },
-        {
-          "tit": "S03E03 🌀",
-          "linkFisico": "v/round-6-s03e03.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/k1ldDYOuVQn9uZ6QXFsDueOGAUg.jpg"
-        },
-        {
-          "tit": "S03E04 🌀",
-          "linkFisico": "v/round-6-s03e04.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/k1ldDYOuVQn9uZ6QXFsDueOGAUg.jpg"
-        },
-        {
-          "tit": "S03E05 🌀",
-          "linkFisico": "v/round-6-s03e05.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/k1ldDYOuVQn9uZ6QXFsDueOGAUg.jpg"
-        },
-        {
-          "tit": "S03E06 🌀",
-          "linkFisico": "v/round-6-s03e06.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/k1ldDYOuVQn9uZ6QXFsDueOGAUg.jpg"
-        }
-      ]
-    }
-  },
-  {
     "id": "shrek-1",
     "tipo": "filme",
     "categoria": "Animações",
@@ -40121,6 +39990,137 @@
           "tit": "S05E16 🌀",
           "linkFisico": "v/breaking-bad-s05e16.html",
           "logoEp": "https://image.tmdb.org/t/p/w1280/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "round-6",
+    "tipo": "serie",
+    "categoria": "Séries",
+    "titulo": "Round 6 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/6gcHdboppvplmBWxvROc96NJnmm.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/k1ldDYOuVQn9uZ6QXFsDueOGAUg.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/d6w3wFwmmV5UP1qyjetUa4aFu56.png",
+    "sinopse": "Centenas de jogadores falidos aceitam um estranho convite para um jogo de sobrevivência. Um prêmio milionário aguarda, mas as apostas são altas e mortais.",
+    "nota": "7.9",
+    "avaliacao": "7.9",
+    "classificacao": "18",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "S01E01 🌀",
+          "linkFisico": "v/round-6-s01e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/k1ldDYOuVQn9uZ6QXFsDueOGAUg.jpg"
+        },
+        {
+          "tit": "S01E02 🌀",
+          "linkFisico": "v/round-6-s01e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/k1ldDYOuVQn9uZ6QXFsDueOGAUg.jpg"
+        },
+        {
+          "tit": "S01E03 🌀",
+          "linkFisico": "v/round-6-s01e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/k1ldDYOuVQn9uZ6QXFsDueOGAUg.jpg"
+        },
+        {
+          "tit": "S01E04 🌀",
+          "linkFisico": "v/round-6-s01e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/k1ldDYOuVQn9uZ6QXFsDueOGAUg.jpg"
+        },
+        {
+          "tit": "S01E05 🌀",
+          "linkFisico": "v/round-6-s01e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/k1ldDYOuVQn9uZ6QXFsDueOGAUg.jpg"
+        },
+        {
+          "tit": "S01E06 🌀",
+          "linkFisico": "v/round-6-s01e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/k1ldDYOuVQn9uZ6QXFsDueOGAUg.jpg"
+        },
+        {
+          "tit": "S01E07 🌀",
+          "linkFisico": "v/round-6-s01e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/k1ldDYOuVQn9uZ6QXFsDueOGAUg.jpg"
+        },
+        {
+          "tit": "S01E08 🌀",
+          "linkFisico": "v/round-6-s01e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/k1ldDYOuVQn9uZ6QXFsDueOGAUg.jpg"
+        },
+        {
+          "tit": "S01E09 🌀",
+          "linkFisico": "v/round-6-s01e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/k1ldDYOuVQn9uZ6QXFsDueOGAUg.jpg"
+        }
+      ],
+      "2": [
+        {
+          "tit": "S02E01 🌀",
+          "linkFisico": "v/round-6-s02e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/k1ldDYOuVQn9uZ6QXFsDueOGAUg.jpg"
+        },
+        {
+          "tit": "S02E02 🌀",
+          "linkFisico": "v/round-6-s02e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/k1ldDYOuVQn9uZ6QXFsDueOGAUg.jpg"
+        },
+        {
+          "tit": "S02E03 🌀",
+          "linkFisico": "v/round-6-s02e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/k1ldDYOuVQn9uZ6QXFsDueOGAUg.jpg"
+        },
+        {
+          "tit": "S02E04 🌀",
+          "linkFisico": "v/round-6-s02e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/k1ldDYOuVQn9uZ6QXFsDueOGAUg.jpg"
+        },
+        {
+          "tit": "S02E05 🌀",
+          "linkFisico": "v/round-6-s02e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/k1ldDYOuVQn9uZ6QXFsDueOGAUg.jpg"
+        },
+        {
+          "tit": "S02E06 🌀",
+          "linkFisico": "v/round-6-s02e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/k1ldDYOuVQn9uZ6QXFsDueOGAUg.jpg"
+        },
+        {
+          "tit": "S02E07 🌀",
+          "linkFisico": "v/round-6-s02e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/k1ldDYOuVQn9uZ6QXFsDueOGAUg.jpg"
+        }
+      ],
+      "3": [
+        {
+          "tit": "S03E01 🌀",
+          "linkFisico": "v/round-6-s03e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/k1ldDYOuVQn9uZ6QXFsDueOGAUg.jpg"
+        },
+        {
+          "tit": "S03E02 🌀",
+          "linkFisico": "v/round-6-s03e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/k1ldDYOuVQn9uZ6QXFsDueOGAUg.jpg"
+        },
+        {
+          "tit": "S03E03 🌀",
+          "linkFisico": "v/round-6-s03e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/k1ldDYOuVQn9uZ6QXFsDueOGAUg.jpg"
+        },
+        {
+          "tit": "S03E04 🌀",
+          "linkFisico": "v/round-6-s03e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/k1ldDYOuVQn9uZ6QXFsDueOGAUg.jpg"
+        },
+        {
+          "tit": "S03E05 🌀",
+          "linkFisico": "v/round-6-s03e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/k1ldDYOuVQn9uZ6QXFsDueOGAUg.jpg"
+        },
+        {
+          "tit": "S03E06 🌀",
+          "linkFisico": "v/round-6-s03e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/k1ldDYOuVQn9uZ6QXFsDueOGAUg.jpg"
         }
       ]
     }
