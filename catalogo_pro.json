@@ -40320,5 +40320,27 @@
         }
       ]
     }
+  },
+  {
+    "id": "mulan-2-a-lenda-continua",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Mulan 2: A Lenda Continua 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/lWcoRhckk3F1v1HvaMvIyc9faZA.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/9SBXxwT1epMrR19Zch3B7bAMGv5.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/sSEiXQwbdx4sgtha8T8jlbUD4WU.png",
+    "sinopse": "O casamento entre Shang e Mulan está para acontecer, quando subitamente são enviados a uma missão secreta: escoltar três princesas chinesas até a Mongólia, com a finalidade de se casarem com príncipes mongóis e selarem a paz entre os dois reinos. Filme produzido diretamente para o mercado caseiro.",
+    "nota": "6.5",
+    "avaliacao": "6.5",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/mulan-2-a-lenda-continua.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/9SBXxwT1epMrR19Zch3B7bAMGv5.jpg"
+        }
+      ]
+    }
   }
 ]
