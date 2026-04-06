@@ -10538,26 +10538,6 @@
     "logo_horizontal": "https://image.tmdb.org/t/p/w1280/3G1Q5xF40HkUBJXxt2DQgQzKTp5.jpg"
   },
   {
-    "id": "enrolados",
-    "tipo": "filme",
-    "categoria": "Animações",
-    "titulo": "Enrolados 🌀",
-    "logo": "https://image.tmdb.org/t/p/w780/wZzVkdnc0kw20lSJc13ZmgTPah3.jpg",
-    "sinopse": "O bandido mais procurado do reino, Flynn Rider, se esconde em uma torre e imediatamente se torna prisioneiro de Rapunzel, residente de longa data do local. Dona de cabelos dourados mágicos com 21 metros de comprimento, ela está trancada há anos e quer, desesperadamente, a liberdade. A adolescente determinada faz um acordo com o rapaz, e, juntos, partem para uma aventura emocionante.",
-    "avaliacao": "7.6",
-    "classificacao": "Livre",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "Assistir Filme Completo 🌀",
-          "linkFisico": "v/enrolados.html",
-          "logoEp": "https://m.media-amazon.com/images/S/pv-target-images/78f7da954a1ccac685bed8299638099de5da8c53392127c28132884e91c311a6.jpg"
-        }
-      ]
-    },
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/cWczNud8Y8i8ab0Z4bxos4myWYO.jpg"
-  },
-  {
     "id": "entrevista-com-o-vampiro",
     "tipo": "serie",
     "categoria": "Séries",
@@ -42370,6 +42350,28 @@
           "tit": "Assistir 🌀",
           "linkFisico": "v/thor-ragnarok.html",
           "logoEp": "https://image.tmdb.org/t/p/w1280/uQaFPDbITbwQDC3JPzE4Yar4m5n.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "enrolados",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Enrolados 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/wZzVkdnc0kw20lSJc13ZmgTPah3.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/mUQBWnG6zDeoD0TfAq0InjQRmSm.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/g8Omce1J0q2aZzrrVgB1pWlQPm6.png",
+    "sinopse": "O bandido mais procurado do reino, Flynn Rider, se esconde em uma torre e imediatamente se torna prisioneiro de Rapunzel, residente de longa data do local. Dona de cabelos dourados mágicos com 21 metros de comprimento, ela está trancada há anos e quer, desesperadamente, a liberdade. A adolescente determinada faz um acordo com o rapaz, e, juntos, partem para uma aventura emocionante.",
+    "nota": "7.6",
+    "avaliacao": "7.6",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/enrolados.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mUQBWnG6zDeoD0TfAq0InjQRmSm.jpg"
         }
       ]
     }
