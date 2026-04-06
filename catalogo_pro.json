@@ -40298,5 +40298,27 @@
         }
       ]
     }
+  },
+  {
+    "id": "mulan",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Mulan 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/bmM6nAva9zzNn4PAzJpQsEJxD9G.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/4tyghwujTsWOUOcJDCPQovwwWtS.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/aw88GwsZGHbHLdyA8JA9i9jbaDD.png",
+    "sinopse": "Na antiga China, durante a guerra, todos os homens são convocados para lutar. Mas, um pobre velho, que pela idade não poderia mais lutar, descobre que sua filha Mulan toma o seu lugar, vestindo-se como homem e permanecendo em segredo. Se isso for descoberto, o castigo será severo. Agora, durante a guerra, Mulan ganha a proteção de um pequeno dragão, cuja missão é cuidar para que ela volte a salvo.",
+    "nota": "7.9",
+    "avaliacao": "7.9",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/mulan.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/4tyghwujTsWOUOcJDCPQovwwWtS.jpg"
+        }
+      ]
+    }
   }
 ]
