@@ -11390,28 +11390,6 @@
     }
   },
   {
-    "id": "harry-potter-e-a-camara-secreta",
-    "tipo": "filme",
-    "categoria": "Fantasia",
-    "titulo": "Harry Potter e a Câmara Secreta 🌀",
-    "logo": "https://image.tmdb.org/t/p/w780/811j0Jf2D0mK1U6RxXJoZgOB29n.jpg",
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/mD33fciFvkBx7tM3aVRSa0eBLO7.jpg",
-    "logo_png": "https://image.tmdb.org/t/p/w500/2XZ3UvbJlWLhpjKXhn685E3d2mI.png",
-    "sinopse": "Carros voadores, árvores que lutam e um misterioso elfo, com um aviso ainda mais misterioso. Harry Potter está pronto para dar início ao segundo ano de sua maravilhosa jornada no mundo da bruxaria. Em Hogwarts nesse ano, aranhas falam, cartas dão broncas e a habilidade de Harry para falar com cobras voltará contra ele. De clubes de duelo a jogadores de quadribol desonestos, esse será um ano de aventura e perigo para todos. Quando a mensagem sangrenta na parede anuncia que a Câmara Secreta foi aberta, Harry, Rony e Hermione percebem que para salvar Hogwarts será preciso muita mágica e coragem.",
-    "nota": "7.7",
-    "avaliacao": "7.7",
-    "classificacao": "Livre",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "Assistir 🌀",
-          "linkFisico": "v/harry-potter-e-a-camara-secreta.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mD33fciFvkBx7tM3aVRSa0eBLO7.jpg"
-        }
-      ]
-    }
-  },
-  {
     "id": "harry-potter-e-a-ordem-da-fenix",
     "tipo": "filme",
     "categoria": "Fantasia",
@@ -41565,6 +41543,28 @@
           "tit": "Assistir 🌀",
           "linkFisico": "v/harry-potter-e-a-pedra-filosofal.html",
           "logoEp": "https://image.tmdb.org/t/p/w1280/4TaB2QPBaaK5JItEcNDpD8ySNNo.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "harry-potter-e-a-camara-secreta",
+    "tipo": "filme",
+    "categoria": "Fantasia",
+    "titulo": "Harry Potter e a Câmara Secreta 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/811j0Jf2D0mK1U6RxXJoZgOB29n.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/mD33fciFvkBx7tM3aVRSa0eBLO7.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/2XZ3UvbJlWLhpjKXhn685E3d2mI.png",
+    "sinopse": "Carros voadores, árvores que lutam e um misterioso elfo, com um aviso ainda mais misterioso. Harry Potter está pronto para dar início ao segundo ano de sua maravilhosa jornada no mundo da bruxaria. Em Hogwarts nesse ano, aranhas falam, cartas dão broncas e a habilidade de Harry para falar com cobras voltará contra ele. De clubes de duelo a jogadores de quadribol desonestos, esse será um ano de aventura e perigo para todos. Quando a mensagem sangrenta na parede anuncia que a Câmara Secreta foi aberta, Harry, Rony e Hermione percebem que para salvar Hogwarts será preciso muita mágica e coragem.",
+    "nota": "7.7",
+    "avaliacao": "7.7",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/harry-potter-e-a-camara-secreta.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mD33fciFvkBx7tM3aVRSa0eBLO7.jpg"
         }
       ]
     }
