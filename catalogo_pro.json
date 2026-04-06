@@ -11456,28 +11456,6 @@
     }
   },
   {
-    "id": "harry-potter-e-o-calice-de-fogo",
-    "tipo": "filme",
-    "categoria": "Fantasia",
-    "titulo": "Harry Potter e o Cálice de Fogo 🌀",
-    "logo": "https://image.tmdb.org/t/p/w780/5oWB3hjzyECRBAjgWkmZinxl9qA.jpg",
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/d5dtn5ZAJ2MvjBcu9MWI4hsUDKT.jpg",
-    "logo_png": "https://image.tmdb.org/t/p/w500/1H0v9dUZ9Da8JbReQ3oXorMcqxN.png",
-    "sinopse": "Em seu 4º ano na Escola de Magia e Bruxaria de Hogwards, Harry Potter é misteriosamente selecionado para participar do Torneio Tribruxo, uma competição internacional em que precisará enfrentar alunos mais velhos e experientes de Hogwards e também de outras escolas de magia. Além disso a aparição da marca negra de Voldemort ao término da Copa Mundial de Quadribol põe a comunidade de bruxos em pânico, já que sinaliza que o temido bruxo está prestes a retornar.",
-    "nota": "7.8",
-    "avaliacao": "7.8",
-    "classificacao": "10",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "Assistir 🌀",
-          "linkFisico": "v/harry-potter-e-o-calice-de-fogo.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/d5dtn5ZAJ2MvjBcu9MWI4hsUDKT.jpg"
-        }
-      ]
-    }
-  },
-  {
     "id": "harry-potter-e-o-enigma-do-principe",
     "tipo": "filme",
     "categoria": "Fantasia",
@@ -41565,6 +41543,28 @@
           "tit": "Assistir 🌀",
           "linkFisico": "v/harry-potter-e-o-prisioneiro-de-azkaban.html",
           "logoEp": "https://image.tmdb.org/t/p/w1280/ktj07Eajol5Y2aTQpvTADiQZXJV.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "harry-potter-e-o-calice-de-fogo",
+    "tipo": "filme",
+    "categoria": "Fantasia",
+    "titulo": "Harry Potter e o Cálice de Fogo 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/5oWB3hjzyECRBAjgWkmZinxl9qA.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/d5dtn5ZAJ2MvjBcu9MWI4hsUDKT.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/1H0v9dUZ9Da8JbReQ3oXorMcqxN.png",
+    "sinopse": "Em seu 4º ano na Escola de Magia e Bruxaria de Hogwards, Harry Potter é misteriosamente selecionado para participar do Torneio Tribruxo, uma competição internacional em que precisará enfrentar alunos mais velhos e experientes de Hogwards e também de outras escolas de magia. Além disso a aparição da marca negra de Voldemort ao término da Copa Mundial de Quadribol põe a comunidade de bruxos em pânico, já que sinaliza que o temido bruxo está prestes a retornar.",
+    "nota": "7.8",
+    "avaliacao": "7.8",
+    "classificacao": "10",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/harry-potter-e-o-calice-de-fogo.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/d5dtn5ZAJ2MvjBcu9MWI4hsUDKT.jpg"
         }
       ]
     }
