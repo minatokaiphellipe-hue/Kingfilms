@@ -11390,28 +11390,6 @@
     }
   },
   {
-    "id": "harry-potter-e-a-ordem-da-fenix",
-    "tipo": "filme",
-    "categoria": "Fantasia",
-    "titulo": "Harry Potter e a Ordem da Fênix 🌀",
-    "logo": "https://image.tmdb.org/t/p/w780/tIf9aUyNljda9MG1pjlOLHCZ3b0.jpg",
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/w2lulaNN4sa7RK9A73QGokZd4mO.jpg",
-    "logo_png": "https://image.tmdb.org/t/p/w500/vrYMeUpwxV27k6dPRtMZQ9yG7RP.png",
-    "sinopse": "Lord Voldemort está de volta, mas o Ministério da Magia está fazendo tudo a seu alcance para impedir que a comunidade mundial de bruxos descubra isso – incluindo indicar a oficial do Ministério, Dolores Umbridge, como a nova professora de Defesa Contra as Artes das Trevas de Hogwarts. Quando Umbridge se recusa a ensinar a prática de mágica defensiva, Rony e Hermione convencem Harry a secretamente treinar um grupo de estudantes para a guerra de magia que está prestes a estourar.",
-    "nota": "7.7",
-    "avaliacao": "7.7",
-    "classificacao": "Livre",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "Assistir 🌀",
-          "linkFisico": "v/harry-potter-e-a-ordem-da-fenix.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/w2lulaNN4sa7RK9A73QGokZd4mO.jpg"
-        }
-      ]
-    }
-  },
-  {
     "id": "harry-potter-e-as-reliquias-da-morte-parte-1",
     "tipo": "filme",
     "categoria": "Fantasia",
@@ -11454,26 +11432,6 @@
         }
       ]
     }
-  },
-  {
-    "id": "harry-potter-e-o-enigma-do-principe",
-    "tipo": "filme",
-    "categoria": "Fantasia",
-    "titulo": "Harry Potter e o Enigma do Príncipe 🌀",
-    "logo": "https://image.tmdb.org/t/p/w780/hTQQ5l9mxA3Rob8PTyvrNNGuj6y.jpg",
-    "sinopse": "À medida que Lord Voldemort aumenta seu controle sobre o mundo Trouxa e bruxo, Hogwarts não é mais um local seguro. Harry suspeita que haja perigos dentro do castelo, mas Dumbledore está mais empenhado em prepará-lo para a batalha final que se aproxima rapidamente. Juntos, eles trabalham para encontrar a chave para desbloquear as defesas de Voldemort e, para esse fim, Dumbledore recruta seu velho amigo e colega Horácio Slughorn, que ele acredita possuir informações cruciais. Mesmo quando o confronto decisivo se aproxima, o romance floresce para Harry, Ron, Hermione e seus colegas de classe. O amor está no ar, mas o perigo está por vir e Hogwarts pode nunca mais ser a mesma.",
-    "avaliacao": "7.7",
-    "classificacao": "12",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "Assistir 🌀",
-          "linkFisico": "v/harry-potter-e-o-enigma-do-principe.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/jQPZqILOrVfQLuonSnePWCHDEdT.jpg"
-        }
-      ]
-    },
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/ze6Mx4QE5mQVXRYmG2flncqqle4.jpg"
   },
   {
     "id": "henry-danger",
@@ -41565,6 +41523,50 @@
           "tit": "Assistir 🌀",
           "linkFisico": "v/harry-potter-e-o-calice-de-fogo.html",
           "logoEp": "https://image.tmdb.org/t/p/w1280/d5dtn5ZAJ2MvjBcu9MWI4hsUDKT.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "harry-potter-e-a-ordem-da-fenix",
+    "tipo": "filme",
+    "categoria": "Fantasia",
+    "titulo": "Harry Potter e a Ordem da Fênix 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/tIf9aUyNljda9MG1pjlOLHCZ3b0.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/w2lulaNN4sa7RK9A73QGokZd4mO.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/vrYMeUpwxV27k6dPRtMZQ9yG7RP.png",
+    "sinopse": "Lord Voldemort está de volta, mas o Ministério da Magia está fazendo tudo a seu alcance para impedir que a comunidade mundial de bruxos descubra isso – incluindo indicar a oficial do Ministério, Dolores Umbridge, como a nova professora de Defesa Contra as Artes das Trevas de Hogwarts. Quando Umbridge se recusa a ensinar a prática de mágica defensiva, Rony e Hermione convencem Harry a secretamente treinar um grupo de estudantes para a guerra de magia que está prestes a estourar.",
+    "nota": "7.7",
+    "avaliacao": "7.7",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/harry-potter-e-a-ordem-da-fenix.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/w2lulaNN4sa7RK9A73QGokZd4mO.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "harry-potter-e-o-enigma-do-principe",
+    "tipo": "filme",
+    "categoria": "Fantasia",
+    "titulo": "Harry Potter e o Enigma do Príncipe 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/hTQQ5l9mxA3Rob8PTyvrNNGuj6y.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/jQPZqILOrVfQLuonSnePWCHDEdT.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/2qyXHiXBCLVR8ooBdcXJMUgqz3n.png",
+    "sinopse": "À medida que Lord Voldemort aumenta seu controle sobre o mundo Trouxa e bruxo, Hogwarts não é mais um local seguro. Harry suspeita que haja perigos dentro do castelo, mas Dumbledore está mais empenhado em prepará-lo para a batalha final que se aproxima rapidamente. Juntos, eles trabalham para encontrar a chave para desbloquear as defesas de Voldemort e, para esse fim, Dumbledore recruta seu velho amigo e colega Horácio Slughorn, que ele acredita possuir informações cruciais. Mesmo quando o confronto decisivo se aproxima, o romance floresce para Harry, Ron, Hermione e seus colegas de classe. O amor está no ar, mas o perigo está por vir e Hogwarts pode nunca mais ser a mesma.",
+    "nota": "7.7",
+    "avaliacao": "7.7",
+    "classificacao": "12",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/harry-potter-e-o-enigma-do-principe.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/jQPZqILOrVfQLuonSnePWCHDEdT.jpg"
         }
       ]
     }
