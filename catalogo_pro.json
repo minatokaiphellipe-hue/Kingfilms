@@ -40300,28 +40300,6 @@
     }
   },
   {
-    "id": "mulan",
-    "tipo": "filme",
-    "categoria": "Animações",
-    "titulo": "Mulan 🌀",
-    "logo": "https://image.tmdb.org/t/p/w780/bmM6nAva9zzNn4PAzJpQsEJxD9G.jpg",
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/4tyghwujTsWOUOcJDCPQovwwWtS.jpg",
-    "logo_png": "https://image.tmdb.org/t/p/w500/aw88GwsZGHbHLdyA8JA9i9jbaDD.png",
-    "sinopse": "Na antiga China, durante a guerra, todos os homens são convocados para lutar. Mas, um pobre velho, que pela idade não poderia mais lutar, descobre que sua filha Mulan toma o seu lugar, vestindo-se como homem e permanecendo em segredo. Se isso for descoberto, o castigo será severo. Agora, durante a guerra, Mulan ganha a proteção de um pequeno dragão, cuja missão é cuidar para que ela volte a salvo.",
-    "nota": "7.9",
-    "avaliacao": "7.9",
-    "classificacao": "Livre",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "Assistir 🌀",
-          "linkFisico": "v/mulan.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/4tyghwujTsWOUOcJDCPQovwwWtS.jpg"
-        }
-      ]
-    }
-  },
-  {
     "id": "mulan-2-a-lenda-continua",
     "tipo": "filme",
     "categoria": "Animações",
@@ -40339,6 +40317,28 @@
           "tit": "Assistir 🌀",
           "linkFisico": "v/mulan-2-a-lenda-continua.html",
           "logoEp": "https://image.tmdb.org/t/p/w1280/9SBXxwT1epMrR19Zch3B7bAMGv5.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "mulan",
+    "tipo": "filme",
+    "categoria": "Fantasia",
+    "titulo": "Mulan 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/72I82eKXCadZWEYygV9GkJOQNEq.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/6BKUUvR2UcUSCXHSyUdyPEJcBsV.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/4BQ4XJAWAweiIoZU0fYUOSNG9SV.png",
+    "sinopse": "Hua Mulan é a espirituosa e determinada filha mais velha de um honrado guerreiro. Quando o Imperador da China emite um decreto que um homem de cada família deve servir no exército imperial, Mulan decide tomar o lugar de seu pai, que está doente. Assumindo a identidade de Hua Jun, ela se disfarça de homem para combater os invasores que estão atacando sua nação, provando-se uma grande guerreira.",
+    "nota": "6.8",
+    "avaliacao": "6.8",
+    "classificacao": "12",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/mulan.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/6BKUUvR2UcUSCXHSyUdyPEJcBsV.jpg"
         }
       ]
     }
