@@ -40364,5 +40364,27 @@
         }
       ]
     }
+  },
+  {
+    "id": "irmao-urso-2",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Irmão Urso 2 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/r4kOIrwYMXInmFH8eaJ6kDoAkUW.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/fEyYVGHd1e871n0vwrLVR6OQkns.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/2gzAXKwdkgWDAaxmvvCBqtrRitu.png",
+    "sinopse": "A primavera chegou e Kenai acordou de sua primeira hibernação com um apetite voraz. Ele e seu irmão mais novo, Koda, estão animadíssimos para cair na floresta e saborear os melhores frutos. Durante essa jornada, Nita, uma antiga amiga de infância de Kenai, reaparece. Crescida, Nita precisa se casar seguindo as tradições de sua tribo. Mas os Grandes Espíritos tem outros planos para ela e somente Kenai poderá ajudá-la.",
+    "nota": "6.7",
+    "avaliacao": "6.7",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/irmao-urso-2.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/fEyYVGHd1e871n0vwrLVR6OQkns.jpg"
+        }
+      ]
+    }
   }
 ]
