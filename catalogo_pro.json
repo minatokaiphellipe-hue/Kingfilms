@@ -41573,5 +41573,71 @@
         }
       ]
     }
+  },
+  {
+    "id": "duro-de-matar",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "Duro de Matar 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/2PD0HHoyVVAEUhep9JhlKtgyl8m.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/yl7T3riL71VTcO7SaalSJM0C328.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/oMbDdItFN2VM8r7vO9Kea3QOSGJ.png",
+    "sinopse": "O policial de Nova York John McClane está visitando sua família no Natal. Ele participa de uma confraternização de fim de ano na sede da empresa japonesa em que a esposa trabalha. A festa é interrompida por terroristas que invadem o edifício de luxo. McClane não demora a perceber que não há ninguém para salvá-los, a não ser ele próprio.",
+    "nota": "7.8",
+    "avaliacao": "7.8",
+    "classificacao": "14",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/duro-de-matar.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yl7T3riL71VTcO7SaalSJM0C328.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "duro-de-matar-2",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "Duro de Matar 2 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/spP1XGrhqvS8eDQz0xGr5L0jGpH.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/spKXZD1EDMQHmoIxZv1UOl0ikbi.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/fsUxdiR58u7RQRnTCOLjNrT0mFU.png",
+    "sinopse": "Terroristas assumem o controle do aeroporto de Washington, visando libertar um preso político que está sendo extraditado, e ameaçam destruir várias aeronaves se as exigências deles não forem cumpridas. Mas a esposa de John McClane, um detetive de Nova York, se encontra em um dos aviões, assim o marido resolve enfrentar a quadrilha.",
+    "nota": "7.0",
+    "avaliacao": "7.0",
+    "classificacao": "12",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/duro-de-matar-2.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/spKXZD1EDMQHmoIxZv1UOl0ikbi.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "duro-de-matar-4-0",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "Duro de Matar 4.0 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/7AbdHvFZqEzQjB8aJtJXsKPCNus.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/vKiYwg1XJG1yxrX4hWB3lGIwUMT.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/rYNqT10Os0xXAytouzqdyF5OV4G.png",
+    "sinopse": "Os Estados Unidos sofrem um novo ataque terrorista, desta vez através da informática. Um hacker consegue invadir a infra-estrutura computadorizada que controla as comunicações, transporte e energia do país, ameaçando causar um gigantesco blecaute. O autor do ataque planejou todos os passos envolvidos, mas não contava que John McClane, um policial da velha guarda, fosse chamado para confrontá-lo.",
+    "nota": "6.6",
+    "avaliacao": "6.6",
+    "classificacao": "12",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/duro-de-matar-4-0.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/vKiYwg1XJG1yxrX4hWB3lGIwUMT.jpg"
+        }
+      ]
+    }
   }
 ]
