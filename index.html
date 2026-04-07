@@ -628,5 +628,102 @@ function renderEps(id,t){
     </div>`).join('');
 }
 </script>
+    <style>
+    #cookieBanner {
+        display: none; /* Escondido por padrão, o JS decide se mostra */
+        position: fixed;
+        bottom: 20px;
+        left: 20px;
+        right: 20px;
+        max-width: 800px;
+        margin: 0 auto;
+        background-color: #15151e; /* Fundo escuro padrão Kingfilms */
+        border: 1px solid #f5c518; /* Borda dourada */
+        border-radius: 12px;
+        padding: 20px;
+        box-shadow: 0 10px 30px rgba(0, 0, 0, 0.8);
+        z-index: 9999;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 20px;
+        color: #e0e0e0;
+    }
+
+    #cookieBanner p {
+        margin: 0;
+        font-size: 14px;
+        line-height: 1.5;
+    }
+
+    #cookieBanner span {
+        color: #f5c518;
+        font-weight: bold;
+    }
+
+    #acceptCookiesBtn {
+        background-color: #f5c518;
+        color: #000;
+        font-weight: bold;
+        border: none;
+        padding: 12px 24px;
+        border-radius: 6px;
+        cursor: pointer;
+        transition: transform 0.2s, background-color 0.2s;
+        white-space: nowrap;
+    }
+
+    #acceptCookiesBtn:hover {
+        background-color: #ffdb4d;
+        transform: scale(1.05);
+    }
+
+    /* Responsividade para telemóveis */
+    @media (max-width: 600px) {
+        #cookieBanner {
+            flex-direction: column;
+            text-align: center;
+            bottom: 10px;
+            left: 10px;
+            right: 10px;
+        }
+        #acceptCookiesBtn {
+            width: 100%;
+        }
+    }
+</style>
+
+<div id="cookieBanner">
+    <p>🍿 <span>Bem-vindo ao KINGFILMS!</span> Utilizamos cookies para melhorar a sua experiência de navegação, analisar o tráfego do site e garantir que os players funcionam perfeitamente. Ao continuar a usar o nosso site, você concorda com a nossa política.</p>
+    <button id="acceptCookiesBtn">Aceitar e Continuar</button>
+</div>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        const cookieBanner = document.getElementById("cookieBanner");
+        const acceptBtn = document.getElementById("acceptCookiesBtn");
+
+        // Verifica se o utilizador já aceitou os cookies no passado
+        if (!localStorage.getItem("kingfilms_cookies_accepted")) {
+            // Se não aceitou, mostra a barra
+            cookieBanner.style.display = "flex";
+        } else {
+            // Se já aceitou, garante que fica escondida
+            cookieBanner.style.display = "none";
+        }
+
+        // Quando clica no botão Aceitar
+        acceptBtn.addEventListener("click", function() {
+            // Guarda a informação no navegador do utilizador
+            localStorage.setItem("kingfilms_cookies_accepted", "true");
+            // Faz a barra desaparecer com um efeitinho
+            cookieBanner.style.opacity = "0";
+            setTimeout(() => {
+                cookieBanner.style.display = "none";
+            }, 300); // Espera a transição acabar
+        });
+    });
+</script>
 </body>
 </html>
