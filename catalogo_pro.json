@@ -42384,5 +42384,27 @@
         }
       ]
     }
+  },
+  {
+    "id": "jogador-n-1",
+    "tipo": "filme",
+    "categoria": "Fantasia",
+    "titulo": "Jogador N° 1 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/sN46sgCsWqwgHMu4mEtKJ19knVr.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/kolzR9zVVAxd6cZrLgsLGiojeiB.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/bEQ9deI4508tokbqisL26kKyyOA.png",
+    "sinopse": "Num futuro distópico, situado em 2044, Wade Watts, como o resto da humanidade, prefere a realidade virtual do jogo OASIS ao mundo real. No jogo, seus usuários devem descobrir a chave de um quebra-cabeça diabólico, baseado na cultura do final do século XX, para conquistar um prêmio de valor inestimável. Para vencê-lo, porém, Watts terá de abandonar a existência virtual e ceder a uma vida de amor e realidade da qual sempre tentou fugir.",
+    "nota": "7.6",
+    "avaliacao": "7.6",
+    "classificacao": "12",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/jogador-n-1.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kolzR9zVVAxd6cZrLgsLGiojeiB.jpg"
+        }
+      ]
+    }
   }
 ]
