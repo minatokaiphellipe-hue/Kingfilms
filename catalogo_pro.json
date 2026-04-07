@@ -42566,5 +42566,156 @@
         }
       ]
     }
+  },
+  {
+    "id": "com-carinho-kitty",
+    "tipo": "serie",
+    "categoria": "Séries",
+    "titulo": "Com Carinho, Kitty 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/5CDVvBVSXGUp9mnElkkclauEtgK.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/iS8w8ApgG7TsVA5zPHDDrPzAvxf.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/6Ug0fDovKenB6LaRwjm2rvZY6oV.png",
+    "sinopse": "Em uma escola de elite em Seul, a casamenteira adolescente Kitty descobre que a vida, o amor e a família são mais complicados do que ela imaginava.",
+    "nota": "8.1",
+    "avaliacao": "8.1",
+    "classificacao": "12",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "S01E01 🌀",
+          "linkFisico": "v/com-carinho-kitty-s01e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/iS8w8ApgG7TsVA5zPHDDrPzAvxf.jpg"
+        },
+        {
+          "tit": "S01E02 🌀",
+          "linkFisico": "v/com-carinho-kitty-s01e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/iS8w8ApgG7TsVA5zPHDDrPzAvxf.jpg"
+        },
+        {
+          "tit": "S01E03 🌀",
+          "linkFisico": "v/com-carinho-kitty-s01e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/iS8w8ApgG7TsVA5zPHDDrPzAvxf.jpg"
+        },
+        {
+          "tit": "S01E04 🌀",
+          "linkFisico": "v/com-carinho-kitty-s01e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/iS8w8ApgG7TsVA5zPHDDrPzAvxf.jpg"
+        },
+        {
+          "tit": "S01E05 🌀",
+          "linkFisico": "v/com-carinho-kitty-s01e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/iS8w8ApgG7TsVA5zPHDDrPzAvxf.jpg"
+        },
+        {
+          "tit": "S01E06 🌀",
+          "linkFisico": "v/com-carinho-kitty-s01e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/iS8w8ApgG7TsVA5zPHDDrPzAvxf.jpg"
+        },
+        {
+          "tit": "S01E07 🌀",
+          "linkFisico": "v/com-carinho-kitty-s01e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/iS8w8ApgG7TsVA5zPHDDrPzAvxf.jpg"
+        },
+        {
+          "tit": "S01E08 🌀",
+          "linkFisico": "v/com-carinho-kitty-s01e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/iS8w8ApgG7TsVA5zPHDDrPzAvxf.jpg"
+        },
+        {
+          "tit": "S01E09 🌀",
+          "linkFisico": "v/com-carinho-kitty-s01e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/iS8w8ApgG7TsVA5zPHDDrPzAvxf.jpg"
+        },
+        {
+          "tit": "S01E10 🌀",
+          "linkFisico": "v/com-carinho-kitty-s01e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/iS8w8ApgG7TsVA5zPHDDrPzAvxf.jpg"
+        }
+      ],
+      "2": [
+        {
+          "tit": "S02E01 🌀",
+          "linkFisico": "v/com-carinho-kitty-s02e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/iS8w8ApgG7TsVA5zPHDDrPzAvxf.jpg"
+        },
+        {
+          "tit": "S02E02 🌀",
+          "linkFisico": "v/com-carinho-kitty-s02e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/iS8w8ApgG7TsVA5zPHDDrPzAvxf.jpg"
+        },
+        {
+          "tit": "S02E03 🌀",
+          "linkFisico": "v/com-carinho-kitty-s02e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/iS8w8ApgG7TsVA5zPHDDrPzAvxf.jpg"
+        },
+        {
+          "tit": "S02E04 🌀",
+          "linkFisico": "v/com-carinho-kitty-s02e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/iS8w8ApgG7TsVA5zPHDDrPzAvxf.jpg"
+        },
+        {
+          "tit": "S02E05 🌀",
+          "linkFisico": "v/com-carinho-kitty-s02e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/iS8w8ApgG7TsVA5zPHDDrPzAvxf.jpg"
+        },
+        {
+          "tit": "S02E06 🌀",
+          "linkFisico": "v/com-carinho-kitty-s02e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/iS8w8ApgG7TsVA5zPHDDrPzAvxf.jpg"
+        },
+        {
+          "tit": "S02E07 🌀",
+          "linkFisico": "v/com-carinho-kitty-s02e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/iS8w8ApgG7TsVA5zPHDDrPzAvxf.jpg"
+        },
+        {
+          "tit": "S02E08 🌀",
+          "linkFisico": "v/com-carinho-kitty-s02e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/iS8w8ApgG7TsVA5zPHDDrPzAvxf.jpg"
+        }
+      ],
+      "3": [
+        {
+          "tit": "S03E01 🌀",
+          "linkFisico": "v/com-carinho-kitty-s03e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/iS8w8ApgG7TsVA5zPHDDrPzAvxf.jpg"
+        },
+        {
+          "tit": "S03E02 🌀",
+          "linkFisico": "v/com-carinho-kitty-s03e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/iS8w8ApgG7TsVA5zPHDDrPzAvxf.jpg"
+        },
+        {
+          "tit": "S03E03 🌀",
+          "linkFisico": "v/com-carinho-kitty-s03e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/iS8w8ApgG7TsVA5zPHDDrPzAvxf.jpg"
+        },
+        {
+          "tit": "S03E04 🌀",
+          "linkFisico": "v/com-carinho-kitty-s03e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/iS8w8ApgG7TsVA5zPHDDrPzAvxf.jpg"
+        },
+        {
+          "tit": "S03E05 🌀",
+          "linkFisico": "v/com-carinho-kitty-s03e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/iS8w8ApgG7TsVA5zPHDDrPzAvxf.jpg"
+        },
+        {
+          "tit": "S03E06 🌀",
+          "linkFisico": "v/com-carinho-kitty-s03e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/iS8w8ApgG7TsVA5zPHDDrPzAvxf.jpg"
+        },
+        {
+          "tit": "S03E07 🌀",
+          "linkFisico": "v/com-carinho-kitty-s03e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/iS8w8ApgG7TsVA5zPHDDrPzAvxf.jpg"
+        },
+        {
+          "tit": "S03E08 🌀",
+          "linkFisico": "v/com-carinho-kitty-s03e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/iS8w8ApgG7TsVA5zPHDDrPzAvxf.jpg"
+        }
+      ]
+    }
   }
 ]
