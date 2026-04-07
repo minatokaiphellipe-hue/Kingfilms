@@ -42450,5 +42450,27 @@
         }
       ]
     }
+  },
+  {
+    "id": "sinbad-e-a-ilha-dos-ciclopes",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Sinbad e a Ilha dos Ciclopes 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/5XLCYWGvimbXks463q7QKNxZBCn.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/85TMMfCenRLPGJXdvFJHTwSaNeb.jpg",
+    "logo_png": "",
+    "sinopse": "Marina, Sinbad e sua tripulação estão descansando em uma pequena ilha quando descobrem que não estão sozinhos.",
+    "nota": "6.4",
+    "avaliacao": "6.4",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/sinbad-e-a-ilha-dos-ciclopes.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/85TMMfCenRLPGJXdvFJHTwSaNeb.jpg"
+        }
+      ]
+    }
   }
 ]
