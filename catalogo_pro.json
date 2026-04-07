@@ -42406,5 +42406,49 @@
         }
       ]
     }
+  },
+  {
+    "id": "pocahontas-o-encontro-de-dois-mundos",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Pocahontas: O Encontro de Dois Mundos 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/q5MYFXVy8UQ1ds76fdJs6AJbMzv.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/ilQ389xTGq6lshtgURkQL0btKI0.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/aAvTfUkPaHuUNfuZla2amieOoXA.png",
+    "sinopse": "Pocahontas, filha do chefe Powhatan, observa a chegada de um grande grupo de colonos ingleses, liderados pelo ambicioso governador Radcliff e pelo corajoso capitão John Smith. Com seu companheiro brincalhão, Meeko, um guaxinim travesso, e Flit, um pássaro alegre, Pocahontas forma uma forte amizade com o capitão Smith. Mas quando as tensões começam a surgir entre as duas culturas, Pocahontas recorre à sabedoria da avó Willow para encontrar uma maneira de trazer a paz entre seu povo e os conquistadores.",
+    "nota": "6.9",
+    "avaliacao": "6.9",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/pocahontas-o-encontro-de-dois-mundos.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/ilQ389xTGq6lshtgURkQL0btKI0.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "pocahontas-ii-uma-jornada-para-o-novo-mundo",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Pocahontas II: Uma Jornada Para o Novo Mundo 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/xNsHnGRoGYziVpz0D6hS4x78y2A.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/yMg4fwpu75l6fEG6KqEO952HFn2.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/8hkZNDStsdzAkS7zMpksSdr6Y0I.png",
+    "sinopse": "A indiazinha americana Pocahontas viaja através do mar para convencer os ingleses a não declararem guerra contra seu povo. Com seu guia John Rolfe, a heroína entra em um estranho novo mundo.",
+    "nota": "5.5",
+    "avaliacao": "5.5",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/pocahontas-ii-uma-jornada-para-o-novo-mundo.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yMg4fwpu75l6fEG6KqEO952HFn2.jpg"
+        }
+      ]
+    }
   }
 ]
