@@ -40209,28 +40209,6 @@
     }
   },
   {
-    "id": "shrek",
-    "tipo": "filme",
-    "categoria": "Animações",
-    "titulo": "Shrek 🌀",
-    "logo": "https://image.tmdb.org/t/p/w780/wxeqfC221YMptRRdzxlijAh7q8l.jpg",
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/2sp0OQeN5xP9hUahXFC7QsHUrk2.jpg",
-    "logo_png": "https://image.tmdb.org/t/p/w500/aHdDXMXOAgejOVoupZBULvcfcQG.png",
-    "sinopse": "Há muito tempo, em um pântano muito remoto, vivia um ogro feroz chamado Shrek. Um dia, sua solidão é interrompida por uma invasão de personagens surpreendentes. Há pequenos ratos cegos em sua comida, um enorme e péssimo lobo em sua cama, três porquinhos sem teto e outros seres que foram deportados de suas terras pelo maligno lorde Farquaad. Para salvar seu território, Shrek faz um pacto com Farquaad e parte em uma jornada para fazer a linda princesa Fiona concordar em ser a noiva do Senhor. Em uma missão tão importante, ele é acompanhado por um burro divertido, pronto para fazer qualquer coisa por Shrek: tudo, exceto ficar em silêncio.",
-    "nota": "7.8",
-    "avaliacao": "7.8",
-    "classificacao": "Livre",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "Assistir 🌀",
-          "linkFisico": "v/shrek.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/2sp0OQeN5xP9hUahXFC7QsHUrk2.jpg"
-        }
-      ]
-    }
-  },
-  {
     "id": "sem-maturidade-para-isso",
     "tipo": "serie",
     "categoria": "Séries",
@@ -42403,6 +42381,28 @@
           "tit": "Assistir 🌀",
           "linkFisico": "v/toy-story-3.html",
           "logoEp": "https://image.tmdb.org/t/p/w1280/6HguugAxjC9qwRu8B7nVGXhuLsu.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "shrek",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Shrek 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/wxeqfC221YMptRRdzxlijAh7q8l.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/2sp0OQeN5xP9hUahXFC7QsHUrk2.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/aHdDXMXOAgejOVoupZBULvcfcQG.png",
+    "sinopse": "Há muito tempo, em um pântano muito remoto, vivia um ogro feroz chamado Shrek. Um dia, sua solidão é interrompida por uma invasão de personagens surpreendentes. Há pequenos ratos cegos em sua comida, um enorme e péssimo lobo em sua cama, três porquinhos sem teto e outros seres que foram deportados de suas terras pelo maligno lorde Farquaad. Para salvar seu território, Shrek faz um pacto com Farquaad e parte em uma jornada para fazer a linda princesa Fiona concordar em ser a noiva do Senhor. Em uma missão tão importante, ele é acompanhado por um burro divertido, pronto para fazer qualquer coisa por Shrek: tudo, exceto ficar em silêncio.",
+    "nota": "7.8",
+    "avaliacao": "7.8",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/shrek.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/2sp0OQeN5xP9hUahXFC7QsHUrk2.jpg"
         }
       ]
     }
