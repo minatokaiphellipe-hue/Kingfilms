@@ -143,47 +143,6 @@
     }
   },
   {
-    "id": "a-biblia",
-    "tipo": "serie",
-    "categoria": "Séries",
-    "titulo": "A Bíblia 🌀",
-    "logo": "https://image.tmdb.org/t/p/w780/gJbc4XJOHclHJCKuOxPGh9p2yiA.jpg",
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/5fVOeuaC1STFdir3cob7borWrWV.jpg",
-    "sinopse": "Misturando contos bíblicos e parábolas, esta minissérie recria para um público moderno a visão da Bíblia sobre a humanidade e o divino.",
-    "nota": "7.4",
-    "avaliacao": "7.4",
-    "classificacao": "14",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "S01E01 🌀",
-          "linkFisico": "v/a-biblia-s01e01.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/5fVOeuaC1STFdir3cob7borWrWV.jpg"
-        },
-        {
-          "tit": "S01E02 🌀",
-          "linkFisico": "v/a-biblia-s01e02.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/5fVOeuaC1STFdir3cob7borWrWV.jpg"
-        },
-        {
-          "tit": "S01E03 🌀",
-          "linkFisico": "v/a-biblia-s01e03.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/5fVOeuaC1STFdir3cob7borWrWV.jpg"
-        },
-        {
-          "tit": "S01E04 🌀",
-          "linkFisico": "v/a-biblia-s01e04.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/5fVOeuaC1STFdir3cob7borWrWV.jpg"
-        },
-        {
-          "tit": "S01E05 🌀",
-          "linkFisico": "v/a-biblia-s01e05.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/5fVOeuaC1STFdir3cob7borWrWV.jpg"
-        }
-      ]
-    }
-  },
-  {
     "id": "a-era-do-gelo",
     "tipo": "filme",
     "categoria": "Animações",
@@ -42372,6 +42331,48 @@
           "tit": "Assistir 🌀",
           "linkFisico": "v/enrolados.html",
           "logoEp": "https://image.tmdb.org/t/p/w1280/mUQBWnG6zDeoD0TfAq0InjQRmSm.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "a-biblia",
+    "tipo": "serie",
+    "categoria": "Séries",
+    "titulo": "A Bíblia 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/gJbc4XJOHclHJCKuOxPGh9p2yiA.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/5fVOeuaC1STFdir3cob7borWrWV.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/ozAa62Sx8TUZfMmBlSCJHqvQvxe.png",
+    "sinopse": "Misturando contos bíblicos e parábolas, esta minissérie recria para um público moderno a visão da Bíblia sobre a humanidade e o divino.",
+    "nota": "7.4",
+    "avaliacao": "7.4",
+    "classificacao": "14",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "S01E01 🌀",
+          "linkFisico": "v/a-biblia-s01e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/5fVOeuaC1STFdir3cob7borWrWV.jpg"
+        },
+        {
+          "tit": "S01E02 🌀",
+          "linkFisico": "v/a-biblia-s01e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/5fVOeuaC1STFdir3cob7borWrWV.jpg"
+        },
+        {
+          "tit": "S01E03 🌀",
+          "linkFisico": "v/a-biblia-s01e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/5fVOeuaC1STFdir3cob7borWrWV.jpg"
+        },
+        {
+          "tit": "S01E04 🌀",
+          "linkFisico": "v/a-biblia-s01e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/5fVOeuaC1STFdir3cob7borWrWV.jpg"
+        },
+        {
+          "tit": "S01E05 🌀",
+          "linkFisico": "v/a-biblia-s01e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/5fVOeuaC1STFdir3cob7borWrWV.jpg"
         }
       ]
     }
