@@ -42124,28 +42124,6 @@
     }
   },
   {
-    "id": "thor-ragnarok",
-    "tipo": "filme",
-    "categoria": "Ação",
-    "titulo": "Thor: Ragnarok 🌀",
-    "logo": "https://image.tmdb.org/t/p/w780/2K45Fp6koAVoeeYS6aMb9BeNt4F.jpg",
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/uQaFPDbITbwQDC3JPzE4Yar4m5n.jpg",
-    "logo_png": "https://image.tmdb.org/t/p/w500/hgILbG5XpMHNgwerEpTbl2kO07g.png",
-    "sinopse": "Thor está preso do outro lado do universo. Ele precisa correr contra o tempo para voltar a Asgard e parar Ragnarok, a destruição de seu mundo, que está nas mãos da poderosa e implacável vilã Hela.",
-    "nota": "7.6",
-    "avaliacao": "7.6",
-    "classificacao": "12",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "Assistir 🌀",
-          "linkFisico": "v/thor-ragnarok.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/uQaFPDbITbwQDC3JPzE4Yar4m5n.jpg"
-        }
-      ]
-    }
-  },
-  {
     "id": "enrolados",
     "tipo": "filme",
     "categoria": "Animações",
@@ -42403,6 +42381,28 @@
           "tit": "Assistir 🌀",
           "linkFisico": "v/shrek.html",
           "logoEp": "https://image.tmdb.org/t/p/w1280/2sp0OQeN5xP9hUahXFC7QsHUrk2.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "thor-ragnarok",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "Thor: Ragnarok 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/2K45Fp6koAVoeeYS6aMb9BeNt4F.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/uQaFPDbITbwQDC3JPzE4Yar4m5n.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/hgILbG5XpMHNgwerEpTbl2kO07g.png",
+    "sinopse": "Thor está preso do outro lado do universo. Ele precisa correr contra o tempo para voltar a Asgard e parar Ragnarok, a destruição de seu mundo, que está nas mãos da poderosa e implacável vilã Hela.",
+    "nota": "7.6",
+    "avaliacao": "7.6",
+    "classificacao": "12",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/thor-ragnarok.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/uQaFPDbITbwQDC3JPzE4Yar4m5n.jpg"
         }
       ]
     }
