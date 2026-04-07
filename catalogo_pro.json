@@ -42717,5 +42717,27 @@
         }
       ]
     }
+  },
+  {
+    "id": "a-acompanhante",
+    "tipo": "filme",
+    "categoria": "Drama",
+    "titulo": "A Acompanhante 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/7OuCrhu0VktCJQbSeuXvWa1o5jw.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/ez6fvp6bfE2hHyhq7RNIfakle5S.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/dRUghfUACR4SELtm0fCNim3SKdh.png",
+    "sinopse": "Desesperado por uma boa história, um jornalista viciado em sexo se lança no mundo das acompanhantes de alta classe.",
+    "nota": "6.0",
+    "avaliacao": "6.0",
+    "classificacao": "16",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/a-acompanhante.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/ez6fvp6bfE2hHyhq7RNIfakle5S.jpg"
+        }
+      ]
+    }
   }
 ]
