@@ -4556,26 +4556,6 @@
     }
   },
   {
-    "id": "capitao-america-admiravel-mundo-novo",
-    "tipo": "filme",
-    "categoria": "Ação",
-    "titulo": "Capitão América: Admirável Mundo Novo 🌀",
-    "logo": "https://image.tmdb.org/t/p/w780/5nbSgP8f5LMCI0PwVRRaHJaUmR3.jpg",
-    "sinopse": "Após se encontrar com o recém-eleito presidente dos EUA, Thaddeus Ross, Sam se vê no meio de um incidente internacional. Ele deve descobrir o motivo por trás de uma conspiração global nefasta antes que o verdadeiro gênio faça o mundo inteiro ser dominado pelo vermelho.",
-    "avaliacao": "6.0",
-    "classificacao": "14",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "Assistir 🌀",
-          "linkFisico": "v/capitao-america-admiravel-mundo-novo.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/u7hB2qFdqkKwvvdtDgTzOLs6UXU.jpg"
-        }
-      ]
-    },
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/8eifdha9GQeZAkexgtD45546XKx.jpg"
-  },
-  {
     "id": "carros",
     "tipo": "filme",
     "categoria": "Animações",
@@ -42379,6 +42359,28 @@
           "tit": "Assistir 🌀",
           "linkFisico": "v/capitao-america-guerra-civil.html",
           "logoEp": "https://image.tmdb.org/t/p/w1280/mo5t6LJPbtCyu4aY1f0mVJYpyYW.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "capitao-america-admiravel-mundo-novo",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "Capitão América: Admirável Mundo Novo 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/5nbSgP8f5LMCI0PwVRRaHJaUmR3.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/u7hB2qFdqkKwvvdtDgTzOLs6UXU.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/wptoNXZySQF0HyGF9avivae6lGU.png",
+    "sinopse": "Após se encontrar com o recém-eleito presidente dos EUA, Thaddeus Ross, Sam se vê no meio de um incidente internacional. Ele deve descobrir o motivo por trás de uma conspiração global nefasta antes que o verdadeiro gênio faça o mundo inteiro ser dominado pelo vermelho.",
+    "nota": "6.0",
+    "avaliacao": "6.0",
+    "classificacao": "14",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/capitao-america-admiravel-mundo-novo.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/u7hB2qFdqkKwvvdtDgTzOLs6UXU.jpg"
         }
       ]
     }
