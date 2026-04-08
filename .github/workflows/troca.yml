@@ -1,0 +1,17 @@
+name: Substituicao em Massa
+on: workflow_dispatch
+jobs:
+  substituir:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Executar Troca de Simbolo
+        run: find . -type f -name "*.html" -exec sed -i 's/🌀/𝐊𝐢𝐧𝐠𝐟𝐢𝐥𝐦𝐬 🌀/g' {} +
+      - name: Salvar e Enviar para o Site
+        run: |
+          git config --local user.email "admin@kingfilms.com"
+          git config --local user.name "Kingfilms Bot"
+          git add .
+          git commit -m "Atualização em massa: 𝐊𝐢𝐧𝐠𝐟𝐢𝐥𝐦𝐬 🌀"
+          git push
+          
