@@ -1,21 +1,23 @@
-name: Substituicao em Massa
+name: Limpar Feed e Capas
 on: workflow_dispatch
 
-# A MÁGICA AQUI: Dando permissão de escrita ao robô!
 permissions:
   contents: write
 
 jobs:
-  substituir:
+  limpar:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - name: Executar Troca de Simbolo
-        run: find . -type f -name "*.html" -exec sed -i 's/🌀/𝐊𝐢𝐧𝐠𝐟𝐢𝐥𝐦𝐬 🌀/g' {} +
-      - name: Salvar e Enviar para o Site
+      - name: Limpar tudo exceto a pasta /v/
+        run: |
+          # Procura todos os HTMLs que NÃO estão na pasta /v/ e remove os símbolos e espaços
+          find . -type f -name "*.html" ! -path "./v/*" -exec sed -i 's/ *𝐊𝐢𝐧𝐠𝐟𝐢𝐥𝐦𝐬 🌀//g' {} +
+          find . -type f -name "*.html" ! -path "./v/*" -exec sed -i 's/ *🌀//g' {} +
+      - name: Salvar e Publicar
         run: |
           git config --local user.email "admin@kingfilms.com"
           git config --local user.name "Kingfilms Bot"
           git add .
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Atualização em massa: 𝐊𝐢𝐧𝐠𝐟𝐢𝐥𝐦𝐬 🌀" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Limpeza das capas: removendo marca fora da pasta /v/" && git push)
           
