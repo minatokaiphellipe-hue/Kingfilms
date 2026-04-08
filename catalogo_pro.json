@@ -42784,5 +42784,27 @@
         }
       ]
     }
+  },
+  {
+    "id": "tsunami-zumbi",
+    "tipo": "filme",
+    "categoria": "Terror",
+    "titulo": "Tsunami Zumbi 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/orWBh2igPhC8KZqx8uNtWhDjO1r.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/a7Tqni1bEyxicn3qlzhFIhaNRST.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/papNaMAOI4oYP9n0cNKRN2vxnHS.png",
+    "sinopse": "O diretor da franquia \"Sharknado\", Anthony C. Ferrante, novamente se associa ao astro da série Ian Ziering para mais um filme catástrofe inusitado e repleto de ação, \"Zombie Tidal Wave\". Quando um terremoto ao largo da costa de uma pequena ilha causa uma série de tsunamis sobrenaturais, trazendo um enxme de zumbis mortais, o marinheiro veterano Hunter Shaw (Ziering) e um excêntrico grupo de moradores locais se reúnem para sobreviver ao violento ataque e parar a horda de zumbis de alguma forma antes que invadam o continente.",
+    "nota": "4.4",
+    "avaliacao": "4.4",
+    "classificacao": "16",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/tsunami-zumbi.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/a7Tqni1bEyxicn3qlzhFIhaNRST.jpg"
+        }
+      ]
+    }
   }
 ]
