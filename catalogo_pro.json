@@ -43127,5 +43127,71 @@
         }
       ]
     }
+  },
+  {
+    "id": "batman",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "Batman 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/wd7b4Nv9QBHDTIjc2m7sr0IUMoh.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/siSlpIQsNcmdhYqOs6zM6lSJJDv.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/7zyZtBkpXwoSiXG4Mh0a79ye6Ya.png",
+    "sinopse": "Em seu segundo ano de combate ao crime, Batman descobre corrupção em Gotham City que se conecta à sua própria família enquanto enfrenta um serial killer conhecido como Charada.",
+    "nota": "7.7",
+    "avaliacao": "7.7",
+    "classificacao": "14",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/batman.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/siSlpIQsNcmdhYqOs6zM6lSJJDv.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "batman-o-cavaleiro-das-trevas",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "Batman: O Cavaleiro das Trevas 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/4lj1ikfsSmMZNyfdi8R8Tv5tsgb.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/zmRXxvMgdJGYswMtqlHRnzISoAa.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/r39KaQQPh25zqYXVRS4PypEnyad.png",
+    "sinopse": "Após dois anos desde o surgimento do Batman, os criminosos de Gotham City têm muito o que temer. Com a ajuda do tenente James Gordon e do promotor público Harvey Dent, Batman luta contra o crime organizado. Acuados com o combate, os chefes do crime aceitam a proposta feita pelo Coringa e o contratam para combater o Homem-Morcego.",
+    "nota": "8.5",
+    "avaliacao": "8.5",
+    "classificacao": "12",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/batman-o-cavaleiro-das-trevas.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/zmRXxvMgdJGYswMtqlHRnzISoAa.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "batman-o-cavaleiro-das-trevas-ressurge",
+    "tipo": "filme",
+    "categoria": "Oscar 2026",
+    "titulo": "Batman: O Cavaleiro das Trevas Ressurge 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/j4z01cnbTCaVX69bik1612pSuH6.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/7Ni4ZNVT367vZBR6BJqN4yJtjLh.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/2SE6qODviOjCz6elLEGl9sDj1Ye.png",
+    "sinopse": "Após ser culpado pela morte de Harvey Dent e passar de herói a vilão, Batman desaparece. As coisas mudam com a chegada de uma ladra misteriosa, a Mulher-Gato, e Bane, um terrorista mascarado, que fazem Batman abandonar seu exílio forçado.",
+    "nota": "7.8",
+    "avaliacao": "7.8",
+    "classificacao": "12",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/batman-o-cavaleiro-das-trevas-ressurge.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/7Ni4ZNVT367vZBR6BJqN4yJtjLh.jpg"
+        }
+      ]
+    }
   }
 ]
