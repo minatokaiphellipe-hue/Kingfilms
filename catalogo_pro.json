@@ -27005,26 +27005,6 @@
     }
   },
   {
-    "id": "vingadores-era-de-ultron",
-    "tipo": "filme",
-    "categoria": "Ação",
-    "titulo": "Vingadores: Era de Ultron ",
-    "logo": "https://image.tmdb.org/t/p/w780/uvzqTsRmUzk9mJVzX8cMSWMyM5l.jpg",
-    "sinopse": "Ao tentar proteger o planeta de ameaças, Tony Stark constrói um sistema de inteligência artificial que cuidaria da paz mundial. O projeto acaba dando errado e gera o nascimento do Ultron. Com o destino da Terra em jogo, os Vingadores terão que se unir para mais uma vez salvar a raça humana da extinção.",
-    "avaliacao": "7.3",
-    "classificacao": "12",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "Assistir ",
-          "linkFisico": "v/vingadores-era-de-ultron.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/6YwkGolwdOMNpbTOmLjoehlVWs5.jpg"
-        }
-      ]
-    },
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/xnqust9Li4oxfhXD5kcPi3UC8i4.jpg"
-  },
-  {
     "id": "wallace-gromit-a-batalha-dos-vegetais",
     "tipo": "filme",
     "categoria": "Animações",
@@ -43882,6 +43862,28 @@
           "tit": "S01E50",
           "linkFisico": "v/tokyo-revengers-s01e50.html",
           "logoEp": "https://image.tmdb.org/t/p/w1280/lXMR8xVSCjzzZuLYKa4Y3CGQjtt.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "vingadores-era-de-ultron",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "Vingadores: Era de Ultron",
+    "logo": "https://image.tmdb.org/t/p/w780/uvzqTsRmUzk9mJVzX8cMSWMyM5l.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/6YwkGolwdOMNpbTOmLjoehlVWs5.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/a4IXS6fqA7OroPKgd6NzjmJK6S5.png",
+    "sinopse": "Ao tentar proteger o planeta de ameaças, Tony Stark constrói um sistema de inteligência artificial que cuidaria da paz mundial. O projeto acaba dando errado e gera o nascimento do Ultron. Com o destino da Terra em jogo, os Vingadores terão que se unir para mais uma vez salvar a raça humana da extinção.",
+    "nota": "7.3",
+    "avaliacao": "7.3",
+    "classificacao": "12",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/vingadores-era-de-ultron.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/6YwkGolwdOMNpbTOmLjoehlVWs5.jpg"
         }
       ]
     }
