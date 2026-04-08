@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <title>KINGFILMS - O Melhor do Streaming</title>
     <meta name="description" content="Assista séries, filmes e animes online em HD no KINGFILMS.">
-    <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🌀</text></svg>">
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>𝐊𝐢𝐧𝐠𝐟𝐢𝐥𝐦𝐬 🌀</text></svg>">
     
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -453,7 +453,7 @@ function criarCartaoHTML(item, isH=false){
   let ic=isH?(item.logo_horizontal||item.logo):item.logo;
   let nb = (item.avaliacao && item.avaliacao !== "0.0" && item.avaliacao !== "N/A") ? `<div class="badge-nota"><span style="color:#f5c518; font-size:10px;">★</span> ${item.avaliacao}</div>` : "";
   let cC = "#0f0"; let tC = item.classificacao || "L"; if(tC==="Livre"||tC==="L"){cC="#10b981";tC="L";}else if(tC==="10")cC="#0ea5e9";else if(tC==="12")cC="#f59e0b";else if(tC==="14")cC="#f97316";else if(tC==="16"||tC==="18")cC="#ef4444";
-  return `<div class="content-card" onclick="abrirDetalhes('${item.id}')"><div class="card-img-container"><img src="${ic}" loading="lazy"><div class="card-hover-overlay"><div class="card-play-btn"></div></div>${nb}<div class="badge-class" style="background:${cC};">${tC}</div></div><div class="card-info"><h3>${item.titulo.replace(" 🌀","")}</h3></div></div>`;
+  return `<div class="content-card" onclick="abrirDetalhes('${item.id}')"><div class="card-img-container"><img src="${ic}" loading="lazy"><div class="card-hover-overlay"><div class="card-play-btn"></div></div>${nb}<div class="badge-class" style="background:${cC};">${tC}</div></div><div class="card-info"><h3>${item.titulo.replace(" 𝐊𝐢𝐧𝐠𝐟𝐢𝐥𝐦𝐬 🌀","")}</h3></div></div>`;
 }
 
 let currHero=0, totHero=0, heroInt, currShow=0, totShow=0, showInt;
@@ -480,7 +480,7 @@ function renderizarHome(salvarUrl=true){
     dH.forEach((d,i)=>{
       let cC="#0f0",tC=d.classificacao||"L";if(tC==="Livre"||tC==="L"){cC="#10b981";tC="Livre";}else if(tC==="10")cC="#0ea5e9";else if(tC==="12")cC="#f59e0b";else if(tC==="14")cC="#f97316";else if(tC==="16"||tC==="18")cC="#ef4444";
       let nH=d.avaliacao&&d.avaliacao!=="0.0"&&d.avaliacao!=="N/A"?`<span style="color:#f5c518;">★</span> ${d.avaliacao}`:"";
-      let tH = d.logo_png ? `<img src="${d.logo_png}" class="hero-title-img">` : `<h1 class="hero-title">${d.titulo.replace(" 🌀","")}</h1>`;
+      let tH = d.logo_png ? `<img src="${d.logo_png}" class="hero-title-img">` : `<h1 class="hero-title">${d.titulo.replace(" 𝐊𝐢𝐧𝐠𝐟𝐢𝐥𝐦𝐬 🌀","")}</h1>`;
       hF+=`<div class="hero-slide ${i===0?'active':''}" id="h-slide-${i}" style="background-image:url('${d.logo_horizontal||d.logo}');"><div class="hero-overlay"></div><div class="hero-content">${tH}<div class="hero-meta">${nH!=""?`<span style="background:rgba(0,0,0,0.6);padding:2px 8px;border-radius:6px;border:1px solid rgba(255,255,255,0.2);">${nH}</span>`:""}<span style="background:${cC};color:#fff;padding:2px 8px;border-radius:6px;">${tC}</span><span style="color:#e2e8f0;background:rgba(255,255,255,0.1);padding:2px 8px;border-radius:6px;">${d.tipo==='filme'?'Filme':'Série'}</span></div><p class="hero-synopsis">${d.sinopse||'Assista agora no KINGFILMS.'}</p><div class="hero-buttons"><button class="btn-hero-play" onclick="abrirDetalhes('${d.id}')">▶ Assistir</button></div></div></div>`;
     });
     hF+=`</div><div class="slider-dots">`; dH.forEach((_,i)=>{hF+=`<div class="dot ${i===0?'active':''}" id="h-dot-${i}" onclick="mudarHero(${i})"></div>`;}); hF+=`</div></div>`;
@@ -500,7 +500,7 @@ function renderizarHome(salvarUrl=true){
     hF+=`<div class="showcase-slider-container" id="showcaseSlider"><div class="showcase-track" id="showcaseTrack">`;
     dS.forEach((d,i)=>{
       let cC = i === 0 ? "active" : (i === 1 ? "next" : (i === dS.length - 1 ? "prev" : "")); let tC=d.classificacao||"L"; if(tC==="Livre"||tC==="L"){tC="Livre";}
-      let nH=d.avaliacao&&d.avaliacao!=="0.0"&&d.avaliacao!=="N/A"?d.avaliacao:""; let tH = d.logo_png ? `<img src="${d.logo_png}" class="showcase-title-img">` : `<h2 class="showcase-title">${d.titulo.replace(" 🌀","")}</h2>`;
+      let nH=d.avaliacao&&d.avaliacao!=="0.0"&&d.avaliacao!=="N/A"?d.avaliacao:""; let tH = d.logo_png ? `<img src="${d.logo_png}" class="showcase-title-img">` : `<h2 class="showcase-title">${d.titulo.replace(" 𝐊𝐢𝐧𝐠𝐟𝐢𝐥𝐦𝐬 🌀","")}</h2>`;
       hF+=`<div class="showcase-slide ${cC}" id="s-slide-${i}" onclick="if(!this.classList.contains('active')) mudarShowcase(${i}); else abrirDetalhes('${d.id}');"><div class="showcase-img-box"><img src="${d.logo}"><div class="showcase-overlay"></div><div class="showcase-play-icon"></div></div><div class="showcase-content">${tH}<div class="showcase-meta"><span style="border:1px solid rgba(255,255,255,0.3); padding:2px 6px; border-radius:4px;">${tC}</span><span class="showcase-meta-divider">|</span><span>${d.tipo==='filme'?'Filme':'Série'}</span>${nH?`<span class="showcase-meta-divider">|</span><span style="color:#f5c518;">★</span> ${nH}`:''}</div></div></div>`;
     });
     hF+=`</div><div class="slider-dots">`; dS.forEach((_,i)=>{hF+=`<div class="dot ${i===0?'active':''}" id="s-dot-${i}" onclick="mudarShowcase(${i})"></div>`;}); hF+=`</div></div>`;
@@ -593,7 +593,7 @@ function abrirDetalhes(id, salvarUrl=true){
   let rel=dF.filter(x=>(x.categoria||'Outros')===(i.categoria||'Outros')&&x.id!==i.id).slice(0,10), hR="";
   if(rel.length>0){ hR=`<div style="margin-top:40px;"><h2 class="categoria-title" style="margin-left:0; border-left:4px solid #e50914; padding-left:10px;">${i.tipo==='serie'?'Séries':'Filmes'} Relacionados</h2><div class="content-row" style="padding:0 0 20px 0;">`; rel.forEach(r=>{hR+=criarCartaoHTML(r,false);}); hR+=`</div></div>`; }
   
-  let tH = i.logo_png ? `<img src="${i.logo_png}" class="detalhes-title-img">` : `<h1 class="detalhes-title-text">${i.titulo.replace(" 🌀","")}</h1>`;
+  let tH = i.logo_png ? `<img src="${i.logo_png}" class="detalhes-title-img">` : `<h1 class="detalhes-title-text">${i.titulo.replace(" 𝐊𝐢𝐧𝐠𝐟𝐢𝐥𝐦𝐬 🌀","")}</h1>`;
   let inList = minhaLista.includes(id); let btnClass = inList ? 'in-list' : 'not-in-list'; let btnTexto = inList ? '❤️ Favoritado' : '🤍 Favoritar';
   
   // 🔥 CONTAINER DE BOTÕES BLINDADO COM POINTER EVENTS 
