@@ -42808,5 +42808,27 @@
         }
       ]
     }
+  },
+  {
+    "id": "collide-segredos-e-mentiras",
+    "tipo": "filme",
+    "categoria": "Drama",
+    "titulo": "Collide: Segredos e Mentiras 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/enjCR5djQzco1UNAsSd8T4Ay71k.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/kJItn7W70wjG3xzQta5W9ZYMjB9.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/5fEGR3iD7gi0wSNynotjIJzV6ci.png",
+    "sinopse": "Quando um caso de amor, um assassinato e uma transação de droga acontecem no restaurante Collide, o caos tem início e a vida de seis pessoas em uma noite importante que determina o futuro de todos.",
+    "nota": "4.9",
+    "avaliacao": "4.9",
+    "classificacao": "16",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/collide-segredos-e-mentiras.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kJItn7W70wjG3xzQta5W9ZYMjB9.jpg"
+        }
+      ]
+    }
   }
 ]
