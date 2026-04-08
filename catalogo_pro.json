@@ -43344,50 +43344,6 @@
     }
   },
   {
-    "id": "panico-na-floresta",
-    "tipo": "filme",
-    "categoria": "Terror",
-    "titulo": "Pânico na Floresta 🌀",
-    "logo": "https://image.tmdb.org/t/p/w780/mQVIIUXHo3Qpd6nu0api7UyMpas.jpg",
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/7ZGxUDxIlPpg7nKWMSeJn64o25A.jpg",
-    "logo_png": "https://image.tmdb.org/t/p/w500/a7EGMpD0fWvOpxgvdZGlJu4yMPn.png",
-    "sinopse": "Cinco amigos percorrem uma trilha na floresta, em pleno estado da Virginia. Após pegarem o caminho errado, eles se deparam com uma família de canibais, que possui o rosto desfigurado devido a diversas gerações cosanguíneas terem nascido. Desesperados após serem capturados, os amigos agora querem apenas fugir do local o mais rápido possível.",
-    "nota": "6.4",
-    "avaliacao": "6.4",
-    "classificacao": "14",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "Assistir 🌀",
-          "linkFisico": "v/panico-na-floresta.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/7ZGxUDxIlPpg7nKWMSeJn64o25A.jpg"
-        }
-      ]
-    }
-  },
-  {
-    "id": "panico-na-floresta-2",
-    "tipo": "filme",
-    "categoria": "Terror",
-    "titulo": "Pânico na Floresta 2 🌀",
-    "logo": "https://image.tmdb.org/t/p/w780/4Ra0ejDcncJTZJfHOVRV2bm4DMd.jpg",
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/hHMnm657MMFiRLaHJ0g4QkQn1jD.jpg",
-    "logo_png": "https://image.tmdb.org/t/p/w500/zLaegAWbbhE66Fukq5xWxhdQ9Xg.png",
-    "sinopse": "De olho em prêmio, grupo de desconhecidos participa de reality show em uma floresta nos EUA e realmente tem de lutar pela sobrevivência quando é aterrorizado por bando de canibais que planeja matar a todos e comê-los depois.",
-    "nota": "6.1",
-    "avaliacao": "6.1",
-    "classificacao": "18",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "Assistir 🌀",
-          "linkFisico": "v/panico-na-floresta-2.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/hHMnm657MMFiRLaHJ0g4QkQn1jD.jpg"
-        }
-      ]
-    }
-  },
-  {
     "id": "a-casa-de-cera",
     "tipo": "filme",
     "categoria": "Terror",
@@ -43405,6 +43361,50 @@
           "tit": "Assistir",
           "linkFisico": "v/a-casa-de-cera.html",
           "logoEp": "https://image.tmdb.org/t/p/w1280/wLThHQtp7eV5eXOofLWYI6susoq.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "panico-na-floresta",
+    "tipo": "filme",
+    "categoria": "Terror",
+    "titulo": "Pânico na Floresta",
+    "logo": "https://image.tmdb.org/t/p/w780/mQVIIUXHo3Qpd6nu0api7UyMpas.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/7ZGxUDxIlPpg7nKWMSeJn64o25A.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/a7EGMpD0fWvOpxgvdZGlJu4yMPn.png",
+    "sinopse": "Cinco amigos percorrem uma trilha na floresta, em pleno estado da Virginia. Após pegarem o caminho errado, eles se deparam com uma família de canibais, que possui o rosto desfigurado devido a diversas gerações cosanguíneas terem nascido. Desesperados após serem capturados, os amigos agora querem apenas fugir do local o mais rápido possível.",
+    "nota": "6.4",
+    "avaliacao": "6.4",
+    "classificacao": "14",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/panico-na-floresta.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/7ZGxUDxIlPpg7nKWMSeJn64o25A.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "panico-na-floresta-2",
+    "tipo": "filme",
+    "categoria": "Terror",
+    "titulo": "Pânico na Floresta 2",
+    "logo": "https://image.tmdb.org/t/p/w780/4Ra0ejDcncJTZJfHOVRV2bm4DMd.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/hHMnm657MMFiRLaHJ0g4QkQn1jD.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/zLaegAWbbhE66Fukq5xWxhdQ9Xg.png",
+    "sinopse": "De olho em prêmio, grupo de desconhecidos participa de reality show em uma floresta nos EUA e realmente tem de lutar pela sobrevivência quando é aterrorizado por bando de canibais que planeja matar a todos e comê-los depois.",
+    "nota": "6.1",
+    "avaliacao": "6.1",
+    "classificacao": "18",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/panico-na-floresta-2.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/hHMnm657MMFiRLaHJ0g4QkQn1jD.jpg"
         }
       ]
     }
