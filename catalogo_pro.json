@@ -42832,5 +42832,71 @@
         }
       ]
     }
+  },
+  {
+    "id": "transformers",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "Transformers 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/lkZ9gqCEjzX85lKR6Jjd1uGAXNp.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/dMcNcFprqn1oOZUYGMxVScQDUPC.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/sRdt54X9wXUvCEwG4CdVyxFcC8y.png",
+    "sinopse": "O destino da humanidade está em jogo quando duas raças de robôs, os Autobots e os vilões Decepticons, chegam à Terra. Os robôs possuem a capacidade de se transformarem em diferentes objetos mecânicos enquanto buscam a chave do poder supremo com a ajuda do jovem Sam.",
+    "nota": "6.8",
+    "avaliacao": "6.8",
+    "classificacao": "10",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/transformers.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/dMcNcFprqn1oOZUYGMxVScQDUPC.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "transformers-o-despertar-das-feras",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "Transformers: O Despertar das Feras 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/9PSKoY98olv7Sru1PWnLpFDqat9.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/pUQ03oxdKCEJK36nE8cEugqlMAO.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/j8LyxBycN7eSJQXETXe3RnDIZXB.png",
+    "sinopse": "Optimus Prime e os Autobots enfrentam seu maior desafio até agora. Quando uma nova ameaça capaz de destruir todo o planeta surge, eles devem se unir a uma poderosa facção de Transformers conhecida como os Maximals para salvar a Terra.",
+    "nota": "7.2",
+    "avaliacao": "7.2",
+    "classificacao": "12",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/transformers-o-despertar-das-feras.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/pUQ03oxdKCEJK36nE8cEugqlMAO.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "transformers-a-era-da-extincao",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "Transformers: A Era da Extinção 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/cLNIRQ2oyJhaUId41aGmSDfD5MI.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/yTjU3jFwoCSRcTyE3xRMxx2hcUU.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/5wsU1bqhw32X0uPfgKD56lujR3x.png",
+    "sinopse": "Após a batalha entre os Autobots e os Decepticons, que arrasou Chicago, os gigantescos robôs alienígenas desapareceram. Atualmente, eles são caçados pelos humanos, que não desejam passar por apuros novamente. Porém, enquanto a humanidade tenta se recuperar dessa terrível batalha, uma nova ameaça paira sobre a Terra.",
+    "nota": "6.0",
+    "avaliacao": "6.0",
+    "classificacao": "12",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/transformers-a-era-da-extincao.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yTjU3jFwoCSRcTyE3xRMxx2hcUU.jpg"
+        }
+      ]
+    }
   }
 ]
