@@ -43596,5 +43596,27 @@
         }
       ]
     }
+  },
+  {
+    "id": "panico-na-neve",
+    "tipo": "filme",
+    "categoria": "Terror",
+    "titulo": "Pânico na Neve",
+    "logo": "https://image.tmdb.org/t/p/w780/1F0RJOWzYFeounRncvXjUCc8Tmp.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/iSmylO6HgvjDHz02ItH4W2wZO4J.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/k5JQsqXrMJRHgBLRfFRvkkGobzT.png",
+    "sinopse": "Um dia típico nas montanhas se torna um pesadelo gelado para três esquiadores que ficam presos em um teleférico antes de sua última descida. A equipe da estação de esqui desliga as luzes da pista e o trio percebe, em pânico, que foram esquecidos. Com hipotermia e queimaduras de frio, os amigos são forçados a tomar medidas extremas para sair da montanha, antes que morram congelados.",
+    "nota": "6.0",
+    "avaliacao": "6.0",
+    "classificacao": "14",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/panico-na-neve.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/iSmylO6HgvjDHz02ItH4W2wZO4J.jpg"
+        }
+      ]
+    }
   }
 ]
