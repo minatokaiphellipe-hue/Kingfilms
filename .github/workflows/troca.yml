@@ -1,5 +1,10 @@
 name: Substituicao em Massa
 on: workflow_dispatch
+
+# A MÁGICA AQUI: Dando permissão de escrita ao robô!
+permissions:
+  contents: write
+
 jobs:
   substituir:
     runs-on: ubuntu-latest
@@ -12,6 +17,5 @@ jobs:
           git config --local user.email "admin@kingfilms.com"
           git config --local user.name "Kingfilms Bot"
           git add .
-          git commit -m "Atualização em massa: 𝐊𝐢𝐧𝐠𝐟𝐢𝐥𝐦𝐬 🌀"
-          git push
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Atualização em massa: 𝐊𝐢𝐧𝐠𝐟𝐢𝐥𝐦𝐬 🌀" && git push)
           
