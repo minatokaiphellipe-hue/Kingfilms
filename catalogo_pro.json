@@ -43408,5 +43408,171 @@
         }
       ]
     }
+  },
+  {
+    "id": "panico-a-serie",
+    "tipo": "serie",
+    "categoria": "Séries",
+    "titulo": "Pânico: A Série",
+    "logo": "https://image.tmdb.org/t/p/w780/cTRUcUnAydqboYfis0IhhY1edDt.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/pHLdzJ9pF7xBIFmzkI0QxudIcit.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/wEu1c8TiNqAcN7TRlrr5OtAA5YU.png",
+    "sinopse": "Nesta série baseada na clássica franquia de terror, um incidente de bullying por rede social leva a um assassinato que traz o passado à tona.",
+    "nota": "6.9",
+    "avaliacao": "6.9",
+    "classificacao": "14",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "S01E01",
+          "linkFisico": "v/panico-a-serie-s01e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/pHLdzJ9pF7xBIFmzkI0QxudIcit.jpg"
+        },
+        {
+          "tit": "S01E02",
+          "linkFisico": "v/panico-a-serie-s01e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/pHLdzJ9pF7xBIFmzkI0QxudIcit.jpg"
+        },
+        {
+          "tit": "S01E03",
+          "linkFisico": "v/panico-a-serie-s01e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/pHLdzJ9pF7xBIFmzkI0QxudIcit.jpg"
+        },
+        {
+          "tit": "S01E04",
+          "linkFisico": "v/panico-a-serie-s01e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/pHLdzJ9pF7xBIFmzkI0QxudIcit.jpg"
+        },
+        {
+          "tit": "S01E05",
+          "linkFisico": "v/panico-a-serie-s01e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/pHLdzJ9pF7xBIFmzkI0QxudIcit.jpg"
+        },
+        {
+          "tit": "S01E06",
+          "linkFisico": "v/panico-a-serie-s01e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/pHLdzJ9pF7xBIFmzkI0QxudIcit.jpg"
+        },
+        {
+          "tit": "S01E07",
+          "linkFisico": "v/panico-a-serie-s01e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/pHLdzJ9pF7xBIFmzkI0QxudIcit.jpg"
+        },
+        {
+          "tit": "S01E08",
+          "linkFisico": "v/panico-a-serie-s01e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/pHLdzJ9pF7xBIFmzkI0QxudIcit.jpg"
+        },
+        {
+          "tit": "S01E09",
+          "linkFisico": "v/panico-a-serie-s01e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/pHLdzJ9pF7xBIFmzkI0QxudIcit.jpg"
+        },
+        {
+          "tit": "S01E10",
+          "linkFisico": "v/panico-a-serie-s01e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/pHLdzJ9pF7xBIFmzkI0QxudIcit.jpg"
+        }
+      ],
+      "2": [
+        {
+          "tit": "S02E01",
+          "linkFisico": "v/panico-a-serie-s02e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/pHLdzJ9pF7xBIFmzkI0QxudIcit.jpg"
+        },
+        {
+          "tit": "S02E02",
+          "linkFisico": "v/panico-a-serie-s02e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/pHLdzJ9pF7xBIFmzkI0QxudIcit.jpg"
+        },
+        {
+          "tit": "S02E03",
+          "linkFisico": "v/panico-a-serie-s02e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/pHLdzJ9pF7xBIFmzkI0QxudIcit.jpg"
+        },
+        {
+          "tit": "S02E04",
+          "linkFisico": "v/panico-a-serie-s02e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/pHLdzJ9pF7xBIFmzkI0QxudIcit.jpg"
+        },
+        {
+          "tit": "S02E05",
+          "linkFisico": "v/panico-a-serie-s02e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/pHLdzJ9pF7xBIFmzkI0QxudIcit.jpg"
+        },
+        {
+          "tit": "S02E06",
+          "linkFisico": "v/panico-a-serie-s02e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/pHLdzJ9pF7xBIFmzkI0QxudIcit.jpg"
+        },
+        {
+          "tit": "S02E07",
+          "linkFisico": "v/panico-a-serie-s02e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/pHLdzJ9pF7xBIFmzkI0QxudIcit.jpg"
+        },
+        {
+          "tit": "S02E08",
+          "linkFisico": "v/panico-a-serie-s02e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/pHLdzJ9pF7xBIFmzkI0QxudIcit.jpg"
+        },
+        {
+          "tit": "S02E09",
+          "linkFisico": "v/panico-a-serie-s02e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/pHLdzJ9pF7xBIFmzkI0QxudIcit.jpg"
+        },
+        {
+          "tit": "S02E10",
+          "linkFisico": "v/panico-a-serie-s02e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/pHLdzJ9pF7xBIFmzkI0QxudIcit.jpg"
+        },
+        {
+          "tit": "S02E11",
+          "linkFisico": "v/panico-a-serie-s02e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/pHLdzJ9pF7xBIFmzkI0QxudIcit.jpg"
+        },
+        {
+          "tit": "S02E12",
+          "linkFisico": "v/panico-a-serie-s02e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/pHLdzJ9pF7xBIFmzkI0QxudIcit.jpg"
+        },
+        {
+          "tit": "S02E13",
+          "linkFisico": "v/panico-a-serie-s02e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/pHLdzJ9pF7xBIFmzkI0QxudIcit.jpg"
+        }
+      ],
+      "3": [
+        {
+          "tit": "S03E01",
+          "linkFisico": "v/panico-a-serie-s03e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/pHLdzJ9pF7xBIFmzkI0QxudIcit.jpg"
+        },
+        {
+          "tit": "S03E02",
+          "linkFisico": "v/panico-a-serie-s03e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/pHLdzJ9pF7xBIFmzkI0QxudIcit.jpg"
+        },
+        {
+          "tit": "S03E03",
+          "linkFisico": "v/panico-a-serie-s03e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/pHLdzJ9pF7xBIFmzkI0QxudIcit.jpg"
+        },
+        {
+          "tit": "S03E04",
+          "linkFisico": "v/panico-a-serie-s03e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/pHLdzJ9pF7xBIFmzkI0QxudIcit.jpg"
+        },
+        {
+          "tit": "S03E05",
+          "linkFisico": "v/panico-a-serie-s03e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/pHLdzJ9pF7xBIFmzkI0QxudIcit.jpg"
+        },
+        {
+          "tit": "S03E06",
+          "linkFisico": "v/panico-a-serie-s03e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/pHLdzJ9pF7xBIFmzkI0QxudIcit.jpg"
+        }
+      ]
+    }
   }
 ]
