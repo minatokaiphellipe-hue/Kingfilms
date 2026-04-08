@@ -43574,5 +43574,27 @@
         }
       ]
     }
+  },
+  {
+    "id": "panico-americano",
+    "tipo": "filme",
+    "categoria": "Terror",
+    "titulo": "Pânico Americano",
+    "logo": "https://image.tmdb.org/t/p/w780/xQQfM9y3nTRTd5YjsOmMOjTetU9.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/1je0xgeLuNHGhR3S4LH9CWRpbIG.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/bjL10Oe6SaSdJMHZAKwlL8X0KE.png",
+    "sinopse": "Depois que um governador emite uma ordem executiva para prender os filhos de imigrantes indocumentados, os jovens detidos são oferecidos a oportunidade de ter suas acusações retiradas, se oferecendo como voluntários para cuidar dos idosos. No entanto, uma vez dentro do centro de cuidados para idosos, eles descobrem segredos mais sinistros do que poderiam ter imaginado.",
+    "nota": "5.9",
+    "avaliacao": "5.9",
+    "classificacao": "18",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/panico-americano.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1je0xgeLuNHGhR3S4LH9CWRpbIG.jpg"
+        }
+      ]
+    }
   }
 ]
