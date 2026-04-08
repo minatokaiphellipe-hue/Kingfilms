@@ -43340,5 +43340,49 @@
         }
       ]
     }
+  },
+  {
+    "id": "batman-begins",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "Batman Begins 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/7EyhcdfiLtH0xa6CZkyYuoWL2GJ.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/i6D2vN1Xcs9kQgUmuUrkb5D9ioj.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/vEfZGy7T13N2Lz7uR0FAaVftNem.png",
+    "sinopse": "Marcado pelo assassinato de seus pais quando ainda era criança, o milionário Bruce Wayne decide viajar pelo mundo em busca de encontrar meios que lhe permitam combater a injustiça e provocar medo em seus adversários. Após retornar a Gotham City, sua cidade-natal, ele idealiza seu alter-ego: Batman, um justiceiro mascarado que usa força, inteligência e um arsenal tecnológico para combater o crime.",
+    "nota": "7.7",
+    "avaliacao": "7.7",
+    "classificacao": "10",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/batman-begins.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/i6D2vN1Xcs9kQgUmuUrkb5D9ioj.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "batman-a-piada-mortal",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "Batman: A Piada Mortal 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/x5hsAHiwLQrM7jlSZzR7AdWZquk.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/l0xq986utsmoh2R7AZPdxdft9Kk.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/bPbnLYV9rCC5orgOE1pf0fijISG.png",
+    "sinopse": "Do produtor executivo Bruce Timm e baseado na aclamada graphic novel da DC Comics, “Batman: A Piada Mortal” é uma jornada adentro da sombria psique do Príncipe Palhaço do Crime. Acompanhando desde o seu humilde começo, quando era um comediante esforçado, até seu fatídico encontro com o Cavaleiro das Trevas, que mudou tudo. Agora fugitivo do Asilo Arkham, o Coringa planeja provar para todos que um dia ruim é capaz de tornar qualquer um tão insano quanto ele.",
+    "nota": "6.6",
+    "avaliacao": "6.6",
+    "classificacao": "14",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/batman-a-piada-mortal.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/l0xq986utsmoh2R7AZPdxdft9Kk.jpg"
+        }
+      ]
+    }
   }
 ]
