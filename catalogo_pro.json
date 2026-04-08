@@ -42898,5 +42898,71 @@
         }
       ]
     }
+  },
+  {
+    "id": "transformers-o-inicio",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "Transformers: O Início 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/9yPuNAZQd5m5iKpQV2MDAfcwW9N.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/3sIjxMhWj0TsR6ZhBD1hgqdsGhj.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/3ZxWuJNd0VjkL889GRiC6AXhEuQ.png",
+    "sinopse": "Veja a história não contada da origem de Orion Pax (o jovem Optimus Prime) e D-16 (o jovem Megatron) e descubra como estes dois companheiros de luta se tornaram inimigos mortais e mudaram para sempre o destino de Cybertron.",
+    "nota": "8.0",
+    "avaliacao": "8.0",
+    "classificacao": "10",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/transformers-o-inicio.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/3sIjxMhWj0TsR6ZhBD1hgqdsGhj.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "transformers-o-ultimo-cavaleiro",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "Transformers: O Último Cavaleiro 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/7ugUPQw8JjGazfd28MIPADvDaUT.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/5UoPigctb4Hly2h938YitqXks2G.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/iND4VAwJqdq01NPggZlTbpqYYuX.png",
+    "sinopse": "Optimus Prime encontra seu planeta natal, Cybertron, agora um planeta morto, e descobre que foi responsável por matá-lo.  Ele encontra uma maneira de trazer o planeta de volta à vida, mas para isso precisa encontrar um artefato que está na Terra.",
+    "nota": "6.0",
+    "avaliacao": "6.0",
+    "classificacao": "12",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/transformers-o-ultimo-cavaleiro.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/5UoPigctb4Hly2h938YitqXks2G.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "transformers-a-vinganca-dos-derrotados",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "Transformers: A Vingança dos Derrotados 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/xggdkMUwiY4zwlSXbp7AqPxAvQt.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/5PQJJ0B7nUz6lpIYqzoSoqZfd14.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/rLtpntcNqXBz3IrQrSSPwNoOPxO.png",
+    "sinopse": "Passaram-se dois anos desde que Sam Witwicky e os Autobots salvaram a raça humana e tentam ter uma vida normal: Sam está começando a faculdade, enquanto os Autobots trabalham com uma organização militar secreta e tentam construir uma casa para eles na Terra. Porém, um antigo Decepticon conhecido como 'The Fallen' aparece para se vingar, então Sam e sua namorada Mikaela precisam desvendar a história dos Transformes e achar um caminho para derrotá-lo.",
+    "nota": "6.2",
+    "avaliacao": "6.2",
+    "classificacao": "10",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/transformers-a-vinganca-dos-derrotados.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/5PQJJ0B7nUz6lpIYqzoSoqZfd14.jpg"
+        }
+      ]
+    }
   }
 ]
