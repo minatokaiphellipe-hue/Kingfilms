@@ -43193,5 +43193,152 @@
         }
       ]
     }
+  },
+  {
+    "id": "a-sombra-do-batman",
+    "tipo": "serie",
+    "categoria": "Séries",
+    "titulo": "A Sombra do Batman 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/4qHERbfhZlgK8ecaNyCvbHbsRfd.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/oGM9MIDZDd0cjWUmctkHqrTbNQe.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/4T5J6SwgLFuW9k3iL2REYEkMYDM.png",
+    "sinopse": "Batman, um vigilante da cidade de Gotham, luta contra o crime e enfrenta o submundo.",
+    "nota": "7.2",
+    "avaliacao": "7.2",
+    "classificacao": "12",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "S01E01 🌀",
+          "linkFisico": "v/a-sombra-do-batman-s01e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/oGM9MIDZDd0cjWUmctkHqrTbNQe.jpg"
+        },
+        {
+          "tit": "S01E02 🌀",
+          "linkFisico": "v/a-sombra-do-batman-s01e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/oGM9MIDZDd0cjWUmctkHqrTbNQe.jpg"
+        },
+        {
+          "tit": "S01E03 🌀",
+          "linkFisico": "v/a-sombra-do-batman-s01e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/oGM9MIDZDd0cjWUmctkHqrTbNQe.jpg"
+        },
+        {
+          "tit": "S01E04 🌀",
+          "linkFisico": "v/a-sombra-do-batman-s01e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/oGM9MIDZDd0cjWUmctkHqrTbNQe.jpg"
+        },
+        {
+          "tit": "S01E05 🌀",
+          "linkFisico": "v/a-sombra-do-batman-s01e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/oGM9MIDZDd0cjWUmctkHqrTbNQe.jpg"
+        },
+        {
+          "tit": "S01E06 🌀",
+          "linkFisico": "v/a-sombra-do-batman-s01e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/oGM9MIDZDd0cjWUmctkHqrTbNQe.jpg"
+        },
+        {
+          "tit": "S01E07 🌀",
+          "linkFisico": "v/a-sombra-do-batman-s01e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/oGM9MIDZDd0cjWUmctkHqrTbNQe.jpg"
+        },
+        {
+          "tit": "S01E08 🌀",
+          "linkFisico": "v/a-sombra-do-batman-s01e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/oGM9MIDZDd0cjWUmctkHqrTbNQe.jpg"
+        },
+        {
+          "tit": "S01E09 🌀",
+          "linkFisico": "v/a-sombra-do-batman-s01e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/oGM9MIDZDd0cjWUmctkHqrTbNQe.jpg"
+        },
+        {
+          "tit": "S01E10 🌀",
+          "linkFisico": "v/a-sombra-do-batman-s01e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/oGM9MIDZDd0cjWUmctkHqrTbNQe.jpg"
+        },
+        {
+          "tit": "S01E11 🌀",
+          "linkFisico": "v/a-sombra-do-batman-s01e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/oGM9MIDZDd0cjWUmctkHqrTbNQe.jpg"
+        },
+        {
+          "tit": "S01E12 🌀",
+          "linkFisico": "v/a-sombra-do-batman-s01e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/oGM9MIDZDd0cjWUmctkHqrTbNQe.jpg"
+        },
+        {
+          "tit": "S01E13 🌀",
+          "linkFisico": "v/a-sombra-do-batman-s01e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/oGM9MIDZDd0cjWUmctkHqrTbNQe.jpg"
+        },
+        {
+          "tit": "S01E14 🌀",
+          "linkFisico": "v/a-sombra-do-batman-s01e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/oGM9MIDZDd0cjWUmctkHqrTbNQe.jpg"
+        },
+        {
+          "tit": "S01E15 🌀",
+          "linkFisico": "v/a-sombra-do-batman-s01e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/oGM9MIDZDd0cjWUmctkHqrTbNQe.jpg"
+        },
+        {
+          "tit": "S01E16 🌀",
+          "linkFisico": "v/a-sombra-do-batman-s01e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/oGM9MIDZDd0cjWUmctkHqrTbNQe.jpg"
+        },
+        {
+          "tit": "S01E17 🌀",
+          "linkFisico": "v/a-sombra-do-batman-s01e17.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/oGM9MIDZDd0cjWUmctkHqrTbNQe.jpg"
+        },
+        {
+          "tit": "S01E18 🌀",
+          "linkFisico": "v/a-sombra-do-batman-s01e18.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/oGM9MIDZDd0cjWUmctkHqrTbNQe.jpg"
+        },
+        {
+          "tit": "S01E19 🌀",
+          "linkFisico": "v/a-sombra-do-batman-s01e19.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/oGM9MIDZDd0cjWUmctkHqrTbNQe.jpg"
+        },
+        {
+          "tit": "S01E20 🌀",
+          "linkFisico": "v/a-sombra-do-batman-s01e20.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/oGM9MIDZDd0cjWUmctkHqrTbNQe.jpg"
+        },
+        {
+          "tit": "S01E21 🌀",
+          "linkFisico": "v/a-sombra-do-batman-s01e21.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/oGM9MIDZDd0cjWUmctkHqrTbNQe.jpg"
+        },
+        {
+          "tit": "S01E22 🌀",
+          "linkFisico": "v/a-sombra-do-batman-s01e22.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/oGM9MIDZDd0cjWUmctkHqrTbNQe.jpg"
+        },
+        {
+          "tit": "S01E23 🌀",
+          "linkFisico": "v/a-sombra-do-batman-s01e23.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/oGM9MIDZDd0cjWUmctkHqrTbNQe.jpg"
+        },
+        {
+          "tit": "S01E24 🌀",
+          "linkFisico": "v/a-sombra-do-batman-s01e24.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/oGM9MIDZDd0cjWUmctkHqrTbNQe.jpg"
+        },
+        {
+          "tit": "S01E25 🌀",
+          "linkFisico": "v/a-sombra-do-batman-s01e25.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/oGM9MIDZDd0cjWUmctkHqrTbNQe.jpg"
+        },
+        {
+          "tit": "S01E26 🌀",
+          "linkFisico": "v/a-sombra-do-batman-s01e26.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/oGM9MIDZDd0cjWUmctkHqrTbNQe.jpg"
+        }
+      ]
+    }
   }
 ]
