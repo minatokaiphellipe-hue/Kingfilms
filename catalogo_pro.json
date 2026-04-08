@@ -27432,27 +27432,6 @@
     }
   },
   {
-    "id": "zootopia-essa-cidade-e-o-bicho",
-    "tipo": "filme",
-    "categoria": "Animações",
-    "titulo": "Zootopia: Essa Cidade é o Bicho 🌀",
-    "logo": "https://image.tmdb.org/t/p/w780/27Ko4be7CeFmq2hVN7lp7TWG1sd.jpg",
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/hP6A7hPVPr0bybLR0GTtEPyrw1z.jpg",
-    "sinopse": "Em uma cidade de animais antropomórficos, uma raposa fugitiva vigarista e um coelho policial recruta precisam trabalhar juntos para desvendar uma conspiração.",
-    "nota": "7.8",
-    "avaliacao": "7.8",
-    "classificacao": "Livre",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "Assistir 🌀",
-          "linkFisico": "v/zootopia-essa-cidade-e-o-bicho.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/hP6A7hPVPr0bybLR0GTtEPyrw1z.jpg"
-        }
-      ]
-    }
-  },
-  {
     "id": "invocacao-do-mal",
     "tipo": "filme",
     "categoria": "Terror",
@@ -42827,6 +42806,28 @@
           "tit": "Assistir 🌀",
           "linkFisico": "v/collide-segredos-e-mentiras.html",
           "logoEp": "https://image.tmdb.org/t/p/w1280/kJItn7W70wjG3xzQta5W9ZYMjB9.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "zootopia-essa-cidade-e-o-bicho",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Zootopia: Essa Cidade é o Bicho 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/27Ko4be7CeFmq2hVN7lp7TWG1sd.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/hP6A7hPVPr0bybLR0GTtEPyrw1z.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/dzPahvTmImAkh459NfyppW0CITU.png",
+    "sinopse": "Em uma cidade de animais antropomórficos, uma raposa fugitiva vigarista e um coelho policial recruta precisam trabalhar juntos para desvendar uma conspiração.",
+    "nota": "7.8",
+    "avaliacao": "7.8",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/zootopia-essa-cidade-e-o-bicho.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/hP6A7hPVPr0bybLR0GTtEPyrw1z.jpg"
         }
       ]
     }
