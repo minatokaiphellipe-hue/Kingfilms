@@ -43618,5 +43618,272 @@
         }
       ]
     }
+  },
+  {
+    "id": "tokyo-revengers",
+    "tipo": "serie",
+    "categoria": "Animes",
+    "titulo": "Tokyo Revengers",
+    "logo": "https://image.tmdb.org/t/p/w780/XbjlgUJknGCv7cNuinxdaFUFNt.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/lXMR8xVSCjzzZuLYKa4Y3CGQjtt.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/g64O5YjZSeR6FAjPEeRzFvon50B.png",
+    "sinopse": "Takemichi Hanagaki é um desempregado que sobrevive de bicos e está na fossa. Ele descobriu que Hinata Tachibana, sua primeira e última namorada, com quem namorou no fundamental, foi morta pela impiedosa Gangue Manji de Tóquio. No dia seguinte à notícia, ele está na beira da plataforma do trem e é empurrado pela multidão. Ele fecha os olhos se preparando para morrer, mas ao abrir, ele voltou no tempo para quando tinha 12 anos de idade. Agora que ele está na melhor época de sua vida, Takemichi decide se vingar de sua vida, salvando sua namorada e parando de fugir de si mesmo.",
+    "nota": "8.4",
+    "avaliacao": "8.4",
+    "classificacao": "14",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "S01E01",
+          "linkFisico": "v/tokyo-revengers-s01e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/lXMR8xVSCjzzZuLYKa4Y3CGQjtt.jpg"
+        },
+        {
+          "tit": "S01E02",
+          "linkFisico": "v/tokyo-revengers-s01e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/lXMR8xVSCjzzZuLYKa4Y3CGQjtt.jpg"
+        },
+        {
+          "tit": "S01E03",
+          "linkFisico": "v/tokyo-revengers-s01e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/lXMR8xVSCjzzZuLYKa4Y3CGQjtt.jpg"
+        },
+        {
+          "tit": "S01E04",
+          "linkFisico": "v/tokyo-revengers-s01e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/lXMR8xVSCjzzZuLYKa4Y3CGQjtt.jpg"
+        },
+        {
+          "tit": "S01E05",
+          "linkFisico": "v/tokyo-revengers-s01e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/lXMR8xVSCjzzZuLYKa4Y3CGQjtt.jpg"
+        },
+        {
+          "tit": "S01E06",
+          "linkFisico": "v/tokyo-revengers-s01e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/lXMR8xVSCjzzZuLYKa4Y3CGQjtt.jpg"
+        },
+        {
+          "tit": "S01E07",
+          "linkFisico": "v/tokyo-revengers-s01e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/lXMR8xVSCjzzZuLYKa4Y3CGQjtt.jpg"
+        },
+        {
+          "tit": "S01E08",
+          "linkFisico": "v/tokyo-revengers-s01e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/lXMR8xVSCjzzZuLYKa4Y3CGQjtt.jpg"
+        },
+        {
+          "tit": "S01E09",
+          "linkFisico": "v/tokyo-revengers-s01e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/lXMR8xVSCjzzZuLYKa4Y3CGQjtt.jpg"
+        },
+        {
+          "tit": "S01E10",
+          "linkFisico": "v/tokyo-revengers-s01e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/lXMR8xVSCjzzZuLYKa4Y3CGQjtt.jpg"
+        },
+        {
+          "tit": "S01E11",
+          "linkFisico": "v/tokyo-revengers-s01e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/lXMR8xVSCjzzZuLYKa4Y3CGQjtt.jpg"
+        },
+        {
+          "tit": "S01E12",
+          "linkFisico": "v/tokyo-revengers-s01e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/lXMR8xVSCjzzZuLYKa4Y3CGQjtt.jpg"
+        },
+        {
+          "tit": "S01E13",
+          "linkFisico": "v/tokyo-revengers-s01e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/lXMR8xVSCjzzZuLYKa4Y3CGQjtt.jpg"
+        },
+        {
+          "tit": "S01E14",
+          "linkFisico": "v/tokyo-revengers-s01e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/lXMR8xVSCjzzZuLYKa4Y3CGQjtt.jpg"
+        },
+        {
+          "tit": "S01E15",
+          "linkFisico": "v/tokyo-revengers-s01e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/lXMR8xVSCjzzZuLYKa4Y3CGQjtt.jpg"
+        },
+        {
+          "tit": "S01E16",
+          "linkFisico": "v/tokyo-revengers-s01e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/lXMR8xVSCjzzZuLYKa4Y3CGQjtt.jpg"
+        },
+        {
+          "tit": "S01E17",
+          "linkFisico": "v/tokyo-revengers-s01e17.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/lXMR8xVSCjzzZuLYKa4Y3CGQjtt.jpg"
+        },
+        {
+          "tit": "S01E18",
+          "linkFisico": "v/tokyo-revengers-s01e18.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/lXMR8xVSCjzzZuLYKa4Y3CGQjtt.jpg"
+        },
+        {
+          "tit": "S01E19",
+          "linkFisico": "v/tokyo-revengers-s01e19.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/lXMR8xVSCjzzZuLYKa4Y3CGQjtt.jpg"
+        },
+        {
+          "tit": "S01E20",
+          "linkFisico": "v/tokyo-revengers-s01e20.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/lXMR8xVSCjzzZuLYKa4Y3CGQjtt.jpg"
+        },
+        {
+          "tit": "S01E21",
+          "linkFisico": "v/tokyo-revengers-s01e21.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/lXMR8xVSCjzzZuLYKa4Y3CGQjtt.jpg"
+        },
+        {
+          "tit": "S01E22",
+          "linkFisico": "v/tokyo-revengers-s01e22.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/lXMR8xVSCjzzZuLYKa4Y3CGQjtt.jpg"
+        },
+        {
+          "tit": "S01E23",
+          "linkFisico": "v/tokyo-revengers-s01e23.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/lXMR8xVSCjzzZuLYKa4Y3CGQjtt.jpg"
+        },
+        {
+          "tit": "S01E24",
+          "linkFisico": "v/tokyo-revengers-s01e24.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/lXMR8xVSCjzzZuLYKa4Y3CGQjtt.jpg"
+        },
+        {
+          "tit": "S01E25",
+          "linkFisico": "v/tokyo-revengers-s01e25.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/lXMR8xVSCjzzZuLYKa4Y3CGQjtt.jpg"
+        },
+        {
+          "tit": "S01E26",
+          "linkFisico": "v/tokyo-revengers-s01e26.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/lXMR8xVSCjzzZuLYKa4Y3CGQjtt.jpg"
+        },
+        {
+          "tit": "S01E27",
+          "linkFisico": "v/tokyo-revengers-s01e27.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/lXMR8xVSCjzzZuLYKa4Y3CGQjtt.jpg"
+        },
+        {
+          "tit": "S01E28",
+          "linkFisico": "v/tokyo-revengers-s01e28.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/lXMR8xVSCjzzZuLYKa4Y3CGQjtt.jpg"
+        },
+        {
+          "tit": "S01E29",
+          "linkFisico": "v/tokyo-revengers-s01e29.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/lXMR8xVSCjzzZuLYKa4Y3CGQjtt.jpg"
+        },
+        {
+          "tit": "S01E30",
+          "linkFisico": "v/tokyo-revengers-s01e30.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/lXMR8xVSCjzzZuLYKa4Y3CGQjtt.jpg"
+        },
+        {
+          "tit": "S01E31",
+          "linkFisico": "v/tokyo-revengers-s01e31.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/lXMR8xVSCjzzZuLYKa4Y3CGQjtt.jpg"
+        },
+        {
+          "tit": "S01E32",
+          "linkFisico": "v/tokyo-revengers-s01e32.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/lXMR8xVSCjzzZuLYKa4Y3CGQjtt.jpg"
+        },
+        {
+          "tit": "S01E33",
+          "linkFisico": "v/tokyo-revengers-s01e33.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/lXMR8xVSCjzzZuLYKa4Y3CGQjtt.jpg"
+        },
+        {
+          "tit": "S01E34",
+          "linkFisico": "v/tokyo-revengers-s01e34.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/lXMR8xVSCjzzZuLYKa4Y3CGQjtt.jpg"
+        },
+        {
+          "tit": "S01E35",
+          "linkFisico": "v/tokyo-revengers-s01e35.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/lXMR8xVSCjzzZuLYKa4Y3CGQjtt.jpg"
+        },
+        {
+          "tit": "S01E36",
+          "linkFisico": "v/tokyo-revengers-s01e36.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/lXMR8xVSCjzzZuLYKa4Y3CGQjtt.jpg"
+        },
+        {
+          "tit": "S01E37",
+          "linkFisico": "v/tokyo-revengers-s01e37.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/lXMR8xVSCjzzZuLYKa4Y3CGQjtt.jpg"
+        },
+        {
+          "tit": "S01E38",
+          "linkFisico": "v/tokyo-revengers-s01e38.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/lXMR8xVSCjzzZuLYKa4Y3CGQjtt.jpg"
+        },
+        {
+          "tit": "S01E39",
+          "linkFisico": "v/tokyo-revengers-s01e39.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/lXMR8xVSCjzzZuLYKa4Y3CGQjtt.jpg"
+        },
+        {
+          "tit": "S01E40",
+          "linkFisico": "v/tokyo-revengers-s01e40.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/lXMR8xVSCjzzZuLYKa4Y3CGQjtt.jpg"
+        },
+        {
+          "tit": "S01E41",
+          "linkFisico": "v/tokyo-revengers-s01e41.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/lXMR8xVSCjzzZuLYKa4Y3CGQjtt.jpg"
+        },
+        {
+          "tit": "S01E42",
+          "linkFisico": "v/tokyo-revengers-s01e42.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/lXMR8xVSCjzzZuLYKa4Y3CGQjtt.jpg"
+        },
+        {
+          "tit": "S01E43",
+          "linkFisico": "v/tokyo-revengers-s01e43.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/lXMR8xVSCjzzZuLYKa4Y3CGQjtt.jpg"
+        },
+        {
+          "tit": "S01E44",
+          "linkFisico": "v/tokyo-revengers-s01e44.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/lXMR8xVSCjzzZuLYKa4Y3CGQjtt.jpg"
+        },
+        {
+          "tit": "S01E45",
+          "linkFisico": "v/tokyo-revengers-s01e45.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/lXMR8xVSCjzzZuLYKa4Y3CGQjtt.jpg"
+        },
+        {
+          "tit": "S01E46",
+          "linkFisico": "v/tokyo-revengers-s01e46.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/lXMR8xVSCjzzZuLYKa4Y3CGQjtt.jpg"
+        },
+        {
+          "tit": "S01E47",
+          "linkFisico": "v/tokyo-revengers-s01e47.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/lXMR8xVSCjzzZuLYKa4Y3CGQjtt.jpg"
+        },
+        {
+          "tit": "S01E48",
+          "linkFisico": "v/tokyo-revengers-s01e48.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/lXMR8xVSCjzzZuLYKa4Y3CGQjtt.jpg"
+        },
+        {
+          "tit": "S01E49",
+          "linkFisico": "v/tokyo-revengers-s01e49.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/lXMR8xVSCjzzZuLYKa4Y3CGQjtt.jpg"
+        },
+        {
+          "tit": "S01E50",
+          "linkFisico": "v/tokyo-revengers-s01e50.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/lXMR8xVSCjzzZuLYKa4Y3CGQjtt.jpg"
+        }
+      ]
+    }
   }
 ]
