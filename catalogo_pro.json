@@ -43384,5 +43384,27 @@
         }
       ]
     }
+  },
+  {
+    "id": "batman-ataque-ao-arkham",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Batman: Ataque ao Arkham 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/6oW5pC2J0oGSsqhlzEgojhfbjIr.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/146Obj56ggitv0ZJeskGUmFaW7D.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/v29fSJJInYalG96UiVZKROcKPVm.png",
+    "sinopse": "Bem-vindo ao coração sombrio de Gotham City. Do centro das sombras surge o Asilo Arkham, um depósito purulento de tudo que é vil, perigoso e delirante, com uma população que cresce exponencialmente graças ao Cavaleiro das Trevas. Mas quando Batman frustra o mais recente plano do Charada e uma importante parte de uma evidência precisa ser secretamente recuperada no Arkham, a solução vem de uma inesperada fonte: uma equipe secreta de ataque do governo montada no submundo de Gotham City. O assassino Pistoleiro lidera o Esquadrão Suicida: Arlequina, Nevasca, Capitão Bumerangue, Tubarão Rei e Aranha Negra, um bando de desonestos que conhecem o Asilo Arkham e seus residentes muitíssimo bem.",
+    "nota": "7.3",
+    "avaliacao": "7.3",
+    "classificacao": "12",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/batman-ataque-ao-arkham.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/146Obj56ggitv0ZJeskGUmFaW7D.jpg"
+        }
+      ]
+    }
   }
 ]
