@@ -42740,5 +42740,49 @@
         }
       ]
     }
+  },
+  {
+    "id": "piranha-3d",
+    "tipo": "filme",
+    "categoria": "Terror",
+    "titulo": "Piranha 3D 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/e0fZ9F42ZOjkScgdQl2bBCJ1hb0.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/kvKzTSfAcrrFIPrzM3N41KBQG4P.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/gv7Ny29dQqeQPIBftWzauMtedv5.png",
+    "sinopse": "As férias de primavera se tornam um rio de sangue quando um tremor subterrâneo libera centenas de peixes pré-históricos e carnívoros no lago Victoria. Uma policial local, Julie Forester, junta forças com um grupo de desconhecidos para destruir as criaturas vorazes, no intento de que os visitantes não sejam devorados pelos peixes.",
+    "nota": "5.4",
+    "avaliacao": "5.4",
+    "classificacao": "18",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/piranha-3d.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kvKzTSfAcrrFIPrzM3N41KBQG4P.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "piranha-2",
+    "tipo": "filme",
+    "categoria": "Terror",
+    "titulo": "Piranha 2 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/tXWrCprpoIsGTX3zrd10qqc8CLi.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/q0SrYczNTvECwvrVL2zMGOV32Tj.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/f1EeNw88eWZGE9Vcnw0HkzyST3W.png",
+    "sinopse": "O Lago Vitória já abrigou piranhas pré-históricas, mas todos pensavam que elas estavam mortas. Até que um cardume dessas criaturas assassinas ressurge e sai em busca de alimento em um parque aquático próximo ao lago, repleto de visitantes.",
+    "nota": "4.3",
+    "avaliacao": "4.3",
+    "classificacao": "18",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/piranha-2.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/q0SrYczNTvECwvrVL2zMGOV32Tj.jpg"
+        }
+      ]
+    }
   }
 ]
