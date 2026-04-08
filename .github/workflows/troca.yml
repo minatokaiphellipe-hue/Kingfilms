@@ -1,4 +1,4 @@
-name: Limpar Feed e Capas
+name: Limpeza Profunda do Feed
 on: workflow_dispatch
 
 permissions:
@@ -9,15 +9,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - name: Limpar tudo exceto a pasta /v/
+      - name: Busca Implacavel
         run: |
-          # Procura todos os HTMLs que NÃO estão na pasta /v/ e remove os símbolos e espaços
-          find . -type f -name "*.html" ! -path "./v/*" -exec sed -i 's/ *𝐊𝐢𝐧𝐠𝐟𝐢𝐥𝐦𝐬 🌀//g' {} +
-          find . -type f -name "*.html" ! -path "./v/*" -exec sed -i 's/ *🌀//g' {} +
+          # Varre arquivos HTML, JS e JSON que não estejam na pasta /v/
+          find . -type f | grep -v "/v/" | grep -E "\.(html|js|json)$" | xargs --no-run-if-empty sed -i 's/𝐊𝐢𝐧𝐠𝐟𝐢𝐥𝐦𝐬 🌀//g'
+          find . -type f | grep -v "/v/" | grep -E "\.(html|js|json)$" | xargs --no-run-if-empty sed -i 's/🌀//g'
       - name: Salvar e Publicar
         run: |
           git config --local user.email "admin@kingfilms.com"
           git config --local user.name "Kingfilms Bot"
           git add .
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Limpeza das capas: removendo marca fora da pasta /v/" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Limpeza cirúrgica do feed (HTML/JS/JSON)" && git push)
           
