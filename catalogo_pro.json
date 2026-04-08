@@ -42964,5 +42964,74 @@
         }
       ]
     }
+  },
+  {
+    "id": "transformers-o-lado-oculto-da-lua",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "Transformers: O Lado Oculto da Lua 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/2ClU228vymaJqDRr4ViXQXjwYse.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/ngAPwWMsghEomAjIThFCm5gmIP9.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/7oaJCLOu9DXZFTql3oRRIDZtwIh.png",
+    "sinopse": "Sam Witwicky e sua nova namorada, Carly, entram na briga quando os Decepticons renovam sua guerra contra os Autobots. Optimus Prime acredita que ressuscitar o antigo Transformer Sentinel Prime, ex-líder dos Autobots, pode levar à vitória. Essa decisão tem consequências devastadoras e a guerra parece pender a favor dos Decepticons, causando um conflito épico em Chicago.",
+    "nota": "6.2",
+    "avaliacao": "6.2",
+    "classificacao": "12",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir 🌀",
+          "linkFisico": "v/transformers-o-lado-oculto-da-lua.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/ngAPwWMsghEomAjIThFCm5gmIP9.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "transformers-war-for-cybertron-o-cerco",
+    "tipo": "serie",
+    "categoria": "Séries",
+    "titulo": "Transformers: War for Cybertron: O Cerco 🌀",
+    "logo": "https://image.tmdb.org/t/p/w780/jOZ1P4pLAR2SSM87w9J6agBZQtV.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/bxZrG6wsmKMoUC1q4ByTWDRHaOh.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/qYVJuMkkpACOovVN11WMpOno1Ak.png",
+    "sinopse": "Dois líderes icônicos emergem em um planeta arrasado pela guerra entre Autobots e Decepticons na história que conta a origem do universo Transformers.",
+    "nota": "7.5",
+    "avaliacao": "7.5",
+    "classificacao": "10",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "S01E01 🌀",
+          "linkFisico": "v/transformers-war-for-cybertron-o-cerco-s01e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bxZrG6wsmKMoUC1q4ByTWDRHaOh.jpg"
+        },
+        {
+          "tit": "S01E02 🌀",
+          "linkFisico": "v/transformers-war-for-cybertron-o-cerco-s01e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bxZrG6wsmKMoUC1q4ByTWDRHaOh.jpg"
+        },
+        {
+          "tit": "S01E03 🌀",
+          "linkFisico": "v/transformers-war-for-cybertron-o-cerco-s01e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bxZrG6wsmKMoUC1q4ByTWDRHaOh.jpg"
+        },
+        {
+          "tit": "S01E04 🌀",
+          "linkFisico": "v/transformers-war-for-cybertron-o-cerco-s01e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bxZrG6wsmKMoUC1q4ByTWDRHaOh.jpg"
+        },
+        {
+          "tit": "S01E05 🌀",
+          "linkFisico": "v/transformers-war-for-cybertron-o-cerco-s01e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bxZrG6wsmKMoUC1q4ByTWDRHaOh.jpg"
+        },
+        {
+          "tit": "S01E06 🌀",
+          "linkFisico": "v/transformers-war-for-cybertron-o-cerco-s01e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bxZrG6wsmKMoUC1q4ByTWDRHaOh.jpg"
+        }
+      ]
+    }
   }
 ]
