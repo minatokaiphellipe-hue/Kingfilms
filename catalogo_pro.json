@@ -41942,28 +41942,6 @@
     }
   },
   {
-    "id": "capitao-america-guerra-civil",
-    "tipo": "filme",
-    "categoria": "Ação",
-    "titulo": "Capitão América: Guerra Civil ",
-    "logo": "https://image.tmdb.org/t/p/w780/dsvUR5aEVSkB1Sro7nT6Khqik71.jpg",
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/mo5t6LJPbtCyu4aY1f0mVJYpyYW.jpg",
-    "logo_png": "https://image.tmdb.org/t/p/w500/2JtA3oRSALwFnFUlBH3HtJFp2Xs.png",
-    "sinopse": "Depois do ataque de Ultron, os políticos decidem controlar os Vingadores, já que suas ações afetam toda a humanidade. A decisão coloca o Capitão América em rota de colisão com o Homem de Ferro.",
-    "nota": "7.4",
-    "avaliacao": "7.4",
-    "classificacao": "12",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "Assistir ",
-          "linkFisico": "v/capitao-america-guerra-civil.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/mo5t6LJPbtCyu4aY1f0mVJYpyYW.jpg"
-        }
-      ]
-    }
-  },
-  {
     "id": "capitao-america-admiravel-mundo-novo",
     "tipo": "filme",
     "categoria": "Ação",
@@ -43884,6 +43862,28 @@
           "tit": "Assistir",
           "linkFisico": "v/o-esquadrao-suicida.html",
           "logoEp": "https://image.tmdb.org/t/p/w1280/4hr4AxS3nWQqYjipgkDi4Bpkp98.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "capitao-america-guerra-civil",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "Capitão América: Guerra Civil",
+    "logo": "https://image.tmdb.org/t/p/w780/dsvUR5aEVSkB1Sro7nT6Khqik71.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/mo5t6LJPbtCyu4aY1f0mVJYpyYW.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/2JtA3oRSALwFnFUlBH3HtJFp2Xs.png",
+    "sinopse": "Depois do ataque de Ultron, os políticos decidem controlar os Vingadores, já que suas ações afetam toda a humanidade. A decisão coloca o Capitão América em rota de colisão com o Homem de Ferro.",
+    "nota": "7.4",
+    "avaliacao": "7.4",
+    "classificacao": "12",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/capitao-america-guerra-civil.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mo5t6LJPbtCyu4aY1f0mVJYpyYW.jpg"
         }
       ]
     }
