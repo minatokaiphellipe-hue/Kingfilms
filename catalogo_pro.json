@@ -44775,5 +44775,71 @@
         }
       ]
     }
+  },
+  {
+    "id": "american-pie-tocando-a-maior-zona",
+    "tipo": "filme",
+    "categoria": "Comédia",
+    "titulo": "American Pie: Tocando a Maior Zona",
+    "logo": "https://image.tmdb.org/t/p/w780/uyISJ1zmoppCusa7WOmmsrluU72.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/2NUDuIAPKZ0YyOQrMBcIjqNhX1G.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/AwgiJ8DsCLeZGoaOCv1OXCvZHBh.png",
+    "sinopse": "Matt Stifler (Tad Hilgenbrink), o irmão mais novo de Stifler, sonha em se igualar ao irmão quando envelhecer e também em produzir filmes de garotas nuas. Porém antes disto ele precisa se formar no colegial. Após se envolver em uma série de problemas, ele é enviado pelo conselheiro educacional de seu colégio para o Acampamento de Banda. É a chance que Matt esperava para iniciar a produção de seus vídeos.",
+    "nota": "5.5",
+    "avaliacao": "5.5",
+    "classificacao": "18",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/american-pie-tocando-a-maior-zona.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/2NUDuIAPKZ0YyOQrMBcIjqNhX1G.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "american-pie-o-livro-do-amor",
+    "tipo": "filme",
+    "categoria": "Comédia",
+    "titulo": "American Pie: O Livro do Amor",
+    "logo": "https://image.tmdb.org/t/p/w780/buYt2qVn4oDczxtqS6HLQYrbHOY.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/x0wTXqHux5pHFOtuhP3KWlxUGUm.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/vU4jxwkmEZT5mauY5CsiU49EqHD.png",
+    "sinopse": "Rob, Nathan e Lube são três amigos que estão determinados a dar sequência à missão de conquistar as garotas dos seus sonhos. Depois de algumas tumultuadas tentativas, a maioria sem sucesso, eles acidentalmente descobrem uma verdadeira bíblia da sedução escondida na biblioteca da escola East Great Falls High.",
+    "nota": "5.3",
+    "avaliacao": "5.3",
+    "classificacao": "18",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/american-pie-o-livro-do-amor.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x0wTXqHux5pHFOtuhP3KWlxUGUm.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "american-pie-o-reencontro",
+    "tipo": "filme",
+    "categoria": "Comédia",
+    "titulo": "American Pie: O Reencontro",
+    "logo": "https://image.tmdb.org/t/p/w780/8mxG1SPWilznur6Q4vKjHG7boyG.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/vqvz12csCRESEKRbDjQdCyhgae8.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/da4LafZlCkxs8ZUAfZna8JtsCRQ.png",
+    "sinopse": "Para comemorar dez anos de formatura do ensino médio, a turma toda se reúne em East Great Falls, Michigan, durante um fim de semana. Cada um deles vive um momento diferente, mas alguns hábitos nunca mudam.",
+    "nota": "6.3",
+    "avaliacao": "6.3",
+    "classificacao": "16",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/american-pie-o-reencontro.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/vqvz12csCRESEKRbDjQdCyhgae8.jpg"
+        }
+      ]
+    }
   }
 ]
