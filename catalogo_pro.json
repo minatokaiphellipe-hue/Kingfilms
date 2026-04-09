@@ -16573,124 +16573,6 @@
     }
   },
   {
-    "id": "minhas-aventuras-com-o-superman",
-    "tipo": "serie",
-    "categoria": "Séries",
-    "titulo": "Minhas Aventuras com o Superman ",
-    "logo": "https://image.tmdb.org/t/p/w780/a3n4IhEVfNoz1dcCcDGAwDPlJNC.jpg",
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/5nOnBLRGD6anmstRO0yC3kYjeMF.jpg",
-    "sinopse": "Acompanha Clark Kent, Lois Lane e Jimmy Olsen no processo de descobrir quem eles são e o que conseguem fazer enquanto salvam sua cidade de forças que conspiram para destruí-la!",
-    "nota": "8.2",
-    "avaliacao": "8.2",
-    "classificacao": "10",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "S01E01 ",
-          "linkFisico": "v/minhas-aventuras-com-o-superman-s01e01.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/5nOnBLRGD6anmstRO0yC3kYjeMF.jpg"
-        },
-        {
-          "tit": "S01E02 ",
-          "linkFisico": "v/minhas-aventuras-com-o-superman-s01e02.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/5nOnBLRGD6anmstRO0yC3kYjeMF.jpg"
-        },
-        {
-          "tit": "S01E03 ",
-          "linkFisico": "v/minhas-aventuras-com-o-superman-s01e03.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/5nOnBLRGD6anmstRO0yC3kYjeMF.jpg"
-        },
-        {
-          "tit": "S01E04 ",
-          "linkFisico": "v/minhas-aventuras-com-o-superman-s01e04.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/5nOnBLRGD6anmstRO0yC3kYjeMF.jpg"
-        },
-        {
-          "tit": "S01E05 ",
-          "linkFisico": "v/minhas-aventuras-com-o-superman-s01e05.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/5nOnBLRGD6anmstRO0yC3kYjeMF.jpg"
-        },
-        {
-          "tit": "S01E06 ",
-          "linkFisico": "v/minhas-aventuras-com-o-superman-s01e06.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/5nOnBLRGD6anmstRO0yC3kYjeMF.jpg"
-        },
-        {
-          "tit": "S01E07 ",
-          "linkFisico": "v/minhas-aventuras-com-o-superman-s01e07.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/5nOnBLRGD6anmstRO0yC3kYjeMF.jpg"
-        },
-        {
-          "tit": "S01E08 ",
-          "linkFisico": "v/minhas-aventuras-com-o-superman-s01e08.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/5nOnBLRGD6anmstRO0yC3kYjeMF.jpg"
-        },
-        {
-          "tit": "S01E09 ",
-          "linkFisico": "v/minhas-aventuras-com-o-superman-s01e09.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/5nOnBLRGD6anmstRO0yC3kYjeMF.jpg"
-        },
-        {
-          "tit": "S01E10 ",
-          "linkFisico": "v/minhas-aventuras-com-o-superman-s01e10.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/5nOnBLRGD6anmstRO0yC3kYjeMF.jpg"
-        }
-      ],
-      "2": [
-        {
-          "tit": "S02E01 ",
-          "linkFisico": "v/minhas-aventuras-com-o-superman-s02e01.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/5nOnBLRGD6anmstRO0yC3kYjeMF.jpg"
-        },
-        {
-          "tit": "S02E02 ",
-          "linkFisico": "v/minhas-aventuras-com-o-superman-s02e02.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/5nOnBLRGD6anmstRO0yC3kYjeMF.jpg"
-        },
-        {
-          "tit": "S02E03 ",
-          "linkFisico": "v/minhas-aventuras-com-o-superman-s02e03.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/5nOnBLRGD6anmstRO0yC3kYjeMF.jpg"
-        },
-        {
-          "tit": "S02E04 ",
-          "linkFisico": "v/minhas-aventuras-com-o-superman-s02e04.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/5nOnBLRGD6anmstRO0yC3kYjeMF.jpg"
-        },
-        {
-          "tit": "S02E05 ",
-          "linkFisico": "v/minhas-aventuras-com-o-superman-s02e05.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/5nOnBLRGD6anmstRO0yC3kYjeMF.jpg"
-        },
-        {
-          "tit": "S02E06 ",
-          "linkFisico": "v/minhas-aventuras-com-o-superman-s02e06.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/5nOnBLRGD6anmstRO0yC3kYjeMF.jpg"
-        },
-        {
-          "tit": "S02E07 ",
-          "linkFisico": "v/minhas-aventuras-com-o-superman-s02e07.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/5nOnBLRGD6anmstRO0yC3kYjeMF.jpg"
-        },
-        {
-          "tit": "S02E08 ",
-          "linkFisico": "v/minhas-aventuras-com-o-superman-s02e08.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/5nOnBLRGD6anmstRO0yC3kYjeMF.jpg"
-        },
-        {
-          "tit": "S02E09 ",
-          "linkFisico": "v/minhas-aventuras-com-o-superman-s02e09.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/5nOnBLRGD6anmstRO0yC3kYjeMF.jpg"
-        },
-        {
-          "tit": "S02E10 ",
-          "linkFisico": "v/minhas-aventuras-com-o-superman-s02e10.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/5nOnBLRGD6anmstRO0yC3kYjeMF.jpg"
-        }
-      ]
-    }
-  },
-  {
     "id": "moana-2",
     "tipo": "filme",
     "categoria": "Animações",
@@ -45078,6 +44960,125 @@
           "tit": "Assistir",
           "linkFisico": "v/super-mario-galaxy-o-filme.html",
           "logoEp": "https://image.tmdb.org/t/p/w1280/xwolQ2pLF3tG8mjMsrMR0POp5pE.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "minhas-aventuras-com-o-superman",
+    "tipo": "serie",
+    "categoria": "Séries",
+    "titulo": "Minhas Aventuras com o Superman",
+    "logo": "https://image.tmdb.org/t/p/w780/a3n4IhEVfNoz1dcCcDGAwDPlJNC.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/5nOnBLRGD6anmstRO0yC3kYjeMF.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/qcPCgL6LTfwj0eG8uLO6hcaK5c8.png",
+    "sinopse": "Acompanha Clark Kent, Lois Lane e Jimmy Olsen no processo de descobrir quem eles são e o que conseguem fazer enquanto salvam sua cidade de forças que conspiram para destruí-la!",
+    "nota": "8.2",
+    "avaliacao": "8.2",
+    "classificacao": "10",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "S01E01",
+          "linkFisico": "v/minhas-aventuras-com-o-superman-s01e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/5nOnBLRGD6anmstRO0yC3kYjeMF.jpg"
+        },
+        {
+          "tit": "S01E02",
+          "linkFisico": "v/minhas-aventuras-com-o-superman-s01e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/5nOnBLRGD6anmstRO0yC3kYjeMF.jpg"
+        },
+        {
+          "tit": "S01E03",
+          "linkFisico": "v/minhas-aventuras-com-o-superman-s01e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/5nOnBLRGD6anmstRO0yC3kYjeMF.jpg"
+        },
+        {
+          "tit": "S01E04",
+          "linkFisico": "v/minhas-aventuras-com-o-superman-s01e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/5nOnBLRGD6anmstRO0yC3kYjeMF.jpg"
+        },
+        {
+          "tit": "S01E05",
+          "linkFisico": "v/minhas-aventuras-com-o-superman-s01e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/5nOnBLRGD6anmstRO0yC3kYjeMF.jpg"
+        },
+        {
+          "tit": "S01E06",
+          "linkFisico": "v/minhas-aventuras-com-o-superman-s01e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/5nOnBLRGD6anmstRO0yC3kYjeMF.jpg"
+        },
+        {
+          "tit": "S01E07",
+          "linkFisico": "v/minhas-aventuras-com-o-superman-s01e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/5nOnBLRGD6anmstRO0yC3kYjeMF.jpg"
+        },
+        {
+          "tit": "S01E08",
+          "linkFisico": "v/minhas-aventuras-com-o-superman-s01e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/5nOnBLRGD6anmstRO0yC3kYjeMF.jpg"
+        },
+        {
+          "tit": "S01E09",
+          "linkFisico": "v/minhas-aventuras-com-o-superman-s01e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/5nOnBLRGD6anmstRO0yC3kYjeMF.jpg"
+        },
+        {
+          "tit": "S01E10",
+          "linkFisico": "v/minhas-aventuras-com-o-superman-s01e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/5nOnBLRGD6anmstRO0yC3kYjeMF.jpg"
+        }
+      ],
+      "2": [
+        {
+          "tit": "S02E01",
+          "linkFisico": "v/minhas-aventuras-com-o-superman-s02e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/5nOnBLRGD6anmstRO0yC3kYjeMF.jpg"
+        },
+        {
+          "tit": "S02E02",
+          "linkFisico": "v/minhas-aventuras-com-o-superman-s02e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/5nOnBLRGD6anmstRO0yC3kYjeMF.jpg"
+        },
+        {
+          "tit": "S02E03",
+          "linkFisico": "v/minhas-aventuras-com-o-superman-s02e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/5nOnBLRGD6anmstRO0yC3kYjeMF.jpg"
+        },
+        {
+          "tit": "S02E04",
+          "linkFisico": "v/minhas-aventuras-com-o-superman-s02e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/5nOnBLRGD6anmstRO0yC3kYjeMF.jpg"
+        },
+        {
+          "tit": "S02E05",
+          "linkFisico": "v/minhas-aventuras-com-o-superman-s02e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/5nOnBLRGD6anmstRO0yC3kYjeMF.jpg"
+        },
+        {
+          "tit": "S02E06",
+          "linkFisico": "v/minhas-aventuras-com-o-superman-s02e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/5nOnBLRGD6anmstRO0yC3kYjeMF.jpg"
+        },
+        {
+          "tit": "S02E07",
+          "linkFisico": "v/minhas-aventuras-com-o-superman-s02e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/5nOnBLRGD6anmstRO0yC3kYjeMF.jpg"
+        },
+        {
+          "tit": "S02E08",
+          "linkFisico": "v/minhas-aventuras-com-o-superman-s02e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/5nOnBLRGD6anmstRO0yC3kYjeMF.jpg"
+        },
+        {
+          "tit": "S02E09",
+          "linkFisico": "v/minhas-aventuras-com-o-superman-s02e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/5nOnBLRGD6anmstRO0yC3kYjeMF.jpg"
+        },
+        {
+          "tit": "S02E10",
+          "linkFisico": "v/minhas-aventuras-com-o-superman-s02e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/5nOnBLRGD6anmstRO0yC3kYjeMF.jpg"
         }
       ]
     }
