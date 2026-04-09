@@ -43966,5 +43966,704 @@
         }
       ]
     }
+  },
+  {
+    "id": "american-horror-story",
+    "tipo": "serie",
+    "categoria": "Séries",
+    "titulo": "American Horror Story",
+    "logo": "https://image.tmdb.org/t/p/w780/x2c3AvZeTyNehRZXabTojAxfDuR.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/7qKi0vjQ22QVEHhOMcWhDlcUxbT.png",
+    "sinopse": "Uma antologia dramática de terror trazendo a cada temporada novas histórias, cenários e personagens perturbadores.",
+    "nota": "8.1",
+    "avaliacao": "8.1",
+    "classificacao": "18",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "S01E01",
+          "linkFisico": "v/american-horror-story-s01e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S01E02",
+          "linkFisico": "v/american-horror-story-s01e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S01E03",
+          "linkFisico": "v/american-horror-story-s01e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S01E04",
+          "linkFisico": "v/american-horror-story-s01e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S01E05",
+          "linkFisico": "v/american-horror-story-s01e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S01E06",
+          "linkFisico": "v/american-horror-story-s01e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S01E07",
+          "linkFisico": "v/american-horror-story-s01e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S01E08",
+          "linkFisico": "v/american-horror-story-s01e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S01E09",
+          "linkFisico": "v/american-horror-story-s01e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S01E10",
+          "linkFisico": "v/american-horror-story-s01e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S01E11",
+          "linkFisico": "v/american-horror-story-s01e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S01E12",
+          "linkFisico": "v/american-horror-story-s01e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        }
+      ],
+      "2": [
+        {
+          "tit": "S02E01",
+          "linkFisico": "v/american-horror-story-s02e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S02E02",
+          "linkFisico": "v/american-horror-story-s02e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S02E03",
+          "linkFisico": "v/american-horror-story-s02e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S02E04",
+          "linkFisico": "v/american-horror-story-s02e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S02E05",
+          "linkFisico": "v/american-horror-story-s02e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S02E06",
+          "linkFisico": "v/american-horror-story-s02e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S02E07",
+          "linkFisico": "v/american-horror-story-s02e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S02E08",
+          "linkFisico": "v/american-horror-story-s02e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S02E09",
+          "linkFisico": "v/american-horror-story-s02e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S02E10",
+          "linkFisico": "v/american-horror-story-s02e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S02E11",
+          "linkFisico": "v/american-horror-story-s02e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S02E12",
+          "linkFisico": "v/american-horror-story-s02e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S02E13",
+          "linkFisico": "v/american-horror-story-s02e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        }
+      ],
+      "3": [
+        {
+          "tit": "S03E01",
+          "linkFisico": "v/american-horror-story-s03e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S03E02",
+          "linkFisico": "v/american-horror-story-s03e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S03E03",
+          "linkFisico": "v/american-horror-story-s03e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S03E04",
+          "linkFisico": "v/american-horror-story-s03e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S03E05",
+          "linkFisico": "v/american-horror-story-s03e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S03E06",
+          "linkFisico": "v/american-horror-story-s03e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S03E07",
+          "linkFisico": "v/american-horror-story-s03e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S03E08",
+          "linkFisico": "v/american-horror-story-s03e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S03E09",
+          "linkFisico": "v/american-horror-story-s03e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S03E10",
+          "linkFisico": "v/american-horror-story-s03e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S03E11",
+          "linkFisico": "v/american-horror-story-s03e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S03E12",
+          "linkFisico": "v/american-horror-story-s03e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S03E13",
+          "linkFisico": "v/american-horror-story-s03e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        }
+      ],
+      "4": [
+        {
+          "tit": "S04E01",
+          "linkFisico": "v/american-horror-story-s04e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S04E02",
+          "linkFisico": "v/american-horror-story-s04e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S04E03",
+          "linkFisico": "v/american-horror-story-s04e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S04E04",
+          "linkFisico": "v/american-horror-story-s04e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S04E05",
+          "linkFisico": "v/american-horror-story-s04e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S04E06",
+          "linkFisico": "v/american-horror-story-s04e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S04E07",
+          "linkFisico": "v/american-horror-story-s04e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S04E08",
+          "linkFisico": "v/american-horror-story-s04e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S04E09",
+          "linkFisico": "v/american-horror-story-s04e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S04E10",
+          "linkFisico": "v/american-horror-story-s04e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S04E11",
+          "linkFisico": "v/american-horror-story-s04e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S04E12",
+          "linkFisico": "v/american-horror-story-s04e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S04E13",
+          "linkFisico": "v/american-horror-story-s04e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        }
+      ],
+      "5": [
+        {
+          "tit": "S05E01",
+          "linkFisico": "v/american-horror-story-s05e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S05E02",
+          "linkFisico": "v/american-horror-story-s05e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S05E03",
+          "linkFisico": "v/american-horror-story-s05e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S05E04",
+          "linkFisico": "v/american-horror-story-s05e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S05E05",
+          "linkFisico": "v/american-horror-story-s05e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S05E06",
+          "linkFisico": "v/american-horror-story-s05e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S05E07",
+          "linkFisico": "v/american-horror-story-s05e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S05E08",
+          "linkFisico": "v/american-horror-story-s05e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S05E09",
+          "linkFisico": "v/american-horror-story-s05e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S05E10",
+          "linkFisico": "v/american-horror-story-s05e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S05E11",
+          "linkFisico": "v/american-horror-story-s05e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S05E12",
+          "linkFisico": "v/american-horror-story-s05e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        }
+      ],
+      "6": [
+        {
+          "tit": "S06E01",
+          "linkFisico": "v/american-horror-story-s06e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S06E02",
+          "linkFisico": "v/american-horror-story-s06e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S06E03",
+          "linkFisico": "v/american-horror-story-s06e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S06E04",
+          "linkFisico": "v/american-horror-story-s06e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S06E05",
+          "linkFisico": "v/american-horror-story-s06e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S06E06",
+          "linkFisico": "v/american-horror-story-s06e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S06E07",
+          "linkFisico": "v/american-horror-story-s06e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S06E08",
+          "linkFisico": "v/american-horror-story-s06e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S06E09",
+          "linkFisico": "v/american-horror-story-s06e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S06E10",
+          "linkFisico": "v/american-horror-story-s06e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        }
+      ],
+      "7": [
+        {
+          "tit": "S07E01",
+          "linkFisico": "v/american-horror-story-s07e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S07E02",
+          "linkFisico": "v/american-horror-story-s07e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S07E03",
+          "linkFisico": "v/american-horror-story-s07e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S07E04",
+          "linkFisico": "v/american-horror-story-s07e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S07E05",
+          "linkFisico": "v/american-horror-story-s07e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S07E06",
+          "linkFisico": "v/american-horror-story-s07e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S07E07",
+          "linkFisico": "v/american-horror-story-s07e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S07E08",
+          "linkFisico": "v/american-horror-story-s07e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S07E09",
+          "linkFisico": "v/american-horror-story-s07e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S07E10",
+          "linkFisico": "v/american-horror-story-s07e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S07E11",
+          "linkFisico": "v/american-horror-story-s07e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        }
+      ],
+      "8": [
+        {
+          "tit": "S08E01",
+          "linkFisico": "v/american-horror-story-s08e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S08E02",
+          "linkFisico": "v/american-horror-story-s08e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S08E03",
+          "linkFisico": "v/american-horror-story-s08e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S08E04",
+          "linkFisico": "v/american-horror-story-s08e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S08E05",
+          "linkFisico": "v/american-horror-story-s08e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S08E06",
+          "linkFisico": "v/american-horror-story-s08e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S08E07",
+          "linkFisico": "v/american-horror-story-s08e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S08E08",
+          "linkFisico": "v/american-horror-story-s08e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S08E09",
+          "linkFisico": "v/american-horror-story-s08e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S08E10",
+          "linkFisico": "v/american-horror-story-s08e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        }
+      ],
+      "9": [
+        {
+          "tit": "S09E01",
+          "linkFisico": "v/american-horror-story-s09e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S09E02",
+          "linkFisico": "v/american-horror-story-s09e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S09E03",
+          "linkFisico": "v/american-horror-story-s09e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S09E04",
+          "linkFisico": "v/american-horror-story-s09e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S09E05",
+          "linkFisico": "v/american-horror-story-s09e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S09E06",
+          "linkFisico": "v/american-horror-story-s09e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S09E07",
+          "linkFisico": "v/american-horror-story-s09e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S09E08",
+          "linkFisico": "v/american-horror-story-s09e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S09E09",
+          "linkFisico": "v/american-horror-story-s09e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        }
+      ],
+      "10": [
+        {
+          "tit": "S10E01",
+          "linkFisico": "v/american-horror-story-s10e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S10E02",
+          "linkFisico": "v/american-horror-story-s10e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S10E03",
+          "linkFisico": "v/american-horror-story-s10e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S10E04",
+          "linkFisico": "v/american-horror-story-s10e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S10E05",
+          "linkFisico": "v/american-horror-story-s10e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S10E06",
+          "linkFisico": "v/american-horror-story-s10e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S10E07",
+          "linkFisico": "v/american-horror-story-s10e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S10E08",
+          "linkFisico": "v/american-horror-story-s10e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S10E09",
+          "linkFisico": "v/american-horror-story-s10e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S10E10",
+          "linkFisico": "v/american-horror-story-s10e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        }
+      ],
+      "11": [
+        {
+          "tit": "S11E01",
+          "linkFisico": "v/american-horror-story-s11e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S11E02",
+          "linkFisico": "v/american-horror-story-s11e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S11E03",
+          "linkFisico": "v/american-horror-story-s11e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S11E04",
+          "linkFisico": "v/american-horror-story-s11e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S11E05",
+          "linkFisico": "v/american-horror-story-s11e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S11E06",
+          "linkFisico": "v/american-horror-story-s11e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S11E07",
+          "linkFisico": "v/american-horror-story-s11e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S11E08",
+          "linkFisico": "v/american-horror-story-s11e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S11E09",
+          "linkFisico": "v/american-horror-story-s11e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S11E10",
+          "linkFisico": "v/american-horror-story-s11e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        }
+      ],
+      "12": [
+        {
+          "tit": "S12E01",
+          "linkFisico": "v/american-horror-story-s12e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S12E02",
+          "linkFisico": "v/american-horror-story-s12e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S12E03",
+          "linkFisico": "v/american-horror-story-s12e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S12E04",
+          "linkFisico": "v/american-horror-story-s12e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S12E05",
+          "linkFisico": "v/american-horror-story-s12e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S12E06",
+          "linkFisico": "v/american-horror-story-s12e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S12E07",
+          "linkFisico": "v/american-horror-story-s12e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S12E08",
+          "linkFisico": "v/american-horror-story-s12e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        },
+        {
+          "tit": "S12E09",
+          "linkFisico": "v/american-horror-story-s12e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bSqdJ0d2Gbz5S54kxEErOgjCk1n.jpg"
+        }
+      ]
+    }
   }
 ]
