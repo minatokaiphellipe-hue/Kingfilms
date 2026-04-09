@@ -27042,27 +27042,6 @@
     }
   },
   {
-    "id": "zootopia-2",
-    "tipo": "filme",
-    "categoria": "Animações",
-    "titulo": "Zootopia 2 ",
-    "logo": "https://image.tmdb.org/t/p/w780/fOCTW3D6RywUzoxpvxF7G6YM5bT.jpg",
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/hi6h3ACrwAswclPEt4VTCeqGfTK.jpg",
-    "sinopse": "Os detetives Judy Hopps e Nick Wilde se encontram na trilha sinuosa de um réptil misterioso que chega a Zootopia e vira a metrópole dos mamíferos de cabeça para baixo.",
-    "nota": "7.6",
-    "avaliacao": "7.6",
-    "classificacao": "10",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "Assistir ",
-          "linkFisico": "v/zootopia-2.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/hi6h3ACrwAswclPEt4VTCeqGfTK.jpg"
-        }
-      ]
-    }
-  },
-  {
     "id": "invocacao-do-mal",
     "tipo": "filme",
     "categoria": "Terror",
@@ -45055,6 +45034,28 @@
           "tit": "Assistir",
           "linkFisico": "v/zootopia-essa-cidade-e-o-bicho.html",
           "logoEp": "https://image.tmdb.org/t/p/w1280/hP6A7hPVPr0bybLR0GTtEPyrw1z.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "zootopia-2",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Zootopia 2",
+    "logo": "https://image.tmdb.org/t/p/w780/u5aQDLWgn64uuvtc2jXUbccWtB5.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/eiBMTTseOHFWDmeD72a73I6xmjn.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/h7nGyoI5XjEtVTSsCnAcWHB41th.png",
+    "sinopse": "Os detetives Judy Hopps e Nick Wilde se encontram na trilha sinuosa de um réptil misterioso que chega a Zootopia e vira a metrópole dos mamíferos de cabeça para baixo.",
+    "nota": "7.6",
+    "avaliacao": "7.6",
+    "classificacao": "10",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/zootopia-2.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/eiBMTTseOHFWDmeD72a73I6xmjn.jpg"
         }
       ]
     }
