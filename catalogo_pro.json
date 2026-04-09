@@ -44841,5 +44841,27 @@
         }
       ]
     }
+  },
+  {
+    "id": "american-pie-o-casamento",
+    "tipo": "filme",
+    "categoria": "Comédia",
+    "titulo": "American Pie: O Casamento",
+    "logo": "https://image.tmdb.org/t/p/w780/uG1eEKdLIq8Lxlq9AQMtdYQ4rk0.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/3MI7cGxIFPrZULZxiqleHCnJC6i.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/o7axFSepnk1C0ExWV0jXia8C1oX.png",
+    "sinopse": "Após os eventos do colégio e da faculdade, os garotos estão enfim se tornando adultos. Jim (Jason Biggs) e Michelle (Alyson Hannigan) estão prestes a se casar, já que a avó de Jim adoece e diz que gostaria de vê-lo se casar antes de morrer. Os pais e amigos de Jim já planejam os preparativos para o grande casamento. Enquanto Stifler (Seann William Scott) organiza a despedida de solteiro, Finch (Eddie Kaye Thomas) prepara rituais hedonistas para o noivo. No entanto, a situação se complica de vez após Stifler se interessar por Cadence (January Jones), irmã caçula de Michelle que será dama de honra no casamento e não vê a hora de perder a virgindade.",
+    "nota": "6.2",
+    "avaliacao": "6.2",
+    "classificacao": "14",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/american-pie-o-casamento.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/3MI7cGxIFPrZULZxiqleHCnJC6i.jpg"
+        }
+      ]
+    }
   }
 ]
