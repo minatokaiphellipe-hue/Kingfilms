@@ -43887,5 +43887,27 @@
         }
       ]
     }
+  },
+  {
+    "id": "fruitvale-station-a-ultima-parada",
+    "tipo": "filme",
+    "categoria": "Drama",
+    "titulo": "Fruitvale Station: A Última Parada",
+    "logo": "https://image.tmdb.org/t/p/w780/dS2xpQU9ibOnscpwhDAJRgccOD2.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/209AlTjD0jUVJzF0hd6cuxJT42i.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/t8lqF7jqbaNwQ1Kj6BpGLiEnwGn.png",
+    "sinopse": "Oscar é um jovem carismático e muito próximo da família. Mas por ter se envolvido em problemas com a lei, passou um tempo na prisão. Agora, sem emprego e sem dinheiro, ele tenta se reerguer para sustentar a namorada e a filha deles.",
+    "nota": "7.4",
+    "avaliacao": "7.4",
+    "classificacao": "14",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/fruitvale-station-a-ultima-parada.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/209AlTjD0jUVJzF0hd6cuxJT42i.jpg"
+        }
+      ]
+    }
   }
 ]
