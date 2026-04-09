@@ -44709,5 +44709,71 @@
         }
       ]
     }
+  },
+  {
+    "id": "american-pie-apresenta-meninas-ao-ataque",
+    "tipo": "filme",
+    "categoria": "Comédia",
+    "titulo": "American Pie Apresenta: Meninas ao Ataque",
+    "logo": "https://image.tmdb.org/t/p/w780/crsZiahK0iAUvofxdN3yvHAULtS.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/d0sPFAHT9AOJvWBwRPrclPY17ol.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/uTY9TG3ZJ6C3NnRs0Zw4abXE62.png",
+    "sinopse": "Um grupo de mulheres decide aproveitar seu poder feminino e se unir para conseguir o que querem no último ano do ensino médio.",
+    "nota": "6.1",
+    "avaliacao": "6.1",
+    "classificacao": "18",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/american-pie-apresenta-meninas-ao-ataque.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/d0sPFAHT9AOJvWBwRPrclPY17ol.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "american-pie-o-ultimo-stifler-virgem",
+    "tipo": "filme",
+    "categoria": "Comédia",
+    "titulo": "American Pie: O Último Stifler Virgem",
+    "logo": "https://image.tmdb.org/t/p/w780/tW8I7JqwDIACpS3Wo7aJnYnyFup.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/944AbiFwGl7WMcGSInhwUiFBT94.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/cQWyy7RWfIcUdNrdlllDBT5uUty.png",
+    "sinopse": "Erik Stifler (John White), primo de Matt e Steve, deseja perder a virgindade antes de concluir a faculdade. Desejando ajudá-lo, seus amigos decidem incentivá-lo a participar da \"Milha Nua\", uma tradicional corrida em que as pessoas correm pelados pelo campus da faculdade.",
+    "nota": "5.5",
+    "avaliacao": "5.5",
+    "classificacao": "18",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/american-pie-o-ultimo-stifler-virgem.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/944AbiFwGl7WMcGSInhwUiFBT94.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "american-pie-caindo-em-tentacao",
+    "tipo": "filme",
+    "categoria": "Comédia",
+    "titulo": "American Pie: Caindo em Tentação",
+    "logo": "https://image.tmdb.org/t/p/w780/55v5UTpgiYRwlyry5eGuftFYydz.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/sXMUxzbir3YfbWxWeuqCujrGuCG.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/60lRNrN6HL6EohwmqQ2vfrSZLLW.png",
+    "sinopse": "Erik Stifler e Cooze ingressam na vida acadêmica, na Universidade de Michigan. Os dois logo são são apresentados a Fraternidade Beta, presidida pelo lendário Dwight Stifler, primo de Erik. A Fraternidade Beta é famosa por suas festas. Enquanto os calouros tentam um lugar na irmandade, Dwight tenta salvar a Beta dos ataques da conservadora Fraternidade GEK, formada por nerds e comandada por Edgar que quer acabar com a supremacia dos libertinos.",
+    "nota": "5.6",
+    "avaliacao": "5.6",
+    "classificacao": "18",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/american-pie-caindo-em-tentacao.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/sXMUxzbir3YfbWxWeuqCujrGuCG.jpg"
+        }
+      ]
+    }
   }
 ]
