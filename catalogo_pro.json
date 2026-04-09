@@ -44665,5 +44665,49 @@
         }
       ]
     }
+  },
+  {
+    "id": "american-pie-a-primeira-vez-e-inesquecivel",
+    "tipo": "filme",
+    "categoria": "Comédia",
+    "titulo": "American Pie: A Primeira Vez é Inesquecível",
+    "logo": "https://image.tmdb.org/t/p/w780/4GxuPJxUcArRpfBGJL6BG3B4Cb9.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/tb6s8Kpek5H8sOB3AI9SmWA9R8F.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/digDPp7flXAw4eX1nivboqdaTR5.png",
+    "sinopse": "Jim Kevin, Oz e Finch são quatro amigos às vésperas do baile de formatura de escola. Entre tentativas frustradas de fazer sexo com as namoradas, vigiar garotas nuas pela Internet e até atacar uma torta recém-saída do forno, os rapazes fazem um pacto: deixar a virgindade para trás antes do baile de formatura. Começam, então, as investidas mais hilariantes em busca de sexo e, principalmente, mulheres.",
+    "nota": "6.6",
+    "avaliacao": "6.6",
+    "classificacao": "16",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/american-pie-a-primeira-vez-e-inesquecivel.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/tb6s8Kpek5H8sOB3AI9SmWA9R8F.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "american-pie-2-a-segunda-vez-e-ainda-melhor",
+    "tipo": "filme",
+    "categoria": "Comédia",
+    "titulo": "American Pie 2: A Segunda Vez é Ainda Melhor",
+    "logo": "https://image.tmdb.org/t/p/w780/kjeavq1VD0ZRBmt2QVFfZlS6ZaG.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/iREQqcRG0dd9PFsoNOHA138nSCe.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/pNXnzBIhMOTnT1bWIYq3AOdDdHV.png",
+    "sinopse": "Ao término do primeiro ano da faculdade, Jim (Jason Biggs), Oz (Chris Klein), Kevin (Thomas Ian Nicholas), Stifler (Seann William Scott) e Finch (Eddie Kaye Thomas) mais uma vez se reencontram. Mas agora Nadia (Shannon Elizabeth) está prestes a vir visitar Jim, que ainda não se sente preparado sexualmente para encontrá-la e receberá a ajuda dos amigos.",
+    "nota": "6.3",
+    "avaliacao": "6.3",
+    "classificacao": "14",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/american-pie-2-a-segunda-vez-e-ainda-melhor.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/iREQqcRG0dd9PFsoNOHA138nSCe.jpg"
+        }
+      ]
+    }
   }
 ]
