@@ -45059,5 +45059,27 @@
         }
       ]
     }
+  },
+  {
+    "id": "super-mario-galaxy-o-filme",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Super Mario Galaxy: O Filme",
+    "logo": "https://image.tmdb.org/t/p/w780/b3WeTp42eJSRuE4UZfyPCOJW4c.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/xwolQ2pLF3tG8mjMsrMR0POp5pE.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/wDGKAxgMR56fzkgdY4424NV40IR.png",
+    "sinopse": "Depois de salvar o Reino dos Cogumelos, Mario e seus amigos se encontram em uma missão intergaláctica para deter um novo vilão ameaçador.",
+    "nota": "6.9",
+    "avaliacao": "6.9",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/super-mario-galaxy-o-filme.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/xwolQ2pLF3tG8mjMsrMR0POp5pE.jpg"
+        }
+      ]
+    }
   }
 ]
