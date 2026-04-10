@@ -13361,188 +13361,6 @@
     }
   },
   {
-    "id": "invencivel",
-    "tipo": "serie",
-    "categoria": "Séries",
-    "titulo": "INVENCÍVEL ",
-    "logo": "https://image.tmdb.org/t/p/w780/qhb7RWU9ad9a5m3HbeRRXzjaMXf.jpg",
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/9NLtzvNN8JyunYiHcEErNn4YBwi.jpg",
-    "sinopse": "Uma animação de super-heróis para adultos e conta a história de Mark Grayson, de 17 anos, um cara como qualquer outro de sua idade, exceto que seu pai é o super-herói mais poderoso do planeta, Omni-Man. Porém, à medida que Mark desenvolve seus próprios poderes, ele descobre que o legado de seu pai pode não ser tão heroico quanto parece.",
-    "avaliacao": "8.6",
-    "classificacao": "18",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "S01E01 ",
-          "linkFisico": "v/invencivel-s01e01.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/9NLtzvNN8JyunYiHcEErNn4YBwi.jpg"
-        },
-        {
-          "tit": "S01E02 ",
-          "linkFisico": "v/invencivel-s01e02.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/9NLtzvNN8JyunYiHcEErNn4YBwi.jpg"
-        },
-        {
-          "tit": "S01E03 ",
-          "linkFisico": "v/invencivel-s01e03.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/9NLtzvNN8JyunYiHcEErNn4YBwi.jpg"
-        },
-        {
-          "tit": "S01E04 ",
-          "linkFisico": "v/invencivel-s01e04.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/9NLtzvNN8JyunYiHcEErNn4YBwi.jpg"
-        },
-        {
-          "tit": "S01E05 ",
-          "linkFisico": "v/invencivel-s01e05.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/9NLtzvNN8JyunYiHcEErNn4YBwi.jpg"
-        },
-        {
-          "tit": "S01E06 ",
-          "linkFisico": "v/invencivel-s01e06.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/9NLtzvNN8JyunYiHcEErNn4YBwi.jpg"
-        },
-        {
-          "tit": "S01E07 ",
-          "linkFisico": "v/invencivel-s01e07.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/9NLtzvNN8JyunYiHcEErNn4YBwi.jpg"
-        },
-        {
-          "tit": "S01E08 ",
-          "linkFisico": "v/invencivel-s01e08.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/9NLtzvNN8JyunYiHcEErNn4YBwi.jpg"
-        }
-      ],
-      "2": [
-        {
-          "tit": "S02E01 ",
-          "linkFisico": "v/invencivel-s02e01.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/9NLtzvNN8JyunYiHcEErNn4YBwi.jpg"
-        },
-        {
-          "tit": "S02E02 ",
-          "linkFisico": "v/invencivel-s02e02.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/9NLtzvNN8JyunYiHcEErNn4YBwi.jpg"
-        },
-        {
-          "tit": "S02E03 ",
-          "linkFisico": "v/invencivel-s02e03.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/9NLtzvNN8JyunYiHcEErNn4YBwi.jpg"
-        },
-        {
-          "tit": "S02E04 ",
-          "linkFisico": "v/invencivel-s02e04.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/9NLtzvNN8JyunYiHcEErNn4YBwi.jpg"
-        },
-        {
-          "tit": "S02E05 ",
-          "linkFisico": "v/invencivel-s02e05.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/9NLtzvNN8JyunYiHcEErNn4YBwi.jpg"
-        },
-        {
-          "tit": "S02E06 ",
-          "linkFisico": "v/invencivel-s02e06.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/9NLtzvNN8JyunYiHcEErNn4YBwi.jpg"
-        },
-        {
-          "tit": "S02E07 ",
-          "linkFisico": "v/invencivel-s02e07.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/9NLtzvNN8JyunYiHcEErNn4YBwi.jpg"
-        },
-        {
-          "tit": "S02E08 ",
-          "linkFisico": "v/invencivel-s02e08.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/9NLtzvNN8JyunYiHcEErNn4YBwi.jpg"
-        }
-      ],
-      "3": [
-        {
-          "tit": "S03E01 ",
-          "linkFisico": "v/invencivel-s03e01.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/9NLtzvNN8JyunYiHcEErNn4YBwi.jpg"
-        },
-        {
-          "tit": "S03E02 ",
-          "linkFisico": "v/invencivel-s03e02.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/9NLtzvNN8JyunYiHcEErNn4YBwi.jpg"
-        },
-        {
-          "tit": "S03E03 ",
-          "linkFisico": "v/invencivel-s03e03.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/9NLtzvNN8JyunYiHcEErNn4YBwi.jpg"
-        },
-        {
-          "tit": "S03E04 ",
-          "linkFisico": "v/invencivel-s03e04.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/9NLtzvNN8JyunYiHcEErNn4YBwi.jpg"
-        },
-        {
-          "tit": "S03E05 ",
-          "linkFisico": "v/invencivel-s03e05.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/9NLtzvNN8JyunYiHcEErNn4YBwi.jpg"
-        },
-        {
-          "tit": "S03E06 ",
-          "linkFisico": "v/invencivel-s03e06.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/9NLtzvNN8JyunYiHcEErNn4YBwi.jpg"
-        },
-        {
-          "tit": "S03E07 ",
-          "linkFisico": "v/invencivel-s03e07.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/9NLtzvNN8JyunYiHcEErNn4YBwi.jpg"
-        },
-        {
-          "tit": "S03E08 ",
-          "linkFisico": "v/invencivel-s03e08.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/9NLtzvNN8JyunYiHcEErNn4YBwi.jpg"
-        }
-      ],
-      "4": [
-        {
-          "tit": "S04E01 ",
-          "linkFisico": "v/invencivel-s04e01.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/9NLtzvNN8JyunYiHcEErNn4YBwi.jpg"
-        },
-        {
-          "tit": "S04E02 ",
-          "linkFisico": "v/invencivel-s04e02.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/9NLtzvNN8JyunYiHcEErNn4YBwi.jpg"
-        },
-        {
-          "tit": "S04E03 ",
-          "linkFisico": "v/invencivel-s04e03.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/9NLtzvNN8JyunYiHcEErNn4YBwi.jpg"
-        },
-        {
-          "tit": "S04E04 ",
-          "linkFisico": "v/invencivel-s04e04.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/9NLtzvNN8JyunYiHcEErNn4YBwi.jpg"
-        },
-        {
-          "tit": "S04E05 ",
-          "linkFisico": "v/invencivel-s04e05.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/9NLtzvNN8JyunYiHcEErNn4YBwi.jpg"
-        },
-        {
-          "tit": "S04E06 ",
-          "linkFisico": "v/invencivel-s04e06.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/9NLtzvNN8JyunYiHcEErNn4YBwi.jpg"
-        },
-        {
-          "tit": "S04E07 ",
-          "linkFisico": "v/invencivel-s04e07.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/9NLtzvNN8JyunYiHcEErNn4YBwi.jpg"
-        },
-        {
-          "tit": "S04E08 ",
-          "linkFisico": "v/invencivel-s04e08.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/9NLtzvNN8JyunYiHcEErNn4YBwi.jpg"
-        }
-      ],
-      "5": []
-    }
-  },
-  {
     "id": "invocacao-do-mal-4-o-ultimo-ritual",
     "tipo": "filme",
     "categoria": "Terror",
@@ -45170,6 +44988,189 @@
           "tit": "S11E24",
           "linkFisico": "v/the-walking-dead-s11e24.html",
           "logoEp": "https://image.tmdb.org/t/p/w1280/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "invencivel",
+    "tipo": "serie",
+    "categoria": "Oscar 2026",
+    "titulo": "INVENCÍVEL",
+    "logo": "https://image.tmdb.org/t/p/w780/qhb7RWU9ad9a5m3HbeRRXzjaMXf.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/9NLtzvNN8JyunYiHcEErNn4YBwi.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/kmv1XwvfbtMrxxU9GIgunPtcvxn.png",
+    "sinopse": "Uma animação de super-heróis para adultos e conta a história de Mark Grayson, de 17 anos, um cara como qualquer outro de sua idade, exceto que seu pai é o super-herói mais poderoso do planeta, Omni-Man. Porém, à medida que Mark desenvolve seus próprios poderes, ele descobre que o legado de seu pai pode não ser tão heroico quanto parece.",
+    "nota": "8.6",
+    "avaliacao": "8.6",
+    "classificacao": "18",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "S01E01",
+          "linkFisico": "v/invencivel-s01e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/9NLtzvNN8JyunYiHcEErNn4YBwi.jpg"
+        },
+        {
+          "tit": "S01E02",
+          "linkFisico": "v/invencivel-s01e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/9NLtzvNN8JyunYiHcEErNn4YBwi.jpg"
+        },
+        {
+          "tit": "S01E03",
+          "linkFisico": "v/invencivel-s01e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/9NLtzvNN8JyunYiHcEErNn4YBwi.jpg"
+        },
+        {
+          "tit": "S01E04",
+          "linkFisico": "v/invencivel-s01e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/9NLtzvNN8JyunYiHcEErNn4YBwi.jpg"
+        },
+        {
+          "tit": "S01E05",
+          "linkFisico": "v/invencivel-s01e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/9NLtzvNN8JyunYiHcEErNn4YBwi.jpg"
+        },
+        {
+          "tit": "S01E06",
+          "linkFisico": "v/invencivel-s01e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/9NLtzvNN8JyunYiHcEErNn4YBwi.jpg"
+        },
+        {
+          "tit": "S01E07",
+          "linkFisico": "v/invencivel-s01e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/9NLtzvNN8JyunYiHcEErNn4YBwi.jpg"
+        },
+        {
+          "tit": "S01E08",
+          "linkFisico": "v/invencivel-s01e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/9NLtzvNN8JyunYiHcEErNn4YBwi.jpg"
+        }
+      ],
+      "2": [
+        {
+          "tit": "S02E01",
+          "linkFisico": "v/invencivel-s02e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/9NLtzvNN8JyunYiHcEErNn4YBwi.jpg"
+        },
+        {
+          "tit": "S02E02",
+          "linkFisico": "v/invencivel-s02e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/9NLtzvNN8JyunYiHcEErNn4YBwi.jpg"
+        },
+        {
+          "tit": "S02E03",
+          "linkFisico": "v/invencivel-s02e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/9NLtzvNN8JyunYiHcEErNn4YBwi.jpg"
+        },
+        {
+          "tit": "S02E04",
+          "linkFisico": "v/invencivel-s02e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/9NLtzvNN8JyunYiHcEErNn4YBwi.jpg"
+        },
+        {
+          "tit": "S02E05",
+          "linkFisico": "v/invencivel-s02e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/9NLtzvNN8JyunYiHcEErNn4YBwi.jpg"
+        },
+        {
+          "tit": "S02E06",
+          "linkFisico": "v/invencivel-s02e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/9NLtzvNN8JyunYiHcEErNn4YBwi.jpg"
+        },
+        {
+          "tit": "S02E07",
+          "linkFisico": "v/invencivel-s02e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/9NLtzvNN8JyunYiHcEErNn4YBwi.jpg"
+        },
+        {
+          "tit": "S02E08",
+          "linkFisico": "v/invencivel-s02e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/9NLtzvNN8JyunYiHcEErNn4YBwi.jpg"
+        }
+      ],
+      "3": [
+        {
+          "tit": "S03E01",
+          "linkFisico": "v/invencivel-s03e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/9NLtzvNN8JyunYiHcEErNn4YBwi.jpg"
+        },
+        {
+          "tit": "S03E02",
+          "linkFisico": "v/invencivel-s03e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/9NLtzvNN8JyunYiHcEErNn4YBwi.jpg"
+        },
+        {
+          "tit": "S03E03",
+          "linkFisico": "v/invencivel-s03e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/9NLtzvNN8JyunYiHcEErNn4YBwi.jpg"
+        },
+        {
+          "tit": "S03E04",
+          "linkFisico": "v/invencivel-s03e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/9NLtzvNN8JyunYiHcEErNn4YBwi.jpg"
+        },
+        {
+          "tit": "S03E05",
+          "linkFisico": "v/invencivel-s03e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/9NLtzvNN8JyunYiHcEErNn4YBwi.jpg"
+        },
+        {
+          "tit": "S03E06",
+          "linkFisico": "v/invencivel-s03e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/9NLtzvNN8JyunYiHcEErNn4YBwi.jpg"
+        },
+        {
+          "tit": "S03E07",
+          "linkFisico": "v/invencivel-s03e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/9NLtzvNN8JyunYiHcEErNn4YBwi.jpg"
+        },
+        {
+          "tit": "S03E08",
+          "linkFisico": "v/invencivel-s03e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/9NLtzvNN8JyunYiHcEErNn4YBwi.jpg"
+        }
+      ],
+      "4": [
+        {
+          "tit": "S04E01",
+          "linkFisico": "v/invencivel-s04e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/9NLtzvNN8JyunYiHcEErNn4YBwi.jpg"
+        },
+        {
+          "tit": "S04E02",
+          "linkFisico": "v/invencivel-s04e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/9NLtzvNN8JyunYiHcEErNn4YBwi.jpg"
+        },
+        {
+          "tit": "S04E03",
+          "linkFisico": "v/invencivel-s04e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/9NLtzvNN8JyunYiHcEErNn4YBwi.jpg"
+        },
+        {
+          "tit": "S04E04",
+          "linkFisico": "v/invencivel-s04e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/9NLtzvNN8JyunYiHcEErNn4YBwi.jpg"
+        },
+        {
+          "tit": "S04E05",
+          "linkFisico": "v/invencivel-s04e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/9NLtzvNN8JyunYiHcEErNn4YBwi.jpg"
+        },
+        {
+          "tit": "S04E06",
+          "linkFisico": "v/invencivel-s04e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/9NLtzvNN8JyunYiHcEErNn4YBwi.jpg"
+        },
+        {
+          "tit": "S04E07",
+          "linkFisico": "v/invencivel-s04e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/9NLtzvNN8JyunYiHcEErNn4YBwi.jpg"
+        },
+        {
+          "tit": "S04E08",
+          "linkFisico": "v/invencivel-s04e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/9NLtzvNN8JyunYiHcEErNn4YBwi.jpg"
         }
       ]
     }
