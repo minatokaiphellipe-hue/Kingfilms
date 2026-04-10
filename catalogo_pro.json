@@ -771,27 +771,6 @@
     }
   },
   {
-    "id": "annabelle-2-a-criacao-do-mal",
-    "tipo": "filme",
-    "categoria": "Terror",
-    "titulo": "Annabelle 2: A Criação do Mal ",
-    "logo": "https://image.tmdb.org/t/p/w780/AtlcH0f8mEQGKVIBSgV4GgkTZMr.jpg",
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/imszMw4h1HE9oy3OzQmXW0CrlLc.jpg",
-    "sinopse": "Muitos anos após a morte de sua filha, um fabricante de bonecas e sua esposa recebem em sua casa uma freira e seis meninas vindas de um orfanato fechado. O que parecia ser a resposta para suas preces irá se tornar uma maldição conforme as convidadas se tornam alvo da criação possuída, Annabelle.",
-    "nota": "6.6",
-    "avaliacao": "6.6",
-    "classificacao": "14",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "Assistir ",
-          "linkFisico": "v/annabelle-2-a-criacao-do-mal.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/imszMw4h1HE9oy3OzQmXW0CrlLc.jpg"
-        }
-      ]
-    }
-  },
-  {
     "id": "apenas-um-show",
     "tipo": "serie",
     "categoria": "Séries",
@@ -45169,6 +45148,28 @@
           "tit": "Assistir",
           "linkFisico": "v/annabelle-3-de-volta-para-casa.html",
           "logoEp": "https://image.tmdb.org/t/p/w1280/gcRBdgH8gtTMHn2Sl5YZHit3ve0.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "annabelle-2-a-criacao-do-mal",
+    "tipo": "filme",
+    "categoria": "Terror",
+    "titulo": "Annabelle 2: A Criação do Mal",
+    "logo": "https://image.tmdb.org/t/p/w780/AtlcH0f8mEQGKVIBSgV4GgkTZMr.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/imszMw4h1HE9oy3OzQmXW0CrlLc.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/84KHGeZhE10onLYEwQWf1rfr6kF.png",
+    "sinopse": "Muitos anos após a morte de sua filha, um fabricante de bonecas e sua esposa recebem em sua casa uma freira e seis meninas vindas de um orfanato fechado. O que parecia ser a resposta para suas preces irá se tornar uma maldição conforme as convidadas se tornam alvo da criação possuída, Annabelle.",
+    "nota": "6.6",
+    "avaliacao": "6.6",
+    "classificacao": "14",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/annabelle-2-a-criacao-do-mal.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/imszMw4h1HE9oy3OzQmXW0CrlLc.jpg"
         }
       ]
     }
