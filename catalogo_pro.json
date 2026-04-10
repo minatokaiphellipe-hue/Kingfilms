@@ -771,27 +771,6 @@
     }
   },
   {
-    "id": "annabelle",
-    "tipo": "filme",
-    "categoria": "Terror",
-    "titulo": "Annabelle ",
-    "logo": "https://image.tmdb.org/t/p/w780/jnvQCi7cO3f5oAceTrodDjVvQmB.jpg",
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/6eBUOcKZiE60a0nRz2al8xMyUm7.jpg",
-    "sinopse": "Um casal se prepara para a chegada de sua primeira filha e compra para ela uma boneca. Quando sua casa é invadida por membros de uma seita, o casal é violentamente atacado e a boneca, Annabelle, se torna recipiente de uma entidade do mal.",
-    "nota": "5.8",
-    "avaliacao": "5.8",
-    "classificacao": "14",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "Assistir ",
-          "linkFisico": "v/annabelle.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/6eBUOcKZiE60a0nRz2al8xMyUm7.jpg"
-        }
-      ]
-    }
-  },
-  {
     "id": "annabelle-2-a-criacao-do-mal",
     "tipo": "filme",
     "categoria": "Terror",
@@ -808,27 +787,6 @@
           "tit": "Assistir ",
           "linkFisico": "v/annabelle-2-a-criacao-do-mal.html",
           "logoEp": "https://image.tmdb.org/t/p/w1280/imszMw4h1HE9oy3OzQmXW0CrlLc.jpg"
-        }
-      ]
-    }
-  },
-  {
-    "id": "annabelle-3-de-volta-para-casa",
-    "tipo": "filme",
-    "categoria": "Terror",
-    "titulo": "Annabelle 3: De Volta para Casa ",
-    "logo": "https://image.tmdb.org/t/p/w780/xQesP4oRskVR8fUMvilhY7DUMJt.jpg",
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/gcRBdgH8gtTMHn2Sl5YZHit3ve0.jpg",
-    "sinopse": "Determinados a impedir que Annabelle cause ainda mais estragos, os demonologistas Ed e Lorraine Warren levam a boneca possuída até a sala de artefatos em sua casa, colocando-a em \"segurança\" em um vidro sagrado e recorrendo à santa bênção de um padre. Mas, uma noite profana de terror os aguarda, pois Annabelle desperta os espíritos malignos da sala, que agora almejam um novo alvo: a filha de 10 anos do casal Warren, Judy, e seus amigos.",
-    "nota": "6.4",
-    "avaliacao": "6.4",
-    "classificacao": "14",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "Assistir ",
-          "linkFisico": "v/annabelle-3-de-volta-para-casa.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/gcRBdgH8gtTMHn2Sl5YZHit3ve0.jpg"
         }
       ]
     }
@@ -45167,6 +45125,50 @@
           "tit": "Assistir",
           "linkFisico": "v/planeta-dos-macacos-o-reinado.html",
           "logoEp": "https://image.tmdb.org/t/p/w1280/4oq8VprBeVpxx0wgDFJvt4vp3Qt.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "annabelle",
+    "tipo": "filme",
+    "categoria": "Terror",
+    "titulo": "Annabelle",
+    "logo": "https://image.tmdb.org/t/p/w780/jnvQCi7cO3f5oAceTrodDjVvQmB.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/6eBUOcKZiE60a0nRz2al8xMyUm7.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/xPax1rzR4A96b3wF0cMkYRwXu08.png",
+    "sinopse": "Um casal se prepara para a chegada de sua primeira filha e compra para ela uma boneca. Quando sua casa é invadida por membros de uma seita, o casal é violentamente atacado e a boneca, Annabelle, se torna recipiente de uma entidade do mal.",
+    "nota": "5.8",
+    "avaliacao": "5.8",
+    "classificacao": "14",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/annabelle.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/6eBUOcKZiE60a0nRz2al8xMyUm7.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "annabelle-3-de-volta-para-casa",
+    "tipo": "filme",
+    "categoria": "Terror",
+    "titulo": "Annabelle 3: De Volta para Casa",
+    "logo": "https://image.tmdb.org/t/p/w780/xQesP4oRskVR8fUMvilhY7DUMJt.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/gcRBdgH8gtTMHn2Sl5YZHit3ve0.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/5EKOOckZxlP8gPRwFoHOGyi1sxi.png",
+    "sinopse": "Determinados a impedir que Annabelle cause ainda mais estragos, os demonologistas Ed e Lorraine Warren levam a boneca possuída até a sala de artefatos em sua casa, colocando-a em \"segurança\" em um vidro sagrado e recorrendo à santa bênção de um padre. Mas, uma noite profana de terror os aguarda, pois Annabelle desperta os espíritos malignos da sala, que agora almejam um novo alvo: a filha de 10 anos do casal Warren, Judy, e seus amigos.",
+    "nota": "6.4",
+    "avaliacao": "6.4",
+    "classificacao": "14",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/annabelle-3-de-volta-para-casa.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gcRBdgH8gtTMHn2Sl5YZHit3ve0.jpg"
         }
       ]
     }
