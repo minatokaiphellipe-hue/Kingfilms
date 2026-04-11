@@ -48235,5 +48235,49 @@
         }
       ]
     }
+  },
+  {
+    "id": "o-colecionador-de-corpos",
+    "tipo": "filme",
+    "categoria": "Terror",
+    "titulo": "O Colecionador de Corpos",
+    "logo": "https://image.tmdb.org/t/p/w780/2MpepGlOCJpIF5LMY80eQYStSta.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/atdU1lk318uXrePvMzdXqLUurfo.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/gZRTmzZhwgjXHquKVavy4m2ntZq.png",
+    "sinopse": "Desesperado para pagar uma dívida com sua ex-esposa, um ex-trapaceiro invade a casa de campo de seu novo chefe para roubar uma valiosa jóia, mas é surpreendido por um outro bandido no local fazendo a família como refém de um jogo mortal.",
+    "nota": "6.6",
+    "avaliacao": "6.6",
+    "classificacao": "18",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/o-colecionador-de-corpos.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/atdU1lk318uXrePvMzdXqLUurfo.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "o-colecionador-de-corpos-2",
+    "tipo": "filme",
+    "categoria": "Terror",
+    "titulo": "O Colecionador de Corpos 2",
+    "logo": "https://image.tmdb.org/t/p/w780/mg2cHxnN3vrO0F7EWQVdC3Smwo6.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/tzPl4Ur1OxSrjkvPuyQKAgwTPPA.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/r4IWm1gAgnlN3nHqKUnBbOp7zWY.png",
+    "sinopse": "Quando os amigos de Elena a levam para uma festa secreta em um lugar não revelado, ela nunca imaginaria que se tornaria a mais nova vítima do Colecionador, um assassino psicopata. O Colecionador a sequestra e a leva a um hotel abandonado, transformado em seu labirinto particular de tortura e morte. Quando fica sabendo do desaparecimento da filha, o rico pai de Elena contrata um grupo de mercenários para recuperá-la das garras do Colecionador. Os homens obrigam Arkin, o único homem que escapou da ira deste monstro, a guiá-los pelo terrível labirinto. Agora, Arkin deve lutar novamente por sua vida e para salvar Elena.",
+    "nota": "6.4",
+    "avaliacao": "6.4",
+    "classificacao": "18",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/o-colecionador-de-corpos-2.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/tzPl4Ur1OxSrjkvPuyQKAgwTPPA.jpg"
+        }
+      ]
+    }
   }
 ]
