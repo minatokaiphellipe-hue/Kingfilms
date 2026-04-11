@@ -48191,5 +48191,49 @@
         }
       ]
     }
+  },
+  {
+    "id": "belo-desastre",
+    "tipo": "filme",
+    "categoria": "Drama",
+    "titulo": "Belo Desastre",
+    "logo": "https://image.tmdb.org/t/p/w780/uNIadSJbxQ0p0DtJLUPfVW6TAEu.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/wmm1IJs6ByclxvKmmpuZpQGqvup.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/hLL9dC3lVaGxpwBIoCJ8JLEGh0a.png",
+    "sinopse": "Intrigado com a resistência de um calouro da faculdade, um boxeador oferece uma simples aposta: se ele perder sua próxima luta, ele deve permanecer sem sexo por um mês.",
+    "nota": "6.7",
+    "avaliacao": "6.7",
+    "classificacao": "16",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/belo-desastre.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/wmm1IJs6ByclxvKmmpuZpQGqvup.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "belo-desastre-o-casamento",
+    "tipo": "filme",
+    "categoria": "Drama",
+    "titulo": "Belo Desastre: O Casamento",
+    "logo": "https://image.tmdb.org/t/p/w780/HscUDvASN1uNu7dpLI5vkAgkl5.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/xyeT0rTH0KiQWkFrKPFhjuwUiKr.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/2NhwNrevDsPTxGSpZP4A3KK8MWL.png",
+    "sinopse": "No rescaldo de Belo Desastre: O Casamento, Abby e Travis acordam depois de uma noite louca em Las Vegas como recém-casados ​​por acidente! Com a multidão em seu encalço, eles fogem para o México para uma lua de mel selvagem e estranha - mas será que terão outro desastre?",
+    "nota": "5.6",
+    "avaliacao": "5.6",
+    "classificacao": "16",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/belo-desastre-o-casamento.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/xyeT0rTH0KiQWkFrKPFhjuwUiKr.jpg"
+        }
+      ]
+    }
   }
 ]
