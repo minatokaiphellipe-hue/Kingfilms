@@ -22666,197 +22666,6 @@
     }
   },
   {
-    "id": "stranger-things",
-    "tipo": "serie",
-    "categoria": "Séries",
-    "titulo": "Stranger Things ",
-    "logo": "https://image.tmdb.org/t/p/w780/twfKp60THrcOIep9sjHODOOfO8d.jpg",
-    "sinopse": "Quando um garoto desaparece, a cidade toda participa nas buscas. Mas o que encontram são segredos, forças sobrenaturais e uma menina.",
-    "avaliacao": "8.6",
-    "classificacao": "16",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "S01E01 ",
-          "linkFisico": "v/stranger-things-s01e01.html",
-          "logoEp": "https://image.tmdb.org/t/p/original/uJwQ3xJH36AEfzIR8U5j6jUD0o6.jpg"
-        },
-        {
-          "tit": "S01E02 ",
-          "linkFisico": "v/stranger-things-s01e02.html",
-          "logoEp": "https://image.tmdb.org/t/p/original/uJwQ3xJH36AEfzIR8U5j6jUD0o6.jpg"
-        },
-        {
-          "tit": "S01E03 ",
-          "linkFisico": "v/stranger-things-s01e03.html",
-          "logoEp": "https://image.tmdb.org/t/p/original/uJwQ3xJH36AEfzIR8U5j6jUD0o6.jpg"
-        },
-        {
-          "tit": "S01E04 ",
-          "linkFisico": "v/stranger-things-s01e04.html",
-          "logoEp": "https://image.tmdb.org/t/p/original/uJwQ3xJH36AEfzIR8U5j6jUD0o6.jpg"
-        },
-        {
-          "tit": "S01E05 ",
-          "linkFisico": "v/stranger-things-s01e05.html",
-          "logoEp": "https://image.tmdb.org/t/p/original/uJwQ3xJH36AEfzIR8U5j6jUD0o6.jpg"
-        },
-        {
-          "tit": "S01E06 ",
-          "linkFisico": "v/stranger-things-s01e06.html",
-          "logoEp": "https://image.tmdb.org/t/p/original/uJwQ3xJH36AEfzIR8U5j6jUD0o6.jpg"
-        },
-        {
-          "tit": "S01E07 ",
-          "linkFisico": "v/stranger-things-s01e07.html",
-          "logoEp": "https://image.tmdb.org/t/p/original/uJwQ3xJH36AEfzIR8U5j6jUD0o6.jpg"
-        },
-        {
-          "tit": "S01E08 ",
-          "linkFisico": "v/stranger-things-s01e08.html",
-          "logoEp": "https://image.tmdb.org/t/p/original/uJwQ3xJH36AEfzIR8U5j6jUD0o6.jpg"
-        }
-      ],
-      "2": [
-        {
-          "tit": "S02E01 ",
-          "linkFisico": "v/stranger-things-s02e01.html",
-          "logoEp": "https://image.tmdb.org/t/p/original/uJwQ3xJH36AEfzIR8U5j6jUD0o6.jpg"
-        },
-        {
-          "tit": "S02E02 ",
-          "linkFisico": "v/stranger-things-s02e02.html",
-          "logoEp": "https://image.tmdb.org/t/p/original/uJwQ3xJH36AEfzIR8U5j6jUD0o6.jpg"
-        },
-        {
-          "tit": "S02E03 ",
-          "linkFisico": "v/stranger-things-s02e03.html",
-          "logoEp": "https://image.tmdb.org/t/p/original/uJwQ3xJH36AEfzIR8U5j6jUD0o6.jpg"
-        },
-        {
-          "tit": "S02E04 ",
-          "linkFisico": "v/stranger-things-s02e04.html",
-          "logoEp": "https://image.tmdb.org/t/p/original/uJwQ3xJH36AEfzIR8U5j6jUD0o6.jpg"
-        },
-        {
-          "tit": "S02E05 ",
-          "linkFisico": "v/stranger-things-s02e05.html",
-          "logoEp": "https://image.tmdb.org/t/p/original/uJwQ3xJH36AEfzIR8U5j6jUD0o6.jpg"
-        },
-        {
-          "tit": "S02E06 ",
-          "linkFisico": "v/stranger-things-s02e06.html",
-          "logoEp": "https://image.tmdb.org/t/p/original/uJwQ3xJH36AEfzIR8U5j6jUD0o6.jpg"
-        },
-        {
-          "tit": "S02E07 ",
-          "linkFisico": "v/stranger-things-s02e07.html",
-          "logoEp": "https://image.tmdb.org/t/p/original/uJwQ3xJH36AEfzIR8U5j6jUD0o6.jpg"
-        },
-        {
-          "tit": "S02E08 ",
-          "linkFisico": "v/stranger-things-s02e08.html",
-          "logoEp": "https://image.tmdb.org/t/p/original/uJwQ3xJH36AEfzIR8U5j6jUD0o6.jpg"
-        },
-        {
-          "tit": "S02E09 ",
-          "linkFisico": "v/stranger-things-s02e09.html",
-          "logoEp": "https://image.tmdb.org/t/p/original/uJwQ3xJH36AEfzIR8U5j6jUD0o6.jpg"
-        }
-      ],
-      "3": [
-        {
-          "tit": "S03E01 ",
-          "linkFisico": "v/stranger-things-s03e01.html",
-          "logoEp": "https://image.tmdb.org/t/p/original/uJwQ3xJH36AEfzIR8U5j6jUD0o6.jpg"
-        },
-        {
-          "tit": "S03E02 ",
-          "linkFisico": "v/stranger-things-s03e02.html",
-          "logoEp": "https://image.tmdb.org/t/p/original/uJwQ3xJH36AEfzIR8U5j6jUD0o6.jpg"
-        },
-        {
-          "tit": "S03E03 ",
-          "linkFisico": "v/stranger-things-s03e03.html",
-          "logoEp": "https://image.tmdb.org/t/p/original/uJwQ3xJH36AEfzIR8U5j6jUD0o6.jpg"
-        },
-        {
-          "tit": "S03E04 ",
-          "linkFisico": "v/stranger-things-s03e04.html",
-          "logoEp": "https://image.tmdb.org/t/p/original/uJwQ3xJH36AEfzIR8U5j6jUD0o6.jpg"
-        },
-        {
-          "tit": "S03E05 ",
-          "linkFisico": "v/stranger-things-s03e05.html",
-          "logoEp": "https://image.tmdb.org/t/p/original/uJwQ3xJH36AEfzIR8U5j6jUD0o6.jpg"
-        },
-        {
-          "tit": "S03E06 ",
-          "linkFisico": "v/stranger-things-s03e06.html",
-          "logoEp": "https://image.tmdb.org/t/p/original/uJwQ3xJH36AEfzIR8U5j6jUD0o6.jpg"
-        },
-        {
-          "tit": "S03E07 ",
-          "linkFisico": "v/stranger-things-s03e07.html",
-          "logoEp": "https://image.tmdb.org/t/p/original/uJwQ3xJH36AEfzIR8U5j6jUD0o6.jpg"
-        },
-        {
-          "tit": "S03E08 ",
-          "linkFisico": "v/stranger-things-s03e08.html",
-          "logoEp": "https://image.tmdb.org/t/p/original/uJwQ3xJH36AEfzIR8U5j6jUD0o6.jpg"
-        }
-      ],
-      "4": [
-        {
-          "tit": "S04E01 ",
-          "linkFisico": "v/stranger-things-s04e01.html",
-          "logoEp": "https://image.tmdb.org/t/p/original/uJwQ3xJH36AEfzIR8U5j6jUD0o6.jpg"
-        },
-        {
-          "tit": "S04E02 ",
-          "linkFisico": "v/stranger-things-s04e02.html",
-          "logoEp": "https://image.tmdb.org/t/p/original/uJwQ3xJH36AEfzIR8U5j6jUD0o6.jpg"
-        },
-        {
-          "tit": "S04E03 ",
-          "linkFisico": "v/stranger-things-s04e03.html",
-          "logoEp": "https://image.tmdb.org/t/p/original/uJwQ3xJH36AEfzIR8U5j6jUD0o6.jpg"
-        },
-        {
-          "tit": "S04E04 ",
-          "linkFisico": "v/stranger-things-s04e04.html",
-          "logoEp": "https://image.tmdb.org/t/p/original/uJwQ3xJH36AEfzIR8U5j6jUD0o6.jpg"
-        },
-        {
-          "tit": "S04E05 ",
-          "linkFisico": "v/stranger-things-s04e05.html",
-          "logoEp": "https://image.tmdb.org/t/p/original/uJwQ3xJH36AEfzIR8U5j6jUD0o6.jpg"
-        },
-        {
-          "tit": "S04E06 ",
-          "linkFisico": "v/stranger-things-s04e06.html",
-          "logoEp": "https://image.tmdb.org/t/p/original/uJwQ3xJH36AEfzIR8U5j6jUD0o6.jpg"
-        },
-        {
-          "tit": "S04E07 ",
-          "linkFisico": "v/stranger-things-s04e07.html",
-          "logoEp": "https://image.tmdb.org/t/p/original/uJwQ3xJH36AEfzIR8U5j6jUD0o6.jpg"
-        },
-        {
-          "tit": "S04E08 ",
-          "linkFisico": "v/stranger-things-s04e08.html",
-          "logoEp": "https://image.tmdb.org/t/p/original/uJwQ3xJH36AEfzIR8U5j6jUD0o6.jpg"
-        },
-        {
-          "tit": "S04E09 ",
-          "linkFisico": "v/stranger-things-s04e09.html",
-          "logoEp": "https://image.tmdb.org/t/p/original/uJwQ3xJH36AEfzIR8U5j6jUD0o6.jpg"
-        }
-      ]
-    },
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/8zbAoryWbtH0DKdev8abFAjdufy.jpg"
-  },
-  {
     "id": "sugar-baby",
     "tipo": "filme",
     "categoria": "Drama",
@@ -48122,6 +47931,241 @@
           "tit": "Assistir",
           "linkFisico": "v/resgate-no-golfo.html",
           "logoEp": "https://image.tmdb.org/t/p/w1280/moy4rTZSF8QILp8ksyVLaBKxMVq.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "stranger-things",
+    "tipo": "serie",
+    "categoria": "Séries",
+    "titulo": "Stranger Things",
+    "logo": "https://image.tmdb.org/t/p/w780/twfKp60THrcOIep9sjHODOOfO8d.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/89T83vE1ol8wcI879LutCqv7hMa.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/uyVM5qGksUzCgwo6UU0UrHex8Oj.png",
+    "sinopse": "Quando um garoto desaparece, a cidade toda participa nas buscas. Mas o que encontram são segredos, forças sobrenaturais e uma menina.",
+    "nota": "8.6",
+    "avaliacao": "8.6",
+    "classificacao": "16",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "S01E01",
+          "linkFisico": "v/stranger-things-s01e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/89T83vE1ol8wcI879LutCqv7hMa.jpg"
+        },
+        {
+          "tit": "S01E02",
+          "linkFisico": "v/stranger-things-s01e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/89T83vE1ol8wcI879LutCqv7hMa.jpg"
+        },
+        {
+          "tit": "S01E03",
+          "linkFisico": "v/stranger-things-s01e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/89T83vE1ol8wcI879LutCqv7hMa.jpg"
+        },
+        {
+          "tit": "S01E04",
+          "linkFisico": "v/stranger-things-s01e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/89T83vE1ol8wcI879LutCqv7hMa.jpg"
+        },
+        {
+          "tit": "S01E05",
+          "linkFisico": "v/stranger-things-s01e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/89T83vE1ol8wcI879LutCqv7hMa.jpg"
+        },
+        {
+          "tit": "S01E06",
+          "linkFisico": "v/stranger-things-s01e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/89T83vE1ol8wcI879LutCqv7hMa.jpg"
+        },
+        {
+          "tit": "S01E07",
+          "linkFisico": "v/stranger-things-s01e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/89T83vE1ol8wcI879LutCqv7hMa.jpg"
+        },
+        {
+          "tit": "S01E08",
+          "linkFisico": "v/stranger-things-s01e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/89T83vE1ol8wcI879LutCqv7hMa.jpg"
+        }
+      ],
+      "2": [
+        {
+          "tit": "S02E01",
+          "linkFisico": "v/stranger-things-s02e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/89T83vE1ol8wcI879LutCqv7hMa.jpg"
+        },
+        {
+          "tit": "S02E02",
+          "linkFisico": "v/stranger-things-s02e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/89T83vE1ol8wcI879LutCqv7hMa.jpg"
+        },
+        {
+          "tit": "S02E03",
+          "linkFisico": "v/stranger-things-s02e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/89T83vE1ol8wcI879LutCqv7hMa.jpg"
+        },
+        {
+          "tit": "S02E04",
+          "linkFisico": "v/stranger-things-s02e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/89T83vE1ol8wcI879LutCqv7hMa.jpg"
+        },
+        {
+          "tit": "S02E05",
+          "linkFisico": "v/stranger-things-s02e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/89T83vE1ol8wcI879LutCqv7hMa.jpg"
+        },
+        {
+          "tit": "S02E06",
+          "linkFisico": "v/stranger-things-s02e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/89T83vE1ol8wcI879LutCqv7hMa.jpg"
+        },
+        {
+          "tit": "S02E07",
+          "linkFisico": "v/stranger-things-s02e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/89T83vE1ol8wcI879LutCqv7hMa.jpg"
+        },
+        {
+          "tit": "S02E08",
+          "linkFisico": "v/stranger-things-s02e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/89T83vE1ol8wcI879LutCqv7hMa.jpg"
+        },
+        {
+          "tit": "S02E09",
+          "linkFisico": "v/stranger-things-s02e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/89T83vE1ol8wcI879LutCqv7hMa.jpg"
+        }
+      ],
+      "3": [
+        {
+          "tit": "S03E01",
+          "linkFisico": "v/stranger-things-s03e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/89T83vE1ol8wcI879LutCqv7hMa.jpg"
+        },
+        {
+          "tit": "S03E02",
+          "linkFisico": "v/stranger-things-s03e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/89T83vE1ol8wcI879LutCqv7hMa.jpg"
+        },
+        {
+          "tit": "S03E03",
+          "linkFisico": "v/stranger-things-s03e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/89T83vE1ol8wcI879LutCqv7hMa.jpg"
+        },
+        {
+          "tit": "S03E04",
+          "linkFisico": "v/stranger-things-s03e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/89T83vE1ol8wcI879LutCqv7hMa.jpg"
+        },
+        {
+          "tit": "S03E05",
+          "linkFisico": "v/stranger-things-s03e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/89T83vE1ol8wcI879LutCqv7hMa.jpg"
+        },
+        {
+          "tit": "S03E06",
+          "linkFisico": "v/stranger-things-s03e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/89T83vE1ol8wcI879LutCqv7hMa.jpg"
+        },
+        {
+          "tit": "S03E07",
+          "linkFisico": "v/stranger-things-s03e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/89T83vE1ol8wcI879LutCqv7hMa.jpg"
+        },
+        {
+          "tit": "S03E08",
+          "linkFisico": "v/stranger-things-s03e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/89T83vE1ol8wcI879LutCqv7hMa.jpg"
+        }
+      ],
+      "4": [
+        {
+          "tit": "S04E01",
+          "linkFisico": "v/stranger-things-s04e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/89T83vE1ol8wcI879LutCqv7hMa.jpg"
+        },
+        {
+          "tit": "S04E02",
+          "linkFisico": "v/stranger-things-s04e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/89T83vE1ol8wcI879LutCqv7hMa.jpg"
+        },
+        {
+          "tit": "S04E03",
+          "linkFisico": "v/stranger-things-s04e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/89T83vE1ol8wcI879LutCqv7hMa.jpg"
+        },
+        {
+          "tit": "S04E04",
+          "linkFisico": "v/stranger-things-s04e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/89T83vE1ol8wcI879LutCqv7hMa.jpg"
+        },
+        {
+          "tit": "S04E05",
+          "linkFisico": "v/stranger-things-s04e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/89T83vE1ol8wcI879LutCqv7hMa.jpg"
+        },
+        {
+          "tit": "S04E06",
+          "linkFisico": "v/stranger-things-s04e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/89T83vE1ol8wcI879LutCqv7hMa.jpg"
+        },
+        {
+          "tit": "S04E07",
+          "linkFisico": "v/stranger-things-s04e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/89T83vE1ol8wcI879LutCqv7hMa.jpg"
+        },
+        {
+          "tit": "S04E08",
+          "linkFisico": "v/stranger-things-s04e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/89T83vE1ol8wcI879LutCqv7hMa.jpg"
+        },
+        {
+          "tit": "S04E09",
+          "linkFisico": "v/stranger-things-s04e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/89T83vE1ol8wcI879LutCqv7hMa.jpg"
+        }
+      ],
+      "5": [
+        {
+          "tit": "S05E01",
+          "linkFisico": "v/stranger-things-s05e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/89T83vE1ol8wcI879LutCqv7hMa.jpg"
+        },
+        {
+          "tit": "S05E02",
+          "linkFisico": "v/stranger-things-s05e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/89T83vE1ol8wcI879LutCqv7hMa.jpg"
+        },
+        {
+          "tit": "S05E03",
+          "linkFisico": "v/stranger-things-s05e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/89T83vE1ol8wcI879LutCqv7hMa.jpg"
+        },
+        {
+          "tit": "S05E04",
+          "linkFisico": "v/stranger-things-s05e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/89T83vE1ol8wcI879LutCqv7hMa.jpg"
+        },
+        {
+          "tit": "S05E05",
+          "linkFisico": "v/stranger-things-s05e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/89T83vE1ol8wcI879LutCqv7hMa.jpg"
+        },
+        {
+          "tit": "S05E06",
+          "linkFisico": "v/stranger-things-s05e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/89T83vE1ol8wcI879LutCqv7hMa.jpg"
+        },
+        {
+          "tit": "S05E07",
+          "linkFisico": "v/stranger-things-s05e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/89T83vE1ol8wcI879LutCqv7hMa.jpg"
+        },
+        {
+          "tit": "S05E08",
+          "linkFisico": "v/stranger-things-s05e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/89T83vE1ol8wcI879LutCqv7hMa.jpg"
         }
       ]
     }
