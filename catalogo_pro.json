@@ -48169,5 +48169,27 @@
         }
       ]
     }
+  },
+  {
+    "id": "ano-10",
+    "tipo": "filme",
+    "categoria": "Terror",
+    "titulo": "Ano 10",
+    "logo": "https://image.tmdb.org/t/p/w780/8pqRxtI9IthGmJCZ1i1y2RWkAch.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/yX6H4QXM1Vk6alFPbsw1A41oNNC.jpg",
+    "logo_png": "",
+    "sinopse": "Após um evento catastrófico acabar com a civilização humana, um jovem precisa enfrentar um grupo de canibais que mataram seu pai e roubaram o medicamento que mantém sua namorada viva.",
+    "nota": "5.7",
+    "avaliacao": "5.7",
+    "classificacao": "14",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/ano-10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yX6H4QXM1Vk6alFPbsw1A41oNNC.jpg"
+        }
+      ]
+    }
   }
 ]
