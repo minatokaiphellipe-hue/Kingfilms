@@ -47925,5 +47925,27 @@
         }
       ]
     }
+  },
+  {
+    "id": "consequencia",
+    "tipo": "filme",
+    "categoria": "Drama",
+    "titulo": "Consequência",
+    "logo": "https://image.tmdb.org/t/p/w780/dTQZwcItQNEeSjpk3BYKYg27v9t.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/3t2xnoRRAMCPXWZcHY8WkNCG86j.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/7THokFo8SbOzRHazxokig4YRMgs.png",
+    "sinopse": "Reef Hawk, o queridinho de Hollywood desde os seis anos, não está bem. Ao descobrir um plano de extorsão ligado a um vídeo misterioso, Reef decide embarcar em uma jornada de redenção para se retratar, confrontar seus demônios e evitar o cancelamento.",
+    "nota": "6.8",
+    "avaliacao": "6.8",
+    "classificacao": "14",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/consequencia.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/3t2xnoRRAMCPXWZcHY8WkNCG86j.jpg"
+        }
+      ]
+    }
   }
 ]
