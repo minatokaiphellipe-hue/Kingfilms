@@ -47540,5 +47540,49 @@
         }
       ]
     }
+  },
+  {
+    "id": "monstros-vs-alienigenas",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Monstros vs Alienígenas",
+    "logo": "https://image.tmdb.org/t/p/w780/vs70zYYuEbBTAHxqz5AyUBxbYUR.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/rsPgVbRRvAOICejF21pl8Dv5Ghx.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/6rBJvfOpMti6yF7ISNHj2rmIGco.png",
+    "sinopse": "Um meteoro atinge Susan, e ela se transforma em uma gigante. Então, o governo a leva para uma área isolada. Quando os alienígenas chegam à Terra, Susan e os outros monstros ajudam a salvar o planeta.",
+    "nota": "6.2",
+    "avaliacao": "6.2",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/monstros-vs-alienigenas.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/rsPgVbRRvAOICejF21pl8Dv5Ghx.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "amor-e-monstros",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "Amor e Monstros",
+    "logo": "https://image.tmdb.org/t/p/w780/b77MZUZQJjbmyL4CS2EyOBRUngD.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/5POxUwR0QfLTEdYnCI83sTPV0Mn.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/nEswkfMwcY0nhbYY7G90LwvxyPR.png",
+    "sinopse": "Após o mundo ser invadido por monstros, Joel terá de se aventurar por metade do país, em meio a todo tipo de perigos, para tentar encontrar o amor da sua vida.",
+    "nota": "7.3",
+    "avaliacao": "7.3",
+    "classificacao": "12",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/amor-e-monstros.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/5POxUwR0QfLTEdYnCI83sTPV0Mn.jpg"
+        }
+      ]
+    }
   }
 ]
