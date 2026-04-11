@@ -47421,5 +47421,124 @@
         }
       ]
     }
+  },
+  {
+    "id": "monstros-no-trabalho",
+    "tipo": "serie",
+    "categoria": "Séries",
+    "titulo": "Monstros no Trabalho",
+    "logo": "https://image.tmdb.org/t/p/w780/uDLxE0gaNqRmIWbFZkAvnsUNWkx.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/ueXwDszTD6gioW2u2ODBt0Zv7wI.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/7KZ55MPceV1ENsv842ejny5fgSq.png",
+    "sinopse": "Tylor Tuskmon é o primeiro da turma na Universidade Monstros e chega à Monstros S.A. para começar seu trabalho dos sonhos como um Assustador... ou não. No dia em que ele está pronto para começar, ele descobre que não querem Assustadores... querem Cômicos! Tylor é temporariamente transferido para a equipe de instaladores da Monstros S.A. Essa mudança destrói o plano de Tylor, mas ele tem um novo objetivo: se tornar um Cômico.",
+    "nota": "7.2",
+    "avaliacao": "7.2",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "S01E01",
+          "linkFisico": "v/monstros-no-trabalho-s01e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/ueXwDszTD6gioW2u2ODBt0Zv7wI.jpg"
+        },
+        {
+          "tit": "S01E02",
+          "linkFisico": "v/monstros-no-trabalho-s01e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/ueXwDszTD6gioW2u2ODBt0Zv7wI.jpg"
+        },
+        {
+          "tit": "S01E03",
+          "linkFisico": "v/monstros-no-trabalho-s01e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/ueXwDszTD6gioW2u2ODBt0Zv7wI.jpg"
+        },
+        {
+          "tit": "S01E04",
+          "linkFisico": "v/monstros-no-trabalho-s01e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/ueXwDszTD6gioW2u2ODBt0Zv7wI.jpg"
+        },
+        {
+          "tit": "S01E05",
+          "linkFisico": "v/monstros-no-trabalho-s01e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/ueXwDszTD6gioW2u2ODBt0Zv7wI.jpg"
+        },
+        {
+          "tit": "S01E06",
+          "linkFisico": "v/monstros-no-trabalho-s01e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/ueXwDszTD6gioW2u2ODBt0Zv7wI.jpg"
+        },
+        {
+          "tit": "S01E07",
+          "linkFisico": "v/monstros-no-trabalho-s01e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/ueXwDszTD6gioW2u2ODBt0Zv7wI.jpg"
+        },
+        {
+          "tit": "S01E08",
+          "linkFisico": "v/monstros-no-trabalho-s01e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/ueXwDszTD6gioW2u2ODBt0Zv7wI.jpg"
+        },
+        {
+          "tit": "S01E09",
+          "linkFisico": "v/monstros-no-trabalho-s01e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/ueXwDszTD6gioW2u2ODBt0Zv7wI.jpg"
+        },
+        {
+          "tit": "S01E10",
+          "linkFisico": "v/monstros-no-trabalho-s01e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/ueXwDszTD6gioW2u2ODBt0Zv7wI.jpg"
+        }
+      ],
+      "2": [
+        {
+          "tit": "S02E01",
+          "linkFisico": "v/monstros-no-trabalho-s02e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/ueXwDszTD6gioW2u2ODBt0Zv7wI.jpg"
+        },
+        {
+          "tit": "S02E02",
+          "linkFisico": "v/monstros-no-trabalho-s02e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/ueXwDszTD6gioW2u2ODBt0Zv7wI.jpg"
+        },
+        {
+          "tit": "S02E03",
+          "linkFisico": "v/monstros-no-trabalho-s02e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/ueXwDszTD6gioW2u2ODBt0Zv7wI.jpg"
+        },
+        {
+          "tit": "S02E04",
+          "linkFisico": "v/monstros-no-trabalho-s02e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/ueXwDszTD6gioW2u2ODBt0Zv7wI.jpg"
+        },
+        {
+          "tit": "S02E05",
+          "linkFisico": "v/monstros-no-trabalho-s02e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/ueXwDszTD6gioW2u2ODBt0Zv7wI.jpg"
+        },
+        {
+          "tit": "S02E06",
+          "linkFisico": "v/monstros-no-trabalho-s02e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/ueXwDszTD6gioW2u2ODBt0Zv7wI.jpg"
+        },
+        {
+          "tit": "S02E07",
+          "linkFisico": "v/monstros-no-trabalho-s02e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/ueXwDszTD6gioW2u2ODBt0Zv7wI.jpg"
+        },
+        {
+          "tit": "S02E08",
+          "linkFisico": "v/monstros-no-trabalho-s02e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/ueXwDszTD6gioW2u2ODBt0Zv7wI.jpg"
+        },
+        {
+          "tit": "S02E09",
+          "linkFisico": "v/monstros-no-trabalho-s02e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/ueXwDszTD6gioW2u2ODBt0Zv7wI.jpg"
+        },
+        {
+          "tit": "S02E10",
+          "linkFisico": "v/monstros-no-trabalho-s02e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/ueXwDszTD6gioW2u2ODBt0Zv7wI.jpg"
+        }
+      ]
+    }
   }
 ]
