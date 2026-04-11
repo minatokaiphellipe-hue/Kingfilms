@@ -47947,5 +47947,27 @@
         }
       ]
     }
+  },
+  {
+    "id": "des-controle",
+    "tipo": "filme",
+    "categoria": "Drama",
+    "titulo": "(Des)controle",
+    "logo": "https://image.tmdb.org/t/p/w780/scl6uVD0YZc46WZHgXbEcaH2zYw.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/kskuAryLOhMTtsb8QIngE1H4XmJ.jpg",
+    "logo_png": "",
+    "sinopse": "Kátia Klein é uma escritora bem-sucedida que enfrenta uma crise criativa às vésperas da entrega do seu novo livro, ao mesmo tempo em que descobre a falência do seu casamento e administra o acúmulo das demandas dos filhos e dos pais. Sobrecarregada e em busca de alívio, ela passa de uma simples taça de vinho ao total descontrole, sendo gradualmente engolida pelos excessos do vício.",
+    "nota": "7.7",
+    "avaliacao": "7.7",
+    "classificacao": "16",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/des-controle.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kskuAryLOhMTtsb8QIngE1H4XmJ.jpg"
+        }
+      ]
+    }
   }
 ]
