@@ -47969,5 +47969,139 @@
         }
       ]
     }
+  },
+  {
+    "id": "final-space",
+    "tipo": "serie",
+    "categoria": "Séries",
+    "titulo": "Final Space",
+    "logo": "https://image.tmdb.org/t/p/w780/cf4chvwB40cEpsagSrRaEIqBFoG.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/yGFiJs5iq9Hw0OUJ0f4aM7kvaeD.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/bLBYRtWT38pNsQhP8FFQNyyJZAQ.png",
+    "sinopse": "Um humano prisioneiro no espaço e um incrível alienígena destruidor de planetas partem em uma aventura interestelar para salvar o universo.",
+    "nota": "8.4",
+    "avaliacao": "8.4",
+    "classificacao": "16",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "S01E01",
+          "linkFisico": "v/final-space-s01e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yGFiJs5iq9Hw0OUJ0f4aM7kvaeD.jpg"
+        },
+        {
+          "tit": "S01E02",
+          "linkFisico": "v/final-space-s01e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yGFiJs5iq9Hw0OUJ0f4aM7kvaeD.jpg"
+        },
+        {
+          "tit": "S01E03",
+          "linkFisico": "v/final-space-s01e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yGFiJs5iq9Hw0OUJ0f4aM7kvaeD.jpg"
+        },
+        {
+          "tit": "S01E04",
+          "linkFisico": "v/final-space-s01e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yGFiJs5iq9Hw0OUJ0f4aM7kvaeD.jpg"
+        },
+        {
+          "tit": "S01E05",
+          "linkFisico": "v/final-space-s01e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yGFiJs5iq9Hw0OUJ0f4aM7kvaeD.jpg"
+        },
+        {
+          "tit": "S01E06",
+          "linkFisico": "v/final-space-s01e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yGFiJs5iq9Hw0OUJ0f4aM7kvaeD.jpg"
+        },
+        {
+          "tit": "S01E07",
+          "linkFisico": "v/final-space-s01e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yGFiJs5iq9Hw0OUJ0f4aM7kvaeD.jpg"
+        },
+        {
+          "tit": "S01E08",
+          "linkFisico": "v/final-space-s01e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yGFiJs5iq9Hw0OUJ0f4aM7kvaeD.jpg"
+        },
+        {
+          "tit": "S01E09",
+          "linkFisico": "v/final-space-s01e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yGFiJs5iq9Hw0OUJ0f4aM7kvaeD.jpg"
+        },
+        {
+          "tit": "S01E10",
+          "linkFisico": "v/final-space-s01e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yGFiJs5iq9Hw0OUJ0f4aM7kvaeD.jpg"
+        }
+      ],
+      "2": [
+        {
+          "tit": "S02E01",
+          "linkFisico": "v/final-space-s02e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yGFiJs5iq9Hw0OUJ0f4aM7kvaeD.jpg"
+        },
+        {
+          "tit": "S02E02",
+          "linkFisico": "v/final-space-s02e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yGFiJs5iq9Hw0OUJ0f4aM7kvaeD.jpg"
+        },
+        {
+          "tit": "S02E03",
+          "linkFisico": "v/final-space-s02e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yGFiJs5iq9Hw0OUJ0f4aM7kvaeD.jpg"
+        },
+        {
+          "tit": "S02E04",
+          "linkFisico": "v/final-space-s02e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yGFiJs5iq9Hw0OUJ0f4aM7kvaeD.jpg"
+        },
+        {
+          "tit": "S02E05",
+          "linkFisico": "v/final-space-s02e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yGFiJs5iq9Hw0OUJ0f4aM7kvaeD.jpg"
+        },
+        {
+          "tit": "S02E06",
+          "linkFisico": "v/final-space-s02e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yGFiJs5iq9Hw0OUJ0f4aM7kvaeD.jpg"
+        },
+        {
+          "tit": "S02E07",
+          "linkFisico": "v/final-space-s02e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yGFiJs5iq9Hw0OUJ0f4aM7kvaeD.jpg"
+        },
+        {
+          "tit": "S02E08",
+          "linkFisico": "v/final-space-s02e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yGFiJs5iq9Hw0OUJ0f4aM7kvaeD.jpg"
+        },
+        {
+          "tit": "S02E09",
+          "linkFisico": "v/final-space-s02e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yGFiJs5iq9Hw0OUJ0f4aM7kvaeD.jpg"
+        },
+        {
+          "tit": "S02E10",
+          "linkFisico": "v/final-space-s02e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yGFiJs5iq9Hw0OUJ0f4aM7kvaeD.jpg"
+        },
+        {
+          "tit": "S02E11",
+          "linkFisico": "v/final-space-s02e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yGFiJs5iq9Hw0OUJ0f4aM7kvaeD.jpg"
+        },
+        {
+          "tit": "S02E12",
+          "linkFisico": "v/final-space-s02e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yGFiJs5iq9Hw0OUJ0f4aM7kvaeD.jpg"
+        },
+        {
+          "tit": "S02E13",
+          "linkFisico": "v/final-space-s02e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yGFiJs5iq9Hw0OUJ0f4aM7kvaeD.jpg"
+        }
+      ]
+    }
   }
 ]
