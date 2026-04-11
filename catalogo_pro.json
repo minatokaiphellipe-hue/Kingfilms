@@ -45583,5 +45583,1843 @@
         }
       ]
     }
+  },
+  {
+    "id": "uma-familia-da-pesada",
+    "tipo": "serie",
+    "categoria": "Séries",
+    "titulo": "Uma Família da Pesada",
+    "logo": "https://image.tmdb.org/t/p/w780/j28XGzAhvJNGWEHbYrzvREw7kKd.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/4gl00NPDu3y01X9w5AaMOa5cJ4M.png",
+    "sinopse": "A série animada apresenta as aventuras da família Griffin. O ignorante Peter e sua esposa Lois residem em Quahog, em Rhode Island e têm três filhos. Meg, a filha mais velha, é uma pária social, e o adolescente Chris é estranho e sem noção quando se trata do sexo oposto. O mais novo, Stewie, é um bebê gênio decidido a matar sua mãe e destruir o mundo. O cachorro falante, Brian, mantém Stewie sob controle enquanto toma martinis e resolve seus próprios problemas de vida.",
+    "nota": "7.4",
+    "avaliacao": "7.4",
+    "classificacao": "16",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "S01E01",
+          "linkFisico": "v/uma-familia-da-pesada-s01e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S01E02",
+          "linkFisico": "v/uma-familia-da-pesada-s01e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S01E03",
+          "linkFisico": "v/uma-familia-da-pesada-s01e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S01E04",
+          "linkFisico": "v/uma-familia-da-pesada-s01e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S01E05",
+          "linkFisico": "v/uma-familia-da-pesada-s01e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S01E06",
+          "linkFisico": "v/uma-familia-da-pesada-s01e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S01E07",
+          "linkFisico": "v/uma-familia-da-pesada-s01e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        }
+      ],
+      "2": [
+        {
+          "tit": "S02E01",
+          "linkFisico": "v/uma-familia-da-pesada-s02e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S02E02",
+          "linkFisico": "v/uma-familia-da-pesada-s02e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S02E03",
+          "linkFisico": "v/uma-familia-da-pesada-s02e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S02E04",
+          "linkFisico": "v/uma-familia-da-pesada-s02e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S02E05",
+          "linkFisico": "v/uma-familia-da-pesada-s02e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S02E06",
+          "linkFisico": "v/uma-familia-da-pesada-s02e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S02E07",
+          "linkFisico": "v/uma-familia-da-pesada-s02e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S02E08",
+          "linkFisico": "v/uma-familia-da-pesada-s02e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S02E09",
+          "linkFisico": "v/uma-familia-da-pesada-s02e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S02E10",
+          "linkFisico": "v/uma-familia-da-pesada-s02e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S02E11",
+          "linkFisico": "v/uma-familia-da-pesada-s02e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S02E12",
+          "linkFisico": "v/uma-familia-da-pesada-s02e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S02E13",
+          "linkFisico": "v/uma-familia-da-pesada-s02e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S02E14",
+          "linkFisico": "v/uma-familia-da-pesada-s02e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S02E15",
+          "linkFisico": "v/uma-familia-da-pesada-s02e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S02E16",
+          "linkFisico": "v/uma-familia-da-pesada-s02e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S02E17",
+          "linkFisico": "v/uma-familia-da-pesada-s02e17.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S02E18",
+          "linkFisico": "v/uma-familia-da-pesada-s02e18.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S02E19",
+          "linkFisico": "v/uma-familia-da-pesada-s02e19.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S02E20",
+          "linkFisico": "v/uma-familia-da-pesada-s02e20.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S02E21",
+          "linkFisico": "v/uma-familia-da-pesada-s02e21.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        }
+      ],
+      "3": [
+        {
+          "tit": "S03E01",
+          "linkFisico": "v/uma-familia-da-pesada-s03e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S03E02",
+          "linkFisico": "v/uma-familia-da-pesada-s03e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S03E03",
+          "linkFisico": "v/uma-familia-da-pesada-s03e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S03E04",
+          "linkFisico": "v/uma-familia-da-pesada-s03e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S03E05",
+          "linkFisico": "v/uma-familia-da-pesada-s03e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S03E06",
+          "linkFisico": "v/uma-familia-da-pesada-s03e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S03E07",
+          "linkFisico": "v/uma-familia-da-pesada-s03e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S03E08",
+          "linkFisico": "v/uma-familia-da-pesada-s03e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S03E09",
+          "linkFisico": "v/uma-familia-da-pesada-s03e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S03E10",
+          "linkFisico": "v/uma-familia-da-pesada-s03e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S03E11",
+          "linkFisico": "v/uma-familia-da-pesada-s03e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S03E12",
+          "linkFisico": "v/uma-familia-da-pesada-s03e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S03E13",
+          "linkFisico": "v/uma-familia-da-pesada-s03e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S03E14",
+          "linkFisico": "v/uma-familia-da-pesada-s03e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S03E15",
+          "linkFisico": "v/uma-familia-da-pesada-s03e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S03E16",
+          "linkFisico": "v/uma-familia-da-pesada-s03e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S03E17",
+          "linkFisico": "v/uma-familia-da-pesada-s03e17.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S03E18",
+          "linkFisico": "v/uma-familia-da-pesada-s03e18.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S03E19",
+          "linkFisico": "v/uma-familia-da-pesada-s03e19.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S03E20",
+          "linkFisico": "v/uma-familia-da-pesada-s03e20.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S03E21",
+          "linkFisico": "v/uma-familia-da-pesada-s03e21.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S03E22",
+          "linkFisico": "v/uma-familia-da-pesada-s03e22.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        }
+      ],
+      "4": [
+        {
+          "tit": "S04E01",
+          "linkFisico": "v/uma-familia-da-pesada-s04e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S04E02",
+          "linkFisico": "v/uma-familia-da-pesada-s04e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S04E03",
+          "linkFisico": "v/uma-familia-da-pesada-s04e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S04E04",
+          "linkFisico": "v/uma-familia-da-pesada-s04e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S04E05",
+          "linkFisico": "v/uma-familia-da-pesada-s04e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S04E06",
+          "linkFisico": "v/uma-familia-da-pesada-s04e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S04E07",
+          "linkFisico": "v/uma-familia-da-pesada-s04e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S04E08",
+          "linkFisico": "v/uma-familia-da-pesada-s04e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S04E09",
+          "linkFisico": "v/uma-familia-da-pesada-s04e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S04E10",
+          "linkFisico": "v/uma-familia-da-pesada-s04e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S04E11",
+          "linkFisico": "v/uma-familia-da-pesada-s04e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S04E12",
+          "linkFisico": "v/uma-familia-da-pesada-s04e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S04E13",
+          "linkFisico": "v/uma-familia-da-pesada-s04e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S04E14",
+          "linkFisico": "v/uma-familia-da-pesada-s04e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S04E15",
+          "linkFisico": "v/uma-familia-da-pesada-s04e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S04E16",
+          "linkFisico": "v/uma-familia-da-pesada-s04e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S04E17",
+          "linkFisico": "v/uma-familia-da-pesada-s04e17.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S04E18",
+          "linkFisico": "v/uma-familia-da-pesada-s04e18.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S04E19",
+          "linkFisico": "v/uma-familia-da-pesada-s04e19.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S04E20",
+          "linkFisico": "v/uma-familia-da-pesada-s04e20.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S04E21",
+          "linkFisico": "v/uma-familia-da-pesada-s04e21.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S04E22",
+          "linkFisico": "v/uma-familia-da-pesada-s04e22.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S04E23",
+          "linkFisico": "v/uma-familia-da-pesada-s04e23.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S04E24",
+          "linkFisico": "v/uma-familia-da-pesada-s04e24.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S04E25",
+          "linkFisico": "v/uma-familia-da-pesada-s04e25.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S04E26",
+          "linkFisico": "v/uma-familia-da-pesada-s04e26.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S04E27",
+          "linkFisico": "v/uma-familia-da-pesada-s04e27.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S04E28",
+          "linkFisico": "v/uma-familia-da-pesada-s04e28.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S04E29",
+          "linkFisico": "v/uma-familia-da-pesada-s04e29.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S04E30",
+          "linkFisico": "v/uma-familia-da-pesada-s04e30.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        }
+      ],
+      "5": [
+        {
+          "tit": "S05E01",
+          "linkFisico": "v/uma-familia-da-pesada-s05e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S05E02",
+          "linkFisico": "v/uma-familia-da-pesada-s05e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S05E03",
+          "linkFisico": "v/uma-familia-da-pesada-s05e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S05E04",
+          "linkFisico": "v/uma-familia-da-pesada-s05e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S05E05",
+          "linkFisico": "v/uma-familia-da-pesada-s05e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S05E06",
+          "linkFisico": "v/uma-familia-da-pesada-s05e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S05E07",
+          "linkFisico": "v/uma-familia-da-pesada-s05e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S05E08",
+          "linkFisico": "v/uma-familia-da-pesada-s05e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S05E09",
+          "linkFisico": "v/uma-familia-da-pesada-s05e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S05E10",
+          "linkFisico": "v/uma-familia-da-pesada-s05e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S05E11",
+          "linkFisico": "v/uma-familia-da-pesada-s05e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S05E12",
+          "linkFisico": "v/uma-familia-da-pesada-s05e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S05E13",
+          "linkFisico": "v/uma-familia-da-pesada-s05e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S05E14",
+          "linkFisico": "v/uma-familia-da-pesada-s05e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S05E15",
+          "linkFisico": "v/uma-familia-da-pesada-s05e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S05E16",
+          "linkFisico": "v/uma-familia-da-pesada-s05e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S05E17",
+          "linkFisico": "v/uma-familia-da-pesada-s05e17.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S05E18",
+          "linkFisico": "v/uma-familia-da-pesada-s05e18.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        }
+      ],
+      "6": [
+        {
+          "tit": "S06E01",
+          "linkFisico": "v/uma-familia-da-pesada-s06e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S06E02",
+          "linkFisico": "v/uma-familia-da-pesada-s06e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S06E03",
+          "linkFisico": "v/uma-familia-da-pesada-s06e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S06E04",
+          "linkFisico": "v/uma-familia-da-pesada-s06e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S06E05",
+          "linkFisico": "v/uma-familia-da-pesada-s06e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S06E06",
+          "linkFisico": "v/uma-familia-da-pesada-s06e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S06E07",
+          "linkFisico": "v/uma-familia-da-pesada-s06e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S06E08",
+          "linkFisico": "v/uma-familia-da-pesada-s06e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S06E09",
+          "linkFisico": "v/uma-familia-da-pesada-s06e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S06E10",
+          "linkFisico": "v/uma-familia-da-pesada-s06e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S06E11",
+          "linkFisico": "v/uma-familia-da-pesada-s06e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S06E12",
+          "linkFisico": "v/uma-familia-da-pesada-s06e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        }
+      ],
+      "7": [
+        {
+          "tit": "S07E01",
+          "linkFisico": "v/uma-familia-da-pesada-s07e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S07E02",
+          "linkFisico": "v/uma-familia-da-pesada-s07e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S07E03",
+          "linkFisico": "v/uma-familia-da-pesada-s07e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S07E04",
+          "linkFisico": "v/uma-familia-da-pesada-s07e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S07E05",
+          "linkFisico": "v/uma-familia-da-pesada-s07e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S07E06",
+          "linkFisico": "v/uma-familia-da-pesada-s07e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S07E07",
+          "linkFisico": "v/uma-familia-da-pesada-s07e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S07E08",
+          "linkFisico": "v/uma-familia-da-pesada-s07e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S07E09",
+          "linkFisico": "v/uma-familia-da-pesada-s07e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S07E10",
+          "linkFisico": "v/uma-familia-da-pesada-s07e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S07E11",
+          "linkFisico": "v/uma-familia-da-pesada-s07e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S07E12",
+          "linkFisico": "v/uma-familia-da-pesada-s07e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S07E13",
+          "linkFisico": "v/uma-familia-da-pesada-s07e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S07E14",
+          "linkFisico": "v/uma-familia-da-pesada-s07e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S07E15",
+          "linkFisico": "v/uma-familia-da-pesada-s07e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S07E16",
+          "linkFisico": "v/uma-familia-da-pesada-s07e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        }
+      ],
+      "8": [
+        {
+          "tit": "S08E01",
+          "linkFisico": "v/uma-familia-da-pesada-s08e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S08E02",
+          "linkFisico": "v/uma-familia-da-pesada-s08e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S08E03",
+          "linkFisico": "v/uma-familia-da-pesada-s08e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S08E04",
+          "linkFisico": "v/uma-familia-da-pesada-s08e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S08E05",
+          "linkFisico": "v/uma-familia-da-pesada-s08e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S08E06",
+          "linkFisico": "v/uma-familia-da-pesada-s08e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S08E07",
+          "linkFisico": "v/uma-familia-da-pesada-s08e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S08E08",
+          "linkFisico": "v/uma-familia-da-pesada-s08e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S08E09",
+          "linkFisico": "v/uma-familia-da-pesada-s08e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S08E10",
+          "linkFisico": "v/uma-familia-da-pesada-s08e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S08E11",
+          "linkFisico": "v/uma-familia-da-pesada-s08e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S08E12",
+          "linkFisico": "v/uma-familia-da-pesada-s08e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S08E13",
+          "linkFisico": "v/uma-familia-da-pesada-s08e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S08E14",
+          "linkFisico": "v/uma-familia-da-pesada-s08e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S08E15",
+          "linkFisico": "v/uma-familia-da-pesada-s08e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S08E16",
+          "linkFisico": "v/uma-familia-da-pesada-s08e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S08E17",
+          "linkFisico": "v/uma-familia-da-pesada-s08e17.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S08E18",
+          "linkFisico": "v/uma-familia-da-pesada-s08e18.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S08E19",
+          "linkFisico": "v/uma-familia-da-pesada-s08e19.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S08E20",
+          "linkFisico": "v/uma-familia-da-pesada-s08e20.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        }
+      ],
+      "9": [
+        {
+          "tit": "S09E01",
+          "linkFisico": "v/uma-familia-da-pesada-s09e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S09E02",
+          "linkFisico": "v/uma-familia-da-pesada-s09e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S09E03",
+          "linkFisico": "v/uma-familia-da-pesada-s09e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S09E04",
+          "linkFisico": "v/uma-familia-da-pesada-s09e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S09E05",
+          "linkFisico": "v/uma-familia-da-pesada-s09e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S09E06",
+          "linkFisico": "v/uma-familia-da-pesada-s09e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S09E07",
+          "linkFisico": "v/uma-familia-da-pesada-s09e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S09E08",
+          "linkFisico": "v/uma-familia-da-pesada-s09e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S09E09",
+          "linkFisico": "v/uma-familia-da-pesada-s09e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S09E10",
+          "linkFisico": "v/uma-familia-da-pesada-s09e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S09E11",
+          "linkFisico": "v/uma-familia-da-pesada-s09e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S09E12",
+          "linkFisico": "v/uma-familia-da-pesada-s09e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S09E13",
+          "linkFisico": "v/uma-familia-da-pesada-s09e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S09E14",
+          "linkFisico": "v/uma-familia-da-pesada-s09e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S09E15",
+          "linkFisico": "v/uma-familia-da-pesada-s09e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S09E16",
+          "linkFisico": "v/uma-familia-da-pesada-s09e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S09E17",
+          "linkFisico": "v/uma-familia-da-pesada-s09e17.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S09E18",
+          "linkFisico": "v/uma-familia-da-pesada-s09e18.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        }
+      ],
+      "10": [
+        {
+          "tit": "S10E01",
+          "linkFisico": "v/uma-familia-da-pesada-s10e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S10E02",
+          "linkFisico": "v/uma-familia-da-pesada-s10e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S10E03",
+          "linkFisico": "v/uma-familia-da-pesada-s10e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S10E04",
+          "linkFisico": "v/uma-familia-da-pesada-s10e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S10E05",
+          "linkFisico": "v/uma-familia-da-pesada-s10e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S10E06",
+          "linkFisico": "v/uma-familia-da-pesada-s10e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S10E07",
+          "linkFisico": "v/uma-familia-da-pesada-s10e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S10E08",
+          "linkFisico": "v/uma-familia-da-pesada-s10e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S10E09",
+          "linkFisico": "v/uma-familia-da-pesada-s10e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S10E10",
+          "linkFisico": "v/uma-familia-da-pesada-s10e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S10E11",
+          "linkFisico": "v/uma-familia-da-pesada-s10e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S10E12",
+          "linkFisico": "v/uma-familia-da-pesada-s10e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S10E13",
+          "linkFisico": "v/uma-familia-da-pesada-s10e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S10E14",
+          "linkFisico": "v/uma-familia-da-pesada-s10e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S10E15",
+          "linkFisico": "v/uma-familia-da-pesada-s10e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S10E16",
+          "linkFisico": "v/uma-familia-da-pesada-s10e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S10E17",
+          "linkFisico": "v/uma-familia-da-pesada-s10e17.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S10E18",
+          "linkFisico": "v/uma-familia-da-pesada-s10e18.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S10E19",
+          "linkFisico": "v/uma-familia-da-pesada-s10e19.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S10E20",
+          "linkFisico": "v/uma-familia-da-pesada-s10e20.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S10E21",
+          "linkFisico": "v/uma-familia-da-pesada-s10e21.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S10E22",
+          "linkFisico": "v/uma-familia-da-pesada-s10e22.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S10E23",
+          "linkFisico": "v/uma-familia-da-pesada-s10e23.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        }
+      ],
+      "11": [
+        {
+          "tit": "S11E01",
+          "linkFisico": "v/uma-familia-da-pesada-s11e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S11E02",
+          "linkFisico": "v/uma-familia-da-pesada-s11e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S11E03",
+          "linkFisico": "v/uma-familia-da-pesada-s11e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S11E04",
+          "linkFisico": "v/uma-familia-da-pesada-s11e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S11E05",
+          "linkFisico": "v/uma-familia-da-pesada-s11e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S11E06",
+          "linkFisico": "v/uma-familia-da-pesada-s11e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S11E07",
+          "linkFisico": "v/uma-familia-da-pesada-s11e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S11E08",
+          "linkFisico": "v/uma-familia-da-pesada-s11e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S11E09",
+          "linkFisico": "v/uma-familia-da-pesada-s11e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S11E10",
+          "linkFisico": "v/uma-familia-da-pesada-s11e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S11E11",
+          "linkFisico": "v/uma-familia-da-pesada-s11e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S11E12",
+          "linkFisico": "v/uma-familia-da-pesada-s11e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S11E13",
+          "linkFisico": "v/uma-familia-da-pesada-s11e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S11E14",
+          "linkFisico": "v/uma-familia-da-pesada-s11e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S11E15",
+          "linkFisico": "v/uma-familia-da-pesada-s11e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S11E16",
+          "linkFisico": "v/uma-familia-da-pesada-s11e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S11E17",
+          "linkFisico": "v/uma-familia-da-pesada-s11e17.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S11E18",
+          "linkFisico": "v/uma-familia-da-pesada-s11e18.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S11E19",
+          "linkFisico": "v/uma-familia-da-pesada-s11e19.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S11E20",
+          "linkFisico": "v/uma-familia-da-pesada-s11e20.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S11E21",
+          "linkFisico": "v/uma-familia-da-pesada-s11e21.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S11E22",
+          "linkFisico": "v/uma-familia-da-pesada-s11e22.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        }
+      ],
+      "12": [
+        {
+          "tit": "S12E01",
+          "linkFisico": "v/uma-familia-da-pesada-s12e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S12E02",
+          "linkFisico": "v/uma-familia-da-pesada-s12e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S12E03",
+          "linkFisico": "v/uma-familia-da-pesada-s12e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S12E04",
+          "linkFisico": "v/uma-familia-da-pesada-s12e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S12E05",
+          "linkFisico": "v/uma-familia-da-pesada-s12e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S12E06",
+          "linkFisico": "v/uma-familia-da-pesada-s12e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S12E07",
+          "linkFisico": "v/uma-familia-da-pesada-s12e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S12E08",
+          "linkFisico": "v/uma-familia-da-pesada-s12e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S12E09",
+          "linkFisico": "v/uma-familia-da-pesada-s12e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S12E10",
+          "linkFisico": "v/uma-familia-da-pesada-s12e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S12E11",
+          "linkFisico": "v/uma-familia-da-pesada-s12e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S12E12",
+          "linkFisico": "v/uma-familia-da-pesada-s12e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S12E13",
+          "linkFisico": "v/uma-familia-da-pesada-s12e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S12E14",
+          "linkFisico": "v/uma-familia-da-pesada-s12e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S12E15",
+          "linkFisico": "v/uma-familia-da-pesada-s12e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S12E16",
+          "linkFisico": "v/uma-familia-da-pesada-s12e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S12E17",
+          "linkFisico": "v/uma-familia-da-pesada-s12e17.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S12E18",
+          "linkFisico": "v/uma-familia-da-pesada-s12e18.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S12E19",
+          "linkFisico": "v/uma-familia-da-pesada-s12e19.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S12E20",
+          "linkFisico": "v/uma-familia-da-pesada-s12e20.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S12E21",
+          "linkFisico": "v/uma-familia-da-pesada-s12e21.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        }
+      ],
+      "13": [
+        {
+          "tit": "S13E01",
+          "linkFisico": "v/uma-familia-da-pesada-s13e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S13E02",
+          "linkFisico": "v/uma-familia-da-pesada-s13e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S13E03",
+          "linkFisico": "v/uma-familia-da-pesada-s13e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S13E04",
+          "linkFisico": "v/uma-familia-da-pesada-s13e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S13E05",
+          "linkFisico": "v/uma-familia-da-pesada-s13e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S13E06",
+          "linkFisico": "v/uma-familia-da-pesada-s13e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S13E07",
+          "linkFisico": "v/uma-familia-da-pesada-s13e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S13E08",
+          "linkFisico": "v/uma-familia-da-pesada-s13e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S13E09",
+          "linkFisico": "v/uma-familia-da-pesada-s13e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S13E10",
+          "linkFisico": "v/uma-familia-da-pesada-s13e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S13E11",
+          "linkFisico": "v/uma-familia-da-pesada-s13e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S13E12",
+          "linkFisico": "v/uma-familia-da-pesada-s13e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S13E13",
+          "linkFisico": "v/uma-familia-da-pesada-s13e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S13E14",
+          "linkFisico": "v/uma-familia-da-pesada-s13e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S13E15",
+          "linkFisico": "v/uma-familia-da-pesada-s13e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S13E16",
+          "linkFisico": "v/uma-familia-da-pesada-s13e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S13E17",
+          "linkFisico": "v/uma-familia-da-pesada-s13e17.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S13E18",
+          "linkFisico": "v/uma-familia-da-pesada-s13e18.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        }
+      ],
+      "14": [
+        {
+          "tit": "S14E01",
+          "linkFisico": "v/uma-familia-da-pesada-s14e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S14E02",
+          "linkFisico": "v/uma-familia-da-pesada-s14e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S14E03",
+          "linkFisico": "v/uma-familia-da-pesada-s14e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S14E04",
+          "linkFisico": "v/uma-familia-da-pesada-s14e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S14E05",
+          "linkFisico": "v/uma-familia-da-pesada-s14e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S14E06",
+          "linkFisico": "v/uma-familia-da-pesada-s14e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S14E07",
+          "linkFisico": "v/uma-familia-da-pesada-s14e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S14E08",
+          "linkFisico": "v/uma-familia-da-pesada-s14e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S14E09",
+          "linkFisico": "v/uma-familia-da-pesada-s14e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S14E10",
+          "linkFisico": "v/uma-familia-da-pesada-s14e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S14E11",
+          "linkFisico": "v/uma-familia-da-pesada-s14e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S14E12",
+          "linkFisico": "v/uma-familia-da-pesada-s14e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S14E13",
+          "linkFisico": "v/uma-familia-da-pesada-s14e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S14E14",
+          "linkFisico": "v/uma-familia-da-pesada-s14e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S14E15",
+          "linkFisico": "v/uma-familia-da-pesada-s14e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S14E16",
+          "linkFisico": "v/uma-familia-da-pesada-s14e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S14E17",
+          "linkFisico": "v/uma-familia-da-pesada-s14e17.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S14E18",
+          "linkFisico": "v/uma-familia-da-pesada-s14e18.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S14E19",
+          "linkFisico": "v/uma-familia-da-pesada-s14e19.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S14E20",
+          "linkFisico": "v/uma-familia-da-pesada-s14e20.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        }
+      ],
+      "15": [
+        {
+          "tit": "S15E01",
+          "linkFisico": "v/uma-familia-da-pesada-s15e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S15E02",
+          "linkFisico": "v/uma-familia-da-pesada-s15e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S15E03",
+          "linkFisico": "v/uma-familia-da-pesada-s15e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S15E04",
+          "linkFisico": "v/uma-familia-da-pesada-s15e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S15E05",
+          "linkFisico": "v/uma-familia-da-pesada-s15e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S15E06",
+          "linkFisico": "v/uma-familia-da-pesada-s15e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S15E07",
+          "linkFisico": "v/uma-familia-da-pesada-s15e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S15E08",
+          "linkFisico": "v/uma-familia-da-pesada-s15e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S15E09",
+          "linkFisico": "v/uma-familia-da-pesada-s15e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S15E10",
+          "linkFisico": "v/uma-familia-da-pesada-s15e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S15E11",
+          "linkFisico": "v/uma-familia-da-pesada-s15e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S15E12",
+          "linkFisico": "v/uma-familia-da-pesada-s15e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S15E13",
+          "linkFisico": "v/uma-familia-da-pesada-s15e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S15E14",
+          "linkFisico": "v/uma-familia-da-pesada-s15e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S15E15",
+          "linkFisico": "v/uma-familia-da-pesada-s15e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S15E16",
+          "linkFisico": "v/uma-familia-da-pesada-s15e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S15E17",
+          "linkFisico": "v/uma-familia-da-pesada-s15e17.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S15E18",
+          "linkFisico": "v/uma-familia-da-pesada-s15e18.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S15E19",
+          "linkFisico": "v/uma-familia-da-pesada-s15e19.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S15E20",
+          "linkFisico": "v/uma-familia-da-pesada-s15e20.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        }
+      ],
+      "16": [
+        {
+          "tit": "S16E01",
+          "linkFisico": "v/uma-familia-da-pesada-s16e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S16E02",
+          "linkFisico": "v/uma-familia-da-pesada-s16e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S16E03",
+          "linkFisico": "v/uma-familia-da-pesada-s16e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S16E04",
+          "linkFisico": "v/uma-familia-da-pesada-s16e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S16E05",
+          "linkFisico": "v/uma-familia-da-pesada-s16e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S16E06",
+          "linkFisico": "v/uma-familia-da-pesada-s16e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S16E07",
+          "linkFisico": "v/uma-familia-da-pesada-s16e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S16E08",
+          "linkFisico": "v/uma-familia-da-pesada-s16e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S16E09",
+          "linkFisico": "v/uma-familia-da-pesada-s16e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S16E10",
+          "linkFisico": "v/uma-familia-da-pesada-s16e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S16E11",
+          "linkFisico": "v/uma-familia-da-pesada-s16e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S16E12",
+          "linkFisico": "v/uma-familia-da-pesada-s16e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S16E13",
+          "linkFisico": "v/uma-familia-da-pesada-s16e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S16E14",
+          "linkFisico": "v/uma-familia-da-pesada-s16e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S16E15",
+          "linkFisico": "v/uma-familia-da-pesada-s16e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S16E16",
+          "linkFisico": "v/uma-familia-da-pesada-s16e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S16E17",
+          "linkFisico": "v/uma-familia-da-pesada-s16e17.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S16E18",
+          "linkFisico": "v/uma-familia-da-pesada-s16e18.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S16E19",
+          "linkFisico": "v/uma-familia-da-pesada-s16e19.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S16E20",
+          "linkFisico": "v/uma-familia-da-pesada-s16e20.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        }
+      ],
+      "17": [
+        {
+          "tit": "S17E01",
+          "linkFisico": "v/uma-familia-da-pesada-s17e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S17E02",
+          "linkFisico": "v/uma-familia-da-pesada-s17e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S17E03",
+          "linkFisico": "v/uma-familia-da-pesada-s17e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S17E04",
+          "linkFisico": "v/uma-familia-da-pesada-s17e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S17E05",
+          "linkFisico": "v/uma-familia-da-pesada-s17e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S17E06",
+          "linkFisico": "v/uma-familia-da-pesada-s17e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S17E07",
+          "linkFisico": "v/uma-familia-da-pesada-s17e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S17E08",
+          "linkFisico": "v/uma-familia-da-pesada-s17e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S17E09",
+          "linkFisico": "v/uma-familia-da-pesada-s17e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S17E10",
+          "linkFisico": "v/uma-familia-da-pesada-s17e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S17E11",
+          "linkFisico": "v/uma-familia-da-pesada-s17e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S17E12",
+          "linkFisico": "v/uma-familia-da-pesada-s17e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S17E13",
+          "linkFisico": "v/uma-familia-da-pesada-s17e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S17E14",
+          "linkFisico": "v/uma-familia-da-pesada-s17e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S17E15",
+          "linkFisico": "v/uma-familia-da-pesada-s17e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S17E16",
+          "linkFisico": "v/uma-familia-da-pesada-s17e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S17E17",
+          "linkFisico": "v/uma-familia-da-pesada-s17e17.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S17E18",
+          "linkFisico": "v/uma-familia-da-pesada-s17e18.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S17E19",
+          "linkFisico": "v/uma-familia-da-pesada-s17e19.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S17E20",
+          "linkFisico": "v/uma-familia-da-pesada-s17e20.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        }
+      ],
+      "18": [
+        {
+          "tit": "S18E01",
+          "linkFisico": "v/uma-familia-da-pesada-s18e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S18E02",
+          "linkFisico": "v/uma-familia-da-pesada-s18e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S18E03",
+          "linkFisico": "v/uma-familia-da-pesada-s18e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S18E04",
+          "linkFisico": "v/uma-familia-da-pesada-s18e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S18E05",
+          "linkFisico": "v/uma-familia-da-pesada-s18e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S18E06",
+          "linkFisico": "v/uma-familia-da-pesada-s18e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S18E07",
+          "linkFisico": "v/uma-familia-da-pesada-s18e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S18E08",
+          "linkFisico": "v/uma-familia-da-pesada-s18e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S18E09",
+          "linkFisico": "v/uma-familia-da-pesada-s18e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S18E10",
+          "linkFisico": "v/uma-familia-da-pesada-s18e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S18E11",
+          "linkFisico": "v/uma-familia-da-pesada-s18e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S18E12",
+          "linkFisico": "v/uma-familia-da-pesada-s18e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S18E13",
+          "linkFisico": "v/uma-familia-da-pesada-s18e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S18E14",
+          "linkFisico": "v/uma-familia-da-pesada-s18e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S18E15",
+          "linkFisico": "v/uma-familia-da-pesada-s18e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S18E16",
+          "linkFisico": "v/uma-familia-da-pesada-s18e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S18E17",
+          "linkFisico": "v/uma-familia-da-pesada-s18e17.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S18E18",
+          "linkFisico": "v/uma-familia-da-pesada-s18e18.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S18E19",
+          "linkFisico": "v/uma-familia-da-pesada-s18e19.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S18E20",
+          "linkFisico": "v/uma-familia-da-pesada-s18e20.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        }
+      ],
+      "19": [
+        {
+          "tit": "S19E01",
+          "linkFisico": "v/uma-familia-da-pesada-s19e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S19E02",
+          "linkFisico": "v/uma-familia-da-pesada-s19e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S19E03",
+          "linkFisico": "v/uma-familia-da-pesada-s19e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S19E04",
+          "linkFisico": "v/uma-familia-da-pesada-s19e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S19E05",
+          "linkFisico": "v/uma-familia-da-pesada-s19e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S19E06",
+          "linkFisico": "v/uma-familia-da-pesada-s19e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S19E07",
+          "linkFisico": "v/uma-familia-da-pesada-s19e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S19E08",
+          "linkFisico": "v/uma-familia-da-pesada-s19e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        },
+        {
+          "tit": "S19E09",
+          "linkFisico": "v/uma-familia-da-pesada-s19e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bHcQLmVZUGZXE0yPaZisa7jslgk.jpg"
+        }
+      ]
+    }
   }
 ]
