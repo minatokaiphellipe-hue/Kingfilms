@@ -47727,5 +47727,71 @@
         }
       ]
     }
+  },
+  {
+    "id": "o-ataque-dos-vermes-malditos",
+    "tipo": "filme",
+    "categoria": "Terror",
+    "titulo": "O Ataque dos Vermes Malditos",
+    "logo": "https://image.tmdb.org/t/p/w780/yZP86gshxviJ6Shfi3w0Tt4LWrq.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/kdw0bcDBADcOCZCSiq3hIxG3aw1.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/5xFCutIA9Ef61ssgStWwQ4N0hUK.png",
+    "sinopse": "Uma pequena vila isolada no meio do estado de Nevada passa a sofrer uma série de abalos sísmicos estranhos. Ao descobrirem que embaixo da cidade está uma ninhada de vermes gigantes, que se movem sob a terra em alta velocidade, os habitantes da cidade se unem para encontrar uma solução e eliminá-los.",
+    "nota": "6.9",
+    "avaliacao": "6.9",
+    "classificacao": "14",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/o-ataque-dos-vermes-malditos.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kdw0bcDBADcOCZCSiq3hIxG3aw1.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "o-ataque-dos-vermes-malditos-2-os-vermes-voltaram",
+    "tipo": "filme",
+    "categoria": "Terror",
+    "titulo": "O Ataque dos Vermes Malditos 2 - Os Vermes Voltaram",
+    "logo": "https://image.tmdb.org/t/p/w780/46nRNIi0DrsijuylwTaWVVlhH8d.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/yjsKXtYotwl3dKcLedPhkLq0LWr.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/yzP44joZb5NkcMhSVMcX2F23d7y.png",
+    "sinopse": "Os vermes reaparecem num campo petrolífero do México. Mas o sobrevivente do primeiro ataque Earl Bassett, não está disposto a virar comida de larvas e junta-se a uma sexy cientista e um estranho rapaz para deter o avanço dos monstros.",
+    "nota": "6.3",
+    "avaliacao": "6.3",
+    "classificacao": "12",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/o-ataque-dos-vermes-malditos-2-os-vermes-voltaram.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yjsKXtYotwl3dKcLedPhkLq0LWr.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "o-ataque-dos-vermes-malditos-3-de-volta-a-perfeicao",
+    "tipo": "filme",
+    "categoria": "Terror",
+    "titulo": "O Ataque dos Vermes Malditos 3: De Volta à Perfeição",
+    "logo": "https://image.tmdb.org/t/p/w780/qG5a4vQbvye7NjbXgRpt2Ml6jJ6.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/rMKAmT3GokqDllIsXT6qZZVs8nM.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/cqgMqDxCdPdoNfSieuyBqdsnwNH.png",
+    "sinopse": "A cadeia da alimentação agora tem mais um elo. Estas Criaturas não anamorfóticas, devoradoras de homens, estão agitando a pequena e empoeirada cidade de Perfection, Nevada - e o destemido Burt Gummer (Michael Gross) é a única pessoa capaz de combater o que há de mais recente em evolução! Ajudado por um casal de jovens empresários locais (Shawn Christian e Susan Chuang), Burt usa seus conhecimentos sobre armamento contra a mais recente e mortífera geração de Graboids. Se Burt e seus novos companheiros não conseguirem descobrir uma forma de derrotá-los, as criaturas que colocaram Perfection no mapa irão varrê-la da face da terra.",
+    "nota": "5.8",
+    "avaliacao": "5.8",
+    "classificacao": "10",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/o-ataque-dos-vermes-malditos-3-de-volta-a-perfeicao.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/rMKAmT3GokqDllIsXT6qZZVs8nM.jpg"
+        }
+      ]
+    }
   }
 ]
