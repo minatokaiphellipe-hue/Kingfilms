@@ -47584,5 +47584,146 @@
         }
       ]
     }
+  },
+  {
+    "id": "o-sangue-de-zeus",
+    "tipo": "serie",
+    "categoria": "Séries",
+    "titulo": "O Sangue de Zeus",
+    "logo": "https://image.tmdb.org/t/p/w780/uJQLr38lPns27rthb7fs80U3kGA.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/v0Grj9rAOS0YEse4wjG9lBlwJL0.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/quyRlDGQ8srMu20XoMWF0wPzeXw.png",
+    "sinopse": "Um plebeu que vive na Grécia antiga descobre que é filho de Zeus e que seu propósito é salvar o mundo de um exército demoníaco.",
+    "nota": "7.8",
+    "avaliacao": "7.8",
+    "classificacao": "16",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "S01E01",
+          "linkFisico": "v/o-sangue-de-zeus-s01e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/v0Grj9rAOS0YEse4wjG9lBlwJL0.jpg"
+        },
+        {
+          "tit": "S01E02",
+          "linkFisico": "v/o-sangue-de-zeus-s01e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/v0Grj9rAOS0YEse4wjG9lBlwJL0.jpg"
+        },
+        {
+          "tit": "S01E03",
+          "linkFisico": "v/o-sangue-de-zeus-s01e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/v0Grj9rAOS0YEse4wjG9lBlwJL0.jpg"
+        },
+        {
+          "tit": "S01E04",
+          "linkFisico": "v/o-sangue-de-zeus-s01e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/v0Grj9rAOS0YEse4wjG9lBlwJL0.jpg"
+        },
+        {
+          "tit": "S01E05",
+          "linkFisico": "v/o-sangue-de-zeus-s01e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/v0Grj9rAOS0YEse4wjG9lBlwJL0.jpg"
+        },
+        {
+          "tit": "S01E06",
+          "linkFisico": "v/o-sangue-de-zeus-s01e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/v0Grj9rAOS0YEse4wjG9lBlwJL0.jpg"
+        },
+        {
+          "tit": "S01E07",
+          "linkFisico": "v/o-sangue-de-zeus-s01e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/v0Grj9rAOS0YEse4wjG9lBlwJL0.jpg"
+        },
+        {
+          "tit": "S01E08",
+          "linkFisico": "v/o-sangue-de-zeus-s01e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/v0Grj9rAOS0YEse4wjG9lBlwJL0.jpg"
+        }
+      ],
+      "2": [
+        {
+          "tit": "S02E01",
+          "linkFisico": "v/o-sangue-de-zeus-s02e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/v0Grj9rAOS0YEse4wjG9lBlwJL0.jpg"
+        },
+        {
+          "tit": "S02E02",
+          "linkFisico": "v/o-sangue-de-zeus-s02e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/v0Grj9rAOS0YEse4wjG9lBlwJL0.jpg"
+        },
+        {
+          "tit": "S02E03",
+          "linkFisico": "v/o-sangue-de-zeus-s02e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/v0Grj9rAOS0YEse4wjG9lBlwJL0.jpg"
+        },
+        {
+          "tit": "S02E04",
+          "linkFisico": "v/o-sangue-de-zeus-s02e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/v0Grj9rAOS0YEse4wjG9lBlwJL0.jpg"
+        },
+        {
+          "tit": "S02E05",
+          "linkFisico": "v/o-sangue-de-zeus-s02e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/v0Grj9rAOS0YEse4wjG9lBlwJL0.jpg"
+        },
+        {
+          "tit": "S02E06",
+          "linkFisico": "v/o-sangue-de-zeus-s02e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/v0Grj9rAOS0YEse4wjG9lBlwJL0.jpg"
+        },
+        {
+          "tit": "S02E07",
+          "linkFisico": "v/o-sangue-de-zeus-s02e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/v0Grj9rAOS0YEse4wjG9lBlwJL0.jpg"
+        },
+        {
+          "tit": "S02E08",
+          "linkFisico": "v/o-sangue-de-zeus-s02e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/v0Grj9rAOS0YEse4wjG9lBlwJL0.jpg"
+        }
+      ],
+      "3": [
+        {
+          "tit": "S03E01",
+          "linkFisico": "v/o-sangue-de-zeus-s03e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/v0Grj9rAOS0YEse4wjG9lBlwJL0.jpg"
+        },
+        {
+          "tit": "S03E02",
+          "linkFisico": "v/o-sangue-de-zeus-s03e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/v0Grj9rAOS0YEse4wjG9lBlwJL0.jpg"
+        },
+        {
+          "tit": "S03E03",
+          "linkFisico": "v/o-sangue-de-zeus-s03e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/v0Grj9rAOS0YEse4wjG9lBlwJL0.jpg"
+        },
+        {
+          "tit": "S03E04",
+          "linkFisico": "v/o-sangue-de-zeus-s03e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/v0Grj9rAOS0YEse4wjG9lBlwJL0.jpg"
+        },
+        {
+          "tit": "S03E05",
+          "linkFisico": "v/o-sangue-de-zeus-s03e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/v0Grj9rAOS0YEse4wjG9lBlwJL0.jpg"
+        },
+        {
+          "tit": "S03E06",
+          "linkFisico": "v/o-sangue-de-zeus-s03e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/v0Grj9rAOS0YEse4wjG9lBlwJL0.jpg"
+        },
+        {
+          "tit": "S03E07",
+          "linkFisico": "v/o-sangue-de-zeus-s03e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/v0Grj9rAOS0YEse4wjG9lBlwJL0.jpg"
+        },
+        {
+          "tit": "S03E08",
+          "linkFisico": "v/o-sangue-de-zeus-s03e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/v0Grj9rAOS0YEse4wjG9lBlwJL0.jpg"
+        }
+      ]
+    }
   }
 ]
