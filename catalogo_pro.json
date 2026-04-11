@@ -48279,5 +48279,27 @@
         }
       ]
     }
+  },
+  {
+    "id": "o-porao-da-rua-do-grito",
+    "tipo": "filme",
+    "categoria": "Terror",
+    "titulo": "O Porão da Rua do Grito",
+    "logo": "https://image.tmdb.org/t/p/w780/a4h0VpBrnMnyq0CX9PmPzFS8IVc.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/6xhF7WDDBxoOYQPyeC1iS4TcJ7n.jpg",
+    "logo_png": "",
+    "sinopse": "Jonas e Rebeca, irmãos órfãos, vivem em um antigo casarão na Rua do Grito com sua avó debilitada e uma misteriosa criança escondida no porão. Rebeca deseja deixar o passado e seguir em frente, mas Jonas resiste, atormentado pelos gritos e sussurros de segredos de família guardados por gerações.",
+    "nota": "0.0",
+    "avaliacao": "0.0",
+    "classificacao": "18",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/o-porao-da-rua-do-grito.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/6xhF7WDDBxoOYQPyeC1iS4TcJ7n.jpg"
+        }
+      ]
+    }
   }
 ]
