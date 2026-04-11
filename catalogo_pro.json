@@ -48103,5 +48103,27 @@
         }
       ]
     }
+  },
+  {
+    "id": "resgate-no-golfo",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "Resgate no Golfo",
+    "logo": "https://image.tmdb.org/t/p/w780/jcUv3aqtiygXEhvc0bGEaIzJhMg.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/moy4rTZSF8QILp8ksyVLaBKxMVq.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/eIaxXxqXkA12Ts4eatuLxl79SDV.png",
+    "sinopse": "O que deveria ser uma viagem de pesca descontraída na costa mexicana se transforma em um pesadelo de sobrevivência quando a embarcação de um grupo de amigos é subitamente virada. Deixados à deriva em mar aberto, eles precisam enfrentar a imensidão implacável do oceano. A luta pela sobrevivência torna-se uma batalha constante contra o medo, o cansaço extremo e as forças da natureza, testando os limites de cada um.",
+    "nota": "6.1",
+    "avaliacao": "6.1",
+    "classificacao": "18",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/resgate-no-golfo.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/moy4rTZSF8QILp8ksyVLaBKxMVq.jpg"
+        }
+      ]
+    }
   }
 ]
