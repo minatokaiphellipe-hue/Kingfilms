@@ -47793,5 +47793,49 @@
         }
       ]
     }
+  },
+  {
+    "id": "o-ataque-dos-vermes-malditos-4-o-comeco-da-lenda",
+    "tipo": "filme",
+    "categoria": "Terror",
+    "titulo": "O Ataque dos Vermes Malditos 4: O Começo da Lenda",
+    "logo": "https://image.tmdb.org/t/p/w780/s5wxz1C398Nm9SWSQgfqZBL98TZ.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/wAChwN87Wi0xPq78kp1CcyyylLH.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/9iNxG3TSXs4XIZpOpt9gh1GQSkh.png",
+    "sinopse": "Depois dos três primeiros aterrorizantes ataques dos vermes malditos, finalmente saberemos agora como tudo começou. A ação começa no século 19, quando 17 trabalhadores morrem misteriosamente em uma mina. Apavorados, os habitantes de Rejection abandonam a cidade. Com a mina fechada, quem perdeu tudo e não tem para onde ir discute o futuro de suas vidas. É neste cenário de medo e desolação que Juan Perrila (Brent Roam), um dos sobreviventes, negocia com Hiram Gummer (Michael Gross), o proprietário da mina. Ele aceita voltar ao trabalho, desde que o seu salário seja dobrado. Porém, Juan não sabe que pode estar negociando a própria vida: os vermes malditos continuam à solta, esperando para devorar mais e mais mineiros.",
+    "nota": "5.7",
+    "avaliacao": "5.7",
+    "classificacao": "12",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/o-ataque-dos-vermes-malditos-4-o-comeco-da-lenda.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/wAChwN87Wi0xPq78kp1CcyyylLH.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "o-ataque-dos-vermes-malditos-5-linhas-de-sangue",
+    "tipo": "filme",
+    "categoria": "Terror",
+    "titulo": "O Ataque dos Vermes Malditos 5: Linhas de Sangue",
+    "logo": "https://image.tmdb.org/t/p/w780/hDPCZ1uvPJTXktbXsaXm6GV7TL2.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/7qWslv1NWJ8NJF3PwPZFzuX0OXu.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/rJncOwdfoZ6RzpObSZ5gJEJWfCF.png",
+    "sinopse": "Michael Gross retorna como entusiasta de armas e especialista em criaturas subterrâneas, o caçador Burt Gummer, com Jamie Kennedy como seu novo braço direito no papel do expert em tecnologia Travis. A dupla se junta um elenco internacional enquanto eles preparam uma batalha contra as criaturas mortais que acabam se tornando muito mais do que esperavam.",
+    "nota": "5.5",
+    "avaliacao": "5.5",
+    "classificacao": "12",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/o-ataque-dos-vermes-malditos-5-linhas-de-sangue.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/7qWslv1NWJ8NJF3PwPZFzuX0OXu.jpg"
+        }
+      ]
+    }
   }
 ]
