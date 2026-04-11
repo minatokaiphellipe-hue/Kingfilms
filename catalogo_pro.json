@@ -47837,5 +47837,49 @@
         }
       ]
     }
+  },
+  {
+    "id": "o-ataque-dos-vermes-malditos-6-um-dia-frio-no-inferno",
+    "tipo": "filme",
+    "categoria": "Terror",
+    "titulo": "O Ataque dos Vermes Malditos 6: Um Dia Frio no Inferno",
+    "logo": "https://image.tmdb.org/t/p/w780/nJ8QEGR10xUT0UCFiQ13OhvX2cB.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/1PgDPVHxNjMr9TFCv1JFdxpkKQx.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/yKuGOtlqFy4dJQxTZ7IMrU0Eo7D.png",
+    "sinopse": "Burt Gummer (Michael Gross) e seu filho Travis Welker (Jamie Kennedy) se veem cercados de Graboids e Ass-Blasters ao irem até o Canadá investigar uma série de ataques dos vermes malditos e descobrirem que as criaturas estão sendo utilizadas como armas biológicas em uma remota estação de pesquisa.",
+    "nota": "5.8",
+    "avaliacao": "5.8",
+    "classificacao": "14",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/o-ataque-dos-vermes-malditos-6-um-dia-frio-no-inferno.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1PgDPVHxNjMr9TFCv1JFdxpkKQx.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "o-ataque-dos-vermes-malditos-7-ilha-dos-shriekers",
+    "tipo": "filme",
+    "categoria": "Terror",
+    "titulo": "O Ataque dos Vermes Malditos 7: Ilha dos Shriekers",
+    "logo": "https://image.tmdb.org/t/p/w780/rPnnnrq6fCY4BMG57CSNIN7z7g4.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/s8hhKRxvkrFm7U5E4nIvjJyU7b6.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/v37ISIh6E9yPS735VbNPKrOyfX9.png",
+    "sinopse": "Graboids são ilegalmente levados para um novo resort na ilha por um rico playboy como uma forma perigosa de caça ao troféu, mas Burt Gummer aparece para salvar o dia.",
+    "nota": "6.1",
+    "avaliacao": "6.1",
+    "classificacao": "14",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/o-ataque-dos-vermes-malditos-7-ilha-dos-shriekers.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/s8hhKRxvkrFm7U5E4nIvjJyU7b6.jpg"
+        }
+      ]
+    }
   }
 ]
