@@ -48654,5 +48654,49 @@
         }
       ]
     }
+  },
+  {
+    "id": "o-rei-leao-ii-o-reino-de-simba",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "O Rei Leão II: O Reino de Simba",
+    "logo": "https://image.tmdb.org/t/p/w780/kYrl3Sy7moKcSqvA7qXsucGeiXo.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/dOQ4eqAqJPpz9aU1bliqpyQDjKd.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/wve4eHvf1cRXkDIQHY2QNXR7bJD.png",
+    "sinopse": "Kiara é a filhote de Simba e Nala. A pequena leoa tem um espírito livre e aventureiro. Um dia, ela resolve passear para além dos limites do território de seu pai e encontra os descendentes do maléfico Scar. Um dos descendentes do algoz de Mufasa é Kovu, que se torna um grande amigo de Kiara. Entretanto, o amor entre os dois leõezinhos irá reacender uma rivalidade histórica.",
+    "nota": "6.9",
+    "avaliacao": "6.9",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/o-rei-leao-ii-o-reino-de-simba.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/dOQ4eqAqJPpz9aU1bliqpyQDjKd.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "o-rei-leao-3-hakuna-matata",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "O Rei Leão 3: Hakuna Matata",
+    "logo": "https://image.tmdb.org/t/p/w780/vtX3wirmv2VkQi1u4C9cSdHTXQn.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/unwAQDPic6BgA0ASP86h9VEwHSh.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/g7JijMhckvSdPKKycJFtvQLJqKh.png",
+    "sinopse": "Timão e Pumba começam a assistir o primeiro filme do Rei Leão, e Timão fica insistindo para que Pumba avance até a parte em que eles aparecem, porque eles não estão no início do filme. A partir daí, Pumba resolve contar um pouco da história dos dois, que começa antes da jornada de Simba. Contam sobre a mãe de Timão e sobre o Tio Max, descobrem porque Timão deixou a colônia, e onde ele aprendeu o Hakuna Matata. Também relatam como os dois se conheceram, e os perigos que enfrentaram enquanto procuravam pelo lar dos sonhos.",
+    "nota": "6.6",
+    "avaliacao": "6.6",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/o-rei-leao-3-hakuna-matata.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/unwAQDPic6BgA0ASP86h9VEwHSh.jpg"
+        }
+      ]
+    }
   }
 ]
