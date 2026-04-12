@@ -48700,28 +48700,6 @@
     }
   },
   {
-    "id": "o-predador",
-    "tipo": "filme",
-    "categoria": "Ação",
-    "titulo": "O Predador",
-    "logo": "https://image.tmdb.org/t/p/w780/3RuuLeX487syJrV1olkQCFbHrIv.jpg",
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/dpX6bfPlbDzagpqN7ukuI0tErvE.jpg",
-    "logo_png": "https://image.tmdb.org/t/p/w500/qkFqJxwUgIsdoozieCEWA2kFu3n.png",
-    "sinopse": "O major Alan \"Dutch\" Schaefer lidera uma equipe de resgate em uma selva da América Central, para tentar encontrar um ministro estrangeiro e funcionários do governo que saíram da rota e se perderam. O exército acredita que eles estejam nas mãos de guerrilheiros, mas o que eles não imaginam é que a floresta esconde uma ameaça mortal, um ser de outro planeta, fortemente armado, que sente enorme prazer em matar.",
-    "nota": "7.5",
-    "avaliacao": "7.5",
-    "classificacao": "16",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "Assistir",
-          "linkFisico": "v/o-predador.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/dpX6bfPlbDzagpqN7ukuI0tErvE.jpg"
-        }
-      ]
-    }
-  },
-  {
     "id": "o-predador-2-a-cacada-continua",
     "tipo": "filme",
     "categoria": "Ação",
@@ -48761,6 +48739,72 @@
           "tit": "Assistir",
           "linkFisico": "v/alien-vs-predador.html",
           "logoEp": "https://image.tmdb.org/t/p/w1280/nxuLvAlLQ0hcNuyENkFOkyY50IW.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "alien-vs-predador-2",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "Alien vs. Predador 2",
+    "logo": "https://image.tmdb.org/t/p/w780/xy46Zk5WZiNVX1dlgY7m3kIzVHq.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/2cpxA27G4F9c0DDZypnDn7hXfJx.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/2sfJ0aZj9aDOk8Ksm6rSg0sICMl.png",
+    "sinopse": "Gunnison, uma pequena cidade localizada nas montanhas da área central do Colorado. Uma nave dos predatores aterrisa no local, mas os aliens que estavam escondidos nela conseguem matar a todos, com exceção de um. Para sobreviver ele precisará destruir todos os aliens remanescentes. Mas em meio a esta guerra há os humanos, residentes da pequena Gunnison, que assistem a esta batalha como vítimas e espectadores.",
+    "nota": "5.2",
+    "avaliacao": "5.2",
+    "classificacao": "14",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/alien-vs-predador-2.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/2cpxA27G4F9c0DDZypnDn7hXfJx.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "predadores",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "Predadores",
+    "logo": "https://image.tmdb.org/t/p/w780/46pJsCB2y8pfmKTNRplcBX03Fqx.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/6PkZ2tw6cZFggm88bP48zei0Lls.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/6VzQPostI2G9YWIitTIxa6JQJrv.png",
+    "sinopse": "Em um planeta misterioso, um mercenário e um grupo de assassinos a sangue a frio agora são presas. Uma nova raça de alienígenas persegue os humanos pela floresta densa e o grupo precisa se unir se não quiser virar troféu dos caçadores intergalácticos.",
+    "nota": "6.3",
+    "avaliacao": "6.3",
+    "classificacao": "14",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/predadores.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/6PkZ2tw6cZFggm88bP48zei0Lls.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "o-predador",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "O Predador",
+    "logo": "https://image.tmdb.org/t/p/w780/8NQd3uDbOsEvpvDRGusZnUbRDOO.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/1O0jEsK2aKy0j39rwkmYXoI1RTI.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/kw6O7FKgaYCiCSttV5w6KuaMLUs.png",
+    "sinopse": "Uma perseguição entre naves alienígenas traz à Terra um novo predador, que acaba sendo capturado por humanos. Antes disso, ele tem seu capacete e bracelete roubados por Quinn McKenna, um atirador de elite que estava em missão no local onde a nave caiu. A bióloga Casey Brackett é chamada para examinar o ser recém-descoberto, mas ele logo consegue escapar do laboratório em que é mantido em cativeiro.",
+    "nota": "5.6",
+    "avaliacao": "5.6",
+    "classificacao": "18",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/o-predador.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1O0jEsK2aKy0j39rwkmYXoI1RTI.jpg"
         }
       ]
     }
