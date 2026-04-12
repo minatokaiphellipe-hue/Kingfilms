@@ -13240,293 +13240,6 @@
     }
   },
   {
-    "id": "jujutsu-kaisen",
-    "tipo": "serie",
-    "categoria": "Animes",
-    "titulo": "Jujutsu Kaisen ",
-    "logo": "https://image.tmdb.org/t/p/w780/8R1mMSC1gX1cg5ed7ns49JOEqw3.jpg",
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg",
-    "logo_png": "https://image.tmdb.org/t/p/w500/2HJI1oFVjbMaMWMqqGLtdGck3JN.png",
-    "sinopse": "Sofrimento, arrependimento, vergonha: os sentimentos negativos dos humanos tornam-se Maldições, causando terríveis acidentes que podem levar até mesmo à morte. E pra piorar, Maldições só podem ser exorcizadas por outras Maldições. Certo dia, para salvar amigos que estavam sendo atacados por Maldições, Yuji Itadori engole o dedo do Ryomen-Sukuna, absorvendo sua Maldição. Ele então decide se matricular no Colégio Técnico de Feitiçaria de Tóquio, uma organização que combate as Maldições... e assim começa a heróica lenda do garoto que tornou-se uma Maldição para exorcizar uma Maldição.",
-    "nota": "8.6",
-    "avaliacao": "8.6",
-    "classificacao": "16",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "S01E01 ",
-          "linkFisico": "v/jujutsu-kaisen-s01e01.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
-        },
-        {
-          "tit": "S01E02 ",
-          "linkFisico": "v/jujutsu-kaisen-s01e02.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
-        },
-        {
-          "tit": "S01E03 ",
-          "linkFisico": "v/jujutsu-kaisen-s01e03.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
-        },
-        {
-          "tit": "S01E04 ",
-          "linkFisico": "v/jujutsu-kaisen-s01e04.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
-        },
-        {
-          "tit": "S01E05 ",
-          "linkFisico": "v/jujutsu-kaisen-s01e05.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
-        },
-        {
-          "tit": "S01E06 ",
-          "linkFisico": "v/jujutsu-kaisen-s01e06.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
-        },
-        {
-          "tit": "S01E07 ",
-          "linkFisico": "v/jujutsu-kaisen-s01e07.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
-        },
-        {
-          "tit": "S01E08 ",
-          "linkFisico": "v/jujutsu-kaisen-s01e08.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
-        },
-        {
-          "tit": "S01E09 ",
-          "linkFisico": "v/jujutsu-kaisen-s01e09.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
-        },
-        {
-          "tit": "S01E10 ",
-          "linkFisico": "v/jujutsu-kaisen-s01e10.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
-        },
-        {
-          "tit": "S01E11 ",
-          "linkFisico": "v/jujutsu-kaisen-s01e11.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
-        },
-        {
-          "tit": "S01E12 ",
-          "linkFisico": "v/jujutsu-kaisen-s01e12.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
-        },
-        {
-          "tit": "S01E13 ",
-          "linkFisico": "v/jujutsu-kaisen-s01e13.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
-        },
-        {
-          "tit": "S01E14 ",
-          "linkFisico": "v/jujutsu-kaisen-s01e14.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
-        },
-        {
-          "tit": "S01E15 ",
-          "linkFisico": "v/jujutsu-kaisen-s01e15.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
-        },
-        {
-          "tit": "S01E16 ",
-          "linkFisico": "v/jujutsu-kaisen-s01e16.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
-        },
-        {
-          "tit": "S01E17 ",
-          "linkFisico": "v/jujutsu-kaisen-s01e17.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
-        },
-        {
-          "tit": "S01E18 ",
-          "linkFisico": "v/jujutsu-kaisen-s01e18.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
-        },
-        {
-          "tit": "S01E19 ",
-          "linkFisico": "v/jujutsu-kaisen-s01e19.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
-        },
-        {
-          "tit": "S01E20 ",
-          "linkFisico": "v/jujutsu-kaisen-s01e20.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
-        },
-        {
-          "tit": "S01E21 ",
-          "linkFisico": "v/jujutsu-kaisen-s01e21.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
-        },
-        {
-          "tit": "S01E22 ",
-          "linkFisico": "v/jujutsu-kaisen-s01e22.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
-        },
-        {
-          "tit": "S01E23 ",
-          "linkFisico": "v/jujutsu-kaisen-s01e23.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
-        },
-        {
-          "tit": "S01E24 ",
-          "linkFisico": "v/jujutsu-kaisen-s01e24.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
-        },
-        {
-          "tit": "S01E25 ",
-          "linkFisico": "v/jujutsu-kaisen-s01e25.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
-        },
-        {
-          "tit": "S01E26 ",
-          "linkFisico": "v/jujutsu-kaisen-s01e26.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
-        },
-        {
-          "tit": "S01E27 ",
-          "linkFisico": "v/jujutsu-kaisen-s01e27.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
-        },
-        {
-          "tit": "S01E28 ",
-          "linkFisico": "v/jujutsu-kaisen-s01e28.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
-        },
-        {
-          "tit": "S01E29 ",
-          "linkFisico": "v/jujutsu-kaisen-s01e29.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
-        },
-        {
-          "tit": "S01E30 ",
-          "linkFisico": "v/jujutsu-kaisen-s01e30.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
-        },
-        {
-          "tit": "S01E31 ",
-          "linkFisico": "v/jujutsu-kaisen-s01e31.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
-        },
-        {
-          "tit": "S01E32 ",
-          "linkFisico": "v/jujutsu-kaisen-s01e32.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
-        },
-        {
-          "tit": "S01E33 ",
-          "linkFisico": "v/jujutsu-kaisen-s01e33.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
-        },
-        {
-          "tit": "S01E34 ",
-          "linkFisico": "v/jujutsu-kaisen-s01e34.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
-        },
-        {
-          "tit": "S01E35 ",
-          "linkFisico": "v/jujutsu-kaisen-s01e35.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
-        },
-        {
-          "tit": "S01E36 ",
-          "linkFisico": "v/jujutsu-kaisen-s01e36.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
-        },
-        {
-          "tit": "S01E37 ",
-          "linkFisico": "v/jujutsu-kaisen-s01e37.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
-        },
-        {
-          "tit": "S01E38 ",
-          "linkFisico": "v/jujutsu-kaisen-s01e38.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
-        },
-        {
-          "tit": "S01E39 ",
-          "linkFisico": "v/jujutsu-kaisen-s01e39.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
-        },
-        {
-          "tit": "S01E40 ",
-          "linkFisico": "v/jujutsu-kaisen-s01e40.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
-        },
-        {
-          "tit": "S01E41 ",
-          "linkFisico": "v/jujutsu-kaisen-s01e41.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
-        },
-        {
-          "tit": "S01E42 ",
-          "linkFisico": "v/jujutsu-kaisen-s01e42.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
-        },
-        {
-          "tit": "S01E43 ",
-          "linkFisico": "v/jujutsu-kaisen-s01e43.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
-        },
-        {
-          "tit": "S01E44 ",
-          "linkFisico": "v/jujutsu-kaisen-s01e44.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
-        },
-        {
-          "tit": "S01E45 ",
-          "linkFisico": "v/jujutsu-kaisen-s01e45.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
-        },
-        {
-          "tit": "S01E46 ",
-          "linkFisico": "v/jujutsu-kaisen-s01e46.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
-        },
-        {
-          "tit": "S01E47 ",
-          "linkFisico": "v/jujutsu-kaisen-s01e47.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
-        },
-        {
-          "tit": "S01E48 ",
-          "linkFisico": "v/jujutsu-kaisen-s01e48.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
-        },
-        {
-          "tit": "S01E49 ",
-          "linkFisico": "v/jujutsu-kaisen-s01e49.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
-        },
-        {
-          "tit": "S01E50 ",
-          "linkFisico": "v/jujutsu-kaisen-s01e50.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
-        },
-        {
-          "tit": "S01E51 ",
-          "linkFisico": "v/jujutsu-kaisen-s01e51.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
-        },
-        {
-          "tit": "S01E52 ",
-          "linkFisico": "v/jujutsu-kaisen-s01e52.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
-        },
-        {
-          "tit": "S01E53 ",
-          "linkFisico": "v/jujutsu-kaisen-s01e53.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
-        },
-        {
-          "tit": "S01E54 ",
-          "linkFisico": "v/jujutsu-kaisen-s01e54.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
-        }
-      ]
-    }
-  },
-  {
     "id": "juntos",
     "tipo": "filme",
     "categoria": "Terror",
@@ -49061,6 +48774,318 @@
           "tit": "Assistir",
           "linkFisico": "v/a-procura-de-harry-a-arte-por-tras-da-magia.html",
           "logoEp": "https://image.tmdb.org/t/p/w1280/nnYokdOjiJttM1p39mxsurbyahC.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "jujutsu-kaisen",
+    "tipo": "serie",
+    "categoria": "Animes",
+    "titulo": "Jujutsu Kaisen",
+    "logo": "https://image.tmdb.org/t/p/w780/8R1mMSC1gX1cg5ed7ns49JOEqw3.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/2HJI1oFVjbMaMWMqqGLtdGck3JN.png",
+    "sinopse": "Sofrimento, arrependimento, vergonha: os sentimentos negativos dos humanos tornam-se Maldições, causando terríveis acidentes que podem levar até mesmo à morte. E pra piorar, Maldições só podem ser exorcizadas por outras Maldições. Certo dia, para salvar amigos que estavam sendo atacados por Maldições, Yuji Itadori engole o dedo do Ryomen-Sukuna, absorvendo sua Maldição. Ele então decide se matricular no Colégio Técnico de Feitiçaria de Tóquio, uma organização que combate as Maldições... e assim começa a heróica lenda do garoto que tornou-se uma Maldição para exorcizar uma Maldição.",
+    "nota": "8.6",
+    "avaliacao": "8.6",
+    "classificacao": "16",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "S01E01",
+          "linkFisico": "v/jujutsu-kaisen-s01e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
+        },
+        {
+          "tit": "S01E02",
+          "linkFisico": "v/jujutsu-kaisen-s01e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
+        },
+        {
+          "tit": "S01E03",
+          "linkFisico": "v/jujutsu-kaisen-s01e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
+        },
+        {
+          "tit": "S01E04",
+          "linkFisico": "v/jujutsu-kaisen-s01e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
+        },
+        {
+          "tit": "S01E05",
+          "linkFisico": "v/jujutsu-kaisen-s01e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
+        },
+        {
+          "tit": "S01E06",
+          "linkFisico": "v/jujutsu-kaisen-s01e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
+        },
+        {
+          "tit": "S01E07",
+          "linkFisico": "v/jujutsu-kaisen-s01e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
+        },
+        {
+          "tit": "S01E08",
+          "linkFisico": "v/jujutsu-kaisen-s01e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
+        },
+        {
+          "tit": "S01E09",
+          "linkFisico": "v/jujutsu-kaisen-s01e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
+        },
+        {
+          "tit": "S01E10",
+          "linkFisico": "v/jujutsu-kaisen-s01e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
+        },
+        {
+          "tit": "S01E11",
+          "linkFisico": "v/jujutsu-kaisen-s01e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
+        },
+        {
+          "tit": "S01E12",
+          "linkFisico": "v/jujutsu-kaisen-s01e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
+        },
+        {
+          "tit": "S01E13",
+          "linkFisico": "v/jujutsu-kaisen-s01e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
+        },
+        {
+          "tit": "S01E14",
+          "linkFisico": "v/jujutsu-kaisen-s01e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
+        },
+        {
+          "tit": "S01E15",
+          "linkFisico": "v/jujutsu-kaisen-s01e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
+        },
+        {
+          "tit": "S01E16",
+          "linkFisico": "v/jujutsu-kaisen-s01e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
+        },
+        {
+          "tit": "S01E17",
+          "linkFisico": "v/jujutsu-kaisen-s01e17.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
+        },
+        {
+          "tit": "S01E18",
+          "linkFisico": "v/jujutsu-kaisen-s01e18.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
+        },
+        {
+          "tit": "S01E19",
+          "linkFisico": "v/jujutsu-kaisen-s01e19.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
+        },
+        {
+          "tit": "S01E20",
+          "linkFisico": "v/jujutsu-kaisen-s01e20.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
+        },
+        {
+          "tit": "S01E21",
+          "linkFisico": "v/jujutsu-kaisen-s01e21.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
+        },
+        {
+          "tit": "S01E22",
+          "linkFisico": "v/jujutsu-kaisen-s01e22.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
+        },
+        {
+          "tit": "S01E23",
+          "linkFisico": "v/jujutsu-kaisen-s01e23.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
+        },
+        {
+          "tit": "S01E24",
+          "linkFisico": "v/jujutsu-kaisen-s01e24.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
+        },
+        {
+          "tit": "S01E25",
+          "linkFisico": "v/jujutsu-kaisen-s01e25.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
+        },
+        {
+          "tit": "S01E26",
+          "linkFisico": "v/jujutsu-kaisen-s01e26.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
+        },
+        {
+          "tit": "S01E27",
+          "linkFisico": "v/jujutsu-kaisen-s01e27.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
+        },
+        {
+          "tit": "S01E28",
+          "linkFisico": "v/jujutsu-kaisen-s01e28.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
+        },
+        {
+          "tit": "S01E29",
+          "linkFisico": "v/jujutsu-kaisen-s01e29.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
+        },
+        {
+          "tit": "S01E30",
+          "linkFisico": "v/jujutsu-kaisen-s01e30.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
+        },
+        {
+          "tit": "S01E31",
+          "linkFisico": "v/jujutsu-kaisen-s01e31.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
+        },
+        {
+          "tit": "S01E32",
+          "linkFisico": "v/jujutsu-kaisen-s01e32.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
+        },
+        {
+          "tit": "S01E33",
+          "linkFisico": "v/jujutsu-kaisen-s01e33.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
+        },
+        {
+          "tit": "S01E34",
+          "linkFisico": "v/jujutsu-kaisen-s01e34.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
+        },
+        {
+          "tit": "S01E35",
+          "linkFisico": "v/jujutsu-kaisen-s01e35.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
+        },
+        {
+          "tit": "S01E36",
+          "linkFisico": "v/jujutsu-kaisen-s01e36.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
+        },
+        {
+          "tit": "S01E37",
+          "linkFisico": "v/jujutsu-kaisen-s01e37.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
+        },
+        {
+          "tit": "S01E38",
+          "linkFisico": "v/jujutsu-kaisen-s01e38.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
+        },
+        {
+          "tit": "S01E39",
+          "linkFisico": "v/jujutsu-kaisen-s01e39.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
+        },
+        {
+          "tit": "S01E40",
+          "linkFisico": "v/jujutsu-kaisen-s01e40.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
+        },
+        {
+          "tit": "S01E41",
+          "linkFisico": "v/jujutsu-kaisen-s01e41.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
+        },
+        {
+          "tit": "S01E42",
+          "linkFisico": "v/jujutsu-kaisen-s01e42.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
+        },
+        {
+          "tit": "S01E43",
+          "linkFisico": "v/jujutsu-kaisen-s01e43.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
+        },
+        {
+          "tit": "S01E44",
+          "linkFisico": "v/jujutsu-kaisen-s01e44.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
+        },
+        {
+          "tit": "S01E45",
+          "linkFisico": "v/jujutsu-kaisen-s01e45.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
+        },
+        {
+          "tit": "S01E46",
+          "linkFisico": "v/jujutsu-kaisen-s01e46.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
+        },
+        {
+          "tit": "S01E47",
+          "linkFisico": "v/jujutsu-kaisen-s01e47.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
+        },
+        {
+          "tit": "S01E48",
+          "linkFisico": "v/jujutsu-kaisen-s01e48.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
+        },
+        {
+          "tit": "S01E49",
+          "linkFisico": "v/jujutsu-kaisen-s01e49.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
+        },
+        {
+          "tit": "S01E50",
+          "linkFisico": "v/jujutsu-kaisen-s01e50.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
+        },
+        {
+          "tit": "S01E51",
+          "linkFisico": "v/jujutsu-kaisen-s01e51.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
+        },
+        {
+          "tit": "S01E52",
+          "linkFisico": "v/jujutsu-kaisen-s01e52.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
+        },
+        {
+          "tit": "S01E53",
+          "linkFisico": "v/jujutsu-kaisen-s01e53.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
+        },
+        {
+          "tit": "S01E54",
+          "linkFisico": "v/jujutsu-kaisen-s01e54.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
+        },
+        {
+          "tit": "S01E55",
+          "linkFisico": "v/jujutsu-kaisen-s01e55.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
+        },
+        {
+          "tit": "S01E56",
+          "linkFisico": "v/jujutsu-kaisen-s01e56.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
+        },
+        {
+          "tit": "S01E57",
+          "linkFisico": "v/jujutsu-kaisen-s01e57.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
+        },
+        {
+          "tit": "S01E58",
+          "linkFisico": "v/jujutsu-kaisen-s01e58.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
+        },
+        {
+          "tit": "S01E59",
+          "linkFisico": "v/jujutsu-kaisen-s01e59.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/sOHMTl2qmBdPyc3cIjzFbsqoV7W.jpg"
         }
       ]
     }
