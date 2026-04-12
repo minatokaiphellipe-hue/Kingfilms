@@ -49517,5 +49517,49 @@
         }
       ]
     }
+  },
+  {
+    "id": "homem-aranha-no-aranhaverso",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Homem-Aranha: No Aranhaverso",
+    "logo": "https://image.tmdb.org/t/p/w780/voO5GpUKdMfryPHxqxdPBj319ky.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/aba2VTLvdCKJVNjEng29RkzPSk1.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/2ea3XXYIpYLYoyICPJqinW9Z67K.png",
+    "sinopse": "Miles Morales é um jovem negro do Brooklyn que se tornou o Homem-Aranha inspirado no legado de Peter Parker, já falecido. Entretanto, ao visitar o túmulo de seu ídolo em uma noite chuvosa, ele é surpreendido com a presença do próprio Peter, vestindo o traje do herói aracnídeo sob um sobretudo. A surpresa fica ainda maior quando Miles descobre que ele veio de uma dimensão paralela, assim como outras variações do Homem-Aranha.",
+    "nota": "8.4",
+    "avaliacao": "8.4",
+    "classificacao": "10",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/homem-aranha-no-aranhaverso.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/aba2VTLvdCKJVNjEng29RkzPSk1.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "homem-aranha-atraves-do-aranhaverso",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Homem-Aranha: Através do Aranhaverso",
+    "logo": "https://image.tmdb.org/t/p/w780/4CwKj1fw33BXYzxvrpM3GlAhK4L.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/yqskSNCruTLwKZPAErZJJhMwuIJ.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/fJOvcMolQUZIcOuSsogP0eBN33d.png",
+    "sinopse": "Miles Morales retorna para o próximo capítulo da saga do Aranhaverso, uma aventura épica que transportará o Homem-Aranha em tempo integral e amigável do bairro do Brooklyn através do Multiverso para unir forças com Gwen Stacy e uma nova equipe de Homens-Aranha para enfrentar com um vilão mais poderoso do que qualquer coisa que eles já encontraram.",
+    "nota": "8.3",
+    "avaliacao": "8.3",
+    "classificacao": "10",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/homem-aranha-atraves-do-aranhaverso.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yqskSNCruTLwKZPAErZJJhMwuIJ.jpg"
+        }
+      ]
+    }
   }
 ]
