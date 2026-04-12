@@ -48301,5 +48301,71 @@
         }
       ]
     }
+  },
+  {
+    "id": "premonicao",
+    "tipo": "filme",
+    "categoria": "Terror",
+    "titulo": "Premonição",
+    "logo": "https://image.tmdb.org/t/p/w780/yFJVHW2Q7ofpS0IJFPKBoonAbMe.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/2lQ96Z90GdSsNVR67E0TTVcGP5K.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/3FVYv0Q2G9p5WmMuVYbDqVpxLIB.png",
+    "sinopse": "Pouco antes de decolar no vôo 180 para Paris, Alex experimenta a angustiante visão do avião transformando-se numa bola de fogo gigante em pleno vôo. Em pânico, o estudante é retirado da aeronave com uma professora e alguns colegas de classe. Irritado e decepcionado, o grupo assiste seu vôo partir. É quando o inimaginável acontece, o avião explode matando todo mundo a bordo! Confuso entre a idéia de Alex ter salvo a todos e a possibilidade de ele ter provocado o acidente, o grupo não sabe como reagir. Para Alex, porém, o fato de ter escapado da tragédia não traz alívio, pois presságios terríveis continuam a perturbá-lo. Neles Alex vê, um a um, seus amigos morrerem. Então percebe que, ao saírem do avião, eles desafiaram a ordem natural das coisas e agora terão de acertar suas contas com a própria Morte.",
+    "nota": "6.6",
+    "avaliacao": "6.6",
+    "classificacao": "14",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/premonicao.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/2lQ96Z90GdSsNVR67E0TTVcGP5K.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "premonicao-2",
+    "tipo": "filme",
+    "categoria": "Terror",
+    "titulo": "Premonição 2",
+    "logo": "https://image.tmdb.org/t/p/w780/v1HSfT3BjDRGfHji30VvHeCBJHu.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/zjo1grPmmMT6UO7aWBeV2s9u4Ke.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/uLqGbYVYT0eLav92DiwjT7zkncl.png",
+    "sinopse": "Kimberly está na estrada com amigos quando tem a visão de um acidente com inúmeros carros e mortes, inclusive a sua. Apavorada, ela para na tentativa de evitar a ocorrência. Mas, infelizmente, o acidente acontece. Contudo, algumas das pessoas que deveriam ter morrido acabam se salvando. E é aí que o pesadelo começa. Agora, a Morte voltará para levar, um a um, todos aqueles que tiveram o traçado de seu destino alterado pela premonição da garota.",
+    "nota": "6.3",
+    "avaliacao": "6.3",
+    "classificacao": "14",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/premonicao-2.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/zjo1grPmmMT6UO7aWBeV2s9u4Ke.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "premonicao-3",
+    "tipo": "filme",
+    "categoria": "Terror",
+    "titulo": "Premonição 3",
+    "logo": "https://image.tmdb.org/t/p/w780/pIEOtja7W6BjFUiuvPI9kd3z3QT.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/1QH8fuRrVFAV9MM11mrYQW8NkHd.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/3QbHNYDnLuOuptKyZSm31PsvYmo.png",
+    "sinopse": "Seis anos depois que um grupo de estudantes enganam pela primeira vez a morte, uma adolescente tem o pressentimento de que ela e seus amigos vão ter um acidente em uma montanha-russa. Quando a visão prova ser verdadeira, a estudante e os sobreviventes precisarão lidar com as repercussões de enganar a morte.",
+    "nota": "6.1",
+    "avaliacao": "6.1",
+    "classificacao": "14",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/premonicao-3.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1QH8fuRrVFAV9MM11mrYQW8NkHd.jpg"
+        }
+      ]
+    }
   }
 ]
