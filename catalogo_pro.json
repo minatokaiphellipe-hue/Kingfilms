@@ -49133,5 +49133,27 @@
         }
       ]
     }
+  },
+  {
+    "id": "bumblebee",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "Bumblebee",
+    "logo": "https://image.tmdb.org/t/p/w780/x9vAcoPsyFQ6m3Re5S9DQSbudyi.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/eAyrOEREZ915iibMbUeTJdS6OBJ.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/jZzunJ2oh8fzPTCvtO0j6MpHTFk.png",
+    "sinopse": "Cybertron foi derrotado. Quando Optimus Prime envia Bumblebee para defender a Terra, tem início sua jornada até se tornar um herói. Charlie Watson, uma adolescente que procura seu espaço no mundo, descobre e repara o robô, cheio de danos e disfarçado de Fusca. Enquanto os Decepticons caçam os Autobots sobreviventes, com a ajuda de uma agência secreta liderada pelo Agente Burns, Bumblebee e Charlie se unem para proteger o mundo.",
+    "nota": "6.7",
+    "avaliacao": "6.7",
+    "classificacao": "10",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/bumblebee.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/eAyrOEREZ915iibMbUeTJdS6OBJ.jpg"
+        }
+      ]
+    }
   }
 ]
