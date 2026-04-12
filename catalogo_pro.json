@@ -20956,46 +20956,6 @@
     }
   },
   {
-    "id": "piratas-do-caribe-a-vinganca-de-salazar",
-    "tipo": "filme",
-    "categoria": "Ação",
-    "titulo": "Piratas do Caribe: A Vingança de Salazar ",
-    "logo": "https://image.tmdb.org/t/p/w780/1bXv1lIkXE1TXYsyd6HHQr4dfw4.jpg",
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/w4CPjdoluwyPXPzdMCJUKJD7gtt.jpg",
-    "sinopse": "O Capitão Jack, que anda passando por uma onda de azar, sente os ventos da má sorte soprando com muita força quando os marinheiros fantasmas assassinos, liderados pelo aterrorizante Capitão Salazar, escapam do triângulo do diabo decididos a matar todos os piratas em seu caminho, especialmente Jack.",
-    "avaliacao": "6.7",
-    "classificacao": "12",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "Assistir ",
-          "linkFisico": "v/piratas-do-caribe-a-vinganca-de-salazar.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/w4CPjdoluwyPXPzdMCJUKJD7gtt.jpg"
-        }
-      ]
-    }
-  },
-  {
-    "id": "piratas-do-caribe-navegando-em-aguas-misteriosas",
-    "tipo": "filme",
-    "categoria": "Ação",
-    "titulo": "Piratas do Caribe: Navegando em Águas Misteriosas ",
-    "logo": "https://image.tmdb.org/t/p/w780/blt7kBXEk1HgJjCTusaUMQ7BCTY.jpg",
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/2B17Bo3JR8XJOldGozWq5mzmMiG.jpg",
-    "sinopse": "O passado do capitão Jack Sparrow volta a alcançá-lo quando ele cruza com Angelica, uma bonita pirata que Jack, um dia, amou e depois abandonou. Ela, então, o força a acompanhá-la ao navio Vingança da Rainha Ana, do famoso Barba Negra. Junto com uma tripulação de zumbis, o trio parte em busca da lendária Fonte da Juventude. Mas o rival de Jack, Barbossa, também cobiça a fonte, assim como um navio espanhol.",
-    "avaliacao": "6.6",
-    "classificacao": "12",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "Assistir ",
-          "linkFisico": "v/piratas-do-caribe-navegando-em-aguas-misteriosas.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/2B17Bo3JR8XJOldGozWq5mzmMiG.jpg"
-        }
-      ]
-    }
-  },
-  {
     "id": "por-agua-abaixo",
     "tipo": "filme",
     "categoria": "Animações",
@@ -49202,6 +49162,50 @@
           "tit": "Assistir",
           "linkFisico": "v/piratas-do-caribe-no-fim-do-mundo.html",
           "logoEp": "https://image.tmdb.org/t/p/w1280/A2V6uIYACMQZuwWvL5KAu19q5CO.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "piratas-do-caribe-navegando-em-aguas-misteriosas",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "Piratas do Caribe: Navegando em Águas Misteriosas",
+    "logo": "https://image.tmdb.org/t/p/w780/blt7kBXEk1HgJjCTusaUMQ7BCTY.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/2B17Bo3JR8XJOldGozWq5mzmMiG.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/kabB6xmY9T3MDNQQh6e6e8YsuSg.png",
+    "sinopse": "O passado do capitão Jack Sparrow volta a alcançá-lo quando ele cruza com Angelica, uma bonita pirata que Jack, um dia, amou e depois abandonou. Ela, então, o força a acompanhá-la ao navio Vingança da Rainha Ana, do famoso Barba Negra. Junto com uma tripulação de zumbis, o trio parte em busca da lendária Fonte da Juventude. Mas o rival de Jack, Barbossa, também cobiça a fonte, assim como um navio espanhol.",
+    "nota": "6.6",
+    "avaliacao": "6.6",
+    "classificacao": "12",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/piratas-do-caribe-navegando-em-aguas-misteriosas.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/2B17Bo3JR8XJOldGozWq5mzmMiG.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "piratas-do-caribe-a-vinganca-de-salazar",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "Piratas do Caribe: A Vingança de Salazar",
+    "logo": "https://image.tmdb.org/t/p/w780/1bXv1lIkXE1TXYsyd6HHQr4dfw4.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/w4CPjdoluwyPXPzdMCJUKJD7gtt.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/oXYBvFdN4i5Sni7sFitcMLUTCLg.png",
+    "sinopse": "O Capitão Jack, que anda passando por uma onda de azar, sente os ventos da má sorte soprando com muita força quando os marinheiros fantasmas assassinos, liderados pelo aterrorizante Capitão Salazar, escapam do triângulo do diabo decididos a matar todos os piratas em seu caminho, especialmente Jack.",
+    "nota": "6.7",
+    "avaliacao": "6.7",
+    "classificacao": "12",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/piratas-do-caribe-a-vinganca-de-salazar.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/w4CPjdoluwyPXPzdMCJUKJD7gtt.jpg"
         }
       ]
     }
