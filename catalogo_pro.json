@@ -49209,5 +49209,49 @@
         }
       ]
     }
+  },
+  {
+    "id": "minions",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Minions",
+    "logo": "https://image.tmdb.org/t/p/w780/caq9Xi6b1sZNREfzFBO2tRIBzWn.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/d96BREyl0U5pE1SgaZwlH7DUCGu.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/b7I0khDhTiPnl4AkOJeAk6LnTDC.png",
+    "sinopse": "Seres amarelos milenares, os minions têm uma missão: servir os maiores vilões. Em depressão desde a morte de seu antigo mestre, eles tentam encontrar um novo chefe. Três voluntários, Kevin, Stuart e Bob, vão até uma convenção de vilões nos Estados Unidos e lá se encantam com Scarlet Overkill, que ambiciona ser a primeira mulher a dominar o mundo.",
+    "nota": "6.4",
+    "avaliacao": "6.4",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/minions.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/d96BREyl0U5pE1SgaZwlH7DUCGu.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "minions-2-a-origem-de-gru",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Minions 2: A Origem de Gru",
+    "logo": "https://image.tmdb.org/t/p/w780/iTP3mMw0AoqmScYzDoMmYeKxYe.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/b0toTmQnWBqJqdJ6VYFG0iEW04E.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/mTGthir1j00CBjalFDKTyMox5jJ.png",
+    "sinopse": "A continuação das aventuras dos Minions, sempre em busca de um líder tirânico. Dessa vez, eles ajudam um Gru ainda criança, descobrindo como ser vilão.",
+    "nota": "7.3",
+    "avaliacao": "7.3",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/minions-2-a-origem-de-gru.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/b0toTmQnWBqJqdJ6VYFG0iEW04E.jpg"
+        }
+      ]
+    }
   }
 ]
