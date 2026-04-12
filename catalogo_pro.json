@@ -48830,5 +48830,27 @@
         }
       ]
     }
+  },
+  {
+    "id": "predador-assassino-de-assassinos",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Predador: Assassino de Assassinos",
+    "logo": "https://image.tmdb.org/t/p/w780/h8Yubag1HEChg8NVGmRHuuZm1gQ.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/5lAbwhFljnDwHEAhPMQqxARe6iI.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/iCFfwCO4uXCaxweB46iqGbyI14j.png",
+    "sinopse": "Essa antologia animada original acompanha três dos guerreiros mais determinados da história da humanidade: uma pirata viking que guia o filho em uma busca sangrenta por vingança, um ninja no Japão feudal que se volta contra o irmão samurai em uma batalha brutal pela sucessão e um piloto da Segunda Guerra Mundial que voa para investigar uma ameaça sobrenatural à causa aliada.",
+    "nota": "7.8",
+    "avaliacao": "7.8",
+    "classificacao": "16",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/predador-assassino-de-assassinos.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/5lAbwhFljnDwHEAhPMQqxARe6iI.jpg"
+        }
+      ]
+    }
   }
 ]
