@@ -49019,5 +49019,27 @@
         }
       ]
     }
+  },
+  {
+    "id": "alien-romulus",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "Alien: Romulus",
+    "logo": "https://image.tmdb.org/t/p/w780/jB0W9tn4w07MFn7sTfqRTBLVytF.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/kDucPGvDXVy2YKqgRdzNjhbrgvD.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/nGhgWTs313pBqZmZYh7Fc5Fi1JM.png",
+    "sinopse": "Enquanto vasculham as profundezas de uma estação espacial abandonada, um grupo de jovens colonizadores espaciais se depara com a forma de vida mais aterrorizante do universo.",
+    "nota": "7.2",
+    "avaliacao": "7.2",
+    "classificacao": "16",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/alien-romulus.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kDucPGvDXVy2YKqgRdzNjhbrgvD.jpg"
+        }
+      ]
+    }
   }
 ]
