@@ -49341,5 +49341,71 @@
         }
       ]
     }
+  },
+  {
+    "id": "homem-aranha",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "Homem-Aranha",
+    "logo": "https://image.tmdb.org/t/p/w780/RbZQL5hXmydecu82UHw9ZGyytB.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/i8VGhbkyFBxKQ1j7fgMAX0jICTk.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/26A4s4YUkqI8alNiBiOiMIdveZK.png",
+    "sinopse": "Peter Parker é um jovem estudioso que vive com seus tios, Ben e May, desde que seus pais faleceram. Peter tem dificuldade em se relacionar com seus colegas, por ser tímido e por eles o considerarem um nerd. Até que, em uma demonstração científica, um acidente inesperado faz com que uma aranha modificada geneticamente pique Peter. A partir de então seu corpo é quimicamente alterado pela picada da aranha.",
+    "nota": "7.3",
+    "avaliacao": "7.3",
+    "classificacao": "12",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/homem-aranha.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/i8VGhbkyFBxKQ1j7fgMAX0jICTk.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "homem-aranha-2",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "Homem-Aranha 2",
+    "logo": "https://image.tmdb.org/t/p/w780/xB05Gyeo2w4RBwt7nZlPkjZzt9X.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/kavDvJfWXDtGBRftDGpLNvSaonC.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/dsSCUATPalvZKKYLEWesaQ0HLEA.png",
+    "sinopse": "Dois anos se passaram desde que o tranquilo Peter Parker separou-se do grande amor de sua vida, Mary Jane Watson, e decidiu assumir o compromisso e a responsabilidade de seguir sendo o Homem-Aranha. Peter enfrenta novos desafios enquanto aprende a lidar com \"seu dom e sua maldição\", tentando desesperadamente harmonizar suas duas identidades: A do super-herói aracnídeo, o Homem-Aranha, e a do estudante universitário.",
+    "nota": "7.3",
+    "avaliacao": "7.3",
+    "classificacao": "12",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/homem-aranha-2.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kavDvJfWXDtGBRftDGpLNvSaonC.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "homem-aranha-3",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "Homem-Aranha 3",
+    "logo": "https://image.tmdb.org/t/p/w780/5831VrgpYNPEokBwxurLVpQ3twM.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/9Lsajof2c2W0VKAQoJlDaK2u8tq.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/nbNVDI47kCnuph6O6giApElrPCL.png",
+    "sinopse": "O relacionamento entre Peter Parker e Mary Jane parece estar dando certo, mas outros problemas começam a surgir. A roupa de Homem-Aranha torna-se preta e acaba controlando Peter, que apesar de aumentar seus poderes, revela o lado obscuro de sua personalidade. Os vilões Venon e Homem-Areia tentam destruir o super-herói.",
+    "nota": "6.5",
+    "avaliacao": "6.5",
+    "classificacao": "12",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/homem-aranha-3.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/9Lsajof2c2W0VKAQoJlDaK2u8tq.jpg"
+        }
+      ]
+    }
   }
 ]
