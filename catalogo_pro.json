@@ -48435,5 +48435,71 @@
         }
       ]
     }
+  },
+  {
+    "id": "o-poderoso-chefao",
+    "tipo": "filme",
+    "categoria": "Drama",
+    "titulo": "O Poderoso Chefão",
+    "logo": "https://image.tmdb.org/t/p/w780/oJagOzBu9Rdd9BrciseCm3U3MCU.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/tr5umon8WP7pbtWKKHoVmAdIozC.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/mxRcPMGsEi3nwDqZwuUVZklnsQ5.png",
+    "sinopse": "Em 1945, Don Corleone é o chefe de uma mafiosa família italiana de Nova York. Ele costuma apadrinhar várias pessoas, realizando importantes favores para elas, em troca de favores futuros. Com a chegada das drogas, as famílias começam uma disputa pelo promissor mercado. Quando Corleone se recusa a facilitar a entrada dos narcóticos na cidade, não oferecendo ajuda política e policial, sua família começa a sofrer atentados para que mudem de posição. É nessa complicada época que Michael, um herói de guerra nunca envolvido nos negócios da família, vê a necessidade de proteger o seu pai e tudo o que ele construiu ao longo dos anos.",
+    "nota": "8.7",
+    "avaliacao": "8.7",
+    "classificacao": "14",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/o-poderoso-chefao.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/tr5umon8WP7pbtWKKHoVmAdIozC.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "o-poderoso-chefao-parte-ii",
+    "tipo": "filme",
+    "categoria": "Drama",
+    "titulo": "O Poderoso Chefão: Parte II",
+    "logo": "https://image.tmdb.org/t/p/w780/3ViYPhSAPwH2avQjdMl49F8PklB.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/gYmu3bDvdY6TfVX8m6At6qM7RqT.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/r6tpLEesSbHGtlw3RfLm0JOHjOY.png",
+    "sinopse": "Após a máfia matar sua família, o jovem Vito foge da sua cidade na Sicília e vai para a América. Vito luta para manter sua família. Ele mata Black Hand Fanucci, que exigia dos comerciantes uma parte dos seus ganhos. Com a morte de Fanucci, o poderio de Vito cresce, mas sua família é o que mais importa para ele. Agora baseado no Lago Tahoe, Michael planeja fazer incursões em Las Vegas e Havana instalando negócios ligados ao lazer, mas descobre que aliados como Hyman Roth estão tentando matá-lo.",
+    "nota": "8.6",
+    "avaliacao": "8.6",
+    "classificacao": "14",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/o-poderoso-chefao-parte-ii.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gYmu3bDvdY6TfVX8m6At6qM7RqT.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "o-poderoso-chefao-parte-iii",
+    "tipo": "filme",
+    "categoria": "Terror",
+    "titulo": "O Poderoso Chefão: Parte III",
+    "logo": "https://image.tmdb.org/t/p/w780/y8GROCjgD8amoFufSx2USKrOy7d.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/xvqRV2PXNhglBmkfa85btBgzA8s.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/3LADO31R3yBZzqcmXV2s6YTvpYG.png",
+    "sinopse": "Don Michael Corleone está envelhecendo e, com a ajuda do sobrinho Vicente Mancini, busca a legitimação dos interesses da família, em Nova York e na Itália, antes de sua morte. Mas seu protegido não está só interessado em parte do império da família. Ele também deseja a filha de Michael, Mary.",
+    "nota": "7.4",
+    "avaliacao": "7.4",
+    "classificacao": "14",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/o-poderoso-chefao-parte-iii.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/xvqRV2PXNhglBmkfa85btBgzA8s.jpg"
+        }
+      ]
+    }
   }
 ]
