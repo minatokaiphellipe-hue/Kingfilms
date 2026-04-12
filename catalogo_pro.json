@@ -49407,5 +49407,49 @@
         }
       ]
     }
+  },
+  {
+    "id": "o-espetacular-homem-aranha",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "O Espetacular Homem-Aranha",
+    "logo": "https://image.tmdb.org/t/p/w780/gxSsFBCFuDhVQMCuIDoZcmHOqlY.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/u1hxf2Co5pm3SJzqFbVyMA8v2N0.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/xmlKEQSClNodO8OwZy1yYESOaXE.png",
+    "sinopse": "Peter Parker está tentando saber mais sobre sua origem. Ele encontra uma pasta que pertenceu ao seu pai e quer descobrir por que seus pais desapareceram. Sua busca o leva a Oscorp e ao dr. Curt Connors, que tem como alterego o letal Lagarto.",
+    "nota": "6.7",
+    "avaliacao": "6.7",
+    "classificacao": "10",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/o-espetacular-homem-aranha.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/u1hxf2Co5pm3SJzqFbVyMA8v2N0.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "o-espetacular-homem-aranha-2-a-ameaca-de-electro",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "O Espetacular Homem-Aranha 2: A Ameaça de Electro",
+    "logo": "https://image.tmdb.org/t/p/w780/rSsRveZUsaFrigKibILwlpJ4wuv.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/hJZrQ3aKhcXvlauos83EZoGYqAv.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/nv2ZxnkeF1CGPtYBQDWTXawD4LD.png",
+    "sinopse": "O jovem Peter Parker está fascinado com as habilidades que adquiriu como Homem-Aranha. Agora, ele precisa lidar com dois problemas: o retorno de um velho amigo, Harry Osborn, e a chegada de um vilão mais forte e poderoso, Electro.",
+    "nota": "6.5",
+    "avaliacao": "6.5",
+    "classificacao": "12",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/o-espetacular-homem-aranha-2-a-ameaca-de-electro.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/hJZrQ3aKhcXvlauos83EZoGYqAv.jpg"
+        }
+      ]
+    }
   }
 ]
