@@ -48501,5 +48501,114 @@
         }
       ]
     }
+  },
+  {
+    "id": "cacadores",
+    "tipo": "serie",
+    "categoria": "Séries",
+    "titulo": "Caçadores",
+    "logo": "https://image.tmdb.org/t/p/w780/iaXuRmehFSX8uU9XX6gfIDdqajg.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/x1kSeqkLikmbXuJrRVuc0HVctU6.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/zwZmQxl3a8My1AJjODkDwEPWV8e.png",
+    "sinopse": "No fim do anos 70, em Nova York, um grupo diversificado de caçadores de nazistas descobrem que centenas de oficiais nazistas de alto escalão estão vivendo entre nós e conspirando para criar um Quarto Reich nos EUA. A eclética equipe de Caçadores iniciará uma sangrenta busca para levar os nazistas à justiça e frustrar seus novos planos genocidas.",
+    "nota": "7.2",
+    "avaliacao": "7.2",
+    "classificacao": "18",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "S01E01",
+          "linkFisico": "v/cacadores-s01e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x1kSeqkLikmbXuJrRVuc0HVctU6.jpg"
+        },
+        {
+          "tit": "S01E02",
+          "linkFisico": "v/cacadores-s01e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x1kSeqkLikmbXuJrRVuc0HVctU6.jpg"
+        },
+        {
+          "tit": "S01E03",
+          "linkFisico": "v/cacadores-s01e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x1kSeqkLikmbXuJrRVuc0HVctU6.jpg"
+        },
+        {
+          "tit": "S01E04",
+          "linkFisico": "v/cacadores-s01e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x1kSeqkLikmbXuJrRVuc0HVctU6.jpg"
+        },
+        {
+          "tit": "S01E05",
+          "linkFisico": "v/cacadores-s01e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x1kSeqkLikmbXuJrRVuc0HVctU6.jpg"
+        },
+        {
+          "tit": "S01E06",
+          "linkFisico": "v/cacadores-s01e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x1kSeqkLikmbXuJrRVuc0HVctU6.jpg"
+        },
+        {
+          "tit": "S01E07",
+          "linkFisico": "v/cacadores-s01e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x1kSeqkLikmbXuJrRVuc0HVctU6.jpg"
+        },
+        {
+          "tit": "S01E08",
+          "linkFisico": "v/cacadores-s01e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x1kSeqkLikmbXuJrRVuc0HVctU6.jpg"
+        },
+        {
+          "tit": "S01E09",
+          "linkFisico": "v/cacadores-s01e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x1kSeqkLikmbXuJrRVuc0HVctU6.jpg"
+        },
+        {
+          "tit": "S01E10",
+          "linkFisico": "v/cacadores-s01e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x1kSeqkLikmbXuJrRVuc0HVctU6.jpg"
+        }
+      ],
+      "2": [
+        {
+          "tit": "S02E01",
+          "linkFisico": "v/cacadores-s02e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x1kSeqkLikmbXuJrRVuc0HVctU6.jpg"
+        },
+        {
+          "tit": "S02E02",
+          "linkFisico": "v/cacadores-s02e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x1kSeqkLikmbXuJrRVuc0HVctU6.jpg"
+        },
+        {
+          "tit": "S02E03",
+          "linkFisico": "v/cacadores-s02e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x1kSeqkLikmbXuJrRVuc0HVctU6.jpg"
+        },
+        {
+          "tit": "S02E04",
+          "linkFisico": "v/cacadores-s02e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x1kSeqkLikmbXuJrRVuc0HVctU6.jpg"
+        },
+        {
+          "tit": "S02E05",
+          "linkFisico": "v/cacadores-s02e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x1kSeqkLikmbXuJrRVuc0HVctU6.jpg"
+        },
+        {
+          "tit": "S02E06",
+          "linkFisico": "v/cacadores-s02e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x1kSeqkLikmbXuJrRVuc0HVctU6.jpg"
+        },
+        {
+          "tit": "S02E07",
+          "linkFisico": "v/cacadores-s02e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x1kSeqkLikmbXuJrRVuc0HVctU6.jpg"
+        },
+        {
+          "tit": "S02E08",
+          "linkFisico": "v/cacadores-s02e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/x1kSeqkLikmbXuJrRVuc0HVctU6.jpg"
+        }
+      ]
+    }
   }
 ]
