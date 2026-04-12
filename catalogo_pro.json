@@ -48612,28 +48612,6 @@
     }
   },
   {
-    "id": "o-rei-leao",
-    "tipo": "filme",
-    "categoria": "Fantasia",
-    "titulo": "O Rei Leão",
-    "logo": "https://image.tmdb.org/t/p/w780/wrHr8eEJYDAA7WYybyH162s4oZ4.jpg",
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/8eXzx6tfMXYRUb7JYpS9ef2P9TC.jpg",
-    "logo_png": "https://image.tmdb.org/t/p/w500/xHUEQoAJmkQXjWOmsxso6TS4cuc.png",
-    "sinopse": "Simba é um jovem leão cujo destino é se tornar o rei da selva. Entretanto, uma armadilha elaborada por seu tio Scar faz com que Mufasa, o atual rei, morra ao tentar salvar o filhote. Consumido pela culpa, Simba deixa o reino rumo a um local distante, onde encontra amigos que o ensinam a mais uma vez ter prazer pela vida.",
-    "nota": "7.1",
-    "avaliacao": "7.1",
-    "classificacao": "Livre",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "Assistir",
-          "linkFisico": "v/o-rei-leao.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/8eXzx6tfMXYRUb7JYpS9ef2P9TC.jpg"
-        }
-      ]
-    }
-  },
-  {
     "id": "mufasa-o-rei-leao",
     "tipo": "filme",
     "categoria": "Fantasia",
@@ -48849,6 +48827,28 @@
           "tit": "Assistir",
           "linkFisico": "v/predador-assassino-de-assassinos.html",
           "logoEp": "https://image.tmdb.org/t/p/w1280/5lAbwhFljnDwHEAhPMQqxARe6iI.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "o-rei-leao",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "O Rei Leão",
+    "logo": "https://image.tmdb.org/t/p/w780/8aIvm8OaJISOpVTt7rMIh7X35G5.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/6rEwYIziNSPtYyvyuSTIP3OnELj.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/sg3MuPAHGhXm2VMLcbMTEqbtQGx.png",
+    "sinopse": "Mufasa, o Rei Leão, e a rainha Sarabi apresentam ao reino o herdeiro do trono, Simba. O recém-nascido recebe a bênção do sábio babuíno Rafiki, mas ao crescer é envolvido nas artimanhas de seu tio Scar, o invejoso e maquiavélico irmão de Mufasa, que planeja livrar-se do sobrinho e herdar o trono.",
+    "nota": "8.3",
+    "avaliacao": "8.3",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/o-rei-leao.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/6rEwYIziNSPtYyvyuSTIP3OnELj.jpg"
         }
       ]
     }
