@@ -48997,5 +48997,27 @@
         }
       ]
     }
+  },
+  {
+    "id": "cowboys-aliens",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "Cowboys & Aliens",
+    "logo": "https://image.tmdb.org/t/p/w780/9uZsGCP4rvOHVGCpMpYq5gNCuNI.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/ljXYY95TPyhG9irWvXtVYKVZOud.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/khVVZ3PdkzarNPaSai0vAEmLmyQ.png",
+    "sinopse": "Em 1873, um estranho sem memória vai parar em Absolution, cidade inóspita para visitantes e dominada pelo medo imposto pelo pulso forte do \"Coronel\" Woodrow Dollarhyde. Mas o inesperado acontece quando máquinas voadoras atacam a cidade e sequestram seus habitantes. É quando os humanos descobrem que precisam combater a invasão alienígena, forçando os homens brancos, bons e maus, e ainda os peles vermelhas a unir forças contra a ameaça extraterrestre.",
+    "nota": "5.6",
+    "avaliacao": "5.6",
+    "classificacao": "12",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/cowboys-aliens.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/ljXYY95TPyhG9irWvXtVYKVZOud.jpg"
+        }
+      ]
+    }
   }
 ]
