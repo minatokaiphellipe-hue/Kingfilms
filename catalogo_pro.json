@@ -48698,5 +48698,71 @@
         }
       ]
     }
+  },
+  {
+    "id": "o-predador",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "O Predador",
+    "logo": "https://image.tmdb.org/t/p/w780/3RuuLeX487syJrV1olkQCFbHrIv.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/dpX6bfPlbDzagpqN7ukuI0tErvE.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/qkFqJxwUgIsdoozieCEWA2kFu3n.png",
+    "sinopse": "O major Alan \"Dutch\" Schaefer lidera uma equipe de resgate em uma selva da América Central, para tentar encontrar um ministro estrangeiro e funcionários do governo que saíram da rota e se perderam. O exército acredita que eles estejam nas mãos de guerrilheiros, mas o que eles não imaginam é que a floresta esconde uma ameaça mortal, um ser de outro planeta, fortemente armado, que sente enorme prazer em matar.",
+    "nota": "7.5",
+    "avaliacao": "7.5",
+    "classificacao": "16",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/o-predador.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/dpX6bfPlbDzagpqN7ukuI0tErvE.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "o-predador-2-a-cacada-continua",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "O Predador 2: A Caçada Continua",
+    "logo": "https://image.tmdb.org/t/p/w780/xBNOmNi4SSB5JAXGlsvgYtWDOuD.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/r7H3xeJ3WLz8CIdzoJnEDdA3wLw.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/b7Lt40dV0rWIYzkZChzU8Qy5dCh.png",
+    "sinopse": "Um alienígena predador, invisível e equipado com armas poderosas, desembarca em Los Angeles, devastada pelo conflito de gangues de traficantes rivais, para iniciar seu festival de matança, deixando um rastro de corpos mutilados em seu caminho.",
+    "nota": "6.3",
+    "avaliacao": "6.3",
+    "classificacao": "16",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/o-predador-2-a-cacada-continua.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/r7H3xeJ3WLz8CIdzoJnEDdA3wLw.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "alien-vs-predador",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "Alien vs. Predador",
+    "logo": "https://image.tmdb.org/t/p/w780/3geC51BIBZYSttTfDHXO82Heoec.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/nxuLvAlLQ0hcNuyENkFOkyY50IW.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/jb182nrBlEFIGUWR11hW49K5xCg.png",
+    "sinopse": "Uma pirâmide até então desconhecida é encontrada na Antártica através de satélites, fazendo com que uma equipe de cientistas e aventureiros seja enviada para investigar o local. Porém lá eles fazem uma descoberta chocante: a pirâmide serve de abrigo para duas raças alienígenas extremamente violentas, que estão em guerra.",
+    "nota": "5.9",
+    "avaliacao": "5.9",
+    "classificacao": "14",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/alien-vs-predador.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/nxuLvAlLQ0hcNuyENkFOkyY50IW.jpg"
+        }
+      ]
+    }
   }
 ]
