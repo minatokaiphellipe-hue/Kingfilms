@@ -49409,28 +49409,6 @@
     }
   },
   {
-    "id": "o-espetacular-homem-aranha",
-    "tipo": "filme",
-    "categoria": "Ação",
-    "titulo": "O Espetacular Homem-Aranha",
-    "logo": "https://image.tmdb.org/t/p/w780/gxSsFBCFuDhVQMCuIDoZcmHOqlY.jpg",
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/u1hxf2Co5pm3SJzqFbVyMA8v2N0.jpg",
-    "logo_png": "https://image.tmdb.org/t/p/w500/xmlKEQSClNodO8OwZy1yYESOaXE.png",
-    "sinopse": "Peter Parker está tentando saber mais sobre sua origem. Ele encontra uma pasta que pertenceu ao seu pai e quer descobrir por que seus pais desapareceram. Sua busca o leva a Oscorp e ao dr. Curt Connors, que tem como alterego o letal Lagarto.",
-    "nota": "6.7",
-    "avaliacao": "6.7",
-    "classificacao": "10",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "Assistir",
-          "linkFisico": "v/o-espetacular-homem-aranha.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/u1hxf2Co5pm3SJzqFbVyMA8v2N0.jpg"
-        }
-      ]
-    }
-  },
-  {
     "id": "o-espetacular-homem-aranha-2-a-ameaca-de-electro",
     "tipo": "filme",
     "categoria": "Ação",
@@ -49558,6 +49536,155 @@
           "tit": "Assistir",
           "linkFisico": "v/homem-aranha-atraves-do-aranhaverso.html",
           "logoEp": "https://image.tmdb.org/t/p/w1280/yqskSNCruTLwKZPAErZJJhMwuIJ.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "o-espetacular-homem-aranha",
+    "tipo": "serie",
+    "categoria": "Séries",
+    "titulo": "O Espetacular Homem-Aranha",
+    "logo": "https://image.tmdb.org/t/p/w780/mtelBDEhr0GliQ2MRPBUmgxiXJY.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/5fa863SbsZI5kil3ujKsZU5YtR8.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/99b8JlDZRn59JpCsdACmauoL5Az.png",
+    "sinopse": "Esta série recria as façanhas de Peter Parker, um garoto que é picado por uma aranha radioativa e passa a ter superpoderes, tornando-se o Homem-Aranha.",
+    "nota": "8.6",
+    "avaliacao": "8.6",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "S01E01",
+          "linkFisico": "v/o-espetacular-homem-aranha-s01e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/5fa863SbsZI5kil3ujKsZU5YtR8.jpg"
+        },
+        {
+          "tit": "S01E02",
+          "linkFisico": "v/o-espetacular-homem-aranha-s01e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/5fa863SbsZI5kil3ujKsZU5YtR8.jpg"
+        },
+        {
+          "tit": "S01E03",
+          "linkFisico": "v/o-espetacular-homem-aranha-s01e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/5fa863SbsZI5kil3ujKsZU5YtR8.jpg"
+        },
+        {
+          "tit": "S01E04",
+          "linkFisico": "v/o-espetacular-homem-aranha-s01e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/5fa863SbsZI5kil3ujKsZU5YtR8.jpg"
+        },
+        {
+          "tit": "S01E05",
+          "linkFisico": "v/o-espetacular-homem-aranha-s01e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/5fa863SbsZI5kil3ujKsZU5YtR8.jpg"
+        },
+        {
+          "tit": "S01E06",
+          "linkFisico": "v/o-espetacular-homem-aranha-s01e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/5fa863SbsZI5kil3ujKsZU5YtR8.jpg"
+        },
+        {
+          "tit": "S01E07",
+          "linkFisico": "v/o-espetacular-homem-aranha-s01e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/5fa863SbsZI5kil3ujKsZU5YtR8.jpg"
+        },
+        {
+          "tit": "S01E08",
+          "linkFisico": "v/o-espetacular-homem-aranha-s01e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/5fa863SbsZI5kil3ujKsZU5YtR8.jpg"
+        },
+        {
+          "tit": "S01E09",
+          "linkFisico": "v/o-espetacular-homem-aranha-s01e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/5fa863SbsZI5kil3ujKsZU5YtR8.jpg"
+        },
+        {
+          "tit": "S01E10",
+          "linkFisico": "v/o-espetacular-homem-aranha-s01e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/5fa863SbsZI5kil3ujKsZU5YtR8.jpg"
+        },
+        {
+          "tit": "S01E11",
+          "linkFisico": "v/o-espetacular-homem-aranha-s01e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/5fa863SbsZI5kil3ujKsZU5YtR8.jpg"
+        },
+        {
+          "tit": "S01E12",
+          "linkFisico": "v/o-espetacular-homem-aranha-s01e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/5fa863SbsZI5kil3ujKsZU5YtR8.jpg"
+        },
+        {
+          "tit": "S01E13",
+          "linkFisico": "v/o-espetacular-homem-aranha-s01e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/5fa863SbsZI5kil3ujKsZU5YtR8.jpg"
+        }
+      ],
+      "2": [
+        {
+          "tit": "S02E01",
+          "linkFisico": "v/o-espetacular-homem-aranha-s02e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/5fa863SbsZI5kil3ujKsZU5YtR8.jpg"
+        },
+        {
+          "tit": "S02E02",
+          "linkFisico": "v/o-espetacular-homem-aranha-s02e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/5fa863SbsZI5kil3ujKsZU5YtR8.jpg"
+        },
+        {
+          "tit": "S02E03",
+          "linkFisico": "v/o-espetacular-homem-aranha-s02e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/5fa863SbsZI5kil3ujKsZU5YtR8.jpg"
+        },
+        {
+          "tit": "S02E04",
+          "linkFisico": "v/o-espetacular-homem-aranha-s02e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/5fa863SbsZI5kil3ujKsZU5YtR8.jpg"
+        },
+        {
+          "tit": "S02E05",
+          "linkFisico": "v/o-espetacular-homem-aranha-s02e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/5fa863SbsZI5kil3ujKsZU5YtR8.jpg"
+        },
+        {
+          "tit": "S02E06",
+          "linkFisico": "v/o-espetacular-homem-aranha-s02e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/5fa863SbsZI5kil3ujKsZU5YtR8.jpg"
+        },
+        {
+          "tit": "S02E07",
+          "linkFisico": "v/o-espetacular-homem-aranha-s02e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/5fa863SbsZI5kil3ujKsZU5YtR8.jpg"
+        },
+        {
+          "tit": "S02E08",
+          "linkFisico": "v/o-espetacular-homem-aranha-s02e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/5fa863SbsZI5kil3ujKsZU5YtR8.jpg"
+        },
+        {
+          "tit": "S02E09",
+          "linkFisico": "v/o-espetacular-homem-aranha-s02e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/5fa863SbsZI5kil3ujKsZU5YtR8.jpg"
+        },
+        {
+          "tit": "S02E10",
+          "linkFisico": "v/o-espetacular-homem-aranha-s02e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/5fa863SbsZI5kil3ujKsZU5YtR8.jpg"
+        },
+        {
+          "tit": "S02E11",
+          "linkFisico": "v/o-espetacular-homem-aranha-s02e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/5fa863SbsZI5kil3ujKsZU5YtR8.jpg"
+        },
+        {
+          "tit": "S02E12",
+          "linkFisico": "v/o-espetacular-homem-aranha-s02e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/5fa863SbsZI5kil3ujKsZU5YtR8.jpg"
+        },
+        {
+          "tit": "S02E13",
+          "linkFisico": "v/o-espetacular-homem-aranha-s02e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/5fa863SbsZI5kil3ujKsZU5YtR8.jpg"
         }
       ]
     }
