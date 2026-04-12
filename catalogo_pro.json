@@ -49155,5 +49155,49 @@
         }
       ]
     }
+  },
+  {
+    "id": "pearl-uma-historia-de-origem-x",
+    "tipo": "filme",
+    "categoria": "Terror",
+    "titulo": "Pearl: Uma História de Origem 'X'",
+    "logo": "https://image.tmdb.org/t/p/w780/cTgLkhIMmzwH1NAaq7NDbFN20zi.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/iixJn7swBoAamrsnwys3l02OAHb.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/haRouJJovVyK74zZIueZ5cFdKgU.png",
+    "sinopse": "Presa na fazenda isolada de sua família, Pearl deve cuidar de seu pai doente sob o olhar amargo e autoritário de sua mãe devota. Desejando uma vida glamourosa como ela viu nos filmes, as ambições, tentações e repressões de Pearl colidem, na impressionante história de origem inspirada em technicolor da icônica vilã de X.",
+    "nota": "7.2",
+    "avaliacao": "7.2",
+    "classificacao": "18",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/pearl-uma-historia-de-origem-x.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/iixJn7swBoAamrsnwys3l02OAHb.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "x-a-marca-da-morte",
+    "tipo": "filme",
+    "categoria": "Terror",
+    "titulo": "X: A Marca da Morte",
+    "logo": "https://image.tmdb.org/t/p/w780/4BarWJRYFB5fN7LsJI9U2ul79hB.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/wfRrPPQRjWMd8nbdN12cl89uV3D.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/sKXl1KQXxC1FpHqXN3LHyT7714z.png",
+    "sinopse": "Em 1979, um grupo de jovens cineastas se propôs a fazer um filme adulto na zona rural do Texas, mas quando seus solitários e idosos anfitriões os pegam em flagrante, o elenco se vê lutando por suas vidas.",
+    "nota": "6.7",
+    "avaliacao": "6.7",
+    "classificacao": "18",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/x-a-marca-da-morte.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/wfRrPPQRjWMd8nbdN12cl89uV3D.jpg"
+        }
+      ]
+    }
   }
 ]
