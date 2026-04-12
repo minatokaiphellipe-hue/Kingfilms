@@ -48367,5 +48367,71 @@
         }
       ]
     }
+  },
+  {
+    "id": "premonicao-4",
+    "tipo": "filme",
+    "categoria": "Terror",
+    "titulo": "Premonição 4",
+    "logo": "https://image.tmdb.org/t/p/w780/sIDOFaipvpSM0R2uZNcDMLvTbhM.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/AigCQ20pMASeUblXsN9IPiQtm6m.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/fjokZZOY50uj4UkCGMGz0g9bQS6.png",
+    "sinopse": "Durante uma corrida de carros, Nick O'Bannon tem uma horrível premonição sobre uma sequência de eventos que causarão um sério acidente, matando diversos espectadores de forma brutal. Quando volta dessa visão, o garoto se dá conta de que tudo o que previu está prestes a acontecer e agora ele terá de correr contra o tempo para salvar a vida do máximo de pessoas possível.",
+    "nota": "5.6",
+    "avaliacao": "5.6",
+    "classificacao": "16",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/premonicao-4.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/AigCQ20pMASeUblXsN9IPiQtm6m.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "premonicao-5",
+    "tipo": "filme",
+    "categoria": "Terror",
+    "titulo": "Premonição 5",
+    "logo": "https://image.tmdb.org/t/p/w780/A0C3juaReSw8vQD3aWEZnOgolFL.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/1OKNs2eCqFVlV40hp2JzodAjFY0.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/ixoGhZnfssy8pLLm2emZyVx5oDt.png",
+    "sinopse": "A Morte está mais onipresente do que nunca, e inicia seu ataque após a premonição de um homem que salva um grupo de colegas de trabalho de um terrível colapso em uma ponte suspensa. Mas este grupo de almas inocentes não deveria sobreviver e, em uma aterrorizante corrida contra o tempo, o grupo tenta freneticamente descobrir uma maneira de escapar dos planos sinistros da Morte.",
+    "nota": "6.2",
+    "avaliacao": "6.2",
+    "classificacao": "16",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/premonicao-5.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1OKNs2eCqFVlV40hp2JzodAjFY0.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "premonicao-6-lacos-de-sangue",
+    "tipo": "filme",
+    "categoria": "Terror",
+    "titulo": "Premonição 6: Laços de Sangue",
+    "logo": "https://image.tmdb.org/t/p/w780/x3J781PsdMrjenzQKM5eJXqK5Nd.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/6wxlSWRWGDzrfrk5JHsF2Pbrv8b.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/dAU39YPszlqPcqVsWzoeBmpfwjg.png",
+    "sinopse": "Atormentada por um pesadelo violento recorrente, a estudante universitária Stefanie volta para casa para encontrar a única pessoa que pode quebrar o ciclo e salvar sua família do destino horrível que inevitavelmente os aguarda.",
+    "nota": "7.0",
+    "avaliacao": "7.0",
+    "classificacao": "18",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/premonicao-6-lacos-de-sangue.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/6wxlSWRWGDzrfrk5JHsF2Pbrv8b.jpg"
+        }
+      ]
+    }
   }
 ]
