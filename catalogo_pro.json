@@ -4632,147 +4632,6 @@
     }
   },
   {
-    "id": "chucky",
-    "tipo": "serie",
-    "categoria": "Séries",
-    "titulo": "Chucky ",
-    "logo": "https://image.tmdb.org/t/p/w780/sdCJbGkvnIsIKLxaFQrviriODVq.jpg",
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/crecNGEQqWI37ugk0jvW4Qwt3pR.jpg",
-    "logo_png": "https://image.tmdb.org/t/p/w500/oNgJFZwO6CSbn6huZHAKeij9Qwy.png",
-    "sinopse": "Depois que um boneco Chucky \"vintage\" aparece em uma venda de quintal, uma pequena e pacata cidade do interior norte americano é lançada no caos enquanto uma série de assassinatos horríveis começa a expor os segredos da localidade.",
-    "nota": "7.8",
-    "avaliacao": "7.8",
-    "classificacao": "18",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "S01E01 ",
-          "linkFisico": "v/chucky-s01e01.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/crecNGEQqWI37ugk0jvW4Qwt3pR.jpg"
-        },
-        {
-          "tit": "S01E02 ",
-          "linkFisico": "v/chucky-s01e02.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/crecNGEQqWI37ugk0jvW4Qwt3pR.jpg"
-        },
-        {
-          "tit": "S01E03 ",
-          "linkFisico": "v/chucky-s01e03.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/crecNGEQqWI37ugk0jvW4Qwt3pR.jpg"
-        },
-        {
-          "tit": "S01E04 ",
-          "linkFisico": "v/chucky-s01e04.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/crecNGEQqWI37ugk0jvW4Qwt3pR.jpg"
-        },
-        {
-          "tit": "S01E05 ",
-          "linkFisico": "v/chucky-s01e05.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/crecNGEQqWI37ugk0jvW4Qwt3pR.jpg"
-        },
-        {
-          "tit": "S01E06 ",
-          "linkFisico": "v/chucky-s01e06.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/crecNGEQqWI37ugk0jvW4Qwt3pR.jpg"
-        },
-        {
-          "tit": "S01E07 ",
-          "linkFisico": "v/chucky-s01e07.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/crecNGEQqWI37ugk0jvW4Qwt3pR.jpg"
-        },
-        {
-          "tit": "S01E08 ",
-          "linkFisico": "v/chucky-s01e08.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/crecNGEQqWI37ugk0jvW4Qwt3pR.jpg"
-        }
-      ],
-      "2": [
-        {
-          "tit": "S02E01 ",
-          "linkFisico": "v/chucky-s02e01.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/crecNGEQqWI37ugk0jvW4Qwt3pR.jpg"
-        },
-        {
-          "tit": "S02E02 ",
-          "linkFisico": "v/chucky-s02e02.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/crecNGEQqWI37ugk0jvW4Qwt3pR.jpg"
-        },
-        {
-          "tit": "S02E03 ",
-          "linkFisico": "v/chucky-s02e03.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/crecNGEQqWI37ugk0jvW4Qwt3pR.jpg"
-        },
-        {
-          "tit": "S02E04 ",
-          "linkFisico": "v/chucky-s02e04.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/crecNGEQqWI37ugk0jvW4Qwt3pR.jpg"
-        },
-        {
-          "tit": "S02E05 ",
-          "linkFisico": "v/chucky-s02e05.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/crecNGEQqWI37ugk0jvW4Qwt3pR.jpg"
-        },
-        {
-          "tit": "S02E06 ",
-          "linkFisico": "v/chucky-s02e06.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/crecNGEQqWI37ugk0jvW4Qwt3pR.jpg"
-        },
-        {
-          "tit": "S02E07 ",
-          "linkFisico": "v/chucky-s02e07.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/crecNGEQqWI37ugk0jvW4Qwt3pR.jpg"
-        },
-        {
-          "tit": "S02E08 ",
-          "linkFisico": "v/chucky-s02e08.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/crecNGEQqWI37ugk0jvW4Qwt3pR.jpg"
-        }
-      ],
-      "3": [
-        {
-          "tit": "S03E01 ",
-          "linkFisico": "v/chucky-s03e01.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/crecNGEQqWI37ugk0jvW4Qwt3pR.jpg"
-        },
-        {
-          "tit": "S03E02 ",
-          "linkFisico": "v/chucky-s03e02.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/crecNGEQqWI37ugk0jvW4Qwt3pR.jpg"
-        },
-        {
-          "tit": "S03E03 ",
-          "linkFisico": "v/chucky-s03e03.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/crecNGEQqWI37ugk0jvW4Qwt3pR.jpg"
-        },
-        {
-          "tit": "S03E04 ",
-          "linkFisico": "v/chucky-s03e04.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/crecNGEQqWI37ugk0jvW4Qwt3pR.jpg"
-        },
-        {
-          "tit": "S03E05 ",
-          "linkFisico": "v/chucky-s03e05.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/crecNGEQqWI37ugk0jvW4Qwt3pR.jpg"
-        },
-        {
-          "tit": "S03E06 ",
-          "linkFisico": "v/chucky-s03e06.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/crecNGEQqWI37ugk0jvW4Qwt3pR.jpg"
-        },
-        {
-          "tit": "S03E07 ",
-          "linkFisico": "v/chucky-s03e07.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/crecNGEQqWI37ugk0jvW4Qwt3pR.jpg"
-        },
-        {
-          "tit": "S03E08 ",
-          "linkFisico": "v/chucky-s03e08.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/crecNGEQqWI37ugk0jvW4Qwt3pR.jpg"
-        }
-      ]
-    }
-  },
-  {
     "id": "cinderela",
     "tipo": "filme",
     "categoria": "Fantasia",
@@ -6089,72 +5948,6 @@
           "tit": "Assistir ",
           "linkFisico": "v/coraline-e-o-mundo-secreto.html",
           "logoEp": "https://image.tmdb.org/t/p/w1280/sUe6OYgbWrnYpugTvScSUcFVuy4.jpg"
-        }
-      ]
-    }
-  },
-  {
-    "id": "dahmer-um-canibal-americano",
-    "tipo": "serie",
-    "categoria": "Séries",
-    "titulo": "Dahmer: Um Canibal Americano ",
-    "logo": "https://image.tmdb.org/t/p/w780/67ujv4O6AalmGu3UaVSNdcw8juT.jpg",
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/xbRfV469sbwQJfbA9tNS6dJ2fLH.jpg",
-    "sinopse": "Jeffrey Dahmer drogou, estuprou e matou 17 rapazes, além de devorar parte dos cadáveres. Conheça seu modus operandi e veja entrevistas com seu pai e com sobreviventes dos crimes.",
-    "nota": "8.0",
-    "avaliacao": "8.0",
-    "classificacao": "18",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "S01E01 ",
-          "linkFisico": "v/dahmer-um-canibal-americano-s01e01.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/xbRfV469sbwQJfbA9tNS6dJ2fLH.jpg"
-        },
-        {
-          "tit": "S01E02 ",
-          "linkFisico": "v/dahmer-um-canibal-americano-s01e02.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/xbRfV469sbwQJfbA9tNS6dJ2fLH.jpg"
-        },
-        {
-          "tit": "S01E03 ",
-          "linkFisico": "v/dahmer-um-canibal-americano-s01e03.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/xbRfV469sbwQJfbA9tNS6dJ2fLH.jpg"
-        },
-        {
-          "tit": "S01E04 ",
-          "linkFisico": "v/dahmer-um-canibal-americano-s01e04.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/xbRfV469sbwQJfbA9tNS6dJ2fLH.jpg"
-        },
-        {
-          "tit": "S01E05 ",
-          "linkFisico": "v/dahmer-um-canibal-americano-s01e05.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/xbRfV469sbwQJfbA9tNS6dJ2fLH.jpg"
-        },
-        {
-          "tit": "S01E06 ",
-          "linkFisico": "v/dahmer-um-canibal-americano-s01e06.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/xbRfV469sbwQJfbA9tNS6dJ2fLH.jpg"
-        },
-        {
-          "tit": "S01E07 ",
-          "linkFisico": "v/dahmer-um-canibal-americano-s01e07.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/xbRfV469sbwQJfbA9tNS6dJ2fLH.jpg"
-        },
-        {
-          "tit": "S01E08 ",
-          "linkFisico": "v/dahmer-um-canibal-americano-s01e08.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/xbRfV469sbwQJfbA9tNS6dJ2fLH.jpg"
-        },
-        {
-          "tit": "S01E09 ",
-          "linkFisico": "v/dahmer-um-canibal-americano-s01e09.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/xbRfV469sbwQJfbA9tNS6dJ2fLH.jpg"
-        },
-        {
-          "tit": "S01E10 ",
-          "linkFisico": "v/dahmer-um-canibal-americano-s01e10.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/xbRfV469sbwQJfbA9tNS6dJ2fLH.jpg"
         }
       ]
     }
@@ -49038,6 +48831,214 @@
           "tit": "Assistir",
           "linkFisico": "v/alien-romulus.html",
           "logoEp": "https://image.tmdb.org/t/p/w1280/kDucPGvDXVy2YKqgRdzNjhbrgvD.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "dahmer-um-canibal-americano",
+    "tipo": "serie",
+    "categoria": "Séries",
+    "titulo": "Dahmer: Um Canibal Americano",
+    "logo": "https://image.tmdb.org/t/p/w780/67ujv4O6AalmGu3UaVSNdcw8juT.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/xbRfV469sbwQJfbA9tNS6dJ2fLH.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/fNcXLhAm9ihFcHCJKMVzWuNifIP.png",
+    "sinopse": "Jeffrey Dahmer drogou, estuprou e matou 17 rapazes, além de devorar parte dos cadáveres. Conheça seu modus operandi e veja entrevistas com seu pai e com sobreviventes dos crimes.",
+    "nota": "8.0",
+    "avaliacao": "8.0",
+    "classificacao": "18",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "S01E01",
+          "linkFisico": "v/dahmer-um-canibal-americano-s01e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/xbRfV469sbwQJfbA9tNS6dJ2fLH.jpg"
+        },
+        {
+          "tit": "S01E02",
+          "linkFisico": "v/dahmer-um-canibal-americano-s01e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/xbRfV469sbwQJfbA9tNS6dJ2fLH.jpg"
+        },
+        {
+          "tit": "S01E03",
+          "linkFisico": "v/dahmer-um-canibal-americano-s01e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/xbRfV469sbwQJfbA9tNS6dJ2fLH.jpg"
+        },
+        {
+          "tit": "S01E04",
+          "linkFisico": "v/dahmer-um-canibal-americano-s01e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/xbRfV469sbwQJfbA9tNS6dJ2fLH.jpg"
+        },
+        {
+          "tit": "S01E05",
+          "linkFisico": "v/dahmer-um-canibal-americano-s01e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/xbRfV469sbwQJfbA9tNS6dJ2fLH.jpg"
+        },
+        {
+          "tit": "S01E06",
+          "linkFisico": "v/dahmer-um-canibal-americano-s01e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/xbRfV469sbwQJfbA9tNS6dJ2fLH.jpg"
+        },
+        {
+          "tit": "S01E07",
+          "linkFisico": "v/dahmer-um-canibal-americano-s01e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/xbRfV469sbwQJfbA9tNS6dJ2fLH.jpg"
+        },
+        {
+          "tit": "S01E08",
+          "linkFisico": "v/dahmer-um-canibal-americano-s01e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/xbRfV469sbwQJfbA9tNS6dJ2fLH.jpg"
+        },
+        {
+          "tit": "S01E09",
+          "linkFisico": "v/dahmer-um-canibal-americano-s01e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/xbRfV469sbwQJfbA9tNS6dJ2fLH.jpg"
+        },
+        {
+          "tit": "S01E10",
+          "linkFisico": "v/dahmer-um-canibal-americano-s01e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/xbRfV469sbwQJfbA9tNS6dJ2fLH.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "chucky",
+    "tipo": "serie",
+    "categoria": "Séries",
+    "titulo": "Chucky",
+    "logo": "https://image.tmdb.org/t/p/w780/sdCJbGkvnIsIKLxaFQrviriODVq.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/crecNGEQqWI37ugk0jvW4Qwt3pR.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/oNgJFZwO6CSbn6huZHAKeij9Qwy.png",
+    "sinopse": "Depois que um boneco Chucky \"vintage\" aparece em uma venda de quintal, uma pequena e pacata cidade do interior norte americano é lançada no caos enquanto uma série de assassinatos horríveis começa a expor os segredos da localidade.",
+    "nota": "7.8",
+    "avaliacao": "7.8",
+    "classificacao": "18",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "S01E01",
+          "linkFisico": "v/chucky-s01e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/crecNGEQqWI37ugk0jvW4Qwt3pR.jpg"
+        },
+        {
+          "tit": "S01E02",
+          "linkFisico": "v/chucky-s01e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/crecNGEQqWI37ugk0jvW4Qwt3pR.jpg"
+        },
+        {
+          "tit": "S01E03",
+          "linkFisico": "v/chucky-s01e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/crecNGEQqWI37ugk0jvW4Qwt3pR.jpg"
+        },
+        {
+          "tit": "S01E04",
+          "linkFisico": "v/chucky-s01e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/crecNGEQqWI37ugk0jvW4Qwt3pR.jpg"
+        },
+        {
+          "tit": "S01E05",
+          "linkFisico": "v/chucky-s01e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/crecNGEQqWI37ugk0jvW4Qwt3pR.jpg"
+        },
+        {
+          "tit": "S01E06",
+          "linkFisico": "v/chucky-s01e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/crecNGEQqWI37ugk0jvW4Qwt3pR.jpg"
+        },
+        {
+          "tit": "S01E07",
+          "linkFisico": "v/chucky-s01e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/crecNGEQqWI37ugk0jvW4Qwt3pR.jpg"
+        },
+        {
+          "tit": "S01E08",
+          "linkFisico": "v/chucky-s01e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/crecNGEQqWI37ugk0jvW4Qwt3pR.jpg"
+        }
+      ],
+      "2": [
+        {
+          "tit": "S02E01",
+          "linkFisico": "v/chucky-s02e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/crecNGEQqWI37ugk0jvW4Qwt3pR.jpg"
+        },
+        {
+          "tit": "S02E02",
+          "linkFisico": "v/chucky-s02e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/crecNGEQqWI37ugk0jvW4Qwt3pR.jpg"
+        },
+        {
+          "tit": "S02E03",
+          "linkFisico": "v/chucky-s02e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/crecNGEQqWI37ugk0jvW4Qwt3pR.jpg"
+        },
+        {
+          "tit": "S02E04",
+          "linkFisico": "v/chucky-s02e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/crecNGEQqWI37ugk0jvW4Qwt3pR.jpg"
+        },
+        {
+          "tit": "S02E05",
+          "linkFisico": "v/chucky-s02e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/crecNGEQqWI37ugk0jvW4Qwt3pR.jpg"
+        },
+        {
+          "tit": "S02E06",
+          "linkFisico": "v/chucky-s02e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/crecNGEQqWI37ugk0jvW4Qwt3pR.jpg"
+        },
+        {
+          "tit": "S02E07",
+          "linkFisico": "v/chucky-s02e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/crecNGEQqWI37ugk0jvW4Qwt3pR.jpg"
+        },
+        {
+          "tit": "S02E08",
+          "linkFisico": "v/chucky-s02e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/crecNGEQqWI37ugk0jvW4Qwt3pR.jpg"
+        }
+      ],
+      "3": [
+        {
+          "tit": "S03E01",
+          "linkFisico": "v/chucky-s03e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/crecNGEQqWI37ugk0jvW4Qwt3pR.jpg"
+        },
+        {
+          "tit": "S03E02",
+          "linkFisico": "v/chucky-s03e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/crecNGEQqWI37ugk0jvW4Qwt3pR.jpg"
+        },
+        {
+          "tit": "S03E03",
+          "linkFisico": "v/chucky-s03e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/crecNGEQqWI37ugk0jvW4Qwt3pR.jpg"
+        },
+        {
+          "tit": "S03E04",
+          "linkFisico": "v/chucky-s03e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/crecNGEQqWI37ugk0jvW4Qwt3pR.jpg"
+        },
+        {
+          "tit": "S03E05",
+          "linkFisico": "v/chucky-s03e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/crecNGEQqWI37ugk0jvW4Qwt3pR.jpg"
+        },
+        {
+          "tit": "S03E06",
+          "linkFisico": "v/chucky-s03e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/crecNGEQqWI37ugk0jvW4Qwt3pR.jpg"
+        },
+        {
+          "tit": "S03E07",
+          "linkFisico": "v/chucky-s03e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/crecNGEQqWI37ugk0jvW4Qwt3pR.jpg"
+        },
+        {
+          "tit": "S03E08",
+          "linkFisico": "v/chucky-s03e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/crecNGEQqWI37ugk0jvW4Qwt3pR.jpg"
         }
       ]
     }
