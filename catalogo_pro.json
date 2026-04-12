@@ -49089,5 +49089,49 @@
         }
       ]
     }
+  },
+  {
+    "id": "jujutsu-kaisen-0-o-filme",
+    "tipo": "filme",
+    "categoria": "Animes",
+    "titulo": "Jujutsu Kaisen 0: O Filme",
+    "logo": "https://image.tmdb.org/t/p/w780/2ndvx03fmREMxEgaZ1vWt756TOQ.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/yrHauw6IGLjcfPEC7PyekYIRFqH.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/4clQNTdrIUFJAFTIpguGwO2ldgi.png",
+    "sinopse": "Quando Yuta Okkotsu era pequeno, sua amiga Rika Orimoto morreu num acidente de trânsito, bem na sua frente. Ela se tornou uma aparição, assombrando o jovem e atormentando a sua vida, até o dia em que Satoru Gojo, um feiticeiro Jujutsu, o convida para se matricular no Colégio Jujutsu. Junto com seus novos colegas de sala: Maki Zen'in, Toge Inumaki e Panda, Yuta encontra a coragem para perseverar. Enquanto isso, Suguru Geto, um vil manipulador de maldições que foi expulso do colégio por massacrar inocentes, põe em prática seu plano: lançar mil maldições em Shinjuku e em Kyoto e exterminar todos os não-feiticeiros, criando um paraíso para feiticeiros Jujutsu. Será que Yuta será capaz de impedir Geto? E o que acontecerá quando ele se livrar da maldição da Rika?",
+    "nota": "8.1",
+    "avaliacao": "8.1",
+    "classificacao": "14",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/jujutsu-kaisen-0-o-filme.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yrHauw6IGLjcfPEC7PyekYIRFqH.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "jujutsu-kaisen-execucao",
+    "tipo": "filme",
+    "categoria": "Animes",
+    "titulo": "JUJUTSU KAISEN: Execução",
+    "logo": "https://image.tmdb.org/t/p/w780/sa646tMUGfCdOvwnHvzqycxzSoB.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/gtKglOSEq3d4MgQE4VsrT1sRkd0.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/e3bbEnPJTgFBhV0rCTM368IwUJD.png",
+    "sinopse": "Yuji Itadori, acompanhado por seus colegas de classe e outros feiticeiros jujutsu de alto nível, entra na briga em um confronto sem precedentes de maldições: o Incidente de Shibuya. No rescaldo, dez colônias em todo o Japão são transformadas em antros de maldições em um plano orquestrado por Noritoshi Kamo, o feiticeiro mais perverso da história.",
+    "nota": "5.9",
+    "avaliacao": "5.9",
+    "classificacao": "18",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/jujutsu-kaisen-execucao.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gtKglOSEq3d4MgQE4VsrT1sRkd0.jpg"
+        }
+      ]
+    }
   }
 ]
