@@ -49451,5 +49451,71 @@
         }
       ]
     }
+  },
+  {
+    "id": "homem-aranha-de-volta-ao-lar",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "Homem-Aranha: De Volta ao Lar",
+    "logo": "https://image.tmdb.org/t/p/w780/1nkwRL17cAGO8A1yu3miRBdvOsl.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/mJc1Sl9oeciNCUz0LaJ9sOAj0Eq.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/lPCus0Ff5w2vR3AWOBBhkjDNIbO.png",
+    "sinopse": "Depois de atuar ao lado dos Vingadores, chegou a hora do pequeno Peter Parker voltar para casa e para a sua vida, já não mais tão normal. Lutando diariamente contra pequenos crimes nas redondezas, ele pensa ter encontrado a missão de sua vida quando o terrível vilão Abutre surge amedrontando a cidade. O problema é que a tarefa não será tão fácil como ele imaginava.",
+    "nota": "7.3",
+    "avaliacao": "7.3",
+    "classificacao": "12",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/homem-aranha-de-volta-ao-lar.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mJc1Sl9oeciNCUz0LaJ9sOAj0Eq.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "homem-aranha-longe-de-casa",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "Homem-Aranha: Longe de Casa",
+    "logo": "https://image.tmdb.org/t/p/w780/8V0hpq8BUzauB06eEfr7AmyTzbK.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/tq6yTPDmM8f5IMEiCyy9GgzX07G.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/tigj1l7l2v0e2bQwfspbeQHkamX.png",
+    "sinopse": "Peter Parker está em uma viagem de duas semanas pela Europa, ao lado de seus amigos de colégio, quando é surpreendido pela visita de Nick Fury. Convocado para mais uma missão heroica, ele precisa enfrentar vários vilões que surgem em cidades-símbolo do continente, como Londres, Paris e Veneza, e também a aparição do enigmático Mysterio.",
+    "nota": "7.4",
+    "avaliacao": "7.4",
+    "classificacao": "10",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/homem-aranha-longe-de-casa.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/tq6yTPDmM8f5IMEiCyy9GgzX07G.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "homem-aranha-sem-volta-para-casa",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "Homem-Aranha: Sem Volta Para Casa",
+    "logo": "https://image.tmdb.org/t/p/w780/xaKydnMw6wR1MBAjS5seGPVusbs.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/1JIOp7huXlkqFW0ppzRoPmIXal1.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/q5ieHJF4rHf4i7I2eyOKjqmqt9c.png",
+    "sinopse": "Peter Parker é desmascarado e não consegue mais separar sua vida normal dos grandes riscos de ser um super-herói. Quando ele pede ajuda ao Doutor Estranho, os riscos se tornam ainda mais perigosos, e o forçam a descobrir o que realmente significa ser o Homem-Aranha...",
+    "nota": "7.9",
+    "avaliacao": "7.9",
+    "classificacao": "12",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/homem-aranha-sem-volta-para-casa.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1JIOp7huXlkqFW0ppzRoPmIXal1.jpg"
+        }
+      ]
+    }
   }
 ]
