@@ -49253,5 +49253,49 @@
         }
       ]
     }
+  },
+  {
+    "id": "sing-quem-canta-seus-males-espanta",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Sing - Quem Canta Seus Males Espanta",
+    "logo": "https://image.tmdb.org/t/p/w780/rkPf3AH4DPJC1T26T8CwAjBHHvc.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/uTMpa7aDKmsCzAdcAnErxKBGYod.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/rGWMXv7H58VfhxonWjtEoIIgr8n.png",
+    "sinopse": "Um empolgado coala chamado Buster decide criar uma competição de canto para aumentar os rendimentos de seu antigo teatro. A disputa movimenta o mundo animal e promove a revelação de diversos talentos da cidade, todos de olho nos 15 minutos de fama e US$ 100 mil dólares de prêmio.",
+    "nota": "7.1",
+    "avaliacao": "7.1",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/sing-quem-canta-seus-males-espanta.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/uTMpa7aDKmsCzAdcAnErxKBGYod.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "sing-2",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Sing 2",
+    "logo": "https://image.tmdb.org/t/p/w780/3GR2a4IGp83ekkKQLB08IcUmc2S.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/20uxpCsKHyBshjF3Y8Px7y3JpbL.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/tGpy8gOqPjfORhnS3qZf6rkpLoZ.png",
+    "sinopse": "Buster Moon e seus amigos devem persuadir o recluso astro do rock Clay Calloway a se juntar a eles para a abertura de um novo show.",
+    "nota": "7.8",
+    "avaliacao": "7.8",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/sing-2.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/20uxpCsKHyBshjF3Y8Px7y3JpbL.jpg"
+        }
+      ]
+    }
   }
 ]
