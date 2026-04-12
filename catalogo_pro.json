@@ -49042,5 +49042,27 @@
         }
       ]
     }
+  },
+  {
+    "id": "a-procura-de-harry-a-arte-por-tras-da-magia",
+    "tipo": "filme",
+    "categoria": "Fantasia",
+    "titulo": "À Procura de Harry: A Arte por Trás da Magia",
+    "logo": "https://image.tmdb.org/t/p/w780/yKsg1Q9IZmKlN6a1ykxUZf8BkGL.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/nnYokdOjiJttM1p39mxsurbyahC.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/49fiwzmqrKIm1o0yZzUwSB1Z9ys.png",
+    "sinopse": "Um olhar exclusivo sobre a série Harry Potter da HBO, através dos artistas e da equipe de produção que estão dando vida à amada história.",
+    "nota": "7.9",
+    "avaliacao": "7.9",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/a-procura-de-harry-a-arte-por-tras-da-magia.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/nnYokdOjiJttM1p39mxsurbyahC.jpg"
+        }
+      ]
+    }
   }
 ]
