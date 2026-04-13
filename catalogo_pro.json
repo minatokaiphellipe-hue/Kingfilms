@@ -50418,5 +50418,27 @@
         }
       ]
     }
+  },
+  {
+    "id": "a-era-do-gelo-as-aventuras-de-buck",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "A Era do Gelo: As Aventuras de Buck",
+    "logo": "https://image.tmdb.org/t/p/w780/hHZjD7IXKlFfMt2UHLj0qaTg06j.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/tkxykkC31iiIqfHc3AN2vvWWj5s.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/76zDB84YaR05guph3QjkIujErkf.png",
+    "sinopse": "As peripécias hilárias dos mamíferos pré-históricos favoritos de todo mundo continuam, enquanto os gambás caçadores de emoções Crash e Eddie se juntam ao seu amigo caolho, aventureiro e caçador de dinossauros, a doninha Buck Wild, para enfrentar os dinossauros rebeldes do Mundo Perdido.",
+    "nota": "6.6",
+    "avaliacao": "6.6",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/a-era-do-gelo-as-aventuras-de-buck.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/tkxykkC31iiIqfHc3AN2vvWWj5s.jpg"
+        }
+      ]
+    }
   }
 ]
