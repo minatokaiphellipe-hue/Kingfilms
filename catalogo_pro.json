@@ -50440,5 +50440,71 @@
         }
       ]
     }
+  },
+  {
+    "id": "com-as-proprias-maos",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "Com as Próprias Mãos",
+    "logo": "https://image.tmdb.org/t/p/w780/mrLCQoUqDGoAxkbbJHvQAIBtmry.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/sLaK9DmyqTecmB7LYNlBAuQEE1C.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/m2mMgwmmBVOrKtCjgguEvMi7H01.png",
+    "sinopse": "Um soldado aposentado retorna à sua cidade natal querendo recomeçar a vida. Ao descobrir que o local é dominado pelo crime, ele se une com um amigo para fazer justiça.",
+    "nota": "6.3",
+    "avaliacao": "6.3",
+    "classificacao": "14",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/com-as-proprias-maos.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/sLaK9DmyqTecmB7LYNlBAuQEE1C.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "jumanji",
+    "tipo": "filme",
+    "categoria": "Fantasia",
+    "titulo": "Jumanji",
+    "logo": "https://image.tmdb.org/t/p/w780/cHfIIcumOjNvXMqobR94jCg9sPI.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/9hb3pXk0TXaLpTNbwQiLe54iCng.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/fLql26sxSt0lwVdKUujzPWBL3H6.png",
+    "sinopse": "Quando duas crianças encontram e jogam um jogo de tabuleiro mágico, elas soltam um homem preso por décadas - e uma série de perigos que só podem ser detidos ao terminar o jogo.",
+    "nota": "7.2",
+    "avaliacao": "7.2",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/jumanji.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/9hb3pXk0TXaLpTNbwQiLe54iCng.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "jumanji-proxima-fase",
+    "tipo": "filme",
+    "categoria": "Fantasia",
+    "titulo": "Jumanji: Próxima Fase",
+    "logo": "https://image.tmdb.org/t/p/w780/bBRDUTr6jgbD8I8A9DvVGrVbdfB.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/rAmRdD30Zb0qc0SGjX7X9pHKbvc.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/6ZfYS6ZxicXxR4YOOMaUXiBofj9.png",
+    "sinopse": "A turma está de volta, mas o jogo mudou. Quando voltam para Jumanji para resgatar um amigo, descobrem que nada do que esperavam. Com mais ação e surpresas, os jogadores terão que desbravar partes desconhecidas e inexploradas, dos desertos áridos até montanhas de neve, para escapar.",
+    "nota": "6.9",
+    "avaliacao": "6.9",
+    "classificacao": "12",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/jumanji-proxima-fase.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/rAmRdD30Zb0qc0SGjX7X9pHKbvc.jpg"
+        }
+      ]
+    }
   }
 ]
