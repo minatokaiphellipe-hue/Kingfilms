@@ -50550,5 +50550,49 @@
         }
       ]
     }
+  },
+  {
+    "id": "viagem-ao-centro-da-terra-o-filme",
+    "tipo": "filme",
+    "categoria": "Fantasia",
+    "titulo": "Viagem ao Centro da Terra: O Filme",
+    "logo": "https://image.tmdb.org/t/p/w780/35AI4Bmo1JrEzgMOxOARRUT9Pn6.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/yEg4Ucv9n4EfuHhsq55igv4xrNb.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/tOoYpMQh4ut6nqpQ1hMe9L9RlN1.png",
+    "sinopse": "Durante uma expedição na Islândia, o professor Trevor Anderson, o seu sobrinho Sean, e sua guia Hannah ficam presos em uma caverna. Enquanto seguem sua rota de fuga mais abaixo da superfície da Terra, eles passam por lugares estranhos e encontram criaturas incríveis, incluindo dinossauros. Porém, como a atividade vulcânica à sua volta aumenta, eles percebem que precisam encontrar o caminho para fora rapidamente.",
+    "nota": "6.1",
+    "avaliacao": "6.1",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/viagem-ao-centro-da-terra-o-filme.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yEg4Ucv9n4EfuHhsq55igv4xrNb.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "viagem-2-a-ilha-misteriosa",
+    "tipo": "filme",
+    "categoria": "Fantasia",
+    "titulo": "Viagem 2: A Ilha Misteriosa",
+    "logo": "https://image.tmdb.org/t/p/w780/Zc8lNKSTnKE3vrzFfu7odisyCp.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/ecYvwUDSaeWHVUozobGzu7HcDM0.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/b2bRd5PXy2X9fIHHk6eQAiI1OLQ.png",
+    "sinopse": "Quando seu avô envia um pedido de socorro de uma ilha exótica, o adolescente Sean Anderson conta com um aliado improvável para salvá-lo: seu próprio padrasto.",
+    "nota": "6.1",
+    "avaliacao": "6.1",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/viagem-2-a-ilha-misteriosa.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/ecYvwUDSaeWHVUozobGzu7HcDM0.jpg"
+        }
+      ]
+    }
   }
 ]
