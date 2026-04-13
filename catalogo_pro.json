@@ -50059,5 +50059,27 @@
         }
       ]
     }
+  },
+  {
+    "id": "tom-e-jerry-e-o-magico-de-oz",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Tom e Jerry e O Mágico de Oz",
+    "logo": "https://image.tmdb.org/t/p/w780/kUs6z0aZdJo99rJ62voOlF0BUOr.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/ni23fbDcP4bv8Zr3IuoWeUe6JB6.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/iERCgNGRZ53kkVVUdvUKi4a5V37.png",
+    "sinopse": "Tom e Jerry não estão mais no Kansas. Eles partiram para ver o mágico, o maravilhoso Mágico de Oz! Tom e Jerry passam pelo arco-íris e viajam pela estrada de tijolos amarelos nesta nova série animada baseada no conto clássico. Você verá seus personagens favoritos (Dorothy, Totó, o Espantalho, o Homem de Lata, o Leão, a Bruxa Malvada, o Mágico, os anões e muito mais), ouvirá muitas de suas músicas favoritas (incluindo \"Over the Rainbow\") e dará risadas com as travessuras do seu gato e rato favoritos conforme eles entram em um tornado, enfrentam macacos voadores e invadem o castelo da Bruxa Malvada tentando heroicamente levar Dorothy e Totó de volta para o Kansas. Afinal, não existe nenhum lugar como a nossa casa!",
+    "nota": "6.2",
+    "avaliacao": "6.2",
+    "classificacao": "16",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/tom-e-jerry-e-o-magico-de-oz.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/ni23fbDcP4bv8Zr3IuoWeUe6JB6.jpg"
+        }
+      ]
+    }
   }
 ]
