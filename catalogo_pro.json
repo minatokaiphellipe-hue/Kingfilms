@@ -20418,48 +20418,6 @@
     }
   },
   {
-    "id": "os-croods",
-    "tipo": "filme",
-    "categoria": "Animações",
-    "titulo": "Os Croods ",
-    "logo": "https://image.tmdb.org/t/p/w780/7k9w3RgKYoJ9MCwdBY0ZBxC323L.jpg",
-    "sinopse": "Um terremoto destrói a caverna de uma família pré-histórica, que vive novas experiências em terras desconhecidas em sua busca por um novo lar.",
-    "avaliacao": "6.9",
-    "classificacao": "Livre",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "Assistir ",
-          "linkFisico": "v/os-croods.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/1MjN3sZb7jSSyR7ESbc2K1Th62w.jpg"
-        }
-      ]
-    },
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/wFN8llYh215M8i2fqWAcPV8CSyL.jpg"
-  },
-  {
-    "id": "os-croods-2-uma-nova-era",
-    "tipo": "filme",
-    "categoria": "Animações",
-    "titulo": "Os Croods 2: Uma Nova Era ",
-    "logo": "https://image.tmdb.org/t/p/w780/f7BIa9xIerwviSMsa9BEY28sC3Y.jpg",
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/4fA8ig0zsUmsr5EnDeZQfxzOib7.jpg",
-    "logo_png": "https://image.tmdb.org/t/p/w500/o2morrqN2j7CVbbuShbu9PlVngg.png",
-    "sinopse": "A família Crood se muda para um lugar seguro, onde encontram seus novos vizinhos, os Bettermans. À medida que as tensões aumentam, uma nova ameaça impulsiona os dois clãs em uma aventura épica que os força a se unirem e sobreviverem juntos.",
-    "nota": "7.4",
-    "avaliacao": "7.4",
-    "classificacao": "Livre",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "Assistir ",
-          "linkFisico": "v/os-croods-2-uma-nova-era.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/4fA8ig0zsUmsr5EnDeZQfxzOib7.jpg"
-        }
-      ]
-    }
-  },
-  {
     "id": "os-jovens-titas",
     "tipo": "serie",
     "categoria": "Séries",
@@ -50078,6 +50036,341 @@
           "tit": "Assistir",
           "linkFisico": "v/tom-e-jerry-e-o-magico-de-oz.html",
           "logoEp": "https://image.tmdb.org/t/p/w1280/ni23fbDcP4bv8Zr3IuoWeUe6JB6.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "os-croods",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Os Croods",
+    "logo": "https://image.tmdb.org/t/p/w780/7k9w3RgKYoJ9MCwdBY0ZBxC323L.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/1MjN3sZb7jSSyR7ESbc2K1Th62w.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/AllGAqcQh1dAt28c090oAUUpQhJ.png",
+    "sinopse": "Um terremoto destrói a caverna de uma família pré-histórica, que vive novas experiências em terras desconhecidas em sua busca por um novo lar.",
+    "nota": "6.9",
+    "avaliacao": "6.9",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/os-croods.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/1MjN3sZb7jSSyR7ESbc2K1Th62w.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "os-croods-2-uma-nova-era",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Os Croods 2: Uma Nova Era",
+    "logo": "https://image.tmdb.org/t/p/w780/f7BIa9xIerwviSMsa9BEY28sC3Y.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/4fA8ig0zsUmsr5EnDeZQfxzOib7.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/o2morrqN2j7CVbbuShbu9PlVngg.png",
+    "sinopse": "A família Crood se muda para um lugar seguro, onde encontram seus novos vizinhos, os Bettermans. À medida que as tensões aumentam, uma nova ameaça impulsiona os dois clãs em uma aventura épica que os força a se unirem e sobreviverem juntos.",
+    "nota": "7.4",
+    "avaliacao": "7.4",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/os-croods-2-uma-nova-era.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/4fA8ig0zsUmsr5EnDeZQfxzOib7.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "a-arvore-familiar-dos-croods",
+    "tipo": "serie",
+    "categoria": "Animações",
+    "titulo": "A Árvore Familiar dos Croods",
+    "logo": "https://image.tmdb.org/t/p/w780/p4SvelxObLTU1zUlypshfXQfTqV.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/58aiTlIpcsjFySP2JXRMcQIfdj5.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/8Nwj6e0ipzWzq1QeSrygpFzy11O.png",
+    "sinopse": "Após os eventos do longa-metragem OS CROODS 2: UMA NOVA ERA, duas famílias muito diferentes unem forças para criar uma nova comunidade.",
+    "nota": "7.2",
+    "avaliacao": "7.2",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "S01E01",
+          "linkFisico": "v/a-arvore-familiar-dos-croods-s01e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/58aiTlIpcsjFySP2JXRMcQIfdj5.jpg"
+        },
+        {
+          "tit": "S01E02",
+          "linkFisico": "v/a-arvore-familiar-dos-croods-s01e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/58aiTlIpcsjFySP2JXRMcQIfdj5.jpg"
+        },
+        {
+          "tit": "S01E03",
+          "linkFisico": "v/a-arvore-familiar-dos-croods-s01e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/58aiTlIpcsjFySP2JXRMcQIfdj5.jpg"
+        },
+        {
+          "tit": "S01E04",
+          "linkFisico": "v/a-arvore-familiar-dos-croods-s01e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/58aiTlIpcsjFySP2JXRMcQIfdj5.jpg"
+        },
+        {
+          "tit": "S01E05",
+          "linkFisico": "v/a-arvore-familiar-dos-croods-s01e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/58aiTlIpcsjFySP2JXRMcQIfdj5.jpg"
+        },
+        {
+          "tit": "S01E06",
+          "linkFisico": "v/a-arvore-familiar-dos-croods-s01e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/58aiTlIpcsjFySP2JXRMcQIfdj5.jpg"
+        }
+      ],
+      "2": [
+        {
+          "tit": "S02E01",
+          "linkFisico": "v/a-arvore-familiar-dos-croods-s02e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/58aiTlIpcsjFySP2JXRMcQIfdj5.jpg"
+        },
+        {
+          "tit": "S02E02",
+          "linkFisico": "v/a-arvore-familiar-dos-croods-s02e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/58aiTlIpcsjFySP2JXRMcQIfdj5.jpg"
+        },
+        {
+          "tit": "S02E03",
+          "linkFisico": "v/a-arvore-familiar-dos-croods-s02e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/58aiTlIpcsjFySP2JXRMcQIfdj5.jpg"
+        },
+        {
+          "tit": "S02E04",
+          "linkFisico": "v/a-arvore-familiar-dos-croods-s02e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/58aiTlIpcsjFySP2JXRMcQIfdj5.jpg"
+        },
+        {
+          "tit": "S02E05",
+          "linkFisico": "v/a-arvore-familiar-dos-croods-s02e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/58aiTlIpcsjFySP2JXRMcQIfdj5.jpg"
+        },
+        {
+          "tit": "S02E06",
+          "linkFisico": "v/a-arvore-familiar-dos-croods-s02e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/58aiTlIpcsjFySP2JXRMcQIfdj5.jpg"
+        },
+        {
+          "tit": "S02E07",
+          "linkFisico": "v/a-arvore-familiar-dos-croods-s02e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/58aiTlIpcsjFySP2JXRMcQIfdj5.jpg"
+        }
+      ],
+      "3": [
+        {
+          "tit": "S03E01",
+          "linkFisico": "v/a-arvore-familiar-dos-croods-s03e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/58aiTlIpcsjFySP2JXRMcQIfdj5.jpg"
+        },
+        {
+          "tit": "S03E02",
+          "linkFisico": "v/a-arvore-familiar-dos-croods-s03e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/58aiTlIpcsjFySP2JXRMcQIfdj5.jpg"
+        },
+        {
+          "tit": "S03E03",
+          "linkFisico": "v/a-arvore-familiar-dos-croods-s03e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/58aiTlIpcsjFySP2JXRMcQIfdj5.jpg"
+        },
+        {
+          "tit": "S03E04",
+          "linkFisico": "v/a-arvore-familiar-dos-croods-s03e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/58aiTlIpcsjFySP2JXRMcQIfdj5.jpg"
+        },
+        {
+          "tit": "S03E05",
+          "linkFisico": "v/a-arvore-familiar-dos-croods-s03e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/58aiTlIpcsjFySP2JXRMcQIfdj5.jpg"
+        },
+        {
+          "tit": "S03E06",
+          "linkFisico": "v/a-arvore-familiar-dos-croods-s03e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/58aiTlIpcsjFySP2JXRMcQIfdj5.jpg"
+        }
+      ],
+      "4": [
+        {
+          "tit": "S04E01",
+          "linkFisico": "v/a-arvore-familiar-dos-croods-s04e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/58aiTlIpcsjFySP2JXRMcQIfdj5.jpg"
+        },
+        {
+          "tit": "S04E02",
+          "linkFisico": "v/a-arvore-familiar-dos-croods-s04e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/58aiTlIpcsjFySP2JXRMcQIfdj5.jpg"
+        },
+        {
+          "tit": "S04E03",
+          "linkFisico": "v/a-arvore-familiar-dos-croods-s04e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/58aiTlIpcsjFySP2JXRMcQIfdj5.jpg"
+        },
+        {
+          "tit": "S04E04",
+          "linkFisico": "v/a-arvore-familiar-dos-croods-s04e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/58aiTlIpcsjFySP2JXRMcQIfdj5.jpg"
+        },
+        {
+          "tit": "S04E05",
+          "linkFisico": "v/a-arvore-familiar-dos-croods-s04e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/58aiTlIpcsjFySP2JXRMcQIfdj5.jpg"
+        },
+        {
+          "tit": "S04E06",
+          "linkFisico": "v/a-arvore-familiar-dos-croods-s04e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/58aiTlIpcsjFySP2JXRMcQIfdj5.jpg"
+        },
+        {
+          "tit": "S04E07",
+          "linkFisico": "v/a-arvore-familiar-dos-croods-s04e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/58aiTlIpcsjFySP2JXRMcQIfdj5.jpg"
+        }
+      ],
+      "5": [
+        {
+          "tit": "S05E01",
+          "linkFisico": "v/a-arvore-familiar-dos-croods-s05e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/58aiTlIpcsjFySP2JXRMcQIfdj5.jpg"
+        },
+        {
+          "tit": "S05E02",
+          "linkFisico": "v/a-arvore-familiar-dos-croods-s05e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/58aiTlIpcsjFySP2JXRMcQIfdj5.jpg"
+        },
+        {
+          "tit": "S05E03",
+          "linkFisico": "v/a-arvore-familiar-dos-croods-s05e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/58aiTlIpcsjFySP2JXRMcQIfdj5.jpg"
+        },
+        {
+          "tit": "S05E04",
+          "linkFisico": "v/a-arvore-familiar-dos-croods-s05e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/58aiTlIpcsjFySP2JXRMcQIfdj5.jpg"
+        },
+        {
+          "tit": "S05E05",
+          "linkFisico": "v/a-arvore-familiar-dos-croods-s05e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/58aiTlIpcsjFySP2JXRMcQIfdj5.jpg"
+        },
+        {
+          "tit": "S05E06",
+          "linkFisico": "v/a-arvore-familiar-dos-croods-s05e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/58aiTlIpcsjFySP2JXRMcQIfdj5.jpg"
+        }
+      ],
+      "6": [
+        {
+          "tit": "S06E01",
+          "linkFisico": "v/a-arvore-familiar-dos-croods-s06e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/58aiTlIpcsjFySP2JXRMcQIfdj5.jpg"
+        },
+        {
+          "tit": "S06E02",
+          "linkFisico": "v/a-arvore-familiar-dos-croods-s06e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/58aiTlIpcsjFySP2JXRMcQIfdj5.jpg"
+        },
+        {
+          "tit": "S06E03",
+          "linkFisico": "v/a-arvore-familiar-dos-croods-s06e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/58aiTlIpcsjFySP2JXRMcQIfdj5.jpg"
+        },
+        {
+          "tit": "S06E04",
+          "linkFisico": "v/a-arvore-familiar-dos-croods-s06e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/58aiTlIpcsjFySP2JXRMcQIfdj5.jpg"
+        },
+        {
+          "tit": "S06E05",
+          "linkFisico": "v/a-arvore-familiar-dos-croods-s06e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/58aiTlIpcsjFySP2JXRMcQIfdj5.jpg"
+        },
+        {
+          "tit": "S06E06",
+          "linkFisico": "v/a-arvore-familiar-dos-croods-s06e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/58aiTlIpcsjFySP2JXRMcQIfdj5.jpg"
+        },
+        {
+          "tit": "S06E07",
+          "linkFisico": "v/a-arvore-familiar-dos-croods-s06e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/58aiTlIpcsjFySP2JXRMcQIfdj5.jpg"
+        }
+      ],
+      "7": [
+        {
+          "tit": "S07E01",
+          "linkFisico": "v/a-arvore-familiar-dos-croods-s07e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/58aiTlIpcsjFySP2JXRMcQIfdj5.jpg"
+        },
+        {
+          "tit": "S07E02",
+          "linkFisico": "v/a-arvore-familiar-dos-croods-s07e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/58aiTlIpcsjFySP2JXRMcQIfdj5.jpg"
+        },
+        {
+          "tit": "S07E03",
+          "linkFisico": "v/a-arvore-familiar-dos-croods-s07e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/58aiTlIpcsjFySP2JXRMcQIfdj5.jpg"
+        },
+        {
+          "tit": "S07E04",
+          "linkFisico": "v/a-arvore-familiar-dos-croods-s07e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/58aiTlIpcsjFySP2JXRMcQIfdj5.jpg"
+        },
+        {
+          "tit": "S07E05",
+          "linkFisico": "v/a-arvore-familiar-dos-croods-s07e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/58aiTlIpcsjFySP2JXRMcQIfdj5.jpg"
+        },
+        {
+          "tit": "S07E06",
+          "linkFisico": "v/a-arvore-familiar-dos-croods-s07e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/58aiTlIpcsjFySP2JXRMcQIfdj5.jpg"
+        }
+      ],
+      "8": [
+        {
+          "tit": "S08E01",
+          "linkFisico": "v/a-arvore-familiar-dos-croods-s08e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/58aiTlIpcsjFySP2JXRMcQIfdj5.jpg"
+        },
+        {
+          "tit": "S08E02",
+          "linkFisico": "v/a-arvore-familiar-dos-croods-s08e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/58aiTlIpcsjFySP2JXRMcQIfdj5.jpg"
+        },
+        {
+          "tit": "S08E03",
+          "linkFisico": "v/a-arvore-familiar-dos-croods-s08e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/58aiTlIpcsjFySP2JXRMcQIfdj5.jpg"
+        },
+        {
+          "tit": "S08E04",
+          "linkFisico": "v/a-arvore-familiar-dos-croods-s08e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/58aiTlIpcsjFySP2JXRMcQIfdj5.jpg"
+        },
+        {
+          "tit": "S08E05",
+          "linkFisico": "v/a-arvore-familiar-dos-croods-s08e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/58aiTlIpcsjFySP2JXRMcQIfdj5.jpg"
+        },
+        {
+          "tit": "S08E06",
+          "linkFisico": "v/a-arvore-familiar-dos-croods-s08e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/58aiTlIpcsjFySP2JXRMcQIfdj5.jpg"
+        },
+        {
+          "tit": "S08E07",
+          "linkFisico": "v/a-arvore-familiar-dos-croods-s08e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/58aiTlIpcsjFySP2JXRMcQIfdj5.jpg"
         }
       ]
     }
