@@ -50396,5 +50396,27 @@
         }
       ]
     }
+  },
+  {
+    "id": "as-aventuras-de-tintim",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "As Aventuras de Tintim",
+    "logo": "https://image.tmdb.org/t/p/w780/lSzqfKyzb7nRCZ3qihPhdspZeMA.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/eNCYpuZXl5qIKmDOCpHetQPRKGJ.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/mtMwg9HYkizzVMGEr4cOGsPBOjt.png",
+    "sinopse": "Tintim é um jovem repórter que tem um histórico impressionante de aventuras. Certo dia, ao comprar a miniatura de uma embarcação, ele se vê perseguido pelo misterioso Sakharine, que parece determinado a possuir o objeto e não demora muito até que o herói se veja preso no barco que antes pertencia ao alcóolatra Capitão Haddock, agora também prisioneiro. Sempre acompanhado pelo cãozinho Milu, Tintim se alia ao capitão numa jornada que os levará a diversos locais exóticos.",
+    "nota": "6.9",
+    "avaliacao": "6.9",
+    "classificacao": "10",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/as-aventuras-de-tintim.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/eNCYpuZXl5qIKmDOCpHetQPRKGJ.jpg"
+        }
+      ]
+    }
   }
 ]
