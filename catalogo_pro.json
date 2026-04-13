@@ -50506,5 +50506,49 @@
         }
       ]
     }
+  },
+  {
+    "id": "jumanji-bem-vindo-a-selva",
+    "tipo": "filme",
+    "categoria": "Fantasia",
+    "titulo": "Jumanji: Bem-Vindo à Selva",
+    "logo": "https://image.tmdb.org/t/p/w780/62RFp8bvulylVm3YBagALNuXYNY.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/aezzvOvGNaSm0tiiB5WylsAuje3.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/kRQS7BCXgAo7BY740Db7owqYwlJ.png",
+    "sinopse": "Quatro adolescentes que estão de castigo depois das aulas encontram um console de videogame antigo com um jogo que nunca tinham ouvido falar. Quando decidem jogar, são imediatamente sugados para dentro de uma selva, para o mundo de Jumanji, onde assumem os corpos dos seus avatares. Eles têm que ir até o fim da maior aventura de suas vidas, recheada de diversão, emoções e perigos, ou ficarão para sempre dentro do jogo!",
+    "nota": "6.8",
+    "avaliacao": "6.8",
+    "classificacao": "12",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/jumanji-bem-vindo-a-selva.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/aezzvOvGNaSm0tiiB5WylsAuje3.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "zathura-uma-aventura-espacial",
+    "tipo": "filme",
+    "categoria": "Fantasia",
+    "titulo": "Zathura: Uma Aventura Espacial",
+    "logo": "https://image.tmdb.org/t/p/w780/ufvBPlygnMSjjbv62ufRR6EKwdZ.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/AqCLkOOS4p98CDZk5xBmniZjjmb.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/3yqGQbQW6wjGtNclzxTvK2XHxPi.png",
+    "sinopse": "Dois irmãos briguentos são lançados em pleno espaço sideral enquanto jogavam um misterioso jogo que acharam no porão de sua casa velha. Em sua fantástica jornada, eles se juntam a um astronauta perdido e têm que sobreviver a chuva de meteoros, alienígenas hostis parecidos com lagartos, um furioso robô movido a jato e a uma batalha de nave espacial intergaláctica. A não ser que eles terminem o jogo e encontrem o planeta Zathura, eles podem ficar presos no espaço para sempre.",
+    "nota": "6.4",
+    "avaliacao": "6.4",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/zathura-uma-aventura-espacial.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/AqCLkOOS4p98CDZk5xBmniZjjmb.jpg"
+        }
+      ]
+    }
   }
 ]
