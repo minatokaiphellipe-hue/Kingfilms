@@ -49971,5 +49971,71 @@
         }
       ]
     }
+  },
+  {
+    "id": "a-noiva-de-chucky",
+    "tipo": "filme",
+    "categoria": "Terror",
+    "titulo": "A Noiva de Chucky",
+    "logo": "https://image.tmdb.org/t/p/w780/e3vZH4CFaz6QImytJ1V9IBD5LFT.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/9EVJk62VEbSqXVDIaa1A8Ru8HFn.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/pEKCFfNqEvae0kYxXNhf2LkIZIO.png",
+    "sinopse": "Após ressuscitar o ex-namorado com um ritual de vodu, Tiffany também é transformada em uma boneca. Com o objetivo de chegar até o cemitério onde está enterrado o corpo humano de Chucky, o demoníaco casal usa dois jovens e mata, sem nenhum remorso, qualquer um que atrapalhar o caminho. Numa versão Barbie e Clyde, estes dois monstrinhos espalharão sangue, terror e sexo.",
+    "nota": "6.1",
+    "avaliacao": "6.1",
+    "classificacao": "16",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/a-noiva-de-chucky.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/9EVJk62VEbSqXVDIaa1A8Ru8HFn.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "o-filho-de-chucky",
+    "tipo": "filme",
+    "categoria": "Terror",
+    "titulo": "O Filho de Chucky",
+    "logo": "https://image.tmdb.org/t/p/w780/pWGUTTUMrB0o3LL7ZSjgzNBVXHZ.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/9GEpT7isXaDjheQFe4T8gVji0ce.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/5LNQPB6mkXUKwaEC9E29sTiVcQR.png",
+    "sinopse": "O boneco assassino está de volta! O descendente descobre onde seus pais estão, e vai a Hollywood ressuscita-los da morte. Mas para o horror do delicado Glen, Chucky e Tiffany estão sedentos de sangue. A dinâmica familiar está longe de ser perfeita, porque Chucky não consegue entender que seu filho não quer seguir seus passos assassinos, e Tiffany está enfeitiçada pelo sucesso do mundo artístico, com o filme que irá estrelar com a sua atriz predileta, Jennifer Tilly (representada por ela mesma), que logo se torna inconscientemente, anfitriã para esta nova família de muitas maneiras...",
+    "nota": "5.5",
+    "avaliacao": "5.5",
+    "classificacao": "16",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/o-filho-de-chucky.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/9GEpT7isXaDjheQFe4T8gVji0ce.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "a-maldicao-de-chucky",
+    "tipo": "filme",
+    "categoria": "Terror",
+    "titulo": "A Maldição de Chucky",
+    "logo": "https://image.tmdb.org/t/p/w780/uR9Pa7yed4fL73oxqd0xW3K1gDH.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/pIDRdNpXHkv1xdBAUg3nHSOnCXe.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/cqPHDKhFSLPNBLurqzMx1IBSnsc.png",
+    "sinopse": "Depois do suicídio de sua mãe, Nica recebe a visita de sua autoritária irmã Barb, que pretende ajudar nos arranjos do funeral. Sua filha traz um boneco ruivo que chegou curiosamente pelos correios. Quando uma série de assassinatos aterrorizam a vizinhança, Nica começa a suspeitar que o brinquedo tenha alguma relação com estes fatos, mas não sabe que Chucky está de volta para resolver casos pessoais de mais de vinte anos atrás.",
+    "nota": "5.9",
+    "avaliacao": "5.9",
+    "classificacao": "16",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/a-maldicao-de-chucky.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/pIDRdNpXHkv1xdBAUg3nHSOnCXe.jpg"
+        }
+      ]
+    }
   }
 ]
