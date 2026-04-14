@@ -453,27 +453,6 @@
     }
   },
   {
-    "id": "a-princesa-e-o-sapo",
-    "tipo": "filme",
-    "categoria": "Animações",
-    "titulo": "A Princesa e o Sapo ",
-    "logo": "https://image.tmdb.org/t/p/w780/5JQbaVcFd9x5snwWT9gquNKmDC.jpg",
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/cm2rAURq9VSnDXDvz3Oob2QMjbG.jpg",
-    "sinopse": "Desde criança, Tiana sonha em ter um restaurante próprio. Para conseguir a quantia necessária para que possa finalmente alugar o imóvel de seus sonhos, ela aceita trabalhar na festa realizada por Charlotte LaBouff, sua amiga de infância. Logo surge um sapo, anunciando ser um príncipe e pedindo a Tiana que lhe conceda um beijo. Tiana aceita e se transforma em sapo!",
-    "nota": "7.2",
-    "avaliacao": "7.2",
-    "classificacao": "Livre",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "Assistir ",
-          "linkFisico": "v/a-princesa-e-o-sapo.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/cm2rAURq9VSnDXDvz3Oob2QMjbG.jpg"
-        }
-      ]
-    }
-  },
-  {
     "id": "absolutamente-impossivel",
     "tipo": "filme",
     "categoria": "Comédia",
@@ -50657,6 +50636,149 @@
           "tit": "Assistir",
           "linkFisico": "v/circulo-de-fogo-a-revolta.html",
           "logoEp": "https://image.tmdb.org/t/p/w1280/thXN0VvoWfRzx5ZCM7uuUqDdavB.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "a-princesa-e-o-sapo",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "A Princesa e o Sapo",
+    "logo": "https://image.tmdb.org/t/p/w780/5JQbaVcFd9x5snwWT9gquNKmDC.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/cm2rAURq9VSnDXDvz3Oob2QMjbG.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/5e73DCv1okR8YIoY7WDx4Q2PWz.png",
+    "sinopse": "Desde criança, Tiana sonha em ter um restaurante próprio. Para conseguir a quantia necessária para que possa finalmente alugar o imóvel de seus sonhos, ela aceita trabalhar na festa realizada por Charlotte LaBouff, sua amiga de infância. Logo surge um sapo, anunciando ser um príncipe e pedindo a Tiana que lhe conceda um beijo. Tiana aceita e se transforma em sapo!",
+    "nota": "7.2",
+    "avaliacao": "7.2",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/a-princesa-e-o-sapo.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/cm2rAURq9VSnDXDvz3Oob2QMjbG.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "princesa-mononoke",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Princesa Mononoke",
+    "logo": "https://image.tmdb.org/t/p/w780/7EadOwHmyQgOnlghRiWBygNtnjl.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/rvH6a5B4thdjTldmf81DKds2e9u.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/icFf9gvbJ5GxQh01fmN9dMkK7AE.png",
+    "sinopse": "Um príncipe infectado por uma doença sabe que irá morrer, a menos que encontre a cura. Sendo a sua última esperança, segue para o leste e, durante o caminho, encontra animais da floresta lutando contra a sua exploração, liderados pela princesa Mononoke.",
+    "nota": "8.3",
+    "avaliacao": "8.3",
+    "classificacao": "14",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/princesa-mononoke.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/rvH6a5B4thdjTldmf81DKds2e9u.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "a-princesa-espanhola",
+    "tipo": "serie",
+    "categoria": "Séries",
+    "titulo": "A Princesa Espanhola",
+    "logo": "https://image.tmdb.org/t/p/w780/z0pLtRxXiS1tDmUjkVRPSj3gD1A.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/4dZo92ppwKfDk46t4hQGna57yVY.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/Av6eY7atSGHwlAl6q7y3ofjij1k.png",
+    "sinopse": "Catarina de Aragão, a princesa da Espanha, chega à Inglaterra ao lado de sua dama-de-companhia Lina, a fim de se casar com o príncipe Artur, com quem está prometida em casamento desde pequena. No entanto, a morte inesperada de seu marido a coloca em uma acirrada disputa pelo trono. Mas para que seus poderes estejam garantidos, ela agora precisa se casar com o Príncipe Harry, que um dia governará como o Rei Henrique VIII. Série baseada nos romances \"A Princesa Leal\" e \"A Maldição do Rei\", de Philippa Gregory.",
+    "nota": "7.5",
+    "avaliacao": "7.5",
+    "classificacao": "16",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "S01E01",
+          "linkFisico": "v/a-princesa-espanhola-s01e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/4dZo92ppwKfDk46t4hQGna57yVY.jpg"
+        },
+        {
+          "tit": "S01E02",
+          "linkFisico": "v/a-princesa-espanhola-s01e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/4dZo92ppwKfDk46t4hQGna57yVY.jpg"
+        },
+        {
+          "tit": "S01E03",
+          "linkFisico": "v/a-princesa-espanhola-s01e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/4dZo92ppwKfDk46t4hQGna57yVY.jpg"
+        },
+        {
+          "tit": "S01E04",
+          "linkFisico": "v/a-princesa-espanhola-s01e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/4dZo92ppwKfDk46t4hQGna57yVY.jpg"
+        },
+        {
+          "tit": "S01E05",
+          "linkFisico": "v/a-princesa-espanhola-s01e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/4dZo92ppwKfDk46t4hQGna57yVY.jpg"
+        },
+        {
+          "tit": "S01E06",
+          "linkFisico": "v/a-princesa-espanhola-s01e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/4dZo92ppwKfDk46t4hQGna57yVY.jpg"
+        },
+        {
+          "tit": "S01E07",
+          "linkFisico": "v/a-princesa-espanhola-s01e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/4dZo92ppwKfDk46t4hQGna57yVY.jpg"
+        },
+        {
+          "tit": "S01E08",
+          "linkFisico": "v/a-princesa-espanhola-s01e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/4dZo92ppwKfDk46t4hQGna57yVY.jpg"
+        }
+      ],
+      "2": [
+        {
+          "tit": "S02E01",
+          "linkFisico": "v/a-princesa-espanhola-s02e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/4dZo92ppwKfDk46t4hQGna57yVY.jpg"
+        },
+        {
+          "tit": "S02E02",
+          "linkFisico": "v/a-princesa-espanhola-s02e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/4dZo92ppwKfDk46t4hQGna57yVY.jpg"
+        },
+        {
+          "tit": "S02E03",
+          "linkFisico": "v/a-princesa-espanhola-s02e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/4dZo92ppwKfDk46t4hQGna57yVY.jpg"
+        },
+        {
+          "tit": "S02E04",
+          "linkFisico": "v/a-princesa-espanhola-s02e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/4dZo92ppwKfDk46t4hQGna57yVY.jpg"
+        },
+        {
+          "tit": "S02E05",
+          "linkFisico": "v/a-princesa-espanhola-s02e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/4dZo92ppwKfDk46t4hQGna57yVY.jpg"
+        },
+        {
+          "tit": "S02E06",
+          "linkFisico": "v/a-princesa-espanhola-s02e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/4dZo92ppwKfDk46t4hQGna57yVY.jpg"
+        },
+        {
+          "tit": "S02E07",
+          "linkFisico": "v/a-princesa-espanhola-s02e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/4dZo92ppwKfDk46t4hQGna57yVY.jpg"
+        },
+        {
+          "tit": "S02E08",
+          "linkFisico": "v/a-princesa-espanhola-s02e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/4dZo92ppwKfDk46t4hQGna57yVY.jpg"
         }
       ]
     }
