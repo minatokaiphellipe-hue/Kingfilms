@@ -50782,5 +50782,71 @@
         }
       ]
     }
+  },
+  {
+    "id": "a-princesa-encantada-era-uma-vez",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "A Princesa Encantada: Era Uma Vez…",
+    "logo": "https://image.tmdb.org/t/p/w780/pfMgyj2afebT8LVrDVYHniDk3XJ.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/58JQ6dv8swQRoP5nXEpucZ83IIw.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/yxDUstJR0sbHynJIhmWJorNH7S0.png",
+    "sinopse": "Antes de se tornar rainha, Uberta tinha uma vida humilde com seu marido Maximilian quando, de repente, foi jogada na realeza. Com vitórias e tragédias, ela aprende as lições que precisa para ser uma rainha amada enquanto cria a próxima geração de regentes. Quando chega a hora de Uberta passar o cetro real para Odette e Derek, a rival rainha Wixom tem planos para arruinar a maior coroação do reino.",
+    "nota": "5.9",
+    "avaliacao": "5.9",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/a-princesa-encantada-era-uma-vez.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/58JQ6dv8swQRoP5nXEpucZ83IIw.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "a-princesa-encantada",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "A Princesa Encantada",
+    "logo": "https://image.tmdb.org/t/p/w780/eK08pDC4ASwgS5OohDmZcUbLrBx.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/yBQXv5iYcAH4rbTejOMUEEiFV0Y.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/kYj518foMe8VUGXADzbD7YpdffK.png",
+    "sinopse": "A princesa Odette e o príncipe Derek se conhecem desde criança e passam todos os verões juntos, com o intuito de que possam se apaixonar e casar quando crescidos, para que os dois reinos se juntem pela união. Porém, com o tempo os dois se afastam e o sonho dos pais parece cada vez mais distante. Até que em um verão, Derek e Odette se reaproximam, nutrindo uma paixão que os dois até então desconheciam. Na volta para casa, o rei e a princesa são surpreendidos no caminho e Odette é raptada pelo malvado feiticeiro Rothbart, que a transforma em um cisne. Agora, só o verdadeiro amor será capaz de quebrar tal encanto.",
+    "nota": "6.6",
+    "avaliacao": "6.6",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/a-princesa-encantada.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yBQXv5iYcAH4rbTejOMUEEiFV0Y.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "a-princesa-encantada-o-casamento-real",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "A Princesa Encantada: O Casamento Real",
+    "logo": "https://image.tmdb.org/t/p/w780/9VnFR68Yto8p78c7y5rW4eaExhR.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/oP1ofSQS7oJDlSNW2Mm8UypB6uz.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/dCoffRd6507BVT8Deqs603nRSr7.png",
+    "sinopse": "A princesa Odette e o príncipe Derek vão a um casamento na princesa Mei Li e seu amado Chen. Mas as forças do mal estão em jogo e os planos do casamento estão manchados e o amor verdadeiro tem condições difíceis.",
+    "nota": "6.7",
+    "avaliacao": "6.7",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/a-princesa-encantada-o-casamento-real.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/oP1ofSQS7oJDlSNW2Mm8UypB6uz.jpg"
+        }
+      ]
+    }
   }
 ]
