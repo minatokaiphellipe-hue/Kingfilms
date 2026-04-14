@@ -50870,5 +50870,27 @@
         }
       ]
     }
+  },
+  {
+    "id": "princesa-encantada-um-misterio-real",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Princesa Encantada – Um Mistério Real",
+    "logo": "https://image.tmdb.org/t/p/w780/7KlonBzSxwi9EwPwMS7kcKzMt96.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/vXRt1Y0RFzWbSKO6wBjLr8yLpzb.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/iXOO4MOHlt6E2OgwT0iCBDf4t1a.png",
+    "sinopse": "A marca da letra Z misteriosamente aparece nos residentes do palácio, a Princesa Odette, Scully e seus amigos trabalham juntos na investigação.",
+    "nota": "6.6",
+    "avaliacao": "6.6",
+    "classificacao": "10",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/princesa-encantada-um-misterio-real.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/vXRt1Y0RFzWbSKO6wBjLr8yLpzb.jpg"
+        }
+      ]
+    }
   }
 ]
