@@ -50833,28 +50833,6 @@
     }
   },
   {
-    "id": "como-treinar-o-seu-dragao",
-    "tipo": "filme",
-    "categoria": "Animações",
-    "titulo": "Como Treinar o Seu Dragão",
-    "logo": "https://image.tmdb.org/t/p/w780/spZbO7Ss6U9W5zSHjtH6FvXvCF7.jpg",
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/sUxsHQtSxfwmXkoqNlB7Uyl0kaN.jpg",
-    "logo_png": "https://image.tmdb.org/t/p/w500/aNTecsN7YIvK3EAmqSofOxu8ANT.png",
-    "sinopse": "Soluço é um jovem viking que desafia a tradição, quando fica amigo de um dos mais mortais inimigos — um feroz dragão que ele chama de Banguela.",
-    "nota": "7.9",
-    "avaliacao": "7.9",
-    "classificacao": "Livre",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "Assistir",
-          "linkFisico": "v/como-treinar-o-seu-dragao.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/sUxsHQtSxfwmXkoqNlB7Uyl0kaN.jpg"
-        }
-      ]
-    }
-  },
-  {
     "id": "como-treinar-o-seu-dragao-2",
     "tipo": "filme",
     "categoria": "Animações",
@@ -50894,6 +50872,145 @@
           "tit": "Assistir",
           "linkFisico": "v/como-treinar-o-seu-dragao-3.html",
           "logoEp": "https://image.tmdb.org/t/p/w1280/g8a2FT8DWi1e6Fpw7zqrcKWbe8n.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "como-treinar-o-seu-dragao",
+    "tipo": "filme",
+    "categoria": "Fantasia",
+    "titulo": "Como Treinar o Seu Dragão",
+    "logo": "https://image.tmdb.org/t/p/w780/vdvEClt3J8sFWxyMo0Jm7JpouEo.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/zq3KClWefZWh3oGWkZDhNUJnrvC.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/nJreUuUhGP5mYYtgUs2dvbZoIvT.png",
+    "sinopse": "Na montanhosa Ilha de Berk, vikings e dragões são inimigos implacáveis há gerações, mas Soluço é diferente. Filho do Chefe Stoico, o Imenso, o criativo e subestimado Soluço desafia séculos de tradição ao fazer amizade com Banguela, um temido dragão Fúria da Noite. Essa relação improvável revela a verdadeira natureza dos dragões, abalando as bases da sociedade viking.",
+    "nota": "7.9",
+    "avaliacao": "7.9",
+    "classificacao": "10",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/como-treinar-o-seu-dragao.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/zq3KClWefZWh3oGWkZDhNUJnrvC.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "dragoes-a-serie",
+    "tipo": "serie",
+    "categoria": "Séries",
+    "titulo": "Dragões: A Série",
+    "logo": "https://image.tmdb.org/t/p/w780/4VNCNifeC0KJ0EoPQZTUJW1rYMI.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/mGOLsdCOZ9dwnlmMbOoVKo3Iwl6.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/5b6BdNv4mI0KBJAhNh9zFd7KWsA.png",
+    "sinopse": "Depois de Soluço e seu companheiro Fúria da Noite, Banguela, salvou o povo de Berk, derrotando a Morte Rubra, que inspirou os Vikings de Berk fazer as pazes com os dragões. No entanto, Soluço descobre que a co-habitação está longe de ser harmonioso com a ignorância Viking e os instintos dos Dragões ameaçam destruir a aliança. \n\nPara resolver o problema, Soluço, organiza a Academia Dragões de Berk, ele e os amigos podem aprender tudo sobre dragões. Para provara aldeia e combater vilões como Alvin , os adolescentes Vikings de Berk e seus dragões dedicar-se a alcançar um entendimento vital.",
+    "nota": "7.7",
+    "avaliacao": "7.7",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "S01E01",
+          "linkFisico": "v/dragoes-a-serie-s01e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mGOLsdCOZ9dwnlmMbOoVKo3Iwl6.jpg"
+        },
+        {
+          "tit": "S01E02",
+          "linkFisico": "v/dragoes-a-serie-s01e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mGOLsdCOZ9dwnlmMbOoVKo3Iwl6.jpg"
+        },
+        {
+          "tit": "S01E03",
+          "linkFisico": "v/dragoes-a-serie-s01e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mGOLsdCOZ9dwnlmMbOoVKo3Iwl6.jpg"
+        },
+        {
+          "tit": "S01E04",
+          "linkFisico": "v/dragoes-a-serie-s01e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mGOLsdCOZ9dwnlmMbOoVKo3Iwl6.jpg"
+        },
+        {
+          "tit": "S01E05",
+          "linkFisico": "v/dragoes-a-serie-s01e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mGOLsdCOZ9dwnlmMbOoVKo3Iwl6.jpg"
+        },
+        {
+          "tit": "S01E06",
+          "linkFisico": "v/dragoes-a-serie-s01e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mGOLsdCOZ9dwnlmMbOoVKo3Iwl6.jpg"
+        },
+        {
+          "tit": "S01E07",
+          "linkFisico": "v/dragoes-a-serie-s01e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mGOLsdCOZ9dwnlmMbOoVKo3Iwl6.jpg"
+        },
+        {
+          "tit": "S01E08",
+          "linkFisico": "v/dragoes-a-serie-s01e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mGOLsdCOZ9dwnlmMbOoVKo3Iwl6.jpg"
+        },
+        {
+          "tit": "S01E09",
+          "linkFisico": "v/dragoes-a-serie-s01e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mGOLsdCOZ9dwnlmMbOoVKo3Iwl6.jpg"
+        },
+        {
+          "tit": "S01E10",
+          "linkFisico": "v/dragoes-a-serie-s01e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mGOLsdCOZ9dwnlmMbOoVKo3Iwl6.jpg"
+        },
+        {
+          "tit": "S01E11",
+          "linkFisico": "v/dragoes-a-serie-s01e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mGOLsdCOZ9dwnlmMbOoVKo3Iwl6.jpg"
+        },
+        {
+          "tit": "S01E12",
+          "linkFisico": "v/dragoes-a-serie-s01e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mGOLsdCOZ9dwnlmMbOoVKo3Iwl6.jpg"
+        },
+        {
+          "tit": "S01E13",
+          "linkFisico": "v/dragoes-a-serie-s01e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mGOLsdCOZ9dwnlmMbOoVKo3Iwl6.jpg"
+        },
+        {
+          "tit": "S01E14",
+          "linkFisico": "v/dragoes-a-serie-s01e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mGOLsdCOZ9dwnlmMbOoVKo3Iwl6.jpg"
+        },
+        {
+          "tit": "S01E15",
+          "linkFisico": "v/dragoes-a-serie-s01e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mGOLsdCOZ9dwnlmMbOoVKo3Iwl6.jpg"
+        },
+        {
+          "tit": "S01E16",
+          "linkFisico": "v/dragoes-a-serie-s01e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mGOLsdCOZ9dwnlmMbOoVKo3Iwl6.jpg"
+        },
+        {
+          "tit": "S01E17",
+          "linkFisico": "v/dragoes-a-serie-s01e17.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mGOLsdCOZ9dwnlmMbOoVKo3Iwl6.jpg"
+        },
+        {
+          "tit": "S01E18",
+          "linkFisico": "v/dragoes-a-serie-s01e18.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mGOLsdCOZ9dwnlmMbOoVKo3Iwl6.jpg"
+        },
+        {
+          "tit": "S01E19",
+          "linkFisico": "v/dragoes-a-serie-s01e19.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mGOLsdCOZ9dwnlmMbOoVKo3Iwl6.jpg"
+        },
+        {
+          "tit": "S01E20",
+          "linkFisico": "v/dragoes-a-serie-s01e20.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/mGOLsdCOZ9dwnlmMbOoVKo3Iwl6.jpg"
         }
       ]
     }
