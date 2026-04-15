@@ -51058,5 +51058,71 @@
         }
       ]
     }
+  },
+  {
+    "id": "batman-contra-o-capuz-vermelho",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Batman Contra o Capuz Vermelho",
+    "logo": "https://image.tmdb.org/t/p/w780/yx8MJ6Vk4taCfI6EKkvhd2oUX2k.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/aCzM2T5fQ7BueTuvTfwoxGdwB2L.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/bxmfVFz0YB5rcWBi9JyKOquVUz9.png",
+    "sinopse": "Batman enfrenta o maior de todos os seus desafios quando o misterioso Capuz Vermelho toma Gotham City  de assalto. Parte vigilante, parte criminoso, o Capuz Vermelho inicialmente limpa as ruas da cidade com a  mesma eficiência do Batman, mas sem seguir o mesmo código de ética do Cavaleiro das Trevas. Para ele,  matar é sempre uma opção. E quando o Coringa fica dividido entre os dois, a dura verdade vem à tona e  velhas feridas são reabertas.",
+    "nota": "7.8",
+    "avaliacao": "7.8",
+    "classificacao": "14",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/batman-contra-o-capuz-vermelho.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/aCzM2T5fQ7BueTuvTfwoxGdwB2L.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "superman",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "Superman",
+    "logo": "https://image.tmdb.org/t/p/w780/xeZ8oG6W60fEPf9yCjERUXiHRBF.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/HQorbRuFTBlTbV6stD8FrvERso.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/4n2XmYzjNfCsIhy1AYjPC48hzT.png",
+    "sinopse": "Superman, um jovem repórter de Metrópolis, embarca em uma jornada para reconciliar sua herança kryptoniana com sua criação humana como Clark Kent.",
+    "nota": "7.3",
+    "avaliacao": "7.3",
+    "classificacao": "14",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/superman.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/HQorbRuFTBlTbV6stD8FrvERso.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "superman-o-retorno",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Superman: O Retorno",
+    "logo": "https://image.tmdb.org/t/p/w780/jLmb769DnH3UjSDThwmCNVnr6t9.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/6kjLVeImZtvRCt1cVkHeOAaucHw.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/cdfkCHKnk3JgZSqs7qRFgX8GKPK.png",
+    "sinopse": "Um herói para o nosso milênio. E para a posteridade, apesar de que durante os longos cinco anos (tempo demais para a memória dos fãs!) em que Superman quis saber mais sobre seu planeta natal, as coisas mudaram um bocado em seu planeta adotivo. As nações aprenderam a viver sem ele. Lois Lane agora tem um filho, um noivo e ganhará um Pulitzer por conta de sua matéria \"Por Que o Mundo Não Precisa do Superman\". E Lex Luthor tem um plano para destruir bilhões de vidas inocentes.",
+    "nota": "5.8",
+    "avaliacao": "5.8",
+    "classificacao": "10",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/superman-o-retorno.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/6kjLVeImZtvRCt1cVkHeOAaucHw.jpg"
+        }
+      ]
+    }
   }
 ]
