@@ -51168,5 +51168,27 @@
         }
       ]
     }
+  },
+  {
+    "id": "a-criada-proibida",
+    "tipo": "filme",
+    "categoria": "Drama",
+    "titulo": "A Criada Proibida",
+    "logo": "https://image.tmdb.org/t/p/w780/64FMoee8uhYNuUZrxqVWvLf9kgG.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/pUOug8oScHaBZCxQVVCY8Pz4C9g.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/ee3ScgzKLMuSmsH8pxL7Vfr2ehb.png",
+    "sinopse": "A tarefa de Daisy como nova empregada doméstica de uma família rica é cuidar de uma criança, mas, sem saber, ela está sendo observada pelo pai da criança. Quando a tentação surge, a vida da família e de Daisy começa a desmoronar.",
+    "nota": "5.4",
+    "avaliacao": "5.4",
+    "classificacao": "16",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/a-criada-proibida.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/pUOug8oScHaBZCxQVVCY8Pz4C9g.jpg"
+        }
+      ]
+    }
   }
 ]
