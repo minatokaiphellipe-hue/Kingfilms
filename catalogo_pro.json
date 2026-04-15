@@ -51190,5 +51190,114 @@
         }
       ]
     }
+  },
+  {
+    "id": "a-casa-do-dragao",
+    "tipo": "serie",
+    "categoria": "Séries",
+    "titulo": "A Casa do Dragão",
+    "logo": "https://image.tmdb.org/t/p/w780/xEC4nyJvcWcOu7QaobLcqz6iRUL.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/zNYItBylhwqnnglxbMGNG8ZkARo.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/tnG6qt5wBDNxX2TE7iPzfhChkmI.png",
+    "sinopse": "200 anos antes dos eventos de \"Game of Thrones\", os Targaryen estavam no ápice de seu poder, tendo inúmeros dragões sob seu comando, mas nem tudo dura para sempre. O início do fim da dinastia Targaryen.",
+    "nota": "8.3",
+    "avaliacao": "8.3",
+    "classificacao": "16",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "S01E01",
+          "linkFisico": "v/a-casa-do-dragao-s01e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/zNYItBylhwqnnglxbMGNG8ZkARo.jpg"
+        },
+        {
+          "tit": "S01E02",
+          "linkFisico": "v/a-casa-do-dragao-s01e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/zNYItBylhwqnnglxbMGNG8ZkARo.jpg"
+        },
+        {
+          "tit": "S01E03",
+          "linkFisico": "v/a-casa-do-dragao-s01e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/zNYItBylhwqnnglxbMGNG8ZkARo.jpg"
+        },
+        {
+          "tit": "S01E04",
+          "linkFisico": "v/a-casa-do-dragao-s01e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/zNYItBylhwqnnglxbMGNG8ZkARo.jpg"
+        },
+        {
+          "tit": "S01E05",
+          "linkFisico": "v/a-casa-do-dragao-s01e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/zNYItBylhwqnnglxbMGNG8ZkARo.jpg"
+        },
+        {
+          "tit": "S01E06",
+          "linkFisico": "v/a-casa-do-dragao-s01e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/zNYItBylhwqnnglxbMGNG8ZkARo.jpg"
+        },
+        {
+          "tit": "S01E07",
+          "linkFisico": "v/a-casa-do-dragao-s01e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/zNYItBylhwqnnglxbMGNG8ZkARo.jpg"
+        },
+        {
+          "tit": "S01E08",
+          "linkFisico": "v/a-casa-do-dragao-s01e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/zNYItBylhwqnnglxbMGNG8ZkARo.jpg"
+        },
+        {
+          "tit": "S01E09",
+          "linkFisico": "v/a-casa-do-dragao-s01e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/zNYItBylhwqnnglxbMGNG8ZkARo.jpg"
+        },
+        {
+          "tit": "S01E10",
+          "linkFisico": "v/a-casa-do-dragao-s01e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/zNYItBylhwqnnglxbMGNG8ZkARo.jpg"
+        }
+      ],
+      "2": [
+        {
+          "tit": "S02E01",
+          "linkFisico": "v/a-casa-do-dragao-s02e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/zNYItBylhwqnnglxbMGNG8ZkARo.jpg"
+        },
+        {
+          "tit": "S02E02",
+          "linkFisico": "v/a-casa-do-dragao-s02e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/zNYItBylhwqnnglxbMGNG8ZkARo.jpg"
+        },
+        {
+          "tit": "S02E03",
+          "linkFisico": "v/a-casa-do-dragao-s02e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/zNYItBylhwqnnglxbMGNG8ZkARo.jpg"
+        },
+        {
+          "tit": "S02E04",
+          "linkFisico": "v/a-casa-do-dragao-s02e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/zNYItBylhwqnnglxbMGNG8ZkARo.jpg"
+        },
+        {
+          "tit": "S02E05",
+          "linkFisico": "v/a-casa-do-dragao-s02e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/zNYItBylhwqnnglxbMGNG8ZkARo.jpg"
+        },
+        {
+          "tit": "S02E06",
+          "linkFisico": "v/a-casa-do-dragao-s02e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/zNYItBylhwqnnglxbMGNG8ZkARo.jpg"
+        },
+        {
+          "tit": "S02E07",
+          "linkFisico": "v/a-casa-do-dragao-s02e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/zNYItBylhwqnnglxbMGNG8ZkARo.jpg"
+        },
+        {
+          "tit": "S02E08",
+          "linkFisico": "v/a-casa-do-dragao-s02e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/zNYItBylhwqnnglxbMGNG8ZkARo.jpg"
+        }
+      ]
+    }
   }
 ]
