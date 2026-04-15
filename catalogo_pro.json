@@ -51343,5 +51343,27 @@
         }
       ]
     }
+  },
+  {
+    "id": "a-garota-da-capa-vermelha",
+    "tipo": "filme",
+    "categoria": "Terror",
+    "titulo": "A Garota da Capa Vermelha",
+    "logo": "https://image.tmdb.org/t/p/w780/tCXbycpYoRjbFa0ZHzEIj9Gazas.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/gjVQKKZCGhlu2ZO3Gi2GoXBdF2Y.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/hNSTVICtTwtSN0HlL0xDFKWst8J.png",
+    "sinopse": "Valerie é uma jovem que vive em um vilarejo aterrorizado por um lobisomem. Ela é apaixonada por Peter, embora seus pais insistam que ela case com Henry, filho de uma família rica do local. Diante da situação, Valerie e Peter planejam fugir, mas veem seus planos irem por água abaixo quando a irmã mais velha de Valerie é assassinada pelo lobisomem que ronda a região. Eles recorrem ao padre Solomon, um caçador famoso de monstros que adverte que a fera toma forma humana durante o dia.",
+    "nota": "6.0",
+    "avaliacao": "6.0",
+    "classificacao": "14",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/a-garota-da-capa-vermelha.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gjVQKKZCGhlu2ZO3Gi2GoXBdF2Y.jpg"
+        }
+      ]
+    }
   }
 ]
