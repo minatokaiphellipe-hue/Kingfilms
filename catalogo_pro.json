@@ -51365,5 +51365,27 @@
         }
       ]
     }
+  },
+  {
+    "id": "lobos",
+    "tipo": "filme",
+    "categoria": "Terror",
+    "titulo": "Lobos",
+    "logo": "https://image.tmdb.org/t/p/w780/5om4ez1iIj6AzrJuXuhozDPGG0s.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/jP4hRBlF8pFJx6ztSeTepv1UKLQ.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/unwNMnRAVlRjCfyT3B8QN9pMZvr.png",
+    "sinopse": "Um jovem que se transforma em lobisomem é falsamente acusado de assassinar seus pais. Na fuga, ele chega a uma cidadezinha chamada Lupine Ridge, onde eventos sobrenaturais acontecem.",
+    "nota": "5.9",
+    "avaliacao": "5.9",
+    "classificacao": "18",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/lobos.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/jP4hRBlF8pFJx6ztSeTepv1UKLQ.jpg"
+        }
+      ]
+    }
   }
 ]
