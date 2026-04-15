@@ -51299,5 +51299,27 @@
         }
       ]
     }
+  },
+  {
+    "id": "robo-selvagem",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Robô Selvagem",
+    "logo": "https://image.tmdb.org/t/p/w780/gAHNIZKG8fmK7njOTpMmLKJXiag.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/lySbaE7N7SMIFAoCLr28eDl9NQ0.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/vGSTiACBQlevZKAmikgMcCV96gy.png",
+    "sinopse": "Um robô – unidade ROZZUM 7134, abreviadamente “Roz” – naufraga em uma ilha desabitada e deve aprender a se adaptar ao ambiente hostil, gradualmente construindo relacionamentos com os animais da ilha e se tornando o pai adotivo de um filhote de ganso órfão.",
+    "nota": "8.3",
+    "avaliacao": "8.3",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/robo-selvagem.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/lySbaE7N7SMIFAoCLr28eDl9NQ0.jpg"
+        }
+      ]
+    }
   }
 ]
