@@ -15791,48 +15791,6 @@
     }
   },
   {
-    "id": "moana-2",
-    "tipo": "filme",
-    "categoria": "Animações",
-    "titulo": "Moana 2 ",
-    "logo": "https://image.tmdb.org/t/p/w780/dnqgkKoIGf6hErzRm6VtaK1OJrD.jpg",
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/41jBXOLzVqCXx8GFURgQU0SgsyX.jpg",
-    "sinopse": "Depois de receber um chamado inesperado de seus ancestrais navegadores, Moana vai viajar para mares distantes da Oceania, em águas perdidas em uma aventura perigosa.",
-    "nota": "7.0",
-    "avaliacao": "7.0",
-    "classificacao": "Livre",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "Assistir ",
-          "linkFisico": "v/moana-2.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/41jBXOLzVqCXx8GFURgQU0SgsyX.jpg"
-        }
-      ]
-    }
-  },
-  {
-    "id": "moana-um-mar-de-aventuras",
-    "tipo": "filme",
-    "categoria": "Animações",
-    "titulo": "Moana: Um Mar de Aventuras ",
-    "logo": "https://image.tmdb.org/t/p/w780/4rxEeTzN1oZPJo1GBoPOnA3NeJv.jpg",
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/8jjYA9Rz6aJhqXxUzTeX8M2VjD9.jpg",
-    "sinopse": "Moana Waialiki é uma corajosa jovem, filha do chefe de uma tribo na Oceania, vinda de uma longa linhagem de navegadores. Querendo descobrir mais sobre seu passado e ajudar a família, ela resolve partir em busca de seus ancestrais, habitantes de uma ilha mítica que ninguém sabe onde é. Acompanhada pelo lendário semideus Maui, Moana começa sua jornada em mar aberto, onde enfrenta terríveis criaturas marinhas e descobre histórias do submundo.",
-    "nota": "7.6",
-    "avaliacao": "7.6",
-    "classificacao": "Livre",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "Assistir ",
-          "linkFisico": "v/moana-um-mar-de-aventuras.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/8jjYA9Rz6aJhqXxUzTeX8M2VjD9.jpg"
-        }
-      ]
-    }
-  },
-  {
     "id": "monstros-sa",
     "tipo": "filme",
     "categoria": "Animações",
@@ -50889,6 +50847,50 @@
           "tit": "Assistir",
           "linkFisico": "v/princesa-encantada-um-misterio-real.html",
           "logoEp": "https://image.tmdb.org/t/p/w1280/vXRt1Y0RFzWbSKO6wBjLr8yLpzb.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "moana-um-mar-de-aventuras",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Moana: Um Mar de Aventuras",
+    "logo": "https://image.tmdb.org/t/p/w780/4rxEeTzN1oZPJo1GBoPOnA3NeJv.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/8jjYA9Rz6aJhqXxUzTeX8M2VjD9.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/megWWuC8tSODx90i0gP0fVM1wVo.png",
+    "sinopse": "Moana Waialiki é uma corajosa jovem, filha do chefe de uma tribo na Oceania, vinda de uma longa linhagem de navegadores. Querendo descobrir mais sobre seu passado e ajudar a família, ela resolve partir em busca de seus ancestrais, habitantes de uma ilha mítica que ninguém sabe onde é. Acompanhada pelo lendário semideus Maui, Moana começa sua jornada em mar aberto, onde enfrenta terríveis criaturas marinhas e descobre histórias do submundo.",
+    "nota": "7.6",
+    "avaliacao": "7.6",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/moana-um-mar-de-aventuras.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/8jjYA9Rz6aJhqXxUzTeX8M2VjD9.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "moana-2",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Moana 2",
+    "logo": "https://image.tmdb.org/t/p/w780/dnqgkKoIGf6hErzRm6VtaK1OJrD.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/41jBXOLzVqCXx8GFURgQU0SgsyX.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/jN4aiGt4e9cyFSvuLrdPQ9Q6SP5.png",
+    "sinopse": "Depois de receber um chamado inesperado de seus ancestrais navegadores, Moana vai viajar para mares distantes da Oceania, em águas perdidas em uma aventura perigosa.",
+    "nota": "7.0",
+    "avaliacao": "7.0",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/moana-2.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/41jBXOLzVqCXx8GFURgQU0SgsyX.jpg"
         }
       ]
     }
