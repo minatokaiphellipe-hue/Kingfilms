@@ -51321,5 +51321,27 @@
         }
       ]
     }
+  },
+  {
+    "id": "a-bruxa",
+    "tipo": "filme",
+    "categoria": "Terror",
+    "titulo": "A Bruxa",
+    "logo": "https://image.tmdb.org/t/p/w780/qqOtwhj8DxOBIwI0u6ThooXEIBR.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/yu2tgPiGpG19l7pyV1RO1eUrhvR.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/3RjCvlwjsE6X7qKAnpNgsrpE6nT.png",
+    "sinopse": "O casal William e Katherine leva uma vida cristã com suas cinco crianças em uma comunidade extremamente religiosa, até serem expulsos do local por sua fé diferente daquela permitida pelas autoridades. A família passa a morar num local isolado, à beira do bosque, sofrendo com a escassez de comida. Um dia, o bebê recém-nascido desaparece. Enquanto buscam respostas, cada membro da família descobre seus piores medos.",
+    "nota": "7.0",
+    "avaliacao": "7.0",
+    "classificacao": "16",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/a-bruxa.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/yu2tgPiGpG19l7pyV1RO1eUrhvR.jpg"
+        }
+      ]
+    }
   }
 ]
