@@ -51387,5 +51387,27 @@
         }
       ]
     }
+  },
+  {
+    "id": "mogli-o-menino-lobo",
+    "tipo": "filme",
+    "categoria": "Fantasia",
+    "titulo": "Mogli: O Menino Lobo",
+    "logo": "https://image.tmdb.org/t/p/w780/kNbTwTn0YLm03XrCMa2XUgcyKm8.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/12ZQwqQUve5urlG5C8k66MdtPJh.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/6sU6fDLCHUH3e41ylC4hcy4bKzQ.png",
+    "sinopse": "Mogli é um menino criado por uma família de lobos. Mas Mogli sente que não é mais bem-vindo na floresta quando o temido tigre Shere Khan, que carrega cicatrizes causadas por caçadores, promete eliminar o que ele considera uma ameaça. Forçado a abandonar o único lar que conhece, Mogli embarca em uma cativante jornada de autoconhecimento, guiado pela pantera e mentora Bagheera e pelo alegre urso Baloo. Pelo caminho, Mogli encontra criaturas da selva que não são exatamente bondosas, incluindo Kaa, uma cobra cuja voz sedutora e olhar penetrante hipnotizam o menino-lobo, e Rei Loiue, o nobre de fala mansa que tenta convencer Mogli a contar o segredo da ilusória flor vermelha mortal: o fogo.",
+    "nota": "6.9",
+    "avaliacao": "6.9",
+    "classificacao": "10",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/mogli-o-menino-lobo.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/12ZQwqQUve5urlG5C8k66MdtPJh.jpg"
+        }
+      ]
+    }
   }
 ]
