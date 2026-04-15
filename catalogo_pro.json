@@ -5317,69 +5317,6 @@
     }
   },
   {
-    "id": "como-treinar-o-seu-dragao",
-    "tipo": "filme",
-    "categoria": "Fantasia",
-    "titulo": "Como Treinar o Seu Dragão ",
-    "logo": "https://image.tmdb.org/t/p/w780/vdvEClt3J8sFWxyMo0Jm7JpouEo.jpg",
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/zq3KClWefZWh3oGWkZDhNUJnrvC.jpg",
-    "sinopse": "Na montanhosa Ilha de Berk, vikings e dragões são inimigos implacáveis há gerações, mas Soluço é diferente. Filho do Chefe Stoico, o Imenso, o criativo e subestimado Soluço desafia séculos de tradição ao fazer amizade com Banguela, um temido dragão Fúria da Noite. Essa relação improvável revela a verdadeira natureza dos dragões, abalando as bases da sociedade viking.",
-    "nota": "7.9",
-    "avaliacao": "7.9",
-    "classificacao": "10",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "Assistir ",
-          "linkFisico": "v/como-treinar-o-seu-dragao.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/zq3KClWefZWh3oGWkZDhNUJnrvC.jpg"
-        }
-      ]
-    }
-  },
-  {
-    "id": "como-treinar-o-seu-dragao-2",
-    "tipo": "filme",
-    "categoria": "Animações",
-    "titulo": "Como Treinar o seu Dragão 2 ",
-    "logo": "https://image.tmdb.org/t/p/w780/bj6DeGQeaJa3ert4bjCBqLSZdHz.jpg",
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/3y407ibkG1VZvcN6cZlvQexvuxp.jpg",
-    "sinopse": "Cinco anos após convencer os habitantes de seu vilarejo que os dragões não devem ser combatidos, Soluço convive com seu dragão Fúria da Noite, e estes animais integraram pacificamente a rotina dos moradores da ilha de Berk. Entre viagens pelos céus e corridas de dragões, Soluço descobre uma caverna secreta, onde centenas de novos dragões vivem. O local é protegido por Valka, mãe de Soluço, que foi afastada do filho quando ele ainda era um bebê. Juntos, eles precisarão proteger o mundo que conhecem do perigoso Drago Bludvist, que deseja controlar todos os dragões existentes.",
-    "nota": "7.7",
-    "avaliacao": "7.7",
-    "classificacao": "Livre",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "Assistir ",
-          "linkFisico": "v/como-treinar-o-seu-dragao-2.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/3y407ibkG1VZvcN6cZlvQexvuxp.jpg"
-        }
-      ]
-    }
-  },
-  {
-    "id": "como-treinar-o-seu-dragao-3",
-    "tipo": "filme",
-    "categoria": "Animações",
-    "titulo": "Como Treinar o Seu Dragão 3 ",
-    "logo": "https://image.tmdb.org/t/p/w780/5uqxMHM7YLKk6yni4bOE0D6DVz8.jpg",
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/g8a2FT8DWi1e6Fpw7zqrcKWbe8n.jpg",
-    "sinopse": "Decidido a fazer de Berk um verdadeiro libelo ao ideal da convivência pacífica entre homens e dragões, Soluço e seus amigos seguem atrás de caçadores, para não só libertar suas presas mas também impedir a matança desenfreada dos animais. O esforço do grupo desperta a atenção de Grimmel ao descobrir que entre eles está Banguela, um legítimo Fúria da Noite. O vilão então desenvolve um plano para capturá-lo a todo custo, usando como arma uma fêmea capturada, da mesma espécie.",
-    "nota": "7.7",
-    "avaliacao": "7.7",
-    "classificacao": "Livre",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "Assistir ",
-          "linkFisico": "v/como-treinar-o-seu-dragao-3.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/g8a2FT8DWi1e6Fpw7zqrcKWbe8n.jpg"
-        }
-      ]
-    }
-  },
-  {
     "id": "coragem-o-cao-covarde",
     "tipo": "serie",
     "categoria": "Séries",
@@ -50891,6 +50828,72 @@
           "tit": "Assistir",
           "linkFisico": "v/moana-2.html",
           "logoEp": "https://image.tmdb.org/t/p/w1280/41jBXOLzVqCXx8GFURgQU0SgsyX.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "como-treinar-o-seu-dragao",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Como Treinar o Seu Dragão",
+    "logo": "https://image.tmdb.org/t/p/w780/spZbO7Ss6U9W5zSHjtH6FvXvCF7.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/sUxsHQtSxfwmXkoqNlB7Uyl0kaN.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/aNTecsN7YIvK3EAmqSofOxu8ANT.png",
+    "sinopse": "Soluço é um jovem viking que desafia a tradição, quando fica amigo de um dos mais mortais inimigos — um feroz dragão que ele chama de Banguela.",
+    "nota": "7.9",
+    "avaliacao": "7.9",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/como-treinar-o-seu-dragao.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/sUxsHQtSxfwmXkoqNlB7Uyl0kaN.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "como-treinar-o-seu-dragao-2",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Como Treinar o seu Dragão 2",
+    "logo": "https://image.tmdb.org/t/p/w780/bj6DeGQeaJa3ert4bjCBqLSZdHz.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/3y407ibkG1VZvcN6cZlvQexvuxp.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/kXA0s8q9RCEt3cgVMVHdRDZKjh7.png",
+    "sinopse": "Cinco anos após convencer os habitantes de seu vilarejo que os dragões não devem ser combatidos, Soluço convive com seu dragão Fúria da Noite, e estes animais integraram pacificamente a rotina dos moradores da ilha de Berk. Entre viagens pelos céus e corridas de dragões, Soluço descobre uma caverna secreta, onde centenas de novos dragões vivem. O local é protegido por Valka, mãe de Soluço, que foi afastada do filho quando ele ainda era um bebê. Juntos, eles precisarão proteger o mundo que conhecem do perigoso Drago Bludvist, que deseja controlar todos os dragões existentes.",
+    "nota": "7.7",
+    "avaliacao": "7.7",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/como-treinar-o-seu-dragao-2.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/3y407ibkG1VZvcN6cZlvQexvuxp.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "como-treinar-o-seu-dragao-3",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Como Treinar o Seu Dragão 3",
+    "logo": "https://image.tmdb.org/t/p/w780/5uqxMHM7YLKk6yni4bOE0D6DVz8.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/g8a2FT8DWi1e6Fpw7zqrcKWbe8n.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/mfW1S49KBzVDWaGVVyB4dC0Gxgc.png",
+    "sinopse": "Decidido a fazer de Berk um verdadeiro libelo ao ideal da convivência pacífica entre homens e dragões, Soluço e seus amigos seguem atrás de caçadores, para não só libertar suas presas mas também impedir a matança desenfreada dos animais. O esforço do grupo desperta a atenção de Grimmel ao descobrir que entre eles está Banguela, um legítimo Fúria da Noite. O vilão então desenvolve um plano para capturá-lo a todo custo, usando como arma uma fêmea capturada, da mesma espécie.",
+    "nota": "7.7",
+    "avaliacao": "7.7",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/como-treinar-o-seu-dragao-3.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/g8a2FT8DWi1e6Fpw7zqrcKWbe8n.jpg"
         }
       ]
     }
