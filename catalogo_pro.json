@@ -24171,189 +24171,6 @@
     }
   },
   {
-    "id": "the-witcher",
-    "tipo": "serie",
-    "categoria": "Séries",
-    "titulo": "The Witcher ",
-    "logo": "https://image.tmdb.org/t/p/w780/uJ1kQWTY1nElMcrrbHtDitbV85K.jpg",
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/xnzNSuExUTFYNUTsbpT8LIoi6mh.jpg",
-    "logo_png": "https://image.tmdb.org/t/p/w500/aeFeAfus6Y52MM4FabHWCj9XEW7.png",
-    "sinopse": "O mutante Geralt de Rívia é um caçador de monstros que luta para encontrar seu lugar num mundo onde as pessoas muitas vezes são mais perversas que as criaturas selvagens.",
-    "nota": "7.9",
-    "avaliacao": "7.9",
-    "classificacao": "18",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "S01E01 ",
-          "linkFisico": "v/the-witcher-s01e01.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/xnzNSuExUTFYNUTsbpT8LIoi6mh.jpg"
-        },
-        {
-          "tit": "S01E02 ",
-          "linkFisico": "v/the-witcher-s01e02.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/xnzNSuExUTFYNUTsbpT8LIoi6mh.jpg"
-        },
-        {
-          "tit": "S01E03 ",
-          "linkFisico": "v/the-witcher-s01e03.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/xnzNSuExUTFYNUTsbpT8LIoi6mh.jpg"
-        },
-        {
-          "tit": "S01E04 ",
-          "linkFisico": "v/the-witcher-s01e04.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/xnzNSuExUTFYNUTsbpT8LIoi6mh.jpg"
-        },
-        {
-          "tit": "S01E05 ",
-          "linkFisico": "v/the-witcher-s01e05.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/xnzNSuExUTFYNUTsbpT8LIoi6mh.jpg"
-        },
-        {
-          "tit": "S01E06 ",
-          "linkFisico": "v/the-witcher-s01e06.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/xnzNSuExUTFYNUTsbpT8LIoi6mh.jpg"
-        },
-        {
-          "tit": "S01E07 ",
-          "linkFisico": "v/the-witcher-s01e07.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/xnzNSuExUTFYNUTsbpT8LIoi6mh.jpg"
-        },
-        {
-          "tit": "S01E08 ",
-          "linkFisico": "v/the-witcher-s01e08.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/xnzNSuExUTFYNUTsbpT8LIoi6mh.jpg"
-        }
-      ],
-      "2": [
-        {
-          "tit": "S02E01 ",
-          "linkFisico": "v/the-witcher-s02e01.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/xnzNSuExUTFYNUTsbpT8LIoi6mh.jpg"
-        },
-        {
-          "tit": "S02E02 ",
-          "linkFisico": "v/the-witcher-s02e02.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/xnzNSuExUTFYNUTsbpT8LIoi6mh.jpg"
-        },
-        {
-          "tit": "S02E03 ",
-          "linkFisico": "v/the-witcher-s02e03.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/xnzNSuExUTFYNUTsbpT8LIoi6mh.jpg"
-        },
-        {
-          "tit": "S02E04 ",
-          "linkFisico": "v/the-witcher-s02e04.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/xnzNSuExUTFYNUTsbpT8LIoi6mh.jpg"
-        },
-        {
-          "tit": "S02E05 ",
-          "linkFisico": "v/the-witcher-s02e05.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/xnzNSuExUTFYNUTsbpT8LIoi6mh.jpg"
-        },
-        {
-          "tit": "S02E06 ",
-          "linkFisico": "v/the-witcher-s02e06.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/xnzNSuExUTFYNUTsbpT8LIoi6mh.jpg"
-        },
-        {
-          "tit": "S02E07 ",
-          "linkFisico": "v/the-witcher-s02e07.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/xnzNSuExUTFYNUTsbpT8LIoi6mh.jpg"
-        },
-        {
-          "tit": "S02E08 ",
-          "linkFisico": "v/the-witcher-s02e08.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/xnzNSuExUTFYNUTsbpT8LIoi6mh.jpg"
-        }
-      ],
-      "3": [
-        {
-          "tit": "S03E01 ",
-          "linkFisico": "v/the-witcher-s03e01.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/xnzNSuExUTFYNUTsbpT8LIoi6mh.jpg"
-        },
-        {
-          "tit": "S03E02 ",
-          "linkFisico": "v/the-witcher-s03e02.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/xnzNSuExUTFYNUTsbpT8LIoi6mh.jpg"
-        },
-        {
-          "tit": "S03E03 ",
-          "linkFisico": "v/the-witcher-s03e03.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/xnzNSuExUTFYNUTsbpT8LIoi6mh.jpg"
-        },
-        {
-          "tit": "S03E04 ",
-          "linkFisico": "v/the-witcher-s03e04.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/xnzNSuExUTFYNUTsbpT8LIoi6mh.jpg"
-        },
-        {
-          "tit": "S03E05 ",
-          "linkFisico": "v/the-witcher-s03e05.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/xnzNSuExUTFYNUTsbpT8LIoi6mh.jpg"
-        },
-        {
-          "tit": "S03E06 ",
-          "linkFisico": "v/the-witcher-s03e06.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/xnzNSuExUTFYNUTsbpT8LIoi6mh.jpg"
-        },
-        {
-          "tit": "S03E07 ",
-          "linkFisico": "v/the-witcher-s03e07.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/xnzNSuExUTFYNUTsbpT8LIoi6mh.jpg"
-        },
-        {
-          "tit": "S03E08 ",
-          "linkFisico": "v/the-witcher-s03e08.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/xnzNSuExUTFYNUTsbpT8LIoi6mh.jpg"
-        }
-      ],
-      "4": [
-        {
-          "tit": "S04E01 ",
-          "linkFisico": "v/the-witcher-s04e01.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/xnzNSuExUTFYNUTsbpT8LIoi6mh.jpg"
-        },
-        {
-          "tit": "S04E02 ",
-          "linkFisico": "v/the-witcher-s04e02.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/xnzNSuExUTFYNUTsbpT8LIoi6mh.jpg"
-        },
-        {
-          "tit": "S04E03 ",
-          "linkFisico": "v/the-witcher-s04e03.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/xnzNSuExUTFYNUTsbpT8LIoi6mh.jpg"
-        },
-        {
-          "tit": "S04E04 ",
-          "linkFisico": "v/the-witcher-s04e04.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/xnzNSuExUTFYNUTsbpT8LIoi6mh.jpg"
-        },
-        {
-          "tit": "S04E05 ",
-          "linkFisico": "v/the-witcher-s04e05.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/xnzNSuExUTFYNUTsbpT8LIoi6mh.jpg"
-        },
-        {
-          "tit": "S04E06 ",
-          "linkFisico": "v/the-witcher-s04e06.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/xnzNSuExUTFYNUTsbpT8LIoi6mh.jpg"
-        },
-        {
-          "tit": "S04E07 ",
-          "linkFisico": "v/the-witcher-s04e07.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/xnzNSuExUTFYNUTsbpT8LIoi6mh.jpg"
-        },
-        {
-          "tit": "S04E08 ",
-          "linkFisico": "v/the-witcher-s04e08.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/xnzNSuExUTFYNUTsbpT8LIoi6mh.jpg"
-        }
-      ]
-    }
-  },
-  {
     "id": "thor",
     "tipo": "filme",
     "categoria": "Ação",
@@ -51296,6 +51113,189 @@
           "tit": "S02E08",
           "linkFisico": "v/a-casa-do-dragao-s02e08.html",
           "logoEp": "https://image.tmdb.org/t/p/w1280/zNYItBylhwqnnglxbMGNG8ZkARo.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "the-witcher",
+    "tipo": "serie",
+    "categoria": "Séries",
+    "titulo": "The Witcher",
+    "logo": "https://image.tmdb.org/t/p/w780/uJ1kQWTY1nElMcrrbHtDitbV85K.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/xnzNSuExUTFYNUTsbpT8LIoi6mh.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/aeFeAfus6Y52MM4FabHWCj9XEW7.png",
+    "sinopse": "O mutante Geralt de Rívia é um caçador de monstros que luta para encontrar seu lugar num mundo onde as pessoas muitas vezes são mais perversas que as criaturas selvagens.",
+    "nota": "7.9",
+    "avaliacao": "7.9",
+    "classificacao": "18",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "S01E01",
+          "linkFisico": "v/the-witcher-s01e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/xnzNSuExUTFYNUTsbpT8LIoi6mh.jpg"
+        },
+        {
+          "tit": "S01E02",
+          "linkFisico": "v/the-witcher-s01e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/xnzNSuExUTFYNUTsbpT8LIoi6mh.jpg"
+        },
+        {
+          "tit": "S01E03",
+          "linkFisico": "v/the-witcher-s01e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/xnzNSuExUTFYNUTsbpT8LIoi6mh.jpg"
+        },
+        {
+          "tit": "S01E04",
+          "linkFisico": "v/the-witcher-s01e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/xnzNSuExUTFYNUTsbpT8LIoi6mh.jpg"
+        },
+        {
+          "tit": "S01E05",
+          "linkFisico": "v/the-witcher-s01e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/xnzNSuExUTFYNUTsbpT8LIoi6mh.jpg"
+        },
+        {
+          "tit": "S01E06",
+          "linkFisico": "v/the-witcher-s01e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/xnzNSuExUTFYNUTsbpT8LIoi6mh.jpg"
+        },
+        {
+          "tit": "S01E07",
+          "linkFisico": "v/the-witcher-s01e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/xnzNSuExUTFYNUTsbpT8LIoi6mh.jpg"
+        },
+        {
+          "tit": "S01E08",
+          "linkFisico": "v/the-witcher-s01e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/xnzNSuExUTFYNUTsbpT8LIoi6mh.jpg"
+        }
+      ],
+      "2": [
+        {
+          "tit": "S02E01",
+          "linkFisico": "v/the-witcher-s02e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/xnzNSuExUTFYNUTsbpT8LIoi6mh.jpg"
+        },
+        {
+          "tit": "S02E02",
+          "linkFisico": "v/the-witcher-s02e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/xnzNSuExUTFYNUTsbpT8LIoi6mh.jpg"
+        },
+        {
+          "tit": "S02E03",
+          "linkFisico": "v/the-witcher-s02e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/xnzNSuExUTFYNUTsbpT8LIoi6mh.jpg"
+        },
+        {
+          "tit": "S02E04",
+          "linkFisico": "v/the-witcher-s02e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/xnzNSuExUTFYNUTsbpT8LIoi6mh.jpg"
+        },
+        {
+          "tit": "S02E05",
+          "linkFisico": "v/the-witcher-s02e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/xnzNSuExUTFYNUTsbpT8LIoi6mh.jpg"
+        },
+        {
+          "tit": "S02E06",
+          "linkFisico": "v/the-witcher-s02e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/xnzNSuExUTFYNUTsbpT8LIoi6mh.jpg"
+        },
+        {
+          "tit": "S02E07",
+          "linkFisico": "v/the-witcher-s02e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/xnzNSuExUTFYNUTsbpT8LIoi6mh.jpg"
+        },
+        {
+          "tit": "S02E08",
+          "linkFisico": "v/the-witcher-s02e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/xnzNSuExUTFYNUTsbpT8LIoi6mh.jpg"
+        }
+      ],
+      "3": [
+        {
+          "tit": "S03E01",
+          "linkFisico": "v/the-witcher-s03e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/xnzNSuExUTFYNUTsbpT8LIoi6mh.jpg"
+        },
+        {
+          "tit": "S03E02",
+          "linkFisico": "v/the-witcher-s03e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/xnzNSuExUTFYNUTsbpT8LIoi6mh.jpg"
+        },
+        {
+          "tit": "S03E03",
+          "linkFisico": "v/the-witcher-s03e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/xnzNSuExUTFYNUTsbpT8LIoi6mh.jpg"
+        },
+        {
+          "tit": "S03E04",
+          "linkFisico": "v/the-witcher-s03e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/xnzNSuExUTFYNUTsbpT8LIoi6mh.jpg"
+        },
+        {
+          "tit": "S03E05",
+          "linkFisico": "v/the-witcher-s03e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/xnzNSuExUTFYNUTsbpT8LIoi6mh.jpg"
+        },
+        {
+          "tit": "S03E06",
+          "linkFisico": "v/the-witcher-s03e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/xnzNSuExUTFYNUTsbpT8LIoi6mh.jpg"
+        },
+        {
+          "tit": "S03E07",
+          "linkFisico": "v/the-witcher-s03e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/xnzNSuExUTFYNUTsbpT8LIoi6mh.jpg"
+        },
+        {
+          "tit": "S03E08",
+          "linkFisico": "v/the-witcher-s03e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/xnzNSuExUTFYNUTsbpT8LIoi6mh.jpg"
+        }
+      ],
+      "4": [
+        {
+          "tit": "S04E01",
+          "linkFisico": "v/the-witcher-s04e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/xnzNSuExUTFYNUTsbpT8LIoi6mh.jpg"
+        },
+        {
+          "tit": "S04E02",
+          "linkFisico": "v/the-witcher-s04e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/xnzNSuExUTFYNUTsbpT8LIoi6mh.jpg"
+        },
+        {
+          "tit": "S04E03",
+          "linkFisico": "v/the-witcher-s04e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/xnzNSuExUTFYNUTsbpT8LIoi6mh.jpg"
+        },
+        {
+          "tit": "S04E04",
+          "linkFisico": "v/the-witcher-s04e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/xnzNSuExUTFYNUTsbpT8LIoi6mh.jpg"
+        },
+        {
+          "tit": "S04E05",
+          "linkFisico": "v/the-witcher-s04e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/xnzNSuExUTFYNUTsbpT8LIoi6mh.jpg"
+        },
+        {
+          "tit": "S04E06",
+          "linkFisico": "v/the-witcher-s04e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/xnzNSuExUTFYNUTsbpT8LIoi6mh.jpg"
+        },
+        {
+          "tit": "S04E07",
+          "linkFisico": "v/the-witcher-s04e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/xnzNSuExUTFYNUTsbpT8LIoi6mh.jpg"
+        },
+        {
+          "tit": "S04E08",
+          "linkFisico": "v/the-witcher-s04e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/xnzNSuExUTFYNUTsbpT8LIoi6mh.jpg"
         }
       ]
     }
