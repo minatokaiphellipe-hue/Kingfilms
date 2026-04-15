@@ -51124,5 +51124,49 @@
         }
       ]
     }
+  },
+  {
+    "id": "liga-da-justica-ponto-de-ignicao",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Liga da Justiça: Ponto de Ignição",
+    "logo": "https://image.tmdb.org/t/p/w780/vskdMrZjpNO4iOO3DvKG3iEzvVn.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/5nBzCjhZOnaHRIr33bGLirXBwt0.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/iQ9RMMgy8RkrCWiX1h3q60D1fuk.png",
+    "sinopse": "Barry Allen, o herói Flash, nunca conseguiu esquecer o dia em que sua mãe foi vítima de um horrendo crime e faleceu. Determinado a mudar a sua história, ele quebra as barreiras do tempo com sua hipervelocidade e volta no tempo, para impedir que a tragédia aconteça. No entanto, mexer com a linha temporal traz sérias consequências para o presente. Por conta da sua volta, o mundo é devastado por uma grande guerra entre as amazonas da Mulher-Maravilha e o exército de Atlantis, liderados por Aquaman. Junto com o Batman dessa nova realidade, mais violento e destemido, e a ajuda do Cyborg, ele tenta restaurar o fluxo temporal e impedir que esse mundo alternativo se concretize.",
+    "nota": "7.9",
+    "avaliacao": "7.9",
+    "classificacao": "12",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/liga-da-justica-ponto-de-ignicao.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/5nBzCjhZOnaHRIr33bGLirXBwt0.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "liga-da-justica-sombria-guerra-de-apokolips",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Liga da Justiça Sombria: Guerra de Apokolips",
+    "logo": "https://image.tmdb.org/t/p/w780/okZMETLdhZypwJfzwjeWIzkIBaK.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/zAzyrSA4odxSsc016qpBeoSycoD.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/lPDGN3JK3QCQmRFgnJKhOkWJkWM.png",
+    "sinopse": "A Liga da Justiça sempre foi a primeira e última defesa da Terra, mas com a chegada iminente de Darkseid e os horrores da guerra que ele trará, tudo está para mudar! Com o tempo se esgotando, a Liga da Justiça precisará, como nunca antes, de todos os seus integrantes e poderes. Mas mesmo os mais poderosos super-heróis do mundo, incluindo o novo membro, John Constantine, poderão não ter chance contra as legiões de Darkseid. Testemunhe a batalha mais chocante do Universo DC, onde a sobrevivência em si já é uma vitória.",
+    "nota": "8.2",
+    "avaliacao": "8.2",
+    "classificacao": "14",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/liga-da-justica-sombria-guerra-de-apokolips.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/zAzyrSA4odxSsc016qpBeoSycoD.jpg"
+        }
+      ]
+    }
   }
 ]
