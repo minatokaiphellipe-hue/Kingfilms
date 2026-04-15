@@ -51014,5 +51014,49 @@
         }
       ]
     }
+  },
+  {
+    "id": "esquadrao-suicida-acerto-de-contas",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Esquadrão Suicida: Acerto de Contas",
+    "logo": "https://image.tmdb.org/t/p/w780/7ZlDYgzwdPfemTo27oAst7MXojV.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/l7EPw8aTXy1xaoX27G0terIwcBB.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/847DyY8T7NPoc8C2S1H915ck1xJ.png",
+    "sinopse": "Amanda Waller envia a Força-Tarefa X em uma missão para recuperar um objeto místico extremamente poderoso, mesmo que isso custe suas vidas.",
+    "nota": "7.1",
+    "avaliacao": "7.1",
+    "classificacao": "16",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/esquadrao-suicida-acerto-de-contas.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/l7EPw8aTXy1xaoX27G0terIwcBB.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "batman-morte-em-familia",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Batman: Morte em Família",
+    "logo": "https://image.tmdb.org/t/p/w780/97zKwVhOLyTnFbnuLZHbOboLyrM.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/jwQM5dvTG84KoKwtibijqQB1maO.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/9fp14V8jnoU6lmXmcTtsGW7Xb1W.png",
+    "sinopse": "Baseado na HQ “Batman: Morte em Família”, o longa conta a história da relação do Batman com seu pupilo Jason Todd, o segundo Robin. Após a relação entre os dois ficar abalada por conta do comportamento extremo de Jason em suas rondas, o Coringa o mata, levando o Batman ao limite.",
+    "nota": "7.1",
+    "avaliacao": "7.1",
+    "classificacao": "16",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/batman-morte-em-familia.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/jwQM5dvTG84KoKwtibijqQB1maO.jpg"
+        }
+      ]
+    }
   }
 ]
