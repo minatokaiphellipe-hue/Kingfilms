@@ -14049,26 +14049,6 @@
     }
   },
   {
-    "id": "liga-da-justica",
-    "tipo": "filme",
-    "categoria": "Ação",
-    "titulo": "Liga da Justiça ",
-    "logo": "https://image.tmdb.org/t/p/w780/vQIwxoGxW46Skq5ipu0pBFKZTKd.jpg",
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/y6IF3Yuw779rR8Qihez8RJb9JrV.jpg",
-    "sinopse": "Impulsionado pela restauração de sua fé na humanidade e inspirado pelo ato altruísta do Superman, Bruce Wayne convoca sua nova aliada Diana Prince para o combate contra um inimigo ainda maior, recém-despertado. Juntos, Batman e Mulher-Maravilha buscam e recrutam com agilidade um time de meta-humanos, mas mesmo com a formação da liga de heróis sem precedentes, poderá ser tarde demais para salvar o planeta de um catastrófico ataque.",
-    "avaliacao": "6.1",
-    "classificacao": "12",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "Assistir ",
-          "linkFisico": "v/liga-da-justica.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/y6IF3Yuw779rR8Qihez8RJb9JrV.jpg"
-        }
-      ]
-    }
-  },
-  {
     "id": "liga-da-justica-sem-limites",
     "tipo": "serie",
     "categoria": "Séries",
@@ -52358,6 +52338,275 @@
           "tit": "Assistir",
           "linkFisico": "v/bob-esponja-o-incrivel-resgate.html",
           "logoEp": "https://image.tmdb.org/t/p/w1280/hESI1Z8OMfj2xz22fAfCOnwyIXX.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "liga-da-justica",
+    "tipo": "serie",
+    "categoria": "Séries",
+    "titulo": "Liga da Justiça",
+    "logo": "https://image.tmdb.org/t/p/w780/3dqSuJ8zjdtYy3UfCBbTwue2lT0.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/ui0fpYkcPdwh7HHAk0dabQJn1Va.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/zJMIKC0gDVh8MLhYZhLkFsRrZa4.png",
+    "sinopse": "Os maiores super-heróis do mundo, como Super-Homem, Batman, Mulher-Maravilha, Lanterna Verde, Flash e outros se unem como a Liga da Justiça para enfrentar vilões poderosos, criaturas sobrenaturais e entidades diabólicas que querem dominar o mundo.",
+    "nota": "8.2",
+    "avaliacao": "8.2",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "S01E01",
+          "linkFisico": "v/liga-da-justica-s01e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/ui0fpYkcPdwh7HHAk0dabQJn1Va.jpg"
+        },
+        {
+          "tit": "S01E02",
+          "linkFisico": "v/liga-da-justica-s01e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/ui0fpYkcPdwh7HHAk0dabQJn1Va.jpg"
+        },
+        {
+          "tit": "S01E03",
+          "linkFisico": "v/liga-da-justica-s01e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/ui0fpYkcPdwh7HHAk0dabQJn1Va.jpg"
+        },
+        {
+          "tit": "S01E04",
+          "linkFisico": "v/liga-da-justica-s01e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/ui0fpYkcPdwh7HHAk0dabQJn1Va.jpg"
+        },
+        {
+          "tit": "S01E05",
+          "linkFisico": "v/liga-da-justica-s01e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/ui0fpYkcPdwh7HHAk0dabQJn1Va.jpg"
+        },
+        {
+          "tit": "S01E06",
+          "linkFisico": "v/liga-da-justica-s01e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/ui0fpYkcPdwh7HHAk0dabQJn1Va.jpg"
+        },
+        {
+          "tit": "S01E07",
+          "linkFisico": "v/liga-da-justica-s01e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/ui0fpYkcPdwh7HHAk0dabQJn1Va.jpg"
+        },
+        {
+          "tit": "S01E08",
+          "linkFisico": "v/liga-da-justica-s01e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/ui0fpYkcPdwh7HHAk0dabQJn1Va.jpg"
+        },
+        {
+          "tit": "S01E09",
+          "linkFisico": "v/liga-da-justica-s01e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/ui0fpYkcPdwh7HHAk0dabQJn1Va.jpg"
+        },
+        {
+          "tit": "S01E10",
+          "linkFisico": "v/liga-da-justica-s01e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/ui0fpYkcPdwh7HHAk0dabQJn1Va.jpg"
+        },
+        {
+          "tit": "S01E11",
+          "linkFisico": "v/liga-da-justica-s01e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/ui0fpYkcPdwh7HHAk0dabQJn1Va.jpg"
+        },
+        {
+          "tit": "S01E12",
+          "linkFisico": "v/liga-da-justica-s01e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/ui0fpYkcPdwh7HHAk0dabQJn1Va.jpg"
+        },
+        {
+          "tit": "S01E13",
+          "linkFisico": "v/liga-da-justica-s01e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/ui0fpYkcPdwh7HHAk0dabQJn1Va.jpg"
+        },
+        {
+          "tit": "S01E14",
+          "linkFisico": "v/liga-da-justica-s01e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/ui0fpYkcPdwh7HHAk0dabQJn1Va.jpg"
+        },
+        {
+          "tit": "S01E15",
+          "linkFisico": "v/liga-da-justica-s01e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/ui0fpYkcPdwh7HHAk0dabQJn1Va.jpg"
+        },
+        {
+          "tit": "S01E16",
+          "linkFisico": "v/liga-da-justica-s01e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/ui0fpYkcPdwh7HHAk0dabQJn1Va.jpg"
+        },
+        {
+          "tit": "S01E17",
+          "linkFisico": "v/liga-da-justica-s01e17.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/ui0fpYkcPdwh7HHAk0dabQJn1Va.jpg"
+        },
+        {
+          "tit": "S01E18",
+          "linkFisico": "v/liga-da-justica-s01e18.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/ui0fpYkcPdwh7HHAk0dabQJn1Va.jpg"
+        },
+        {
+          "tit": "S01E19",
+          "linkFisico": "v/liga-da-justica-s01e19.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/ui0fpYkcPdwh7HHAk0dabQJn1Va.jpg"
+        },
+        {
+          "tit": "S01E20",
+          "linkFisico": "v/liga-da-justica-s01e20.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/ui0fpYkcPdwh7HHAk0dabQJn1Va.jpg"
+        },
+        {
+          "tit": "S01E21",
+          "linkFisico": "v/liga-da-justica-s01e21.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/ui0fpYkcPdwh7HHAk0dabQJn1Va.jpg"
+        },
+        {
+          "tit": "S01E22",
+          "linkFisico": "v/liga-da-justica-s01e22.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/ui0fpYkcPdwh7HHAk0dabQJn1Va.jpg"
+        },
+        {
+          "tit": "S01E23",
+          "linkFisico": "v/liga-da-justica-s01e23.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/ui0fpYkcPdwh7HHAk0dabQJn1Va.jpg"
+        },
+        {
+          "tit": "S01E24",
+          "linkFisico": "v/liga-da-justica-s01e24.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/ui0fpYkcPdwh7HHAk0dabQJn1Va.jpg"
+        }
+      ],
+      "2": [
+        {
+          "tit": "S02E01",
+          "linkFisico": "v/liga-da-justica-s02e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/ui0fpYkcPdwh7HHAk0dabQJn1Va.jpg"
+        },
+        {
+          "tit": "S02E02",
+          "linkFisico": "v/liga-da-justica-s02e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/ui0fpYkcPdwh7HHAk0dabQJn1Va.jpg"
+        },
+        {
+          "tit": "S02E03",
+          "linkFisico": "v/liga-da-justica-s02e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/ui0fpYkcPdwh7HHAk0dabQJn1Va.jpg"
+        },
+        {
+          "tit": "S02E04",
+          "linkFisico": "v/liga-da-justica-s02e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/ui0fpYkcPdwh7HHAk0dabQJn1Va.jpg"
+        },
+        {
+          "tit": "S02E05",
+          "linkFisico": "v/liga-da-justica-s02e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/ui0fpYkcPdwh7HHAk0dabQJn1Va.jpg"
+        },
+        {
+          "tit": "S02E06",
+          "linkFisico": "v/liga-da-justica-s02e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/ui0fpYkcPdwh7HHAk0dabQJn1Va.jpg"
+        },
+        {
+          "tit": "S02E07",
+          "linkFisico": "v/liga-da-justica-s02e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/ui0fpYkcPdwh7HHAk0dabQJn1Va.jpg"
+        },
+        {
+          "tit": "S02E08",
+          "linkFisico": "v/liga-da-justica-s02e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/ui0fpYkcPdwh7HHAk0dabQJn1Va.jpg"
+        },
+        {
+          "tit": "S02E09",
+          "linkFisico": "v/liga-da-justica-s02e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/ui0fpYkcPdwh7HHAk0dabQJn1Va.jpg"
+        },
+        {
+          "tit": "S02E10",
+          "linkFisico": "v/liga-da-justica-s02e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/ui0fpYkcPdwh7HHAk0dabQJn1Va.jpg"
+        },
+        {
+          "tit": "S02E11",
+          "linkFisico": "v/liga-da-justica-s02e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/ui0fpYkcPdwh7HHAk0dabQJn1Va.jpg"
+        },
+        {
+          "tit": "S02E12",
+          "linkFisico": "v/liga-da-justica-s02e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/ui0fpYkcPdwh7HHAk0dabQJn1Va.jpg"
+        },
+        {
+          "tit": "S02E13",
+          "linkFisico": "v/liga-da-justica-s02e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/ui0fpYkcPdwh7HHAk0dabQJn1Va.jpg"
+        },
+        {
+          "tit": "S02E14",
+          "linkFisico": "v/liga-da-justica-s02e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/ui0fpYkcPdwh7HHAk0dabQJn1Va.jpg"
+        },
+        {
+          "tit": "S02E15",
+          "linkFisico": "v/liga-da-justica-s02e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/ui0fpYkcPdwh7HHAk0dabQJn1Va.jpg"
+        },
+        {
+          "tit": "S02E16",
+          "linkFisico": "v/liga-da-justica-s02e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/ui0fpYkcPdwh7HHAk0dabQJn1Va.jpg"
+        },
+        {
+          "tit": "S02E17",
+          "linkFisico": "v/liga-da-justica-s02e17.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/ui0fpYkcPdwh7HHAk0dabQJn1Va.jpg"
+        },
+        {
+          "tit": "S02E18",
+          "linkFisico": "v/liga-da-justica-s02e18.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/ui0fpYkcPdwh7HHAk0dabQJn1Va.jpg"
+        },
+        {
+          "tit": "S02E19",
+          "linkFisico": "v/liga-da-justica-s02e19.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/ui0fpYkcPdwh7HHAk0dabQJn1Va.jpg"
+        },
+        {
+          "tit": "S02E20",
+          "linkFisico": "v/liga-da-justica-s02e20.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/ui0fpYkcPdwh7HHAk0dabQJn1Va.jpg"
+        },
+        {
+          "tit": "S02E21",
+          "linkFisico": "v/liga-da-justica-s02e21.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/ui0fpYkcPdwh7HHAk0dabQJn1Va.jpg"
+        },
+        {
+          "tit": "S02E22",
+          "linkFisico": "v/liga-da-justica-s02e22.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/ui0fpYkcPdwh7HHAk0dabQJn1Va.jpg"
+        },
+        {
+          "tit": "S02E23",
+          "linkFisico": "v/liga-da-justica-s02e23.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/ui0fpYkcPdwh7HHAk0dabQJn1Va.jpg"
+        },
+        {
+          "tit": "S02E24",
+          "linkFisico": "v/liga-da-justica-s02e24.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/ui0fpYkcPdwh7HHAk0dabQJn1Va.jpg"
+        },
+        {
+          "tit": "S02E25",
+          "linkFisico": "v/liga-da-justica-s02e25.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/ui0fpYkcPdwh7HHAk0dabQJn1Va.jpg"
+        },
+        {
+          "tit": "S02E26",
+          "linkFisico": "v/liga-da-justica-s02e26.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/ui0fpYkcPdwh7HHAk0dabQJn1Va.jpg"
         }
       ]
     }
