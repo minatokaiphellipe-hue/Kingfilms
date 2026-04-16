@@ -52273,5 +52273,49 @@
         }
       ]
     }
+  },
+  {
+    "id": "terror-em-amityville",
+    "tipo": "filme",
+    "categoria": "Terror",
+    "titulo": "Terror em Amityville",
+    "logo": "https://image.tmdb.org/t/p/w780/1b9Qdr9VwSLiK1lW2KWlUEeuwIa.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/7wGJ2xjHqwXkeQPe7cOXOGE8tFq.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/6JSXlEUJzM8xSzrEOy93WECWYuj.png",
+    "sinopse": "Após se mudarem para uma casa onde aconteceram terríveis assassinatos de uma mesma família, George, Kathy e seus filhos passam a viver uma forte experiência sobrenatural. As forças diabólicas que ali habitam perturbam toda a família durante 28 dias. No 28° dia, eles decidem tomar uma atitude.",
+    "nota": "6.3",
+    "avaliacao": "6.3",
+    "classificacao": "18",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/terror-em-amityville.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/7wGJ2xjHqwXkeQPe7cOXOGE8tFq.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "bob-esponja-acampamento-do-terror",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Bob Esponja: Acampamento do Terror",
+    "logo": "https://image.tmdb.org/t/p/w780/7z2nruGaWwPpUvUG61sjDvEOREJ.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/3Q2cJcIBdvpmjoyjdpELV84NqNj.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/zlO1WVubfnY9dh4irgDXEtTbOnC.png",
+    "sinopse": "Durante uma reunião no Acampamento Koral, Bob Esponja e sua turma são perseguidos por uma figura misteriosa espreitando nas sombras enquanto os campistas começam a desaparecer um por um.",
+    "nota": "7.0",
+    "avaliacao": "7.0",
+    "classificacao": "16",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/bob-esponja-acampamento-do-terror.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/3Q2cJcIBdvpmjoyjdpELV84NqNj.jpg"
+        }
+      ]
+    }
   }
 ]
