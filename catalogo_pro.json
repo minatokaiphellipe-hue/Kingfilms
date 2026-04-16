@@ -52251,5 +52251,27 @@
         }
       ]
     }
+  },
+  {
+    "id": "miss-violence",
+    "tipo": "filme",
+    "categoria": "Drama",
+    "titulo": "Miss Violence",
+    "logo": "https://image.tmdb.org/t/p/w780/39lWrMhjHMfemVq6d318OomTl0H.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/2jd5Q4SR2vmDyUgivVBWzg4qaoj.jpg",
+    "logo_png": "",
+    "sinopse": "Angeliki comete suicídio enquanto a família comemora seu aniversário de 11 anos de idade. A família alega ter sido um acidente para escapar de agentes do serviço social que desconfiam de algo estranho no dia-a-dia da família.",
+    "nota": "6.9",
+    "avaliacao": "6.9",
+    "classificacao": "16",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/miss-violence.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/2jd5Q4SR2vmDyUgivVBWzg4qaoj.jpg"
+        }
+      ]
+    }
   }
 ]
