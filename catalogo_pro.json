@@ -52317,5 +52317,49 @@
         }
       ]
     }
+  },
+  {
+    "id": "bob-esponja-o-filme",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Bob Esponja: O Filme",
+    "logo": "https://image.tmdb.org/t/p/w780/ea6uWDaT8o480EUtg42aw6fFNMx.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/biD8JS8MyuBHjyRfsIFnYxZYtL9.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/gK6UvVmguIQ8cFeY1OokLdJfZYt.png",
+    "sinopse": "Após a coroa do Rei Netuno ser roubada, Bob Esponja e seu melhor amigo Patrick partem em uma viagem pela Fenda do Bikini para reencontrá-la. No caminho eles precisam enfrentar monstros marinhos, vilões perigosos e vários bandidos.",
+    "nota": "7.1",
+    "avaliacao": "7.1",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/bob-esponja-o-filme.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/biD8JS8MyuBHjyRfsIFnYxZYtL9.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "bob-esponja-o-incrivel-resgate",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Bob Esponja: O Incrível Resgate",
+    "logo": "https://image.tmdb.org/t/p/w780/d88x4Jnyhr4xErOYeJCspcxI34h.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/hESI1Z8OMfj2xz22fAfCOnwyIXX.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/2ZQ6u5RGIgnqoKAGG0OtnziQHD9.png",
+    "sinopse": "Onde está Gary? Segundo Bob Esponja, Gary foi \"caracolstrado\" pelo temível Rei Poseidon e levado para a cidade perdida de Atlantic City. Junto a Patrick Estrela, ele sai em uma missão de resgate ao querido amigo, e nesta jornada os dois vão conhecer novos personagens e viver inimagináveis aventuras.",
+    "nota": "7.4",
+    "avaliacao": "7.4",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/bob-esponja-o-incrivel-resgate.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/hESI1Z8OMfj2xz22fAfCOnwyIXX.jpg"
+        }
+      ]
+    }
   }
 ]
