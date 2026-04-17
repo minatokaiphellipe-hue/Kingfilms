@@ -55268,5 +55268,28 @@
         }
       ]
     }
+  },
+  {
+    "id": "django-livre",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "saga": "",
+    "titulo": "Django Livre",
+    "logo": "https://image.tmdb.org/t/p/w780/ar63Sx8jeqk0OOu2uchS477S2zE.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/5ygng1tW8r2hLqPl3hjNsuG0NwC.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/6hBhNuSA5TLbkqK992zkAd7ZwtJ.png",
+    "sinopse": "Django é um escravo, comprado pelo caçador de recompensas alemão Dr. King Schultz para auxiliá-lo em uma missão. A dupla acaba fazendo amizade e, após resolver os problemas do caçador, parte em busca por Broomhilda, esposa de Django. Para isso, eles devem enfrentar o vilão Calvin Candie, proprietário da escrava.",
+    "nota": "8.2",
+    "avaliacao": "8.2",
+    "classificacao": "16",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/django-livre.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/5ygng1tW8r2hLqPl3hjNsuG0NwC.jpg"
+        }
+      ]
+    }
   }
 ]
