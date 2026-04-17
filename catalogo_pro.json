@@ -55297,5 +55297,28 @@
         }
       ]
     }
+  },
+  {
+    "id": "rob1n-inteligencia-assassina",
+    "tipo": "filme",
+    "categoria": "Terror",
+    "saga": "",
+    "titulo": "Rob1n: Inteligência Assassina",
+    "logo": "https://image.tmdb.org/t/p/w780/maWJacCZG07VixdUA5QhKJifp3o.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/2VGfjnT3RpjOKADbwgbmXCFSbH.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/ozE0IGfVV0tOkda6qPen7EIkvqa.png",
+    "sinopse": "Quando um especialista em robótica canaliza o luto pela perda do filho de 11 anos na criação de um boneco robótico, uma série de eventos horríveis deixa claro que Rob1n fará de tudo para ter seu criador só para si.",
+    "nota": "5.4",
+    "avaliacao": "5.4",
+    "classificacao": "18",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/rob1n-inteligencia-assassina.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/2VGfjnT3RpjOKADbwgbmXCFSbH.jpg"
+        }
+      ]
+    }
   }
 ]
