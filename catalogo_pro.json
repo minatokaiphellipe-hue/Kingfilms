@@ -55246,5 +55246,27 @@
         }
       ]
     }
+  },
+  {
+    "id": "horizonte-profundo-desastre-no-golfo",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "Horizonte Profundo: Desastre no Golfo",
+    "logo": "https://image.tmdb.org/t/p/w780/vWv6Z1nG2KZwaR6IjI7wwhsIJt4.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/4hvDJjqqsB0JrZKGbCBGdTIEZFB.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/xvSmmMUXLvqCcwRrk1AuNP3aYeQ.png",
+    "sinopse": "Baseada em eventos reais, a história se passa no Golfo do México, na plataforma de perfuração marítima Deepwater Horizon. Diante de um dos piores vazamentos de petróleo na história dos EUA, Mike Williams e os demais trabalhadores embarcados lutam para escapar com vida do terrível acidente.",
+    "nota": "6.9",
+    "avaliacao": "6.9",
+    "classificacao": "12",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/horizonte-profundo-desastre-no-golfo.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/4hvDJjqqsB0JrZKGbCBGdTIEZFB.jpg"
+        }
+      ]
+    }
   }
 ]
