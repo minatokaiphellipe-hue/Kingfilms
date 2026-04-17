@@ -55202,5 +55202,49 @@
         }
       ]
     }
+  },
+  {
+    "id": "space-jam-o-jogo-do-seculo",
+    "tipo": "filme",
+    "categoria": "Fantasia",
+    "titulo": "Space Jam: O Jogo do Século",
+    "logo": "https://image.tmdb.org/t/p/w780/zgenqfTIvoEs6jcmokKfbi1ZURS.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/z0CShWMU83Mjltq2aXVKJzEqqgp.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/9rRL1UpLNbx3yXgMq8Q1NRMeP5K.png",
+    "sinopse": "Um poderoso vilão intergalático decide que Pernalonga e sua turma são a atração perfeita para seu novo parque de diversões. Ele envia um grupo de pequenos alienígenas para capturá-los. Para evitar o seu próprio sequestro, Pernalonga propõe um jogo de basquete em troca de sua liberdade. Mas os pequenos alienígenas têm uma arma secreta: Eles roubaram as habilidades dos melhores jogadores da NBA e formaram um time da pesada. Agora só existe uma chance de Pernalonga e seus amigos ganharem esta partida. Eles precisam da ajuda do mais famoso jogador de basquete de todos os tempos: Michael Jordan!",
+    "nota": "6.8",
+    "avaliacao": "6.8",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/space-jam-o-jogo-do-seculo.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/z0CShWMU83Mjltq2aXVKJzEqqgp.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "space-jam-um-novo-legado",
+    "tipo": "filme",
+    "categoria": "Fantasia",
+    "titulo": "Space Jam: Um Novo Legado",
+    "logo": "https://image.tmdb.org/t/p/w780/itN4fscYy1hIQy5lSdv44SddsoG.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/xhbXRitgTCzYSZbwhHRj56wLlIz.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/9wPVhKm60cmUJA3rIN09jmV5bY.png",
+    "sinopse": "O superastro do basquete LeBron James se junta à gangue Looney Tunes para derrotar o Goon Squad e salvar seu filho.",
+    "nota": "6.6",
+    "avaliacao": "6.6",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/space-jam-um-novo-legado.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/xhbXRitgTCzYSZbwhHRj56wLlIz.jpg"
+        }
+      ]
+    }
   }
 ]
