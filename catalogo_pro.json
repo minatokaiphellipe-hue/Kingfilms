@@ -55368,5 +55368,74 @@
         }
       ]
     }
+  },
+  {
+    "id": "a-noiva-cadaver",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "saga": "",
+    "titulo": "A Noiva Cadáver",
+    "logo": "https://image.tmdb.org/t/p/w780/nT7W8LfhzVybfFsnQJ4qQfqn5KX.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/xqIdN5sNR80n7uuXM3AKD4qfyZn.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/EPm97zL0ATzAGo2A8TPRQ1JR7A.png",
+    "sinopse": "As famílias de Victor e Victoria estão arranjando seu casamento. Nervoso com a cerimônia, Victor vai sozinho à floresta para ensaiar seus votos. No entanto, o que ele pensava ser um tronco de árvore na verdade é o braço esquelético de Emily, uma noiva que foi assassinada depois de fugir com seu amor. Convencida que Victor acabara de lhe pedir a mão em casamento, Emily o leva para o mundo dos mortos, mas ele precisa retornar rapidamente antes que Victoria se case com o malvado Lorde Barkis.",
+    "nota": "7.6",
+    "avaliacao": "7.6",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/a-noiva-cadaver.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/xqIdN5sNR80n7uuXM3AKD4qfyZn.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "constantine",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "saga": "Constantine: Coleção",
+    "titulo": "Constantine",
+    "logo": "https://image.tmdb.org/t/p/w780/dd4uzgUAbBIiRW7dcY0AcgSWohJ.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/rcKP9I2zprRVn9kEtUwVTXWStY5.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/sPRIMmlTCqc4vloDkSffVY3beW.png",
+    "sinopse": "John Constantine (Keanu Reeves) é um experiente ocultista e exorcista, que literalmente chegou ao inferno. Juntamente com Angela Dodson (Rachel Weisz), uma policial cética, ele investiga o misterioso assassinato da irmã gêmea dela, Isabel. As investigações levam a dupla a um mundo sombrio, em que precisam lidar com demônios e anjos malvados.",
+    "nota": "7.1",
+    "avaliacao": "7.1",
+    "classificacao": "14",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/constantine.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/rcKP9I2zprRVn9kEtUwVTXWStY5.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "orgulho-e-preconceito",
+    "tipo": "filme",
+    "categoria": "Drama",
+    "saga": "",
+    "titulo": "Orgulho e Preconceito",
+    "logo": "https://image.tmdb.org/t/p/w780/dmnY0Zs8uMSHkMiol7M3xOlvvkK.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/ntWcOpU7duya6Pphlb57kETWako.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/yn4CTdbcEOrWGjmpjwEnXu6dIb7.png",
+    "sinopse": "Elizabeth Bennet vive com sua mãe, pai e irmãs no campo, na Inglaterra. Por ser a filha mais velha, ela enfrenta uma crescente pressão de seus pais para se casar. Quando Elizabeth é apresentada ao belo e rico Darcy, faíscas voam. Embora haja uma química óbvia entre os dois, a natureza excessivamente reservada de Darcy ameaça a relação.",
+    "nota": "8.0",
+    "avaliacao": "8.0",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/orgulho-e-preconceito.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/ntWcOpU7duya6Pphlb57kETWako.jpg"
+        }
+      ]
+    }
   }
 ]
