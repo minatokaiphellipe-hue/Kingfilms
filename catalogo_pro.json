@@ -55320,5 +55320,53 @@
         }
       ]
     }
+  },
+  {
+    "id": "falcao-e-o-soldado-invernal",
+    "tipo": "serie",
+    "categoria": "Séries",
+    "saga": "",
+    "titulo": "Falcão e o Soldado Invernal",
+    "logo": "https://image.tmdb.org/t/p/w780/oF9njYCN6lBdrsi6wfulcxTggvn.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/70R51SgeofDdnGrc3xnKfkDqRse.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/xov5AmWBxfMs0YYjPhkUWl7h9Wj.png",
+    "sinopse": "Após os eventos de \"Vingadores: Ultimato\", Sam Wilson/Falcão e Bucky Barnes/Soldado Invernal se unem em uma aventura que testa suas habilidades - e a paciência.",
+    "nota": "7.6",
+    "avaliacao": "7.6",
+    "classificacao": "14",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "S01E01",
+          "linkFisico": "v/falcao-e-o-soldado-invernal-s01e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/70R51SgeofDdnGrc3xnKfkDqRse.jpg"
+        },
+        {
+          "tit": "S01E02",
+          "linkFisico": "v/falcao-e-o-soldado-invernal-s01e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/70R51SgeofDdnGrc3xnKfkDqRse.jpg"
+        },
+        {
+          "tit": "S01E03",
+          "linkFisico": "v/falcao-e-o-soldado-invernal-s01e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/70R51SgeofDdnGrc3xnKfkDqRse.jpg"
+        },
+        {
+          "tit": "S01E04",
+          "linkFisico": "v/falcao-e-o-soldado-invernal-s01e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/70R51SgeofDdnGrc3xnKfkDqRse.jpg"
+        },
+        {
+          "tit": "S01E05",
+          "linkFisico": "v/falcao-e-o-soldado-invernal-s01e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/70R51SgeofDdnGrc3xnKfkDqRse.jpg"
+        },
+        {
+          "tit": "S01E06",
+          "linkFisico": "v/falcao-e-o-soldado-invernal-s01e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/70R51SgeofDdnGrc3xnKfkDqRse.jpg"
+        }
+      ]
+    }
   }
 ]
