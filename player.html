@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KINGFILMS Player 🌀</title>
+    <style>
+        body { margin: 0; background: #000; display: flex; justify-content: center; align-items: center; height: 100vh; overflow: hidden; }
+        iframe { width: 100vw; height: 100vh; border: none; }
+        .loader { position: absolute; color: #e50914; font-family: 'Inter', sans-serif; font-weight: bold; font-size: 18px; letter-spacing: 2px; }
+    </style>
+</head>
+<body>
+    <div class="loader" id="loadingText">A CARREGAR KINGFILMS...</div>
+    <iframe id="videoPlayer" allowfullscreen></iframe>
+
+    <script>
+        const urlParams = new URLSearchParams(window.location.search);
+        const videoUrl = urlParams.get('v');
+        
+        if(videoUrl) {
+            document.getElementById('videoPlayer').src = videoUrl;
+            document.getElementById('videoPlayer').onload = () => {
+                document.getElementById('loadingText').style.display = 'none';
+            };
+        } else {
+            document.getElementById('loadingText').innerText = "ERRO: Filme não encontrado.";
+            document.getElementById('loadingText').style.color = "#fff";
+        }
+    </script>
+</body>
+</html>
+
