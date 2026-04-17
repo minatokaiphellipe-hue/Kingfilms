@@ -20995,46 +20995,6 @@
     "logo_horizontal": "https://image.tmdb.org/t/p/w1280/fTrQsdMS2MUw00RnzH0r3JWHhts.jpg"
   },
   {
-    "id": "rio",
-    "tipo": "filme",
-    "categoria": "Animações",
-    "titulo": "Rio ",
-    "logo": "https://image.tmdb.org/t/p/w780/qs1W2Dbdx9awa4zMB7P4i7yRzJe.jpg",
-    "sinopse": "Capturada por contrabandistas de animais quando tinha acabado de nascer, a arara Blu nunca aprendeu a voar e vive uma vida domesticada feliz em Minnesota, nos Estados Unidos, com sua dona, Linda. Blu pensa que é a última arara de sua espécie. Mas quando descobrem que Jade, uma fêmea, vive no Rio de Janeiro, Blu e Linda vão ao seu encontro em para recuperar a espécie.",
-    "avaliacao": "6.8",
-    "classificacao": "Livre",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "Assistir ",
-          "linkFisico": "v/rio.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/uhV4UtLSPdrUYEzWUCmkUNZE9m5.jpg"
-        }
-      ]
-    },
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/yoyLhm534GHsWvx5cNBDhfZdTG7.jpg"
-  },
-  {
-    "id": "rio-2",
-    "tipo": "filme",
-    "categoria": "Animações",
-    "titulo": "Rio 2 ",
-    "logo": "https://image.tmdb.org/t/p/w780/e0CKmNlKfWwc8LSgfyf4gYsTjjP.jpg",
-    "sinopse": "As araras Blu e Jade vivem felizes com seus filhos no Rio de Janeiro. Quando seus donos, Túlio e Linda, encontram pássaros de sua espécie na Amazônia, eles decidem partir para novas aventuras na região Norte do país. Só que nem tudo é perfeito: Nigel, o velho inimigo de Blu e Jade, está de volta para se vingar.",
-    "avaliacao": "6.5",
-    "classificacao": "Livre",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "Assistir ",
-          "linkFisico": "v/rio-2.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/5CVEXEiHHL21e1xfbJZNk64TSuH.jpg"
-        }
-      ]
-    },
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/eg2jxQ1FFi6ENDfyMIMC5odpcU0.jpg"
-  },
-  {
     "id": "shrek-1",
     "tipo": "filme",
     "categoria": "Animações",
@@ -55288,6 +55248,52 @@
           "tit": "Assistir",
           "linkFisico": "v/django-livre.html",
           "logoEp": "https://image.tmdb.org/t/p/w1280/5ygng1tW8r2hLqPl3hjNsuG0NwC.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "rio",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "saga": "Rio: Coleção",
+    "titulo": "Rio",
+    "logo": "https://image.tmdb.org/t/p/w780/qs1W2Dbdx9awa4zMB7P4i7yRzJe.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/uhV4UtLSPdrUYEzWUCmkUNZE9m5.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/ga8unNzem3wQXZAJ784bCehmtqV.png",
+    "sinopse": "Capturada por contrabandistas de animais quando tinha acabado de nascer, a arara Blu nunca aprendeu a voar e vive uma vida domesticada feliz em Minnesota, nos Estados Unidos, com sua dona, Linda. Blu pensa que é a última arara de sua espécie. Mas quando descobrem que Jade, uma fêmea, vive no Rio de Janeiro, Blu e Linda vão ao seu encontro em para recuperar a espécie.",
+    "nota": "6.8",
+    "avaliacao": "6.8",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/rio.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/uhV4UtLSPdrUYEzWUCmkUNZE9m5.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "rio-2",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "saga": "Rio: Coleção",
+    "titulo": "Rio 2",
+    "logo": "https://image.tmdb.org/t/p/w780/e0CKmNlKfWwc8LSgfyf4gYsTjjP.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/5CVEXEiHHL21e1xfbJZNk64TSuH.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/kXayD1mSPwvamXhcuB9kOxKcoTq.png",
+    "sinopse": "As araras Blu e Jade vivem felizes com seus filhos no Rio de Janeiro. Quando seus donos, Túlio e Linda, encontram pássaros de sua espécie na Amazônia, eles decidem partir para novas aventuras na região Norte do país. Só que nem tudo é perfeito: Nigel, o velho inimigo de Blu e Jade, está de volta para se vingar.",
+    "nota": "6.5",
+    "avaliacao": "6.5",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/rio-2.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/5CVEXEiHHL21e1xfbJZNk64TSuH.jpg"
         }
       ]
     }
