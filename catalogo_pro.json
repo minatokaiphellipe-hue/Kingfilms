@@ -56254,5 +56254,49 @@
         }
       ]
     }
+  },
+  {
+    "id": "garfield-o-filme",
+    "tipo": "filme",
+    "categoria": "Comédia",
+    "titulo": "Garfield: O Filme",
+    "logo": "https://image.tmdb.org/t/p/w780/sFkRpWVC9PDop5IGvcHF1ZeGqIQ.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/26LJhz6CxMR7zzjsuYK1K6JrWN8.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/gsNQ0ew1cy6hWBhFq3DUJsmWK1X.png",
+    "sinopse": "O gato mais famoso do mundo, Garfield, passa seu tempo dormindo, comendo lasanha e aprontando travessuras, até que seu dono Jon se apaixona por uma linda veterinária chamada Liz. Ela convence Jon a adotar Odie, um filhote de cachorro adoravelmente tolinho, que imediatamente coloca a confortável vida de Garfield de pernas para o ar. Quando um malígno treinador de cães sequestra Odie, Garfield tem que se levantar do sofá e comandar a heróica operação de resgate.",
+    "nota": "5.7",
+    "avaliacao": "5.7",
+    "classificacao": "10",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/garfield-o-filme.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/26LJhz6CxMR7zzjsuYK1K6JrWN8.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "garfield-2",
+    "tipo": "filme",
+    "categoria": "Comédia",
+    "titulo": "Garfield 2",
+    "logo": "https://image.tmdb.org/t/p/w780/bXwKOr1LnYMetY7mROBQ3MFhb1a.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/hNH6Wr8lckVk8roPrVKjN5SFuTt.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/ya7NsdrKWZjUwPVWhhBBXfsiwSP.png",
+    "sinopse": "Nesta segunda aventura do gato criado por Jim Davis, Garfield vai à Inglaterra e lá é confundido com Prince, o bicho de estimação de uma condessa falecida recentemente. Prince é o herdeiro de um castelo e é tratado como um rei, do jeito que Garfield sempre quis. No castelo, ele ajuda um grupo de animais a salvar a propriedade das malvadas mãos do lorde Dargis (Billy Connolly).",
+    "nota": "5.6",
+    "avaliacao": "5.6",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/garfield-2.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/hNH6Wr8lckVk8roPrVKjN5SFuTt.jpg"
+        }
+      ]
+    }
   }
 ]
