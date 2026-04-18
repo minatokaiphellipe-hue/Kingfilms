@@ -56232,5 +56232,27 @@
         }
       ]
     }
+  },
+  {
+    "id": "mergulho-radical",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "Mergulho Radical",
+    "logo": "https://image.tmdb.org/t/p/w780/5bL4VNWRaodLaGKUeUKJhX7qVmc.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/gZjREa0g2rRak33hBpVAOSzFctL.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/5erE0hkOwdsnnn6Kmv5XdqhcjW3.png",
+    "sinopse": "A vida de um casal de namorados muda completamente quando um amigo deles compra um iate perfeito para procurarem tesouros no fundo do mar. Em meio às buscas por tesouro, eles encontram um carregamento de drogas e passam a ser ameaçados de morte.",
+    "nota": "5.9",
+    "avaliacao": "5.9",
+    "classificacao": "12",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/mergulho-radical.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/gZjREa0g2rRak33hBpVAOSzFctL.jpg"
+        }
+      ]
+    }
   }
 ]
