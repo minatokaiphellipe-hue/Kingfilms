@@ -56188,5 +56188,27 @@
         }
       ]
     }
+  },
+  {
+    "id": "hitch-conselheiro-amoroso",
+    "tipo": "filme",
+    "categoria": "Romance",
+    "titulo": "Hitch: Conselheiro Amoroso",
+    "logo": "https://image.tmdb.org/t/p/w780/7a7DIl75TFwkTik69QfZ5798BsO.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/3uQJ4aM3xGzv8qE6pbzEEzd29O2.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/7C6ESNsykxxETHI78EOAGJeYR3R.png",
+    "sinopse": "Um consultor de relacionamentos que trabalha de forma anônima é contratado para ajudar um contador tímido a conquistar a mulher dos seus sonhos. Ele acaba se apaixonando por uma jornalista, porém, e corre o risco de ter sua identidade revelada.",
+    "nota": "6.6",
+    "avaliacao": "6.6",
+    "classificacao": "12",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/hitch-conselheiro-amoroso.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/3uQJ4aM3xGzv8qE6pbzEEzd29O2.jpg"
+        }
+      ]
+    }
   }
 ]
