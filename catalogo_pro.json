@@ -56298,5 +56298,440 @@
         }
       ]
     }
+  },
+  {
+    "id": "mickey-mouse",
+    "tipo": "serie",
+    "categoria": "Séries",
+    "titulo": "Mickey Mouse",
+    "logo": "https://image.tmdb.org/t/p/w780/aAJ5T2Ab28vbbP9s6wWqdtK3arQ.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/bLICmQ3FT7mdEqZarAWZkEPaM8a.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/oJsb1vh7XFaJ6q3SJkC4MXERMMQ.png",
+    "sinopse": "Nesta série de curtas, Mickey Mouse se encontra em situações bobas em todo o mundo! De Nova York a Paris a Tóquio, Mickey experimenta novas aventuras com seus amigos!",
+    "nota": "7.6",
+    "avaliacao": "7.6",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "S01E01",
+          "linkFisico": "v/mickey-mouse-s01e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bLICmQ3FT7mdEqZarAWZkEPaM8a.jpg"
+        },
+        {
+          "tit": "S01E02",
+          "linkFisico": "v/mickey-mouse-s01e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bLICmQ3FT7mdEqZarAWZkEPaM8a.jpg"
+        },
+        {
+          "tit": "S01E03",
+          "linkFisico": "v/mickey-mouse-s01e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bLICmQ3FT7mdEqZarAWZkEPaM8a.jpg"
+        },
+        {
+          "tit": "S01E04",
+          "linkFisico": "v/mickey-mouse-s01e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bLICmQ3FT7mdEqZarAWZkEPaM8a.jpg"
+        },
+        {
+          "tit": "S01E05",
+          "linkFisico": "v/mickey-mouse-s01e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bLICmQ3FT7mdEqZarAWZkEPaM8a.jpg"
+        },
+        {
+          "tit": "S01E06",
+          "linkFisico": "v/mickey-mouse-s01e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bLICmQ3FT7mdEqZarAWZkEPaM8a.jpg"
+        },
+        {
+          "tit": "S01E07",
+          "linkFisico": "v/mickey-mouse-s01e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bLICmQ3FT7mdEqZarAWZkEPaM8a.jpg"
+        },
+        {
+          "tit": "S01E08",
+          "linkFisico": "v/mickey-mouse-s01e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bLICmQ3FT7mdEqZarAWZkEPaM8a.jpg"
+        },
+        {
+          "tit": "S01E09",
+          "linkFisico": "v/mickey-mouse-s01e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bLICmQ3FT7mdEqZarAWZkEPaM8a.jpg"
+        },
+        {
+          "tit": "S01E10",
+          "linkFisico": "v/mickey-mouse-s01e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bLICmQ3FT7mdEqZarAWZkEPaM8a.jpg"
+        },
+        {
+          "tit": "S01E11",
+          "linkFisico": "v/mickey-mouse-s01e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bLICmQ3FT7mdEqZarAWZkEPaM8a.jpg"
+        },
+        {
+          "tit": "S01E12",
+          "linkFisico": "v/mickey-mouse-s01e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bLICmQ3FT7mdEqZarAWZkEPaM8a.jpg"
+        },
+        {
+          "tit": "S01E13",
+          "linkFisico": "v/mickey-mouse-s01e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bLICmQ3FT7mdEqZarAWZkEPaM8a.jpg"
+        },
+        {
+          "tit": "S01E14",
+          "linkFisico": "v/mickey-mouse-s01e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bLICmQ3FT7mdEqZarAWZkEPaM8a.jpg"
+        },
+        {
+          "tit": "S01E15",
+          "linkFisico": "v/mickey-mouse-s01e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bLICmQ3FT7mdEqZarAWZkEPaM8a.jpg"
+        },
+        {
+          "tit": "S01E16",
+          "linkFisico": "v/mickey-mouse-s01e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bLICmQ3FT7mdEqZarAWZkEPaM8a.jpg"
+        },
+        {
+          "tit": "S01E17",
+          "linkFisico": "v/mickey-mouse-s01e17.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bLICmQ3FT7mdEqZarAWZkEPaM8a.jpg"
+        },
+        {
+          "tit": "S01E18",
+          "linkFisico": "v/mickey-mouse-s01e18.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bLICmQ3FT7mdEqZarAWZkEPaM8a.jpg"
+        }
+      ],
+      "2": [
+        {
+          "tit": "S02E01",
+          "linkFisico": "v/mickey-mouse-s02e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bLICmQ3FT7mdEqZarAWZkEPaM8a.jpg"
+        },
+        {
+          "tit": "S02E02",
+          "linkFisico": "v/mickey-mouse-s02e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bLICmQ3FT7mdEqZarAWZkEPaM8a.jpg"
+        },
+        {
+          "tit": "S02E03",
+          "linkFisico": "v/mickey-mouse-s02e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bLICmQ3FT7mdEqZarAWZkEPaM8a.jpg"
+        },
+        {
+          "tit": "S02E04",
+          "linkFisico": "v/mickey-mouse-s02e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bLICmQ3FT7mdEqZarAWZkEPaM8a.jpg"
+        },
+        {
+          "tit": "S02E05",
+          "linkFisico": "v/mickey-mouse-s02e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bLICmQ3FT7mdEqZarAWZkEPaM8a.jpg"
+        },
+        {
+          "tit": "S02E06",
+          "linkFisico": "v/mickey-mouse-s02e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bLICmQ3FT7mdEqZarAWZkEPaM8a.jpg"
+        },
+        {
+          "tit": "S02E07",
+          "linkFisico": "v/mickey-mouse-s02e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bLICmQ3FT7mdEqZarAWZkEPaM8a.jpg"
+        },
+        {
+          "tit": "S02E08",
+          "linkFisico": "v/mickey-mouse-s02e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bLICmQ3FT7mdEqZarAWZkEPaM8a.jpg"
+        },
+        {
+          "tit": "S02E09",
+          "linkFisico": "v/mickey-mouse-s02e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bLICmQ3FT7mdEqZarAWZkEPaM8a.jpg"
+        },
+        {
+          "tit": "S02E10",
+          "linkFisico": "v/mickey-mouse-s02e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bLICmQ3FT7mdEqZarAWZkEPaM8a.jpg"
+        },
+        {
+          "tit": "S02E11",
+          "linkFisico": "v/mickey-mouse-s02e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bLICmQ3FT7mdEqZarAWZkEPaM8a.jpg"
+        },
+        {
+          "tit": "S02E12",
+          "linkFisico": "v/mickey-mouse-s02e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bLICmQ3FT7mdEqZarAWZkEPaM8a.jpg"
+        },
+        {
+          "tit": "S02E13",
+          "linkFisico": "v/mickey-mouse-s02e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bLICmQ3FT7mdEqZarAWZkEPaM8a.jpg"
+        },
+        {
+          "tit": "S02E14",
+          "linkFisico": "v/mickey-mouse-s02e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bLICmQ3FT7mdEqZarAWZkEPaM8a.jpg"
+        },
+        {
+          "tit": "S02E15",
+          "linkFisico": "v/mickey-mouse-s02e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bLICmQ3FT7mdEqZarAWZkEPaM8a.jpg"
+        },
+        {
+          "tit": "S02E16",
+          "linkFisico": "v/mickey-mouse-s02e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bLICmQ3FT7mdEqZarAWZkEPaM8a.jpg"
+        },
+        {
+          "tit": "S02E17",
+          "linkFisico": "v/mickey-mouse-s02e17.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bLICmQ3FT7mdEqZarAWZkEPaM8a.jpg"
+        },
+        {
+          "tit": "S02E18",
+          "linkFisico": "v/mickey-mouse-s02e18.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bLICmQ3FT7mdEqZarAWZkEPaM8a.jpg"
+        },
+        {
+          "tit": "S02E19",
+          "linkFisico": "v/mickey-mouse-s02e19.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bLICmQ3FT7mdEqZarAWZkEPaM8a.jpg"
+        }
+      ],
+      "3": [
+        {
+          "tit": "S03E01",
+          "linkFisico": "v/mickey-mouse-s03e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bLICmQ3FT7mdEqZarAWZkEPaM8a.jpg"
+        },
+        {
+          "tit": "S03E02",
+          "linkFisico": "v/mickey-mouse-s03e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bLICmQ3FT7mdEqZarAWZkEPaM8a.jpg"
+        },
+        {
+          "tit": "S03E03",
+          "linkFisico": "v/mickey-mouse-s03e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bLICmQ3FT7mdEqZarAWZkEPaM8a.jpg"
+        },
+        {
+          "tit": "S03E04",
+          "linkFisico": "v/mickey-mouse-s03e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bLICmQ3FT7mdEqZarAWZkEPaM8a.jpg"
+        },
+        {
+          "tit": "S03E05",
+          "linkFisico": "v/mickey-mouse-s03e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bLICmQ3FT7mdEqZarAWZkEPaM8a.jpg"
+        },
+        {
+          "tit": "S03E06",
+          "linkFisico": "v/mickey-mouse-s03e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bLICmQ3FT7mdEqZarAWZkEPaM8a.jpg"
+        },
+        {
+          "tit": "S03E07",
+          "linkFisico": "v/mickey-mouse-s03e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bLICmQ3FT7mdEqZarAWZkEPaM8a.jpg"
+        },
+        {
+          "tit": "S03E08",
+          "linkFisico": "v/mickey-mouse-s03e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bLICmQ3FT7mdEqZarAWZkEPaM8a.jpg"
+        },
+        {
+          "tit": "S03E09",
+          "linkFisico": "v/mickey-mouse-s03e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bLICmQ3FT7mdEqZarAWZkEPaM8a.jpg"
+        },
+        {
+          "tit": "S03E10",
+          "linkFisico": "v/mickey-mouse-s03e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bLICmQ3FT7mdEqZarAWZkEPaM8a.jpg"
+        },
+        {
+          "tit": "S03E11",
+          "linkFisico": "v/mickey-mouse-s03e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bLICmQ3FT7mdEqZarAWZkEPaM8a.jpg"
+        },
+        {
+          "tit": "S03E12",
+          "linkFisico": "v/mickey-mouse-s03e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bLICmQ3FT7mdEqZarAWZkEPaM8a.jpg"
+        },
+        {
+          "tit": "S03E13",
+          "linkFisico": "v/mickey-mouse-s03e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bLICmQ3FT7mdEqZarAWZkEPaM8a.jpg"
+        },
+        {
+          "tit": "S03E14",
+          "linkFisico": "v/mickey-mouse-s03e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bLICmQ3FT7mdEqZarAWZkEPaM8a.jpg"
+        },
+        {
+          "tit": "S03E15",
+          "linkFisico": "v/mickey-mouse-s03e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bLICmQ3FT7mdEqZarAWZkEPaM8a.jpg"
+        },
+        {
+          "tit": "S03E16",
+          "linkFisico": "v/mickey-mouse-s03e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bLICmQ3FT7mdEqZarAWZkEPaM8a.jpg"
+        },
+        {
+          "tit": "S03E17",
+          "linkFisico": "v/mickey-mouse-s03e17.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bLICmQ3FT7mdEqZarAWZkEPaM8a.jpg"
+        },
+        {
+          "tit": "S03E18",
+          "linkFisico": "v/mickey-mouse-s03e18.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bLICmQ3FT7mdEqZarAWZkEPaM8a.jpg"
+        },
+        {
+          "tit": "S03E19",
+          "linkFisico": "v/mickey-mouse-s03e19.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bLICmQ3FT7mdEqZarAWZkEPaM8a.jpg"
+        },
+        {
+          "tit": "S03E20",
+          "linkFisico": "v/mickey-mouse-s03e20.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bLICmQ3FT7mdEqZarAWZkEPaM8a.jpg"
+        }
+      ],
+      "4": [
+        {
+          "tit": "S04E01",
+          "linkFisico": "v/mickey-mouse-s04e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bLICmQ3FT7mdEqZarAWZkEPaM8a.jpg"
+        },
+        {
+          "tit": "S04E02",
+          "linkFisico": "v/mickey-mouse-s04e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bLICmQ3FT7mdEqZarAWZkEPaM8a.jpg"
+        },
+        {
+          "tit": "S04E03",
+          "linkFisico": "v/mickey-mouse-s04e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bLICmQ3FT7mdEqZarAWZkEPaM8a.jpg"
+        },
+        {
+          "tit": "S04E04",
+          "linkFisico": "v/mickey-mouse-s04e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bLICmQ3FT7mdEqZarAWZkEPaM8a.jpg"
+        },
+        {
+          "tit": "S04E05",
+          "linkFisico": "v/mickey-mouse-s04e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bLICmQ3FT7mdEqZarAWZkEPaM8a.jpg"
+        },
+        {
+          "tit": "S04E06",
+          "linkFisico": "v/mickey-mouse-s04e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bLICmQ3FT7mdEqZarAWZkEPaM8a.jpg"
+        },
+        {
+          "tit": "S04E07",
+          "linkFisico": "v/mickey-mouse-s04e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bLICmQ3FT7mdEqZarAWZkEPaM8a.jpg"
+        },
+        {
+          "tit": "S04E08",
+          "linkFisico": "v/mickey-mouse-s04e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bLICmQ3FT7mdEqZarAWZkEPaM8a.jpg"
+        },
+        {
+          "tit": "S04E09",
+          "linkFisico": "v/mickey-mouse-s04e09.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bLICmQ3FT7mdEqZarAWZkEPaM8a.jpg"
+        },
+        {
+          "tit": "S04E10",
+          "linkFisico": "v/mickey-mouse-s04e10.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bLICmQ3FT7mdEqZarAWZkEPaM8a.jpg"
+        },
+        {
+          "tit": "S04E11",
+          "linkFisico": "v/mickey-mouse-s04e11.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bLICmQ3FT7mdEqZarAWZkEPaM8a.jpg"
+        },
+        {
+          "tit": "S04E12",
+          "linkFisico": "v/mickey-mouse-s04e12.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bLICmQ3FT7mdEqZarAWZkEPaM8a.jpg"
+        },
+        {
+          "tit": "S04E13",
+          "linkFisico": "v/mickey-mouse-s04e13.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bLICmQ3FT7mdEqZarAWZkEPaM8a.jpg"
+        },
+        {
+          "tit": "S04E14",
+          "linkFisico": "v/mickey-mouse-s04e14.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bLICmQ3FT7mdEqZarAWZkEPaM8a.jpg"
+        },
+        {
+          "tit": "S04E15",
+          "linkFisico": "v/mickey-mouse-s04e15.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bLICmQ3FT7mdEqZarAWZkEPaM8a.jpg"
+        },
+        {
+          "tit": "S04E16",
+          "linkFisico": "v/mickey-mouse-s04e16.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bLICmQ3FT7mdEqZarAWZkEPaM8a.jpg"
+        },
+        {
+          "tit": "S04E17",
+          "linkFisico": "v/mickey-mouse-s04e17.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bLICmQ3FT7mdEqZarAWZkEPaM8a.jpg"
+        },
+        {
+          "tit": "S04E18",
+          "linkFisico": "v/mickey-mouse-s04e18.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bLICmQ3FT7mdEqZarAWZkEPaM8a.jpg"
+        },
+        {
+          "tit": "S04E19",
+          "linkFisico": "v/mickey-mouse-s04e19.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bLICmQ3FT7mdEqZarAWZkEPaM8a.jpg"
+        }
+      ],
+      "5": [
+        {
+          "tit": "S05E01",
+          "linkFisico": "v/mickey-mouse-s05e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bLICmQ3FT7mdEqZarAWZkEPaM8a.jpg"
+        },
+        {
+          "tit": "S05E02",
+          "linkFisico": "v/mickey-mouse-s05e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bLICmQ3FT7mdEqZarAWZkEPaM8a.jpg"
+        },
+        {
+          "tit": "S05E03",
+          "linkFisico": "v/mickey-mouse-s05e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bLICmQ3FT7mdEqZarAWZkEPaM8a.jpg"
+        },
+        {
+          "tit": "S05E04",
+          "linkFisico": "v/mickey-mouse-s05e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bLICmQ3FT7mdEqZarAWZkEPaM8a.jpg"
+        },
+        {
+          "tit": "S05E05",
+          "linkFisico": "v/mickey-mouse-s05e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bLICmQ3FT7mdEqZarAWZkEPaM8a.jpg"
+        },
+        {
+          "tit": "S05E06",
+          "linkFisico": "v/mickey-mouse-s05e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/bLICmQ3FT7mdEqZarAWZkEPaM8a.jpg"
+        }
+      ]
+    }
   }
 ]
