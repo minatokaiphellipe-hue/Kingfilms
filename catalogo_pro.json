@@ -56733,5 +56733,27 @@
         }
       ]
     }
+  },
+  {
+    "id": "ninja-assassino",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "Ninja Assassino",
+    "logo": "https://image.tmdb.org/t/p/w780/h9brQOUyWROaa10HfG7wG2dDSB7.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/WS6SQQrnHkFmcjvRavpW0apuzb.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/hoKNKa9a0jzfzEHLn5UWZzP2cj4.png",
+    "sinopse": "Raizo é um dos assassinos mais temidos do mundo. Tirado das ruas na infância, foi treinado pelo clã Ozunu – um grupo secreto cuja existência em si já é considerada uma lenda – para ser um assassino exímio. No entanto, a execução sumária de seu amigo faz com que Raizo volte-se contra o grupo, aguardando o momento da vingança.",
+    "nota": "6.7",
+    "avaliacao": "6.7",
+    "classificacao": "18",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/ninja-assassino.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/WS6SQQrnHkFmcjvRavpW0apuzb.jpg"
+        }
+      ]
+    }
   }
 ]
