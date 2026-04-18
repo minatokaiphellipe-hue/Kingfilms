@@ -56887,5 +56887,27 @@
         }
       ]
     }
+  },
+  {
+    "id": "lobisomem",
+    "tipo": "filme",
+    "categoria": "Terror",
+    "titulo": "Lobisomem",
+    "logo": "https://image.tmdb.org/t/p/w780/j4Re9niJ4cojzMXHGZGkcv0FfHx.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w780/j4Re9niJ4cojzMXHGZGkcv0FfHx.jpg",
+    "logo_png": "",
+    "sinopse": "Na noite de Lua cheia, Nicolas se prepara para a experiência que transformará sua vida para sempre.",
+    "nota": "7.0",
+    "avaliacao": "7.0",
+    "classificacao": "12",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/lobisomem.html",
+          "logoEp": "https://image.tmdb.org/t/p/w780/j4Re9niJ4cojzMXHGZGkcv0FfHx.jpg"
+        }
+      ]
+    }
   }
 ]
