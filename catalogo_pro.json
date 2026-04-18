@@ -56755,5 +56755,71 @@
         }
       ]
     }
+  },
+  {
+    "id": "o-fada-do-dente",
+    "tipo": "filme",
+    "categoria": "Comédia",
+    "titulo": "O Fada do Dente",
+    "logo": "https://image.tmdb.org/t/p/w780/hk67XO1Fa1TVU3hmdCMqsnil1Ox.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/qnWGw3n1R0OhPkoB1cYTTax5LMU.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/u1xAHaFZSQ0QUdqRj8uFPMGol91.png",
+    "sinopse": "Derek Thompson é um jogador de hóquei frustrado que só faz sucesso por causa de suas violentas faltas que, invariavelmente, arrancam um dente do adversário. Daí vem o apelido, dado pelo fãs, de Fada dos Dentes. Ele, porém, não acredita em lendas e quase conta para a pequena Tess, filha de sua namorada, que esse negócio de fada trocar dente por moeda é uma grande mentira. Como punição por ser um \"destruidor de sonhos\", Derek é transformado em uma fada do dente.",
+    "nota": "5.5",
+    "avaliacao": "5.5",
+    "classificacao": "10",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/o-fada-do-dente.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/qnWGw3n1R0OhPkoB1cYTTax5LMU.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "megamente",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "Megamente",
+    "logo": "https://image.tmdb.org/t/p/w780/iNGifck9VGGVIlpdK3XsfD6Rptk.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/b0hal9s1uPqdG7Bk2KXpnyJoW5S.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/xb52S0qYdF4KBVnoCTAqHiY9nbF.png",
+    "sinopse": "Tudo o que vilão Megamente mais queria era eliminar seu adversário Metro Man e assim dominar a cidade de Metro City. Só que para isso era necessário um plano ainda mais diabólico do que todos já tentados anteriormente. Um dia, com a ajuda de Criado e após sequestrar a repórter Rosane Rocha, o malvado consegue o inimaginável, para ele e para todos: dar um sumiço no herói. A única coisa que ele não contava era que sua vida se tornaria tão chata a ponto de ele inventar um herói para combater.",
+    "nota": "7.0",
+    "avaliacao": "7.0",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/megamente.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/b0hal9s1uPqdG7Bk2KXpnyJoW5S.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "a-filha-do-pastor",
+    "tipo": "filme",
+    "categoria": "Drama",
+    "titulo": "A Filha do Pastor",
+    "logo": "https://image.tmdb.org/t/p/w780/1TusIQe9pJ0Faid0k2u2ufvkT4y.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/stAXsbtagOETH9Dnl1ahRAcaCFR.jpg",
+    "logo_png": "",
+    "sinopse": "A garota de cidade pequena Angie King deixa a igreja e sua casa para perseguir um sonho de cantar estrelato. Luckett interpreta Angie, a filha de um bispo severo, mas amoroso, cuja atração para a estrela hunky (tanque) de um show de gospel itinerante leva ela na estrada ... e no romance, desgosto e a percepção de que a felicidade pode estar no lar que ela deixou atrás.",
+    "nota": "6.2",
+    "avaliacao": "6.2",
+    "classificacao": "12",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/a-filha-do-pastor.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/stAXsbtagOETH9Dnl1ahRAcaCFR.jpg"
+        }
+      ]
+    }
   }
 ]
