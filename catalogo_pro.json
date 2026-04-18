@@ -60585,5 +60585,971 @@
         }
       ]
     }
+  },
+  {
+    "id": "alex-rider",
+    "tipo": "serie",
+    "categoria": "Explorar",
+    "saga": "",
+    "titulo": "Alex Rider",
+    "logo": "https://image.tmdb.org/t/p/w780/7VkzkvA0XckUClWrlkt4fnmTrkL.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/cvMy8Utqcmosd5hyN3siyoN1YUq.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/8v1EbasiFIMO8UBdtDFirfeFh2r.png",
+    "sinopse": "Quando descobre que seu tio espião morreu em serviço para o governo, a vida de Alex Rider muda completamente. O jovem se infiltra em uma polêmica escola para investigar a ligação de seu misterioso diretor com dois assassinatos e qual é o verdadeiro propósito da instituição.",
+    "nota": "7.8",
+    "avaliacao": "7.8",
+    "classificacao": "14",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "S01E01",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/163232&t=Alex%20Rider%20S1E1&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2FcvMy8Utqcmosd5hyN3siyoN1YUq.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/cvMy8Utqcmosd5hyN3siyoN1YUq.jpg"
+        },
+        {
+          "tit": "S01E02",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/163233&t=Alex%20Rider%20S1E2&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2FcvMy8Utqcmosd5hyN3siyoN1YUq.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/cvMy8Utqcmosd5hyN3siyoN1YUq.jpg"
+        },
+        {
+          "tit": "S01E03",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/163234&t=Alex%20Rider%20S1E3&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2FcvMy8Utqcmosd5hyN3siyoN1YUq.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/cvMy8Utqcmosd5hyN3siyoN1YUq.jpg"
+        },
+        {
+          "tit": "S01E04",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/163235&t=Alex%20Rider%20S1E4&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2FcvMy8Utqcmosd5hyN3siyoN1YUq.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/cvMy8Utqcmosd5hyN3siyoN1YUq.jpg"
+        },
+        {
+          "tit": "S01E05",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/163236&t=Alex%20Rider%20S1E5&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2FcvMy8Utqcmosd5hyN3siyoN1YUq.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/cvMy8Utqcmosd5hyN3siyoN1YUq.jpg"
+        },
+        {
+          "tit": "S01E06",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/163237&t=Alex%20Rider%20S1E6&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2FcvMy8Utqcmosd5hyN3siyoN1YUq.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/cvMy8Utqcmosd5hyN3siyoN1YUq.jpg"
+        },
+        {
+          "tit": "S01E07",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/163238&t=Alex%20Rider%20S1E7&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2FcvMy8Utqcmosd5hyN3siyoN1YUq.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/cvMy8Utqcmosd5hyN3siyoN1YUq.jpg"
+        },
+        {
+          "tit": "S01E08",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/163239&t=Alex%20Rider%20S1E8&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2FcvMy8Utqcmosd5hyN3siyoN1YUq.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/cvMy8Utqcmosd5hyN3siyoN1YUq.jpg"
+        }
+      ],
+      "2": [
+        {
+          "tit": "S02E01",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/163240&t=Alex%20Rider%20S2E1&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2FcvMy8Utqcmosd5hyN3siyoN1YUq.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/cvMy8Utqcmosd5hyN3siyoN1YUq.jpg"
+        },
+        {
+          "tit": "S02E02",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/163241&t=Alex%20Rider%20S2E2&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2FcvMy8Utqcmosd5hyN3siyoN1YUq.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/cvMy8Utqcmosd5hyN3siyoN1YUq.jpg"
+        },
+        {
+          "tit": "S02E03",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/163242&t=Alex%20Rider%20S2E3&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2FcvMy8Utqcmosd5hyN3siyoN1YUq.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/cvMy8Utqcmosd5hyN3siyoN1YUq.jpg"
+        },
+        {
+          "tit": "S02E04",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/163243&t=Alex%20Rider%20S2E4&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2FcvMy8Utqcmosd5hyN3siyoN1YUq.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/cvMy8Utqcmosd5hyN3siyoN1YUq.jpg"
+        },
+        {
+          "tit": "S02E05",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/163244&t=Alex%20Rider%20S2E5&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2FcvMy8Utqcmosd5hyN3siyoN1YUq.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/cvMy8Utqcmosd5hyN3siyoN1YUq.jpg"
+        },
+        {
+          "tit": "S02E06",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/163245&t=Alex%20Rider%20S2E6&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2FcvMy8Utqcmosd5hyN3siyoN1YUq.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/cvMy8Utqcmosd5hyN3siyoN1YUq.jpg"
+        },
+        {
+          "tit": "S02E07",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/163246&t=Alex%20Rider%20S2E7&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2FcvMy8Utqcmosd5hyN3siyoN1YUq.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/cvMy8Utqcmosd5hyN3siyoN1YUq.jpg"
+        },
+        {
+          "tit": "S02E08",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/163247&t=Alex%20Rider%20S2E8&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2FcvMy8Utqcmosd5hyN3siyoN1YUq.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/cvMy8Utqcmosd5hyN3siyoN1YUq.jpg"
+        }
+      ],
+      "3": [
+        {
+          "tit": "S03E01",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/744113&t=Alex%20Rider%20S3E1&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2FcvMy8Utqcmosd5hyN3siyoN1YUq.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/cvMy8Utqcmosd5hyN3siyoN1YUq.jpg"
+        },
+        {
+          "tit": "S03E02",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/744114&t=Alex%20Rider%20S3E2&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2FcvMy8Utqcmosd5hyN3siyoN1YUq.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/cvMy8Utqcmosd5hyN3siyoN1YUq.jpg"
+        },
+        {
+          "tit": "S03E03",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/744115&t=Alex%20Rider%20S3E3&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2FcvMy8Utqcmosd5hyN3siyoN1YUq.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/cvMy8Utqcmosd5hyN3siyoN1YUq.jpg"
+        },
+        {
+          "tit": "S03E04",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/744116&t=Alex%20Rider%20S3E4&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2FcvMy8Utqcmosd5hyN3siyoN1YUq.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/cvMy8Utqcmosd5hyN3siyoN1YUq.jpg"
+        },
+        {
+          "tit": "S03E05",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/744117&t=Alex%20Rider%20S3E5&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2FcvMy8Utqcmosd5hyN3siyoN1YUq.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/cvMy8Utqcmosd5hyN3siyoN1YUq.jpg"
+        },
+        {
+          "tit": "S03E06",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/744118&t=Alex%20Rider%20S3E6&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2FcvMy8Utqcmosd5hyN3siyoN1YUq.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/cvMy8Utqcmosd5hyN3siyoN1YUq.jpg"
+        },
+        {
+          "tit": "S03E07",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/744119&t=Alex%20Rider%20S3E7&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2FcvMy8Utqcmosd5hyN3siyoN1YUq.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/cvMy8Utqcmosd5hyN3siyoN1YUq.jpg"
+        },
+        {
+          "tit": "S03E08",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/744120&t=Alex%20Rider%20S3E8&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2FcvMy8Utqcmosd5hyN3siyoN1YUq.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/cvMy8Utqcmosd5hyN3siyoN1YUq.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "as-five",
+    "tipo": "serie",
+    "categoria": "Explorar",
+    "saga": "",
+    "titulo": "As Five",
+    "logo": "https://image.tmdb.org/t/p/w780/3vWANjNHJvgkwBzE2x6kWOiKSXo.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/jtLZryimkJ238BAQbNn4VWt0NLu.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/fxBrc4dVvTevebSgu3ZG6hcvl4N.png",
+    "sinopse": "Keyla, Ellen, Lica, Tina e Benê se reencontram após seis anos sem se verem. Na fase de transição para a vida adulta, todas estão às voltas com conflitos de naturezas distintas.",
+    "nota": "6.2",
+    "avaliacao": "6.2",
+    "classificacao": "14",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "S01E01",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/163826&t=As%20Five%20S1E1&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2FjtLZryimkJ238BAQbNn4VWt0NLu.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/jtLZryimkJ238BAQbNn4VWt0NLu.jpg"
+        },
+        {
+          "tit": "S01E02",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/163827&t=As%20Five%20S1E2&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2FjtLZryimkJ238BAQbNn4VWt0NLu.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/jtLZryimkJ238BAQbNn4VWt0NLu.jpg"
+        },
+        {
+          "tit": "S01E03",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/163828&t=As%20Five%20S1E3&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2FjtLZryimkJ238BAQbNn4VWt0NLu.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/jtLZryimkJ238BAQbNn4VWt0NLu.jpg"
+        },
+        {
+          "tit": "S01E04",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/163829&t=As%20Five%20S1E4&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2FjtLZryimkJ238BAQbNn4VWt0NLu.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/jtLZryimkJ238BAQbNn4VWt0NLu.jpg"
+        },
+        {
+          "tit": "S01E05",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/163830&t=As%20Five%20S1E5&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2FjtLZryimkJ238BAQbNn4VWt0NLu.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/jtLZryimkJ238BAQbNn4VWt0NLu.jpg"
+        },
+        {
+          "tit": "S01E06",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/163831&t=As%20Five%20S1E6&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2FjtLZryimkJ238BAQbNn4VWt0NLu.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/jtLZryimkJ238BAQbNn4VWt0NLu.jpg"
+        },
+        {
+          "tit": "S01E07",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/163832&t=As%20Five%20S1E7&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2FjtLZryimkJ238BAQbNn4VWt0NLu.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/jtLZryimkJ238BAQbNn4VWt0NLu.jpg"
+        },
+        {
+          "tit": "S01E08",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/163833&t=As%20Five%20S1E8&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2FjtLZryimkJ238BAQbNn4VWt0NLu.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/jtLZryimkJ238BAQbNn4VWt0NLu.jpg"
+        },
+        {
+          "tit": "S01E09",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/163834&t=As%20Five%20S1E9&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2FjtLZryimkJ238BAQbNn4VWt0NLu.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/jtLZryimkJ238BAQbNn4VWt0NLu.jpg"
+        },
+        {
+          "tit": "S01E10",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/163835&t=As%20Five%20S1E10&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2FjtLZryimkJ238BAQbNn4VWt0NLu.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/jtLZryimkJ238BAQbNn4VWt0NLu.jpg"
+        }
+      ],
+      "2": [
+        {
+          "tit": "S02E01",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/163836&t=As%20Five%20S2E1&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2FjtLZryimkJ238BAQbNn4VWt0NLu.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/jtLZryimkJ238BAQbNn4VWt0NLu.jpg"
+        },
+        {
+          "tit": "S02E02",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/163837&t=As%20Five%20S2E2&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2FjtLZryimkJ238BAQbNn4VWt0NLu.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/jtLZryimkJ238BAQbNn4VWt0NLu.jpg"
+        },
+        {
+          "tit": "S02E03",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/163838&t=As%20Five%20S2E3&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2FjtLZryimkJ238BAQbNn4VWt0NLu.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/jtLZryimkJ238BAQbNn4VWt0NLu.jpg"
+        },
+        {
+          "tit": "S02E04",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/163839&t=As%20Five%20S2E4&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2FjtLZryimkJ238BAQbNn4VWt0NLu.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/jtLZryimkJ238BAQbNn4VWt0NLu.jpg"
+        },
+        {
+          "tit": "S02E05",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/163840&t=As%20Five%20S2E5&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2FjtLZryimkJ238BAQbNn4VWt0NLu.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/jtLZryimkJ238BAQbNn4VWt0NLu.jpg"
+        },
+        {
+          "tit": "S02E06",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/163841&t=As%20Five%20S2E6&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2FjtLZryimkJ238BAQbNn4VWt0NLu.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/jtLZryimkJ238BAQbNn4VWt0NLu.jpg"
+        },
+        {
+          "tit": "S02E07",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/163842&t=As%20Five%20S2E7&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2FjtLZryimkJ238BAQbNn4VWt0NLu.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/jtLZryimkJ238BAQbNn4VWt0NLu.jpg"
+        },
+        {
+          "tit": "S02E08",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/163843&t=As%20Five%20S2E8&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2FjtLZryimkJ238BAQbNn4VWt0NLu.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/jtLZryimkJ238BAQbNn4VWt0NLu.jpg"
+        }
+      ],
+      "3": [
+        {
+          "tit": "S03E01",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/371259&t=As%20Five%20S3E1&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2FjtLZryimkJ238BAQbNn4VWt0NLu.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/jtLZryimkJ238BAQbNn4VWt0NLu.jpg"
+        },
+        {
+          "tit": "S03E02",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/371260&t=As%20Five%20S3E2&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2FjtLZryimkJ238BAQbNn4VWt0NLu.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/jtLZryimkJ238BAQbNn4VWt0NLu.jpg"
+        },
+        {
+          "tit": "S03E03",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/371261&t=As%20Five%20S3E3&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2FjtLZryimkJ238BAQbNn4VWt0NLu.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/jtLZryimkJ238BAQbNn4VWt0NLu.jpg"
+        },
+        {
+          "tit": "S03E04",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/371262&t=As%20Five%20S3E4&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2FjtLZryimkJ238BAQbNn4VWt0NLu.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/jtLZryimkJ238BAQbNn4VWt0NLu.jpg"
+        },
+        {
+          "tit": "S03E05",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/371263&t=As%20Five%20S3E5&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2FjtLZryimkJ238BAQbNn4VWt0NLu.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/jtLZryimkJ238BAQbNn4VWt0NLu.jpg"
+        },
+        {
+          "tit": "S03E06",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/371264&t=As%20Five%20S3E6&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2FjtLZryimkJ238BAQbNn4VWt0NLu.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/jtLZryimkJ238BAQbNn4VWt0NLu.jpg"
+        },
+        {
+          "tit": "S03E07",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/371265&t=As%20Five%20S3E7&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2FjtLZryimkJ238BAQbNn4VWt0NLu.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/jtLZryimkJ238BAQbNn4VWt0NLu.jpg"
+        },
+        {
+          "tit": "S03E08",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/371266&t=As%20Five%20S3E8&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2FjtLZryimkJ238BAQbNn4VWt0NLu.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/jtLZryimkJ238BAQbNn4VWt0NLu.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "coronation-street",
+    "tipo": "serie",
+    "categoria": "Explorar",
+    "saga": "",
+    "titulo": "Coronation Street",
+    "logo": "https://image.tmdb.org/t/p/w780/5x1HXqYqPyYw7oc7Isu1lvVmwRP.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/5APjn4LnV5wWk5DXq7ZewT6zzP1.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/7HIzdtmZQtDxdsVoTs79683jbtT.png",
+    "sinopse": "Coronation Street é uma novela de televisão britânica transmitida pela primeira vez na Granada Television em 1960. Ela foi logo distribuída em outras franquias da ITV. O programa diz respeito à vida dos residentes da Coronation Street em Weatherfield, uma área fictícia de Salford, e gira em torno de suas casas geminadas, cafés, lojas de esquina, bancas de jornais, fábricas de tecidos e o pub Rovers Return.\n\nO programa foi criado em 1960 pelo roteirista local Tony Warren na recém-formada Granada Television, em Manchester. A proposta inicial de Warren para a pia da cozinha foi rejeitada pelo fundador da emissora, Sidney Bernstein, mas ele foi persuadido pelo produtor Harry Elton a produzir o programa para treze episódios-piloto. Foi transmitido pela primeira vez em 9 de dezembro de 1960 e, em seis meses, tornou-se o programa mais assistido da televisão britânica. Foi um dos programas financeiramente mais lucrativos da televisão comercial britânica, sustentando o sucesso da franquia Granada Television e da emissora ITV.",
+    "nota": "5.3",
+    "avaliacao": "5.3",
+    "classificacao": "14",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "S01E01",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/168061&t=Coronation%20Street%20S1E1&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2F5APjn4LnV5wWk5DXq7ZewT6zzP1.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/5APjn4LnV5wWk5DXq7ZewT6zzP1.jpg"
+        },
+        {
+          "tit": "S01E02",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/168062&t=Coronation%20Street%20S1E2&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2F5APjn4LnV5wWk5DXq7ZewT6zzP1.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/5APjn4LnV5wWk5DXq7ZewT6zzP1.jpg"
+        },
+        {
+          "tit": "S01E03",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/168063&t=Coronation%20Street%20S1E3&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2F5APjn4LnV5wWk5DXq7ZewT6zzP1.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/5APjn4LnV5wWk5DXq7ZewT6zzP1.jpg"
+        },
+        {
+          "tit": "S01E04",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/168064&t=Coronation%20Street%20S1E4&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2F5APjn4LnV5wWk5DXq7ZewT6zzP1.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/5APjn4LnV5wWk5DXq7ZewT6zzP1.jpg"
+        },
+        {
+          "tit": "S01E05",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/168065&t=Coronation%20Street%20S1E5&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2F5APjn4LnV5wWk5DXq7ZewT6zzP1.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/5APjn4LnV5wWk5DXq7ZewT6zzP1.jpg"
+        },
+        {
+          "tit": "S01E06",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/168066&t=Coronation%20Street%20S1E6&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2F5APjn4LnV5wWk5DXq7ZewT6zzP1.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/5APjn4LnV5wWk5DXq7ZewT6zzP1.jpg"
+        },
+        {
+          "tit": "S01E07",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/168067&t=Coronation%20Street%20S1E7&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2F5APjn4LnV5wWk5DXq7ZewT6zzP1.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/5APjn4LnV5wWk5DXq7ZewT6zzP1.jpg"
+        },
+        {
+          "tit": "S01E08",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/168068&t=Coronation%20Street%20S1E8&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2F5APjn4LnV5wWk5DXq7ZewT6zzP1.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/5APjn4LnV5wWk5DXq7ZewT6zzP1.jpg"
+        },
+        {
+          "tit": "S01E09",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/168069&t=Coronation%20Street%20S1E9&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2F5APjn4LnV5wWk5DXq7ZewT6zzP1.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/5APjn4LnV5wWk5DXq7ZewT6zzP1.jpg"
+        },
+        {
+          "tit": "S01E10",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/168070&t=Coronation%20Street%20S1E10&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2F5APjn4LnV5wWk5DXq7ZewT6zzP1.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/5APjn4LnV5wWk5DXq7ZewT6zzP1.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "lagot-ka-isusumbong-kita",
+    "tipo": "serie",
+    "categoria": "Explorar",
+    "saga": "",
+    "titulo": "Lagot Ka, Isusumbong Kita",
+    "logo": "https://image.tmdb.org/t/p/w780/aSPKbBc2zHIEfiHLxEDAivYllhZ.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w500/95IsiH4p5937YXQHaOS2W2dWYOG.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/b6OotAeC9FdMGSwzIEGa3lWkkcA.png",
+    "sinopse": "Assista no KINGFILMS.",
+    "nota": "0.0",
+    "avaliacao": "0.0",
+    "classificacao": "14",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "S01E01",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/162305&t=Lagot%20Ka%2C%20Isusumbong%20Kita%20S1E1&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw500%2F95IsiH4p5937YXQHaOS2W2dWYOG.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w500/95IsiH4p5937YXQHaOS2W2dWYOG.jpg"
+        },
+        {
+          "tit": "S01E02",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/162306&t=Lagot%20Ka%2C%20Isusumbong%20Kita%20S1E2&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw500%2F95IsiH4p5937YXQHaOS2W2dWYOG.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w500/95IsiH4p5937YXQHaOS2W2dWYOG.jpg"
+        },
+        {
+          "tit": "S01E03",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/162307&t=Lagot%20Ka%2C%20Isusumbong%20Kita%20S1E3&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw500%2F95IsiH4p5937YXQHaOS2W2dWYOG.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w500/95IsiH4p5937YXQHaOS2W2dWYOG.jpg"
+        },
+        {
+          "tit": "S01E04",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/162308&t=Lagot%20Ka%2C%20Isusumbong%20Kita%20S1E4&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw500%2F95IsiH4p5937YXQHaOS2W2dWYOG.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w500/95IsiH4p5937YXQHaOS2W2dWYOG.jpg"
+        },
+        {
+          "tit": "S01E05",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/162309&t=Lagot%20Ka%2C%20Isusumbong%20Kita%20S1E5&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw500%2F95IsiH4p5937YXQHaOS2W2dWYOG.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w500/95IsiH4p5937YXQHaOS2W2dWYOG.jpg"
+        },
+        {
+          "tit": "S01E06",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/162310&t=Lagot%20Ka%2C%20Isusumbong%20Kita%20S1E6&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw500%2F95IsiH4p5937YXQHaOS2W2dWYOG.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w500/95IsiH4p5937YXQHaOS2W2dWYOG.jpg"
+        },
+        {
+          "tit": "S01E07",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/162311&t=Lagot%20Ka%2C%20Isusumbong%20Kita%20S1E7&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw500%2F95IsiH4p5937YXQHaOS2W2dWYOG.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w500/95IsiH4p5937YXQHaOS2W2dWYOG.jpg"
+        },
+        {
+          "tit": "S01E08",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/162312&t=Lagot%20Ka%2C%20Isusumbong%20Kita%20S1E8&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw500%2F95IsiH4p5937YXQHaOS2W2dWYOG.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w500/95IsiH4p5937YXQHaOS2W2dWYOG.jpg"
+        },
+        {
+          "tit": "S01E09",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/162313&t=Lagot%20Ka%2C%20Isusumbong%20Kita%20S1E9&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw500%2F95IsiH4p5937YXQHaOS2W2dWYOG.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w500/95IsiH4p5937YXQHaOS2W2dWYOG.jpg"
+        },
+        {
+          "tit": "S01E10",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/162314&t=Lagot%20Ka%2C%20Isusumbong%20Kita%20S1E10&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw500%2F95IsiH4p5937YXQHaOS2W2dWYOG.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w500/95IsiH4p5937YXQHaOS2W2dWYOG.jpg"
+        }
+      ],
+      "2": [
+        {
+          "tit": "S02E01",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/162315&t=Lagot%20Ka%2C%20Isusumbong%20Kita%20S2E1&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw500%2F95IsiH4p5937YXQHaOS2W2dWYOG.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w500/95IsiH4p5937YXQHaOS2W2dWYOG.jpg"
+        },
+        {
+          "tit": "S02E02",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/162316&t=Lagot%20Ka%2C%20Isusumbong%20Kita%20S2E2&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw500%2F95IsiH4p5937YXQHaOS2W2dWYOG.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w500/95IsiH4p5937YXQHaOS2W2dWYOG.jpg"
+        },
+        {
+          "tit": "S02E03",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/162317&t=Lagot%20Ka%2C%20Isusumbong%20Kita%20S2E3&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw500%2F95IsiH4p5937YXQHaOS2W2dWYOG.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w500/95IsiH4p5937YXQHaOS2W2dWYOG.jpg"
+        },
+        {
+          "tit": "S02E04",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/162318&t=Lagot%20Ka%2C%20Isusumbong%20Kita%20S2E4&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw500%2F95IsiH4p5937YXQHaOS2W2dWYOG.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w500/95IsiH4p5937YXQHaOS2W2dWYOG.jpg"
+        },
+        {
+          "tit": "S02E05",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/162319&t=Lagot%20Ka%2C%20Isusumbong%20Kita%20S2E5&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw500%2F95IsiH4p5937YXQHaOS2W2dWYOG.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w500/95IsiH4p5937YXQHaOS2W2dWYOG.jpg"
+        },
+        {
+          "tit": "S02E06",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/162320&t=Lagot%20Ka%2C%20Isusumbong%20Kita%20S2E6&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw500%2F95IsiH4p5937YXQHaOS2W2dWYOG.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w500/95IsiH4p5937YXQHaOS2W2dWYOG.jpg"
+        },
+        {
+          "tit": "S02E07",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/162321&t=Lagot%20Ka%2C%20Isusumbong%20Kita%20S2E7&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw500%2F95IsiH4p5937YXQHaOS2W2dWYOG.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w500/95IsiH4p5937YXQHaOS2W2dWYOG.jpg"
+        },
+        {
+          "tit": "S02E08",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/162322&t=Lagot%20Ka%2C%20Isusumbong%20Kita%20S2E8&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw500%2F95IsiH4p5937YXQHaOS2W2dWYOG.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w500/95IsiH4p5937YXQHaOS2W2dWYOG.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "sigmund-and-the-sea-monsters",
+    "tipo": "serie",
+    "categoria": "Explorar",
+    "saga": "",
+    "titulo": "Sigmund and the Sea Monsters",
+    "logo": "https://image.tmdb.org/t/p/w780/soIVuFi1AZut7OYNcb2lLStLJ00.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/elRBynx0PN8xUMfwEXuyAKR11Ep.jpg",
+    "logo_png": "",
+    "sinopse": "Assista no KINGFILMS.",
+    "nota": "5.7",
+    "avaliacao": "5.7",
+    "classificacao": "14",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "S01E01",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/160370&t=Sigmund%20and%20the%20Sea%20Monsters%20S1E1&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2FelRBynx0PN8xUMfwEXuyAKR11Ep.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/elRBynx0PN8xUMfwEXuyAKR11Ep.jpg"
+        },
+        {
+          "tit": "S01E02",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/160371&t=Sigmund%20and%20the%20Sea%20Monsters%20S1E2&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2FelRBynx0PN8xUMfwEXuyAKR11Ep.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/elRBynx0PN8xUMfwEXuyAKR11Ep.jpg"
+        },
+        {
+          "tit": "S01E03",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/160372&t=Sigmund%20and%20the%20Sea%20Monsters%20S1E3&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2FelRBynx0PN8xUMfwEXuyAKR11Ep.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/elRBynx0PN8xUMfwEXuyAKR11Ep.jpg"
+        },
+        {
+          "tit": "S01E04",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/160373&t=Sigmund%20and%20the%20Sea%20Monsters%20S1E4&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2FelRBynx0PN8xUMfwEXuyAKR11Ep.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/elRBynx0PN8xUMfwEXuyAKR11Ep.jpg"
+        },
+        {
+          "tit": "S01E05",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/160374&t=Sigmund%20and%20the%20Sea%20Monsters%20S1E5&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2FelRBynx0PN8xUMfwEXuyAKR11Ep.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/elRBynx0PN8xUMfwEXuyAKR11Ep.jpg"
+        },
+        {
+          "tit": "S01E06",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/160375&t=Sigmund%20and%20the%20Sea%20Monsters%20S1E6&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2FelRBynx0PN8xUMfwEXuyAKR11Ep.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/elRBynx0PN8xUMfwEXuyAKR11Ep.jpg"
+        },
+        {
+          "tit": "S01E07",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/160376&t=Sigmund%20and%20the%20Sea%20Monsters%20S1E7&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2FelRBynx0PN8xUMfwEXuyAKR11Ep.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/elRBynx0PN8xUMfwEXuyAKR11Ep.jpg"
+        },
+        {
+          "tit": "S01E08",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/160377&t=Sigmund%20and%20the%20Sea%20Monsters%20S1E8&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2FelRBynx0PN8xUMfwEXuyAKR11Ep.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/elRBynx0PN8xUMfwEXuyAKR11Ep.jpg"
+        }
+      ],
+      "2": [
+        {
+          "tit": "S02E01",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/160378&t=Sigmund%20and%20the%20Sea%20Monsters%20S2E1&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2FelRBynx0PN8xUMfwEXuyAKR11Ep.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/elRBynx0PN8xUMfwEXuyAKR11Ep.jpg"
+        },
+        {
+          "tit": "S02E02",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/160379&t=Sigmund%20and%20the%20Sea%20Monsters%20S2E2&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2FelRBynx0PN8xUMfwEXuyAKR11Ep.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/elRBynx0PN8xUMfwEXuyAKR11Ep.jpg"
+        },
+        {
+          "tit": "S02E03",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/160380&t=Sigmund%20and%20the%20Sea%20Monsters%20S2E3&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2FelRBynx0PN8xUMfwEXuyAKR11Ep.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/elRBynx0PN8xUMfwEXuyAKR11Ep.jpg"
+        },
+        {
+          "tit": "S02E04",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/160381&t=Sigmund%20and%20the%20Sea%20Monsters%20S2E4&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2FelRBynx0PN8xUMfwEXuyAKR11Ep.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/elRBynx0PN8xUMfwEXuyAKR11Ep.jpg"
+        },
+        {
+          "tit": "S02E05",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/160382&t=Sigmund%20and%20the%20Sea%20Monsters%20S2E5&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2FelRBynx0PN8xUMfwEXuyAKR11Ep.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/elRBynx0PN8xUMfwEXuyAKR11Ep.jpg"
+        },
+        {
+          "tit": "S02E06",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/160383&t=Sigmund%20and%20the%20Sea%20Monsters%20S2E6&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2FelRBynx0PN8xUMfwEXuyAKR11Ep.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/elRBynx0PN8xUMfwEXuyAKR11Ep.jpg"
+        },
+        {
+          "tit": "S02E07",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/160384&t=Sigmund%20and%20the%20Sea%20Monsters%20S2E7&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2FelRBynx0PN8xUMfwEXuyAKR11Ep.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/elRBynx0PN8xUMfwEXuyAKR11Ep.jpg"
+        },
+        {
+          "tit": "S02E08",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/160385&t=Sigmund%20and%20the%20Sea%20Monsters%20S2E8&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2FelRBynx0PN8xUMfwEXuyAKR11Ep.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/elRBynx0PN8xUMfwEXuyAKR11Ep.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "meu-amigo-da-escola-e-um-macaco",
+    "tipo": "serie",
+    "categoria": "Explorar",
+    "saga": "",
+    "titulo": "Meu Amigo da Escola é um Macaco",
+    "logo": "https://image.tmdb.org/t/p/w780/8BsJREuQyQ2lJW4ZIcEauFjBrve.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/t5ipmRJSCCxpAYVWqYo6Z1GsWpG.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/AoSWjFFItkBS2H7Q37dje28B4mM.png",
+    "sinopse": "Conta a história de Adam Lyon, um garoto transferido para uma escola de animais antropomórficos, onde se torna amigo de Jake Spidermonkey, um macaco.",
+    "nota": "6.3",
+    "avaliacao": "6.3",
+    "classificacao": "14",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "S01E01",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/166177&t=Meu%20Amigo%20da%20Escola%20%C3%A9%20um%20Macaco%20S1E1&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2Ft5ipmRJSCCxpAYVWqYo6Z1GsWpG.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t5ipmRJSCCxpAYVWqYo6Z1GsWpG.jpg"
+        },
+        {
+          "tit": "S01E02",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/166178&t=Meu%20Amigo%20da%20Escola%20%C3%A9%20um%20Macaco%20S1E2&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2Ft5ipmRJSCCxpAYVWqYo6Z1GsWpG.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t5ipmRJSCCxpAYVWqYo6Z1GsWpG.jpg"
+        },
+        {
+          "tit": "S01E03",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/166179&t=Meu%20Amigo%20da%20Escola%20%C3%A9%20um%20Macaco%20S1E3&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2Ft5ipmRJSCCxpAYVWqYo6Z1GsWpG.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t5ipmRJSCCxpAYVWqYo6Z1GsWpG.jpg"
+        },
+        {
+          "tit": "S01E04",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/166180&t=Meu%20Amigo%20da%20Escola%20%C3%A9%20um%20Macaco%20S1E4&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2Ft5ipmRJSCCxpAYVWqYo6Z1GsWpG.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t5ipmRJSCCxpAYVWqYo6Z1GsWpG.jpg"
+        },
+        {
+          "tit": "S01E05",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/166181&t=Meu%20Amigo%20da%20Escola%20%C3%A9%20um%20Macaco%20S1E5&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2Ft5ipmRJSCCxpAYVWqYo6Z1GsWpG.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t5ipmRJSCCxpAYVWqYo6Z1GsWpG.jpg"
+        },
+        {
+          "tit": "S01E06",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/166182&t=Meu%20Amigo%20da%20Escola%20%C3%A9%20um%20Macaco%20S1E6&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2Ft5ipmRJSCCxpAYVWqYo6Z1GsWpG.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t5ipmRJSCCxpAYVWqYo6Z1GsWpG.jpg"
+        },
+        {
+          "tit": "S01E07",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/166183&t=Meu%20Amigo%20da%20Escola%20%C3%A9%20um%20Macaco%20S1E7&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2Ft5ipmRJSCCxpAYVWqYo6Z1GsWpG.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t5ipmRJSCCxpAYVWqYo6Z1GsWpG.jpg"
+        },
+        {
+          "tit": "S01E08",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/166184&t=Meu%20Amigo%20da%20Escola%20%C3%A9%20um%20Macaco%20S1E8&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2Ft5ipmRJSCCxpAYVWqYo6Z1GsWpG.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t5ipmRJSCCxpAYVWqYo6Z1GsWpG.jpg"
+        },
+        {
+          "tit": "S01E09",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/166185&t=Meu%20Amigo%20da%20Escola%20%C3%A9%20um%20Macaco%20S1E9&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2Ft5ipmRJSCCxpAYVWqYo6Z1GsWpG.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t5ipmRJSCCxpAYVWqYo6Z1GsWpG.jpg"
+        },
+        {
+          "tit": "S01E10",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/166186&t=Meu%20Amigo%20da%20Escola%20%C3%A9%20um%20Macaco%20S1E10&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2Ft5ipmRJSCCxpAYVWqYo6Z1GsWpG.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t5ipmRJSCCxpAYVWqYo6Z1GsWpG.jpg"
+        }
+      ],
+      "2": [
+        {
+          "tit": "S02E01",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/166187&t=Meu%20Amigo%20da%20Escola%20%C3%A9%20um%20Macaco%20S2E1&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2Ft5ipmRJSCCxpAYVWqYo6Z1GsWpG.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t5ipmRJSCCxpAYVWqYo6Z1GsWpG.jpg"
+        },
+        {
+          "tit": "S02E02",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/166188&t=Meu%20Amigo%20da%20Escola%20%C3%A9%20um%20Macaco%20S2E2&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2Ft5ipmRJSCCxpAYVWqYo6Z1GsWpG.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t5ipmRJSCCxpAYVWqYo6Z1GsWpG.jpg"
+        },
+        {
+          "tit": "S02E03",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/166189&t=Meu%20Amigo%20da%20Escola%20%C3%A9%20um%20Macaco%20S2E3&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2Ft5ipmRJSCCxpAYVWqYo6Z1GsWpG.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t5ipmRJSCCxpAYVWqYo6Z1GsWpG.jpg"
+        },
+        {
+          "tit": "S02E04",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/166190&t=Meu%20Amigo%20da%20Escola%20%C3%A9%20um%20Macaco%20S2E4&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2Ft5ipmRJSCCxpAYVWqYo6Z1GsWpG.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t5ipmRJSCCxpAYVWqYo6Z1GsWpG.jpg"
+        },
+        {
+          "tit": "S02E05",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/166191&t=Meu%20Amigo%20da%20Escola%20%C3%A9%20um%20Macaco%20S2E5&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2Ft5ipmRJSCCxpAYVWqYo6Z1GsWpG.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t5ipmRJSCCxpAYVWqYo6Z1GsWpG.jpg"
+        },
+        {
+          "tit": "S02E06",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/166192&t=Meu%20Amigo%20da%20Escola%20%C3%A9%20um%20Macaco%20S2E6&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2Ft5ipmRJSCCxpAYVWqYo6Z1GsWpG.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t5ipmRJSCCxpAYVWqYo6Z1GsWpG.jpg"
+        },
+        {
+          "tit": "S02E07",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/166193&t=Meu%20Amigo%20da%20Escola%20%C3%A9%20um%20Macaco%20S2E7&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2Ft5ipmRJSCCxpAYVWqYo6Z1GsWpG.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t5ipmRJSCCxpAYVWqYo6Z1GsWpG.jpg"
+        },
+        {
+          "tit": "S02E08",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/166194&t=Meu%20Amigo%20da%20Escola%20%C3%A9%20um%20Macaco%20S2E8&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2Ft5ipmRJSCCxpAYVWqYo6Z1GsWpG.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t5ipmRJSCCxpAYVWqYo6Z1GsWpG.jpg"
+        },
+        {
+          "tit": "S02E09",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/166195&t=Meu%20Amigo%20da%20Escola%20%C3%A9%20um%20Macaco%20S2E9&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2Ft5ipmRJSCCxpAYVWqYo6Z1GsWpG.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t5ipmRJSCCxpAYVWqYo6Z1GsWpG.jpg"
+        },
+        {
+          "tit": "S02E10",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/166196&t=Meu%20Amigo%20da%20Escola%20%C3%A9%20um%20Macaco%20S2E10&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2Ft5ipmRJSCCxpAYVWqYo6Z1GsWpG.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t5ipmRJSCCxpAYVWqYo6Z1GsWpG.jpg"
+        },
+        {
+          "tit": "S02E11",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/166197&t=Meu%20Amigo%20da%20Escola%20%C3%A9%20um%20Macaco%20S2E11&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2Ft5ipmRJSCCxpAYVWqYo6Z1GsWpG.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t5ipmRJSCCxpAYVWqYo6Z1GsWpG.jpg"
+        },
+        {
+          "tit": "S02E12",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/166198&t=Meu%20Amigo%20da%20Escola%20%C3%A9%20um%20Macaco%20S2E12&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2Ft5ipmRJSCCxpAYVWqYo6Z1GsWpG.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t5ipmRJSCCxpAYVWqYo6Z1GsWpG.jpg"
+        },
+        {
+          "tit": "S02E13",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/166199&t=Meu%20Amigo%20da%20Escola%20%C3%A9%20um%20Macaco%20S2E13&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2Ft5ipmRJSCCxpAYVWqYo6Z1GsWpG.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t5ipmRJSCCxpAYVWqYo6Z1GsWpG.jpg"
+        },
+        {
+          "tit": "S02E14",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/166200&t=Meu%20Amigo%20da%20Escola%20%C3%A9%20um%20Macaco%20S2E14&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2Ft5ipmRJSCCxpAYVWqYo6Z1GsWpG.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t5ipmRJSCCxpAYVWqYo6Z1GsWpG.jpg"
+        },
+        {
+          "tit": "S02E15",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/166201&t=Meu%20Amigo%20da%20Escola%20%C3%A9%20um%20Macaco%20S2E15&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2Ft5ipmRJSCCxpAYVWqYo6Z1GsWpG.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t5ipmRJSCCxpAYVWqYo6Z1GsWpG.jpg"
+        },
+        {
+          "tit": "S02E16",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/166202&t=Meu%20Amigo%20da%20Escola%20%C3%A9%20um%20Macaco%20S2E16&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2Ft5ipmRJSCCxpAYVWqYo6Z1GsWpG.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/t5ipmRJSCCxpAYVWqYo6Z1GsWpG.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "qtv",
+    "tipo": "serie",
+    "categoria": "Explorar",
+    "saga": "",
+    "titulo": "QTV",
+    "logo": "https://image.tmdb.org/t/p/w500/sZWK6P5sb4KZSSiIT5X4XJHqmHo.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w500/sZWK6P5sb4KZSSiIT5X4XJHqmHo.jpg",
+    "logo_png": "",
+    "sinopse": "Assista no KINGFILMS.",
+    "nota": "0.0",
+    "avaliacao": "0.0",
+    "classificacao": "14",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "S01E01",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/167345&t=QTV%20S1E1&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw500%2FsZWK6P5sb4KZSSiIT5X4XJHqmHo.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w500/sZWK6P5sb4KZSSiIT5X4XJHqmHo.jpg"
+        },
+        {
+          "tit": "S01E02",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/167346&t=QTV%20S1E2&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw500%2FsZWK6P5sb4KZSSiIT5X4XJHqmHo.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w500/sZWK6P5sb4KZSSiIT5X4XJHqmHo.jpg"
+        },
+        {
+          "tit": "S01E03",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/167347&t=QTV%20S1E3&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw500%2FsZWK6P5sb4KZSSiIT5X4XJHqmHo.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w500/sZWK6P5sb4KZSSiIT5X4XJHqmHo.jpg"
+        },
+        {
+          "tit": "S01E04",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/167348&t=QTV%20S1E4&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw500%2FsZWK6P5sb4KZSSiIT5X4XJHqmHo.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w500/sZWK6P5sb4KZSSiIT5X4XJHqmHo.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "duck-dodgers",
+    "tipo": "serie",
+    "categoria": "Explorar",
+    "saga": "",
+    "titulo": "Duck Dodgers",
+    "logo": "https://image.tmdb.org/t/p/w780/d2PpdUKSTHSLsnlkScMyHkAxC2i.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/ptZh7AU2KFjqPR40jbDGoIrbQXb.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/j91wwYjp6nJ2EjuIZZeatYmjJpU.png",
+    "sinopse": "Depois de ficar congelado por 351 anos e acordar no século 24 ½, Duck Dodgers torna-se o maior herói da Terra, sem fazer absolutamente nada para merecer isso. Duck Dodgers, sempre com seu fiel cadete espacial, é a última linha de defesa do planeta contra a invasão alienígena promovida pelo Comandante Marciano",
+    "nota": "7.4",
+    "avaliacao": "7.4",
+    "classificacao": "14",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "S01E01",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/165407&t=Duck%20Dodgers%20S1E1&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2FptZh7AU2KFjqPR40jbDGoIrbQXb.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/ptZh7AU2KFjqPR40jbDGoIrbQXb.jpg"
+        },
+        {
+          "tit": "S01E02",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/165408&t=Duck%20Dodgers%20S1E2&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2FptZh7AU2KFjqPR40jbDGoIrbQXb.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/ptZh7AU2KFjqPR40jbDGoIrbQXb.jpg"
+        },
+        {
+          "tit": "S01E03",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/165409&t=Duck%20Dodgers%20S1E3&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2FptZh7AU2KFjqPR40jbDGoIrbQXb.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/ptZh7AU2KFjqPR40jbDGoIrbQXb.jpg"
+        },
+        {
+          "tit": "S01E04",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/165410&t=Duck%20Dodgers%20S1E4&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2FptZh7AU2KFjqPR40jbDGoIrbQXb.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/ptZh7AU2KFjqPR40jbDGoIrbQXb.jpg"
+        },
+        {
+          "tit": "S01E05",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/165411&t=Duck%20Dodgers%20S1E5&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2FptZh7AU2KFjqPR40jbDGoIrbQXb.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/ptZh7AU2KFjqPR40jbDGoIrbQXb.jpg"
+        },
+        {
+          "tit": "S01E06",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/165412&t=Duck%20Dodgers%20S1E6&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2FptZh7AU2KFjqPR40jbDGoIrbQXb.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/ptZh7AU2KFjqPR40jbDGoIrbQXb.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "the-national",
+    "tipo": "serie",
+    "categoria": "Explorar",
+    "saga": "",
+    "titulo": "The National",
+    "logo": "https://image.tmdb.org/t/p/w780/oULoaPA425MRPXClfUyDe2PQHEu.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/ctyedjaJJ6qBuynKYHU4QMi5ga6.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/3tarBTLMndHmW8xQmZC7cyNvzZn.png",
+    "sinopse": "Assista no KINGFILMS.",
+    "nota": "8.0",
+    "avaliacao": "8.0",
+    "classificacao": "14",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "S01E01",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/48811&t=The%20National%20S1E1&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2FctyedjaJJ6qBuynKYHU4QMi5ga6.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/ctyedjaJJ6qBuynKYHU4QMi5ga6.jpg"
+        },
+        {
+          "tit": "S01E02",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/48812&t=The%20National%20S1E2&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2FctyedjaJJ6qBuynKYHU4QMi5ga6.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/ctyedjaJJ6qBuynKYHU4QMi5ga6.jpg"
+        },
+        {
+          "tit": "S01E03",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/48813&t=The%20National%20S1E3&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2FctyedjaJJ6qBuynKYHU4QMi5ga6.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/ctyedjaJJ6qBuynKYHU4QMi5ga6.jpg"
+        },
+        {
+          "tit": "S01E04",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/48814&t=The%20National%20S1E4&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2FctyedjaJJ6qBuynKYHU4QMi5ga6.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/ctyedjaJJ6qBuynKYHU4QMi5ga6.jpg"
+        },
+        {
+          "tit": "S01E05",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/48815&t=The%20National%20S1E5&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2FctyedjaJJ6qBuynKYHU4QMi5ga6.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/ctyedjaJJ6qBuynKYHU4QMi5ga6.jpg"
+        },
+        {
+          "tit": "S01E06",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/48816&t=The%20National%20S1E6&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2FctyedjaJJ6qBuynKYHU4QMi5ga6.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/ctyedjaJJ6qBuynKYHU4QMi5ga6.jpg"
+        },
+        {
+          "tit": "S01E07",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/48817&t=The%20National%20S1E7&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2FctyedjaJJ6qBuynKYHU4QMi5ga6.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/ctyedjaJJ6qBuynKYHU4QMi5ga6.jpg"
+        },
+        {
+          "tit": "S01E08",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/48818&t=The%20National%20S1E8&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2FctyedjaJJ6qBuynKYHU4QMi5ga6.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/ctyedjaJJ6qBuynKYHU4QMi5ga6.jpg"
+        }
+      ],
+      "2": [
+        {
+          "tit": "S02E01",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/49742&t=The%20National%20S2E1&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2FctyedjaJJ6qBuynKYHU4QMi5ga6.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/ctyedjaJJ6qBuynKYHU4QMi5ga6.jpg"
+        },
+        {
+          "tit": "S02E02",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/49743&t=The%20National%20S2E2&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2FctyedjaJJ6qBuynKYHU4QMi5ga6.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/ctyedjaJJ6qBuynKYHU4QMi5ga6.jpg"
+        },
+        {
+          "tit": "S02E03",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/420306&t=The%20National%20S2E3&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2FctyedjaJJ6qBuynKYHU4QMi5ga6.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/ctyedjaJJ6qBuynKYHU4QMi5ga6.jpg"
+        },
+        {
+          "tit": "S02E04",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/420307&t=The%20National%20S2E4&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2FctyedjaJJ6qBuynKYHU4QMi5ga6.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/ctyedjaJJ6qBuynKYHU4QMi5ga6.jpg"
+        },
+        {
+          "tit": "S02E05",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/420308&t=The%20National%20S2E5&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2FctyedjaJJ6qBuynKYHU4QMi5ga6.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/ctyedjaJJ6qBuynKYHU4QMi5ga6.jpg"
+        },
+        {
+          "tit": "S02E06",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/420309&t=The%20National%20S2E6&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2FctyedjaJJ6qBuynKYHU4QMi5ga6.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/ctyedjaJJ6qBuynKYHU4QMi5ga6.jpg"
+        },
+        {
+          "tit": "S02E07",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/420310&t=The%20National%20S2E7&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2FctyedjaJJ6qBuynKYHU4QMi5ga6.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/ctyedjaJJ6qBuynKYHU4QMi5ga6.jpg"
+        },
+        {
+          "tit": "S02E08",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/420311&t=The%20National%20S2E8&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2FctyedjaJJ6qBuynKYHU4QMi5ga6.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/ctyedjaJJ6qBuynKYHU4QMi5ga6.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "under-one-roof",
+    "tipo": "serie",
+    "categoria": "Explorar",
+    "saga": "",
+    "titulo": "Under One Roof",
+    "logo": "https://image.tmdb.org/t/p/w500/qBkpU4dhfE36BgwQ0hT2xQ8tAZ0.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w500/qBkpU4dhfE36BgwQ0hT2xQ8tAZ0.jpg",
+    "logo_png": "",
+    "sinopse": "Assista no KINGFILMS.",
+    "nota": "0.0",
+    "avaliacao": "0.0",
+    "classificacao": "14",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "S01E01",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/164454&t=Under%20One%20Roof%20S1E1&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw500%2FqBkpU4dhfE36BgwQ0hT2xQ8tAZ0.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w500/qBkpU4dhfE36BgwQ0hT2xQ8tAZ0.jpg"
+        },
+        {
+          "tit": "S01E02",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/164455&t=Under%20One%20Roof%20S1E2&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw500%2FqBkpU4dhfE36BgwQ0hT2xQ8tAZ0.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w500/qBkpU4dhfE36BgwQ0hT2xQ8tAZ0.jpg"
+        },
+        {
+          "tit": "S01E03",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/164456&t=Under%20One%20Roof%20S1E3&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw500%2FqBkpU4dhfE36BgwQ0hT2xQ8tAZ0.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w500/qBkpU4dhfE36BgwQ0hT2xQ8tAZ0.jpg"
+        },
+        {
+          "tit": "S01E04",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/164457&t=Under%20One%20Roof%20S1E4&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw500%2FqBkpU4dhfE36BgwQ0hT2xQ8tAZ0.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w500/qBkpU4dhfE36BgwQ0hT2xQ8tAZ0.jpg"
+        },
+        {
+          "tit": "S01E05",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/164458&t=Under%20One%20Roof%20S1E5&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw500%2FqBkpU4dhfE36BgwQ0hT2xQ8tAZ0.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w500/qBkpU4dhfE36BgwQ0hT2xQ8tAZ0.jpg"
+        },
+        {
+          "tit": "S01E06",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/164459&t=Under%20One%20Roof%20S1E6&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw500%2FqBkpU4dhfE36BgwQ0hT2xQ8tAZ0.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w500/qBkpU4dhfE36BgwQ0hT2xQ8tAZ0.jpg"
+        },
+        {
+          "tit": "S01E07",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/164460&t=Under%20One%20Roof%20S1E7&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw500%2FqBkpU4dhfE36BgwQ0hT2xQ8tAZ0.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w500/qBkpU4dhfE36BgwQ0hT2xQ8tAZ0.jpg"
+        },
+        {
+          "tit": "S01E08",
+          "linkFisico": "player.html?v=https://kingfilms-api.onrender.com/kf/rave_serie/164461&t=Under%20One%20Roof%20S1E8&c=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw500%2FqBkpU4dhfE36BgwQ0hT2xQ8tAZ0.jpg&d=PT00H45M00S",
+          "logoEp": "https://image.tmdb.org/t/p/w500/qBkpU4dhfE36BgwQ0hT2xQ8tAZ0.jpg"
+        }
+      ]
+    }
   }
 ]
