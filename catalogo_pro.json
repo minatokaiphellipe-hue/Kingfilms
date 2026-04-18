@@ -56766,28 +56766,6 @@
     }
   },
   {
-    "id": "o-lobisomem",
-    "tipo": "filme",
-    "categoria": "Terror",
-    "titulo": "O Lobisomem",
-    "logo": "https://image.tmdb.org/t/p/w780/mvdZ2oPUDu1Vk5VQ0COjpsWGATM.jpg",
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/pe5uilGOZjZ3F62LF6TJhAuMtYa.jpg",
-    "logo_png": "https://image.tmdb.org/t/p/w500/vyPE2YHCMgA7eWa4MxE0Vy7kvrl.png",
-    "sinopse": "Depois de mais de 20 anos, ator retorna à casa de seu pai para ajudar a encontrar seu irmão. Se envolve, então, em uma investigação sobre mortes violentas que acontecem nas noites de lua cheia, entrando em contato com seu passado e descobrindo um segredo que mudará para sempre sua vida.",
-    "nota": "5.9",
-    "avaliacao": "5.9",
-    "classificacao": "16",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "Assistir",
-          "linkFisico": "v/o-lobisomem.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/pe5uilGOZjZ3F62LF6TJhAuMtYa.jpg"
-        }
-      ]
-    }
-  },
-  {
     "id": "ze-colmeia-o-filme",
     "tipo": "filme",
     "categoria": "Comédia",
@@ -56884,6 +56862,28 @@
           "tit": "Assistir",
           "linkFisico": "v/no-coracao-do-mar.html",
           "logoEp": "https://image.tmdb.org/t/p/w1280/phsx8hwCfvtIKsopiaw63XvkRRN.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "o-lobisomem",
+    "tipo": "filme",
+    "categoria": "Terror",
+    "titulo": "O Lobisomem",
+    "logo": "https://image.tmdb.org/t/p/w780/mvdZ2oPUDu1Vk5VQ0COjpsWGATM.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/pe5uilGOZjZ3F62LF6TJhAuMtYa.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/vyPE2YHCMgA7eWa4MxE0Vy7kvrl.png",
+    "sinopse": "Depois de mais de 20 anos, ator retorna à casa de seu pai para ajudar a encontrar seu irmão. Se envolve, então, em uma investigação sobre mortes violentas que acontecem nas noites de lua cheia, entrando em contato com seu passado e descobrindo um segredo que mudará para sempre sua vida.",
+    "nota": "5.9",
+    "avaliacao": "5.9",
+    "classificacao": "16",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/o-lobisomem.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/pe5uilGOZjZ3F62LF6TJhAuMtYa.jpg"
         }
       ]
     }
