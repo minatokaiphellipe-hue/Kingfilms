@@ -56821,5 +56821,49 @@
         }
       ]
     }
+  },
+  {
+    "id": "o-lobisomem",
+    "tipo": "filme",
+    "categoria": "Terror",
+    "titulo": "O Lobisomem",
+    "logo": "https://image.tmdb.org/t/p/w780/mvdZ2oPUDu1Vk5VQ0COjpsWGATM.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/pe5uilGOZjZ3F62LF6TJhAuMtYa.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/vyPE2YHCMgA7eWa4MxE0Vy7kvrl.png",
+    "sinopse": "Depois de mais de 20 anos, ator retorna à casa de seu pai para ajudar a encontrar seu irmão. Se envolve, então, em uma investigação sobre mortes violentas que acontecem nas noites de lua cheia, entrando em contato com seu passado e descobrindo um segredo que mudará para sempre sua vida.",
+    "nota": "5.9",
+    "avaliacao": "5.9",
+    "classificacao": "16",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/o-lobisomem.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/pe5uilGOZjZ3F62LF6TJhAuMtYa.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ze-colmeia-o-filme",
+    "tipo": "filme",
+    "categoria": "Comédia",
+    "titulo": "Zé Colmeia: O Filme",
+    "logo": "https://image.tmdb.org/t/p/w780/fJznQfkWmN8MDnOvwxrt1UOnEAG.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/uS7d5RAxB9VGT2N3I7qgpXcjtMz.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/cjYDdb5LjUKYWCpHUHqJsEkE6Z2.png",
+    "sinopse": "Jellystone, está perdendo visitantes e, por isso, o prefeito Brown decide fechá-lo e vender suas terras. Inconformados com a perda da única casa que eles conhecem, Zé Colmeia terá que provar que ele realmente é \"o mais esperto de todos os ursos\" e com seu inseparável amigo Catatau, irá unir forças ao Guarda Smith para encontrar uma saída e salvar o parque de ser fechado para sempre.",
+    "nota": "5.6",
+    "avaliacao": "5.6",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/ze-colmeia-o-filme.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/uS7d5RAxB9VGT2N3I7qgpXcjtMz.jpg"
+        }
+      ]
+    }
   }
 ]
