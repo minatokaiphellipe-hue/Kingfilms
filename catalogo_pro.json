@@ -57032,5 +57032,27 @@
         }
       ]
     }
+  },
+  {
+    "id": "as-aventuras-de-peabody-e-sherman",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "titulo": "As Aventuras de Peabody e Sherman",
+    "logo": "https://image.tmdb.org/t/p/w780/ndGl3yPRbHlem0PuDJuUvUuY9dQ.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/p6CitwNOMIZkMVGxeiKC3S3VDjU.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/5jPPRhydYbsgoNKw348f4JaYmOn.png",
+    "sinopse": "Sr. Peabody é um magnata de negócios, inventor, cientista, ganhador do prêmio Nobel, chef, duas vezes medalhista olímpico e gênio... Que também é um cachorro. Usando a sua engenhosa invenção, a máquina WABAC, o Sr. Peabody e seu filho adotivo, Sherman, viajam no tempo para vivenciar eventos que mudaram o mundo em primeira mão e interagir com as maiores personalidades da história. Mas quando Sherman quebra as regras da viagem no tempo, nossos dois heróis entrarão em uma corrida para reparar a história e salvar o futuro, enquanto Sr. Peabody enfrenta o maior desafio de sua vida - ser pai.",
+    "nota": "6.7",
+    "avaliacao": "6.7",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/as-aventuras-de-peabody-e-sherman.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/p6CitwNOMIZkMVGxeiKC3S3VDjU.jpg"
+        }
+      ]
+    }
   }
 ]
