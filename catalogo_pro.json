@@ -57054,5 +57054,27 @@
         }
       ]
     }
+  },
+  {
+    "id": "no-limite-do-amanha",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "No Limite do Amanhã",
+    "logo": "https://image.tmdb.org/t/p/w780/ibubeKZuo4ZI2Zu2Dm2s0gmMvuk.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/6XPR04CtE0XlAdzDbfevsEb5zUg.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/l4aZuCYJ5llOz1WtspKruUH9sm4.png",
+    "sinopse": "A Terra está dominada por alienígenas e o major Bill Cage, um relações públicas das Forças Armadas dos Estados Unidos, é obrigado a ir para a linha de frente. Inexplicavelmente, ele acaba preso em um ciclo do tempo, revivendo repetidamente sua última batalha. No entanto, quanto mais vezes ele luta, suas habilidades de guerreiro melhoram e ele fica mais perto de descobrir como derrotar o inimigo.",
+    "nota": "7.6",
+    "avaliacao": "7.6",
+    "classificacao": "14",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/no-limite-do-amanha.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/6XPR04CtE0XlAdzDbfevsEb5zUg.jpg"
+        }
+      ]
+    }
   }
 ]
