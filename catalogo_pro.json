@@ -57076,5 +57076,49 @@
         }
       ]
     }
+  },
+  {
+    "id": "doce-vinganca",
+    "tipo": "filme",
+    "categoria": "Terror",
+    "titulo": "Doce Vingança",
+    "logo": "https://image.tmdb.org/t/p/w780/3Awd26Ktx3E9VuIcHkRcIIIp9G0.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/xqCrIE4s72epvwyOFNVJ2SGWwWe.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/vjQGuyPC6EDBXj1ncZ0Ysw2foFi.png",
+    "sinopse": "A escritora Jennifer aluga uma cabana isolada para escrever sua mais recente novela. A paz e o silêncio do local são quebrados por uma gangue local que a estupra e tortura, deixando-a como morta. Mas Jennifer retorna para se vingar, capturando os homens um a um e lhes causando muito mais dor do que ela sofreu.",
+    "nota": "6.5",
+    "avaliacao": "6.5",
+    "classificacao": "18",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/doce-vinganca.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/xqCrIE4s72epvwyOFNVJ2SGWwWe.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "doce-vinganca-2",
+    "tipo": "filme",
+    "categoria": "Terror",
+    "titulo": "Doce Vingança 2",
+    "logo": "https://image.tmdb.org/t/p/w780/qnU2jXAL4YWP0d7hnrp8xTyz1P4.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/LpSVbEpgTX0tus8k2svCGtF107.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/fgngRfrzHLdAxLI1mtv1XYPkT90.png",
+    "sinopse": "A jovem e bela Katie (Jemma Dallender) sonha em conseguir seguir a carreira de modelo em Nova York. Sem dinheiro para pagar uma sessão com um fotográfo profissional, ela vê um anúncio de um homem que tira fotos de graça. Mas a inocente sessão acaba culminando na jovem sendo estuprada, humilhada, drogada e sequestrada. Ela acorda em outro país, mas, ao tentar escapar, é enterrada viva. Apesar de todas as propabilidades contra ela, a jovem sobrevive. E agora, Katie vai buscar uma brutal vingança contra aqueles que tanto a machucaram.",
+    "nota": "6.3",
+    "avaliacao": "6.3",
+    "classificacao": "18",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/doce-vinganca-2.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/LpSVbEpgTX0tus8k2svCGtF107.jpg"
+        }
+      ]
+    }
   }
 ]
