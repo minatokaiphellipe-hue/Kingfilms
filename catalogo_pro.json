@@ -56944,5 +56944,49 @@
         }
       ]
     }
+  },
+  {
+    "id": "a-mulher-de-preto",
+    "tipo": "filme",
+    "categoria": "Terror",
+    "titulo": "A Mulher de Preto",
+    "logo": "https://image.tmdb.org/t/p/w780/g167H1JgOLAVx7YgHctBIq5kHeI.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/66BUBFKEHAMAmrmOMyFuGyb4yzX.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/vJiZwYRiZqq7k0ss1vmHWQPBylp.png",
+    "sinopse": "O jovem advogado Arthur Kipps viaja para um remoto vilarejo para tratar dos papéis de um cliente recém-falecido. Na cidade pequena e mal-assombrada, ele vê uma mulher misteriosa vestida apenas de preto, uma aparição que o leva a descobrir um terrível segredo.",
+    "nota": "6.1",
+    "avaliacao": "6.1",
+    "classificacao": "14",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/a-mulher-de-preto.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/66BUBFKEHAMAmrmOMyFuGyb4yzX.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "a-mulher-de-preto-2-anjo-da-morte",
+    "tipo": "filme",
+    "categoria": "Terror",
+    "titulo": "A Mulher de Preto 2 - Anjo da Morte",
+    "logo": "https://image.tmdb.org/t/p/w780/kGIZGAwgpMcYXrAZfX8QCfcFMiv.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/9VOmHfWzr8K2rvkTvyyeQghvQPp.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/ozFH5WYZ4rthRZddSemuCgbcTkI.png",
+    "sinopse": "Durante a Segunda Guerra Mundial, um bombardeio destrói a cidade de Londres, forçando diversas crianças a buscarem abrigo em cidades menores da Inglaterra. Edward é uma destas crianças traumatizadas, que acaba de perder os pais e não pronuncia uma palavra sequer. Ele é acolhido pela governanta Jean e pela professora Eve na Mansão do Pântano. O abrigo está caindo aos pedaços, mas serve como refúgio ao pequeno grupo. Aos poucos, no entanto, uma série de acontecimentos assustadores passam a afetar os novos hóspedes.",
+    "nota": "5.2",
+    "avaliacao": "5.2",
+    "classificacao": "12",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/a-mulher-de-preto-2-anjo-da-morte.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/9VOmHfWzr8K2rvkTvyyeQghvQPp.jpg"
+        }
+      ]
+    }
   }
 ]
