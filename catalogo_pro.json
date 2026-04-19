@@ -56887,5 +56887,62 @@
         }
       ]
     }
+  },
+  {
+    "id": "the-midnight-gospel",
+    "tipo": "serie",
+    "categoria": "Séries",
+    "titulo": "The Midnight Gospel",
+    "logo": "https://image.tmdb.org/t/p/w780/me3kxfiFRkdto6SmDQv0nczjfmP.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/4Bor8CwMWt7mk5nmmFNyDoD7PN.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/adMeFBrfPX1yIClFspIiYm4FDxa.png",
+    "sinopse": "Um apresentador de transmissão-espacial visita mundos malucos em seu simulador de universo e explora questões existenciais sobre a vida, a morte e muito mais.",
+    "nota": "8.3",
+    "avaliacao": "8.3",
+    "classificacao": "18",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "S01E01",
+          "linkFisico": "v/the-midnight-gospel-s01e01.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/4Bor8CwMWt7mk5nmmFNyDoD7PN.jpg"
+        },
+        {
+          "tit": "S01E02",
+          "linkFisico": "v/the-midnight-gospel-s01e02.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/4Bor8CwMWt7mk5nmmFNyDoD7PN.jpg"
+        },
+        {
+          "tit": "S01E03",
+          "linkFisico": "v/the-midnight-gospel-s01e03.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/4Bor8CwMWt7mk5nmmFNyDoD7PN.jpg"
+        },
+        {
+          "tit": "S01E04",
+          "linkFisico": "v/the-midnight-gospel-s01e04.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/4Bor8CwMWt7mk5nmmFNyDoD7PN.jpg"
+        },
+        {
+          "tit": "S01E05",
+          "linkFisico": "v/the-midnight-gospel-s01e05.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/4Bor8CwMWt7mk5nmmFNyDoD7PN.jpg"
+        },
+        {
+          "tit": "S01E06",
+          "linkFisico": "v/the-midnight-gospel-s01e06.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/4Bor8CwMWt7mk5nmmFNyDoD7PN.jpg"
+        },
+        {
+          "tit": "S01E07",
+          "linkFisico": "v/the-midnight-gospel-s01e07.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/4Bor8CwMWt7mk5nmmFNyDoD7PN.jpg"
+        },
+        {
+          "tit": "S01E08",
+          "linkFisico": "v/the-midnight-gospel-s01e08.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/4Bor8CwMWt7mk5nmmFNyDoD7PN.jpg"
+        }
+      ]
+    }
   }
 ]
