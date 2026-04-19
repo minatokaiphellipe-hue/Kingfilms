@@ -57120,5 +57120,49 @@
         }
       ]
     }
+  },
+  {
+    "id": "doce-vinganca-3-a-vinganca-e-minha",
+    "tipo": "filme",
+    "categoria": "Terror",
+    "titulo": "Doce Vingança 3 - A Vingança É Minha",
+    "logo": "https://image.tmdb.org/t/p/w780/2cqLnsT4yDWBSGte02iYkFNB009.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/tXJAh2H88cQL52eSigQ2fjjwSSm.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/gZRpa0sx5B4HZr9mlSjvnNbZ5bO.png",
+    "sinopse": "Jennifer Hills ainda é atormentada pelo estupro brutal que sofrera há vários anos. Ela muda de identidade e de cidade, juntando-se a um grupo de apoio, a fim de juntar as peças de uma vida nova. Porém, quando os assassinos de sua amiga são libertados, e as histórias de estupradores em série começam a assombrá-la, Jennifer vai caçá-los e fazer justiça com as próprias mãos - e fazê-los pagar por seus crimes das piores maneiras imaginadas.",
+    "nota": "5.8",
+    "avaliacao": "5.8",
+    "classificacao": "18",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/doce-vinganca-3-a-vinganca-e-minha.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/tXJAh2H88cQL52eSigQ2fjjwSSm.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "a-vinganca-de-jennifer-deja-vu",
+    "tipo": "filme",
+    "categoria": "Terror",
+    "titulo": "A Vingança de Jennifer: Deja Vu",
+    "logo": "https://image.tmdb.org/t/p/w780/hrD8fU6tA1Pzh4ybxG4iN5TbVdU.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/edFUjsWJSr0tbG3Rtwk7W8AsHWu.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/gdtACKDUkY8ztV3pJYj5LvoilU5.png",
+    "sinopse": "Após o estupro, Jennifer Hills (Camille Keaton) escreveu um best-seller de sua provação e do julgamento polêmico no qual ela foi acusada por fazer justiça com suas próprias mãos e assassinar brutalmente os seus agressores. Na pequena cidade, onde o estupro e vingança aconteceu, os familiares dos quatro estupradores que ela matou ficam furiosos quando o tribunal a declara inocente e resolvem se vingar de Jennifer e de sua filha, Christy (Jamie Bernadette).",
+    "nota": "3.0",
+    "avaliacao": "3.0",
+    "classificacao": "16",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/a-vinganca-de-jennifer-deja-vu.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/edFUjsWJSr0tbG3Rtwk7W8AsHWu.jpg"
+        }
+      ]
+    }
   }
 ]
