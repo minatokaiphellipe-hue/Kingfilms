@@ -56988,5 +56988,49 @@
         }
       ]
     }
+  },
+  {
+    "id": "sniper-americano",
+    "tipo": "filme",
+    "categoria": "Drama",
+    "titulo": "Sniper Americano",
+    "logo": "https://image.tmdb.org/t/p/w780/mAXzc2oDTTYcnn6IGHlSXvmXloG.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/kX8MhxjD83ikllgEyMVN0agUHsJ.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/5T2IffGB2Ae0joZIManpl9W5tGm.png",
+    "sinopse": "Chris Kyle é um atirador de elite das forças especiais da marinha dos Estados Unidos. Durante a Guerra do Iraque, sua missão é proteger seus companheiros e seu dever faz dele um dos maiores atiradores da história norte-americana. Sua precisão salva inúmeras vidas, mas também o torna um alvo preferencial. Quando Kyle finalmente volta para casa, ele descobre que não tem como deixar a guerra para trás.",
+    "nota": "7.4",
+    "avaliacao": "7.4",
+    "classificacao": "16",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/sniper-americano.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/kX8MhxjD83ikllgEyMVN0agUHsJ.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "hercules",
+    "tipo": "filme",
+    "categoria": "Ação",
+    "titulo": "Hércules",
+    "logo": "https://image.tmdb.org/t/p/w780/op64HvQ8XyB4l2afElLqxuYEuPT.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/u9LQZ0f0888V5icELprXCb8wu0Z.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/5weXahrEW9Ht527nXDeiTPN0wYA.png",
+    "sinopse": "Meio homem, meio deus, o semideus Hércules anda atormentado pela terra. Depois de doze árduos trabalhos realizados e a perda de sua família, ele conhece seis assassinos impiedosos e une-se ao grupo em busca de trabalho, até que o rei da Trácia convida-o para treinar o seu exército.",
+    "nota": "5.8",
+    "avaliacao": "5.8",
+    "classificacao": "14",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/hercules.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/u9LQZ0f0888V5icELprXCb8wu0Z.jpg"
+        }
+      ]
+    }
   }
 ]
