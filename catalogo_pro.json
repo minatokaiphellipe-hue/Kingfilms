@@ -57231,5 +57231,28 @@
         }
       ]
     }
+  },
+  {
+    "id": "backrooms-um-nao-lugar",
+    "tipo": "filme",
+    "categoria": "Terror",
+    "saga": "",
+    "titulo": "Backrooms: Um Não-Lugar",
+    "logo": "https://image.tmdb.org/t/p/w780/qEl4BDBTGnhLiadZx0c9nHM8vBF.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/72434DO73WnoGn4e9kApnRvgiVg.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/5l5X0cKfIlBfMz1pBxBI0VPF4L2.png",
+    "sinopse": "Em 1990, o vendedor de móveis Clark descobre em sua loja um portal para os \"Backrooms\", um labirinto infinito de escritórios surreais. Fascinado, ele convence sua funcionária Kat e o namorado dela a mapearem as anomalias do local. Após o desaparecimento de Clark, sua terapeuta, a Dra. Mary Kline, mergulha na dimensão impossível para resgatá-lo, sendo forçada a confrontar seus próprios traumas enquanto busca uma saída.",
+    "nota": "7.1",
+    "avaliacao": "7.1",
+    "classificacao": "16",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/backrooms-um-nao-lugar.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/72434DO73WnoGn4e9kApnRvgiVg.jpg"
+        }
+      ]
+    }
   }
 ]
