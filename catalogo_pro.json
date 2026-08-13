@@ -57255,5 +57255,28 @@
         }
       ]
     }
+  },
+  {
+    "id": "a-vida-secreta-de-kika",
+    "tipo": "filme",
+    "categoria": "Drama",
+    "saga": "",
+    "titulo": "A Vida Secreta de Kika",
+    "logo": "https://image.tmdb.org/t/p/w780/Acd3fBHhUDs3av8fkQPB8OhaTiG.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/6q3gGVYj36im8OswF80CdsFH6BC.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/e3YZRxmSCz9N9Ax2L7UcZlB2vcO.png",
+    "sinopse": "Cannes 2025: Semana da Crítica. Grávida de sua segunda filha e sem nenhum tostão, Kika precisa se virar. Entre calcinhas usadas, vibradores e fetiches bizarros, ela encontra um jeito improvável de seguir em frente.",
+    "nota": "5.7",
+    "avaliacao": "5.7",
+    "classificacao": "16",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/a-vida-secreta-de-kika.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/6q3gGVYj36im8OswF80CdsFH6BC.jpg"
+        }
+      ]
+    }
   }
 ]
