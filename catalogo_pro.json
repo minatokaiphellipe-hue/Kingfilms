@@ -19777,26 +19777,6 @@
     }
   },
   {
-    "id": "o-telefone-preto",
-    "tipo": "filme",
-    "categoria": "Terror",
-    "titulo": "O Telefone Preto ",
-    "logo": "https://image.tmdb.org/t/p/original/aAdnNifQo2qxDYnuDD3blsxinH1.jpg",
-    "sinopse": "Após ser raptado por um assassino de crianças, Finney Shaw começa a receber chamadas de vítimas anteriores do assassino. Elas estão determinadas a garantir que o que lhes aconteceu não aconteça com Finney.",
-    "avaliacao": "7.5",
-    "classificacao": "16",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "Assistir ",
-          "linkFisico": "v/o-telefone-preto.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/tdPT27ofGFHy4iEDO1SYpwgrNuQ.jpg"
-        }
-      ]
-    },
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/6zKjoOOb3OZnZuiHtQZn4Kd69Gq.jpg"
-  },
-  {
     "id": "o-telefone-preto-2",
     "tipo": "filme",
     "categoria": "Terror",
@@ -57275,6 +57255,29 @@
           "tit": "Assistir",
           "linkFisico": "v/a-vida-secreta-de-kika.html",
           "logoEp": "https://image.tmdb.org/t/p/w1280/6q3gGVYj36im8OswF80CdsFH6BC.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "o-telefone-preto",
+    "tipo": "filme",
+    "categoria": "Terror",
+    "saga": "O Telefone Preto: Coleção",
+    "titulo": "O Telefone Preto",
+    "logo": "https://image.tmdb.org/t/p/w780/aAdnNifQo2qxDYnuDD3blsxinH1.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/tdPT27ofGFHy4iEDO1SYpwgrNuQ.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/1bntEpXFSDKPJKpsgxdT9unNdiA.png",
+    "sinopse": "Após ser raptado por um assassino de crianças, Finney Shaw começa a receber chamadas de vítimas anteriores do assassino. Elas estão determinadas a garantir que o que lhes aconteceu não aconteça com Finney.",
+    "nota": "7.5",
+    "avaliacao": "7.5",
+    "classificacao": "16",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/o-telefone-preto.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/tdPT27ofGFHy4iEDO1SYpwgrNuQ.jpg"
         }
       ]
     }
