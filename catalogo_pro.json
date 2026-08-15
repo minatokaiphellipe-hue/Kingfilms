@@ -20333,27 +20333,6 @@
     }
   },
   {
-    "id": "por-agua-abaixo",
-    "tipo": "filme",
-    "categoria": "Animações",
-    "titulo": "Por Água Abaixo ",
-    "logo": "https://image.tmdb.org/t/p/w780/vS6qEY1QDRVmjjG5MV0v1PU0loX.jpg",
-    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/qv2WaxXTUsShK97kNMDoqxJoab9.jpg",
-    "sinopse": "Roddy St. James, o mimado ratinho de estimação, acha que já chegou lá... até que entra literalmente pelo cano e vai parar num submundo de rãs ninjas, ratos-capangas e lesmas cantoras.",
-    "nota": "6.3",
-    "avaliacao": "6.3",
-    "classificacao": "Livre",
-    "temporadas": {
-      "1": [
-        {
-          "tit": "Assistir ",
-          "linkFisico": "v/por-agua-abaixo.html",
-          "logoEp": "https://image.tmdb.org/t/p/w1280/qv2WaxXTUsShK97kNMDoqxJoab9.jpg"
-        }
-      ]
-    }
-  },
-  {
     "id": "predador-terras-selvagens",
     "tipo": "filme",
     "categoria": "Ação",
@@ -57278,6 +57257,29 @@
           "tit": "Assistir",
           "linkFisico": "v/o-telefone-preto.html",
           "logoEp": "https://image.tmdb.org/t/p/w1280/tdPT27ofGFHy4iEDO1SYpwgrNuQ.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "por-agua-abaixo",
+    "tipo": "filme",
+    "categoria": "Animações",
+    "saga": "",
+    "titulo": "Por Água Abaixo",
+    "logo": "https://image.tmdb.org/t/p/w780/w6ODQ3TOsBtI1gDRYfQ4nucA1Qj.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/qv2WaxXTUsShK97kNMDoqxJoab9.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/9pGJPo9hFetEmII1CH5UIH9gdi1.png",
+    "sinopse": "Roddy St. James, o mimado ratinho de estimação, acha que já chegou lá... até que entra literalmente pelo cano e vai parar num submundo de rãs ninjas, ratos-capangas e lesmas cantoras.",
+    "nota": "6.3",
+    "avaliacao": "6.3",
+    "classificacao": "Livre",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/por-agua-abaixo.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/qv2WaxXTUsShK97kNMDoqxJoab9.jpg"
         }
       ]
     }
