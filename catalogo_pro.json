@@ -57283,5 +57283,51 @@
         }
       ]
     }
+  },
+  {
+    "id": "bata-antes-de-entrar",
+    "tipo": "filme",
+    "categoria": "Drama",
+    "saga": "",
+    "titulo": "Bata Antes de Entrar",
+    "logo": "https://image.tmdb.org/t/p/w780/3XOVtqDFRVtR2y8gUh2e6EKkQYR.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/iRsoZaurDXYqi2Uoq7AOa7kpXEr.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/12xwrbMUpjgCdl6XdrG9QOSymVX.png",
+    "sinopse": "Em uma noite chuvosa, duas belas mulheres batem à porta de Evan Webber (Keanu Reeves). Ele está sozinho em casa, já que a esposa e filho estão viajando. Não demora muito para que ambas o seduzam, tendo uma noite de amor com ele. Só que, no dia seguinte, elas passam a persegui-lo implacavelmente.",
+    "nota": "5.4",
+    "avaliacao": "5.4",
+    "classificacao": "16",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/bata-antes-de-entrar.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/iRsoZaurDXYqi2Uoq7AOa7kpXEr.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "santuario",
+    "tipo": "filme",
+    "categoria": "Comédia",
+    "saga": "",
+    "titulo": "Santuário",
+    "logo": "https://image.tmdb.org/t/p/w780/xddEqLiRzXrEj2wP56nvpzdTlyn.jpg",
+    "logo_horizontal": "https://image.tmdb.org/t/p/w1280/d5knv1lzhSsuwEqSXHyTGwNHHsy.jpg",
+    "logo_png": "https://image.tmdb.org/t/p/w500/q4HHbZSkrlSyIlpsLnQNHLdGkIx.png",
+    "sinopse": "Confinado em quarto de hotel claustrofóbico, o herdeiro de um império hoteleiro, Hal, e sua dominatrix, que o preparou para o sucesso, ficam presos em uma batalha de inteligência e vontade, enquanto ele tenta terminar seu relacionamento com ela.",
+    "nota": "6.1",
+    "avaliacao": "6.1",
+    "classificacao": "18",
+    "temporadas": {
+      "1": [
+        {
+          "tit": "Assistir",
+          "linkFisico": "v/santuario.html",
+          "logoEp": "https://image.tmdb.org/t/p/w1280/d5knv1lzhSsuwEqSXHyTGwNHHsy.jpg"
+        }
+      ]
+    }
   }
 ]
